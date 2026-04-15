@@ -1,3 +1,7 @@
+VERBOTEN MEDIA is the central node.
+Everything else is a module.
+Nothing needs to be finished.
+
 # VERBOTEN MEDIA
 
 Production-ready static website for [VERBOTEN MEDIA](https://verbotenmedia.se) — an independent cultural platform working across literature, media, artistic research, and inquiry into contemporary digital life.
