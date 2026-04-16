@@ -52,33 +52,6 @@ There's no ironic distance
 - the surrealism is structural
 - and the independence is material, not zizekeian-ideological (How could it?).
 
-GENRE & AESTHETIC FRAMEWORK
-Genre: Svensk funkonaturalism — a self-coined genre designation. Not magic realism, not postmodernism — a uniquely Swedish synthesis where funk (as in groove, body, irreverence) meets naturalism (as in unflinching observation of actual conditions).
-Structural model: 
-- "Vulkanen" (the volcano) 
-- the novel's architecture is layered in geological zones
-- - from sleep/web at the base
-  - to ocean at the surface,
-  - with eruption points
-  - where narrative layers breach each other.
-
-LITERARY LINEAGE / EPIGRAPHS FROM
-- Emil Cioran — Romanian-French nihilist philosopher.
-- Håkan Hellström — Swedish rock poet
-- William S. Burroughs — American beat/cut-up pioneer
-This triangulation tells you everything: existential despair + pop-romantic Swedish melancholy + hallucinatory structural experimentation.
-
-VISUAL AESTHETIC
-Skull imagery (animated GIF on current site), 
-harsh-flash/Tumblr-era photography sensibility, 
-cinematic and subcultural. 
-Thrifted, layered fashion aesthetics. 
-Black-and-white with occasional violent color. 
-The website should feel like... 
-... finding a zine in a basement 
-... immediate, unpolished in surface but precise in intent.
-
-
 #### FÖRLAGSDECKAREN - A NOVEL OF ALWAYS INTERUPTED ISOLATION
 Full project page. 
 Parts, characters, 
