@@ -1,19 +1,24 @@
-This is a module.
-It does not need to be finished.
-It only needs to exist.
+Verboten Media is not a book that happens to have files — it is a file system that happens to be a book. 
+The deployment should reflect this:
+The architecture of the site IS the architecture of the work.
 
 # 00System
 Du är inte ensam här. 
-Hav förtröstan och behandla som du vill bli. 
+Behandla som du vill bli. 
 
 ## 01Medieteori 
-Behandla materialet-informationen som du skulle behandla en gräsmassa i en publik park. 
+Förhåll dig till materialet-informationen som du skulle förhållad ig till en gräsmatta i en publik park. 
+Som du skulle behandla havet om du var ett transnationellt kabelföretag.
+Som du skulle inreda ett rum för att passa den interaktiva teknikens aktivering. 
+Interaktivitet med gränssnitt är lite som socialt utbyte med andra agenter.
 Bre ut en filt och ha en picknick, strö fågelfrön i rabatten med en handgest, hälsa glatt på den som förvaltar, plantera en blomma när ingen ser, plocka upp efter hunden när ingen ser. 
-På kvällen kommer ungdomarna och härjar, det är ingen vacker syn, otryggheten sprider sig som ymnigt regn över glaciärer. 
+Som du skulle behandla havet om du var en kinesisk statsbolagsafilial.
+Just där de japanska diplomaterna ska ut på kvällspromenad, för hälsans skull.
+På kvällen när ungdomarna härjar, tar över atmosfären, det är ingen vacker syn, hur ungdomen förslösas på de unga, otryggheten sprider sig som ymnigt regn över glaciärer som binder samman kontinenter. 
 På dagarna kan du vandra runt i parken i sällskap och föra samtal, samla intryck, vila från allt annat.  
 
 ### 02Design
-Här lär sig maskiner att läsa intentionsenligt och uppbyggligt. Var sak på sin plats! Just nu kan du och din maskin rendera på ett sätt, i morgon ett annat. En bok är en produkt likamycket som en skärmsläckare. Att ha en skärmsläckare är inte en identitet. Verboten Media är en identitet som som släcker din skärm och tänder gränssnitt utefter behov. 
+Här lär sig maskiner att läsa intentionsenligt och uppbyggligt. Var sak på sin plats! Just nu kan du och din maskin rendera på ett sätt, i morgon ett annat. En bok är en produkt = likamycket = som en skärmsläckare. Att ha en skärmsläckare är inte en identitet. Verboten Media är en identitet som som släcker din skärm och tänder gränssnitt utefter behov. 
 
 #### 03Djupkultur... 
 ... är ingenting överblickbart, men häromkring finns en uppsättning ändpunkter med generativ autonomi och säkerställd transmission gentemot nordiska raster av globohomo economicus weather systems.  
@@ -88,14 +93,14 @@ Ramverk kring utbytbara okränkbarheter saknas för fantfiktioner.
 
 Denna modul relaterar till den kanoniska karaktären Dawkin Danielson. 
 Dawkins mentala modus kan man ta för givet är en folksjuka vid detta laget (25 år in i det tredje millenniet).
-Dawkins mentala modus relaterar till många epistemologiska och ontologiska ändpunkter. 
-Epistemologiska och ontologiska ändpunkter är kritiska att koppla upp sig till vid produktion av sanslös, extremsubjektiv surrealism. 
 
 # Psychosis
+Dawkins mentala modus relaterar till många epistemologiska och ontologiska ändpunkter. 
 Psychosis is not a theme but a structural condition.
 It surfaces in keyword hits across method documents, chapter files, and the synopsis alike.
 
 ## Digital psychosis 
+Epistemologiska och ontologiska ändpunkter är kritiska att koppla upp sig till vid produktion av sanslös, extremsubjektiv surrealism. 
 Suggestively, it operates at the level of worldview rather than plot incident.
 
 ### Solipsistic decay
@@ -164,31 +169,51 @@ a formulation that implies:
 Orbiting the central novel are several satellite works: 
 
 # Satellite Works
-"lost tapes 27" (modified as recently as March 2026, suggesting active development), "Fågelskrämman" (The Scarecrow), "Hypnos 1" (two versions, late 2025), and the early legacy file "R.I.P.24" from 2010 — possibly the oldest surviving artifact of whatever impulse eventually became Verboten Media. 
+- "lost tapes 27" (modified as recently as March 2026, suggesting active development), 
+- "Fågelskrämman" (The Scarecrow),
+- "Hypnos 1" (two versions, late 2025), and the early legacy file
+- "R.I.P.24" from 2010 — possibly the oldest surviving artifact of whatever impulse eventually became Verboten Media understood as a postdualistic dividuality hub for cross-domain agentic intertwination. 
 
 ## Subsequence 
-These works may be spin-offs, études, or parallel investigations; they share keyword DNA with the main corpus but appear to maintain independent textual identities.
+These Satellite Works may be spin-offs, études, or parallel investigations; they share keyword DNA with the main corpus but appear to maintain independent textual identities.
 
 ### Scratchpad
-
+The Google Keep document deserves special mention. It appears in keyword hits for every search term tested. It functions as the project's central nervous system: a scratchpad, an idea hub, a cross-referencing engine. It is the informal twin of the [REDACTED] — where the [REDACTED] is the canonical text, the Keep document is the canonical thought-space. 
 
 #### Honorable mentions...
-... and remarks. 
+... "De långa skuggornas natt".
+... "Vi har aldrig haft Paris".
+... "Bob Dylan by Janne Lompolo & Flempo Guyenjaure"
+... Samedubblingen - en släktkrönika och bolagsstämma. 
 
 ---
 
-This is a module.
+Verboten Media is a sixteen-year creative project (2010–2026) operating simultaneously as novel, theory, archive, and publishing imprint. 
 It does not need to be finished.
 It only needs to exist.
 
-# Module
+# Multinodal dimensionality
+Its file system is not incidental to the work.
+It is the work's skeleton. 
 
-## Subsequence 
+## Platform agnosticism 
+Any deployment platform must preserve this nature of at least dual core.
 
-### Existing as needed
+### Verboten Media Valkyrie
+The corpus is both the raw material and the architectural drawing. 
 
-#### Granular definitions...
-... and remarks. 
+#### Corpus Map...
+... is deployed in it's designated division-folder.  
+... is devided into deployments sucha s
+- Core VM
+- Novel Chapters
+- Analogue Master
+- Method / Theory
+- Strategy / Editorial
+- Satellite / Spin-Offs Works
+- Reference / Hub Docs
+- Poetry / Pool
+- Articles / Directives
 
 ---
 
