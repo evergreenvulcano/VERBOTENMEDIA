@@ -41,6 +41,9 @@
 
   --transition: 200ms ease;
   --transition-slow: 600ms ease;
+  --brand-mark: url('../assets/v_precise.svg');
+  --brand-divider: url('../assets/divider-single.svg');
+  --brand-aura: url('../assets/v_clean.png');
 }
 
 /* --- Reset ------------------------------------------------ */
@@ -171,6 +174,21 @@ em     { font-style: italic; }
   text-transform: uppercase;
   white-space: nowrap;
   flex-shrink: 0;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.55rem;
+}
+
+.nav-wordmark::before {
+  content: "";
+  width: 0.88rem;
+  height: 0.88rem;
+  background-image: var(--brand-mark);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  opacity: 0.72;
+  filter: brightness(1.16);
 }
 
 .nav-wordmark a:hover {
@@ -283,6 +301,25 @@ em     { font-style: italic; }
   display: grid;
   grid-template-rows: 1fr auto;
   padding-top: var(--nav-height);
+  position: relative;
+  isolation: isolate;
+}
+
+.landing::before {
+  content: "";
+  position: absolute;
+  top: max(5rem, 12vh);
+  right: max(1.75rem, 5vw);
+  width: clamp(190px, 26vw, 360px);
+  aspect-ratio: 1 / 1;
+  background-image: var(--brand-aura);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  opacity: 0.095;
+  mix-blend-mode: screen;
+  pointer-events: none;
+  z-index: -1;
 }
 
 .landing-center {
@@ -382,6 +419,22 @@ em     { font-style: italic; }
   padding: var(--space-xl) 0 var(--space-lg);
   border-bottom: 1px solid var(--border);
   margin-bottom: var(--space-xl);
+  position: relative;
+}
+
+.page-header::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -1px;
+  width: 88px;
+  height: 16px;
+  background-image: var(--brand-divider);
+  background-repeat: no-repeat;
+  background-size: contain;
+  opacity: 0.42;
+  filter: invert(1) brightness(1.26);
+  pointer-events: none;
 }
 
 .page-header .label {
@@ -1116,6 +1169,22 @@ em     { font-style: italic; }
   align-items: center;
   flex-wrap: wrap;
   gap: var(--space-sm);
+  position: relative;
+}
+
+.site-footer::before {
+  content: "";
+  position: absolute;
+  left: var(--space-md);
+  top: -1px;
+  width: 70px;
+  height: 13px;
+  background-image: var(--brand-divider);
+  background-repeat: no-repeat;
+  background-size: contain;
+  opacity: 0.34;
+  filter: invert(1) brightness(1.18);
+  pointer-events: none;
 }
 
 .site-footer .label {
@@ -1303,5 +1372,12 @@ em     { font-style: italic; }
 
   .contact-email {
     font-size: var(--size-2xl);
+  }
+
+  .landing::before {
+    top: 6rem;
+    right: 1rem;
+    width: 170px;
+    opacity: 0.08;
   }
 }
