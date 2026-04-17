@@ -102,6 +102,81 @@
           .replace(/'/g, '&#39;');
       }
 
+      function decodeEscapedText(input) {
+        var text = document.createElement('textarea');
+        text.innerHTML = String(input || '');
+        return text.value;
+      }
+
+      function normalizeSegments(path) {
+        var invalid = false;
+        var stack = [];
+        String(path || '').replace(/\\/g, '/').split('/').forEach(function (seg) {
+          if (!seg || seg === '.') return;
+          if (seg === '..') {
+            if (!stack.length) {
+              invalid = true;
+              return;
+            }
+            stack.pop();
+            return;
+          }
+          stack.push(seg);
+        });
+        if (invalid) return '';
+        return stack.join('/');
+      }
+
+      function resolveRepoPath(rawPath) {
+        var path = String(rawPath || '').trim();
+        if (!path) return '';
+        if (path.startsWith('/')) return normalizeSegments(path);
+
+        var baseDir = '';
+        if (mdPath.indexOf('/') !== -1) {
+          baseDir = mdPath.slice(0, mdPath.lastIndexOf('/') + 1);
+        }
+        return normalizeSegments(baseDir + path);
+      }
+
+      function isSafeUrl(url) {
+        var value = String(url || '').trim();
+        if (!value) return false;
+        var compact = value.replace(/[\u0000-\u001F\u007F\s]+/g, '').toLowerCase();
+        if (/^(javascript|data|vbscript):/.test(compact)) return false;
+        if (value.startsWith('#')) return true;
+        if (value.startsWith('//')) return false;
+        if (/^(https?:|mailto:|tel:)/i.test(value)) return true;
+        if (/^[a-zA-Z][a-zA-Z0-9+.-]*:/.test(value)) return false;
+        return true;
+      }
+
+      function splitUrlParts(url) {
+        var value = String(url || '');
+        var idx = value.search(/[?#]/);
+        if (idx === -1) return { path: value, suffix: '' };
+        return {
+          path: value.slice(0, idx),
+          suffix: value.slice(idx),
+        };
+      }
+
+      function resolveMarkdownUrl(rawUrl) {
+        var value = String(rawUrl || '').trim();
+        if (!isSafeUrl(value)) return '';
+        if (
+          value.startsWith('#') ||
+          /^(https?:|mailto:|tel:)/i.test(value)
+        ) {
+          return value;
+        }
+
+        var parts = splitUrlParts(value);
+        var resolvedPath = resolveRepoPath(parts.path);
+        if (!resolvedPath) return '';
+        return resolvedPath + parts.suffix;
+      }
+
       function parseFrontmatter(text) {
         var meta = {};
         var match = text.match(/^---\s*\n([\s\S]*?)\n---\s*(?:\n|$)/);
@@ -125,6 +200,28 @@
       function parseInline(text) {
         return escapeHtml(text)
           .replace(/`([^`]+)`/g, '<code>$1</code>')
+          .replace(/!\[([^\]]*)\]\(((?:\\.|[^)])+)\)/g, function (_, alt, rawUrl) {
+            var textAlt = decodeEscapedText(alt);
+            var safeUrl = resolveMarkdownUrl(decodeEscapedText(rawUrl));
+            if (!safeUrl) return '![' + escapeHtml(textAlt) + '](' + escapeHtml(rawUrl) + ')';
+            return '<img src="' + escapeHtml(safeUrl) + '" alt="' + escapeHtml(textAlt) + '" loading="lazy">';
+          })
+          .replace(/\[([^\]]*)\]\(((?:\\.|[^)])+)\)/g, function (_, label, rawUrl) {
+            var safeUrl = resolveMarkdownUrl(decodeEscapedText(rawUrl));
+            var textLabel = decodeEscapedText(label);
+            if (!safeUrl) return '[' + escapeHtml(textLabel) + '](' + escapeHtml(rawUrl) + ')';
+
+            var href = safeUrl;
+            var hrefParts = splitUrlParts(href);
+            var normalizedHrefPath = normalizePath(hrefParts.path);
+            if (normalizedHrefPath.endsWith('.md') && isAllowedPath(normalizedHrefPath)) {
+              href = 'page.html?path=' + encodeURIComponent(normalizedHrefPath) + hrefParts.suffix;
+            }
+
+            var isExternal = /^https?:\/\//i.test(href);
+            var attrs = isExternal ? ' target="_blank" rel="noopener noreferrer"' : '';
+            return '<a href="' + escapeHtml(href) + '"' + attrs + '>' + escapeHtml(textLabel) + '</a>';
+          })
           .replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>')
           .replace(/\*([^*]+)\*/g, '<em>$1</em>');
       }
