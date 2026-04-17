@@ -1295,6 +1295,30 @@ em     { font-style: italic; }
   padding: var(--space-xl) var(--space-md) var(--space-2xl);
 }
 
+.page-markdown .article-body {
+  position: relative;
+  isolation: isolate;
+}
+
+.page-markdown .article-body::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-image: url('../assets/skalle.gif');
+  background-repeat: no-repeat;
+  background-size: clamp(220px, 36vw, 420px);
+  background-position: right 8% top 1.25rem;
+  opacity: 0.03;
+  mix-blend-mode: screen;
+  pointer-events: none;
+  z-index: 0;
+}
+
+.page-markdown .article-body > * {
+  position: relative;
+  z-index: 1;
+}
+
 .article-body p {
   font-size: var(--size-md);
   line-height: 1.75;
