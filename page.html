@@ -104,11 +104,11 @@
 
       function decodeEscapedText(input) {
         return String(input || '')
-          .replace(/&amp;/g, '&')
           .replace(/&quot;/g, '"')
           .replace(/&#39;/g, '\'')
           .replace(/&lt;/g, '<')
-          .replace(/&gt;/g, '>');
+          .replace(/&gt;/g, '>')
+          .replace(/&amp;/g, '&');
       }
 
       function normalizeSegments(path) {
@@ -203,13 +203,13 @@
           .replace(/`([^`]+)`/g, '<code>$1</code>')
           .replace(/!\[([^\]]*)\]\(([^)\s]+)\)/g, function (_, alt, rawUrl) {
             var safeUrl = resolveMarkdownUrl(decodeEscapedText(rawUrl));
-            if (!safeUrl) return '![' + alt + '](' + rawUrl + ')';
+            if (!safeUrl) return '![' + alt + '](' + escapeHtml(rawUrl) + ')';
             return '<img src="' + escapeHtml(safeUrl) + '" alt="' + escapeHtml(decodeEscapedText(alt)) + '" loading="lazy">';
           })
           .replace(/\[([^\]]+)\]\(([^)\s]+)\)/g, function (_, label, rawUrl) {
             var safeUrl = resolveMarkdownUrl(decodeEscapedText(rawUrl));
             var textLabel = decodeEscapedText(label);
-            if (!safeUrl) return '[' + label + '](' + rawUrl + ')';
+            if (!safeUrl) return '[' + label + '](' + escapeHtml(rawUrl) + ')';
 
             var href = safeUrl;
             var hrefParts = splitUrlParts(href);
