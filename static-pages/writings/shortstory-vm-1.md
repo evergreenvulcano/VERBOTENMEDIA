@@ -1,114 +1,193 @@
 ---
 title: Shortstory VM 1
-summary: Template-facing content page for a more designed Swedish novel publication surface, including expected image formats, layout logic, and pressure-bearing content blocks.
+summary: Slot-based template for a more designed Swedish novel publication surface, with exact image roles, ratios, and content expectations.
 date: 2026
 ---
 
 # Shortstory VM 1
 
-This page is a working content surface for a future **high-impression publication page**.
+This file is the **content and image template** for a future high-impression Swedish novel publication page.
 
-It is not meant to behave like an ordinary essay or archive page.
-It is meant to support a more cinematic, more designed, more visually charged presentation for Swedish novel publications.
+It is not a normal article page.
+It is a page type for publications that need stronger atmosphere, more visual staging, and a more cinematic first encounter.
 
-## What this page is for
+## How to use this file
 
-Use this file when a publication needs:
-- stronger visual atmosphere
-- more typographic drama
-- a staged sense of encounter rather than plain reading flow
-- image logic that carries mood before explanation
-- a cleaner handoff between editorial content and visual design
+Fill this file with:
+- one atmosphere line
+- one pressure paragraph
+- one primary excerpt
+- one side fragment
+- minimal edition facts
+- image assets that fit the exact slots below
 
-The actual designed page can later pull from this structure without needing to guess the intended hierarchy.
+The future designed page should read this file as a content contract.
 
-## Recommended page rhythm
+---
 
-The designed publication page should be built in this order:
+## Page sequence
 
-1. **Hero / cover stage**
-2. **One-sentence atmosphere statement**
-3. **Conflict or pressure field**
-4. **Primary excerpt**
-5. **Supporting image sequence**
-6. **Edition / metadata / CTA**
+The page should unfold in this order:
 
-That order matters.
+1. Hero image / cover stage
+2. Atmosphere line
+3. Pressure field
+4. Primary excerpt
+5. Supporting image sequence
+6. Edition facts / CTA
+
 The reader should first feel the book, then orient, then read.
 
-## Expected image system
+---
 
-### Image 1 — Hero image / cover zone
-**Purpose:** Establish temperature immediately.  
-**Preferred ratio:** vertical, between 4:5 and 2:3.  
-**Use:** cover art, artwork, photographic motif, or title-bearing image.
+## Exact image template
 
-This is the most important image on the page.
-It should carry the first emotional and formal claim of the publication.
+The template expects **three required images** and **one optional image**.
 
-### Image 2 — Supporting atmosphere image
-**Purpose:** Expand the world around the book.  
-**Preferred ratio:** landscape, between 16:9 and 3:2.  
-**Use:** environment, architectural detail, landscape, room, street, symbolic object.
+## Slot A — Hero / cover image
+**Required:** yes  
+**Role:** first emotional claim  
+**Ratio:** 4:5 preferred, 2:3 acceptable  
+**Suggested minimum:** 2000 px wide  
+**Orientation:** vertical
 
-This image should not repeat the cover.
-It should widen the weather of the work.
+### What this image should do
+- establish the page's temperature immediately
+- function as the visual equivalent of the title
+- carry mood before explanation
 
-### Image 3 — Detail / pressure image
-**Purpose:** Introduce a more intimate, strange, or texturally charged note.  
-**Preferred ratio:** square or nearly square.  
-**Use:** close-up, texture, fragment, hand, paper, surface, ritual object, image with partial obscurity.
+### What kind of image belongs here
+- cover artwork
+- strong photographic motif
+- typographic cover composition
+- a single charged scene or object
 
-This image should feel sharper or more dangerous than the first two.
+### Avoid here
+- busy collage logic
+- multiple competing focal points
+- generic promo mockups
+- cheerful commercial energy
 
-### Optional Image 4 — Process or archival insert
-**Purpose:** Show the work as object, not just atmosphere.  
-**Preferred ratio:** flexible.  
-**Use:** manuscript page, marked proof, notebook, source fragment, publication object, layout proof.
+---
 
-Only use this if it adds pressure.
-Do not add it merely because another image slot exists.
+## Slot B — Atmosphere image
+**Required:** yes  
+**Role:** widen the book's world  
+**Ratio:** 16:9 preferred, 3:2 acceptable  
+**Suggested minimum:** 2200 px wide  
+**Orientation:** landscape
 
-## General image guidance
+### What this image should do
+- expand the weather around the book
+- show environment, architecture, landscape, room, street, or symbolic space
+- create a second chamber after the hero image
 
-Images for this page type should feel:
+### What kind of image belongs here
+- exterior location
+- room or corridor
+- natural setting
+- city fragment
+- spatial detail with narrative implication
+
+### Avoid here
+- repeating the same visual logic as Slot A
+- making it purely descriptive
+- using it as filler scenery
+
+---
+
+## Slot C — Detail / pressure image
+**Required:** yes  
+**Role:** sharpen intimacy or danger  
+**Ratio:** 1:1 preferred, 4:5 acceptable  
+**Suggested minimum:** 1600 px wide  
+**Orientation:** square or near-square
+
+### What this image should do
+- tighten the page inward
+- introduce texture, pressure, or strangeness
+- feel more intimate or more dangerous than the first two images
+
+### What kind of image belongs here
+- close-up of a hand, paper, object, fabric, wall, wound-mark, ritual detail, texture, partial face, cropped gesture
+
+### Avoid here
+- explanatory documentary clarity
+- over-lit product-photo feeling
+- decorative abstraction with no pressure
+
+---
+
+## Slot D — Process / archival insert
+**Required:** optional  
+**Role:** show the work as object  
+**Ratio:** flexible, 4:3 or 3:2 preferred  
+**Suggested minimum:** 1600 px wide
+
+### What this image should do
+- show manuscript, proof, notebook, page detail, source fragment, publication object, or working trace
+- make the book feel made, not merely announced
+
+### Only use this slot when
+- the process object adds pressure
+- the archival image deepens the publication surface
+- the page benefits from one object-level interruption
+
+### Do not use this slot when
+- it is merely “nice to have”
+- it weakens the page’s concentration
+
+---
+
+## Global image rules
+
+All images for this page type should feel:
 - Nordic
 - tactile
-- nocturnal or late-light when relevant
+- exact
+- late-light, nocturnal, winter-clear, or otherwise load-bearing in atmosphere
 - restrained but not flat
-- exact rather than decorative
-- atmospheric without becoming vague
+- cinematic without becoming movie-poster cliché
 
-Avoid:
-- generic mockup feeling
-- cheerful commercial polish
-- overfilled collages
-- arbitrary stock imagery
-- too many images competing at once
+All images for this page type should avoid:
+- stock-photo energy
+- cheerful marketing polish
+- random collage abundance
+- overexposure and washed-out softness
+- multiple image styles fighting each other
+
+## Text overlay rule
+
+Do **not** bake body text into the images.
+
+Only the hero image may carry title-level typographic treatment if the design needs it.
+All other text should remain live HTML/CSS later.
+
+---
 
 ## Text blocks expected
 
-### 1. Atmosphere line
-One short statement that describes the emotional or structural climate of the novel.
+## 1. Atmosphere line
+One short line describing the emotional or structural climate of the novel.
 Not summary. Temperature.
 
 Example:
 
 > A domestic system under ceremonial pressure.
 
-### 2. Pressure field
-One short paragraph naming the active conflict or live contradiction.
+## 2. Pressure field
+One short paragraph naming the active contradiction or governing pressure.
 Not back-cover copy. Internal weather.
 
-### 3. Primary excerpt
+## 3. Primary excerpt
 One strong excerpt long enough to let the language work.
 Prefer one passage over many short ones.
 
-### 4. Side fragment
-A shorter line or fragment that can sit in tension with the main excerpt.
-This should feel like a secondary chamber, not a caption.
+## 4. Side fragment
+A shorter line that sits in tension with the primary excerpt.
+This should behave like a secondary chamber, not a caption.
 
-### 5. Edition / object facts
+## 5. Edition facts
 Only the essential facts:
 - title
 - author
@@ -118,45 +197,49 @@ Only the essential facts:
 
 Do not let metadata dominate the page.
 
+---
+
 ## Design expectations for the future specialized page
 
-The more designed publication page should:
+The future designed page should:
 - inherit the Verboten black-field seriousness
-- allow larger titles
-- use image-pressure before summary logic
+- use larger title architecture than the ordinary writing page
+- let image-pressure arrive before summary logic
 - keep one accent color at most
-- let serif typography carry weight
+- use serif typography as the main emotional carrier
 - preserve negative space
-- resist feed-like scrolling logic
+- resist feed-like scrolling and product-page behavior
 
-This page type should feel **selective**.
-Not like a product landing page.
-Not like a simple article page.
-Not like a repository entry.
+This page type should feel selective.
+Not like a generic article.
+Not like a simple repository entry.
+Not like an e-commerce landing page.
 
-## What this file should become later
+---
 
-Later, this page can serve as:
-- a source file for a dedicated HTML publication surface
-- a design brief for image treatment
-- a repeatable format for future novel launches
-- a staging page while the richer page type is still under refinement
-
-## Minimal reusable checklist
+## Minimal delivery checklist
 
 Before a publication is dropped into this format, make sure it has:
-
-- one hero image
-- one supporting atmosphere image
-- one detail image
-- one atmosphere line
-- one pressure paragraph
-- one primary excerpt
+- Slot A image
+- Slot B image
+- Slot C image
+- atmosphere line
+- pressure paragraph
+- primary excerpt
+- side fragment
 - minimal edition facts
 
-If those exist, the page can be built cleanly.
+Optional:
+- Slot D image
+
+If those exist, the designed page can be built cleanly.
+
+---
 
 ## Closing note
 
-This is not the finished designed page.
-This is the **content skeleton** that allows the future designed page to become repeatable without becoming generic.
+This file is not asking you to invent the image grammar.
+It **defines** the image grammar the future designed page expects.
+
+Your job is to provide images that fit the slots.
+The page logic comes later.
