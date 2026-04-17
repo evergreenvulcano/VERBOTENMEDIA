@@ -135,6 +135,11 @@
     cards.forEach(function (card) {
       var path = card.dataset.mdPath;
       if (!path) return;
+      var href = 'page.html?path=' + encodeURIComponent(path);
+
+      card.querySelectorAll('a[href="#"]').forEach(function (link) {
+        link.setAttribute('href', href);
+      });
 
       card.classList.add('md-link-card');
       card.setAttribute('tabindex', '0');
