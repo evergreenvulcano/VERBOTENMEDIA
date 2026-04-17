@@ -1,0 +1,418 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="VERBOTEN MEDIA — template for a high-impression Swedish novel publication page.">
+  <title>VERBOTEN MEDIA — Novel Impression Template</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant:ital,wght@0,300;0,400;0,600;1,300;1,400&family=Inter:wght@300;400;500&family=IBM+Plex+Mono:wght@300;400&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #050505;
+      --bg-soft: #0d0d0d;
+      --panel: #121212;
+      --fg: #f3efe7;
+      --fg-dim: #b7afa2;
+      --line: rgba(243, 239, 231, 0.12);
+      --accent: #e6a3b5;
+      --accent-2: #c9b18b;
+      --max: 1440px;
+      --pad: clamp(1.2rem, 2vw, 2rem);
+    }
+
+    * { box-sizing: border-box; }
+    html, body { margin: 0; padding: 0; background: var(--bg); color: var(--fg); }
+    body { font-family: "Inter", sans-serif; line-height: 1.45; }
+    a { color: inherit; text-decoration: none; }
+    img { max-width: 100%; display: block; }
+
+    .site-nav {
+      position: sticky;
+      top: 0;
+      z-index: 20;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 1rem var(--pad);
+      border-bottom: 1px solid var(--line);
+      backdrop-filter: blur(18px);
+      background: rgba(5, 5, 5, 0.76);
+    }
+
+    .nav-wordmark a,
+    .mono { font-family: "IBM Plex Mono", monospace; font-size: 0.78rem; letter-spacing: 0.12em; text-transform: uppercase; }
+
+    .nav-links { display: flex; gap: 1.2rem; list-style: none; margin: 0; padding: 0; font-size: 0.9rem; color: var(--fg-dim); }
+
+    .page {
+      width: min(100%, var(--max));
+      margin: 0 auto;
+      padding: 0 var(--pad) 6rem;
+    }
+
+    .hero {
+      min-height: 94vh;
+      display: grid;
+      grid-template-columns: 1.1fr 0.9fr;
+      gap: 2rem;
+      align-items: end;
+      padding: 5rem 0 4rem;
+      border-bottom: 1px solid var(--line);
+    }
+
+    .eyebrow { color: var(--accent); margin-bottom: 1rem; }
+
+    .hero h1 {
+      margin: 0;
+      font-family: "Cormorant", serif;
+      font-size: clamp(4rem, 10vw, 9rem);
+      line-height: 0.9;
+      font-weight: 400;
+      letter-spacing: -0.03em;
+      max-width: 10ch;
+    }
+
+    .hero-sub {
+      max-width: 38rem;
+      margin-top: 1.25rem;
+      font-size: clamp(1rem, 1.6vw, 1.2rem);
+      color: var(--fg-dim);
+    }
+
+    .hero-meta {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 0.75rem;
+      margin-top: 2rem;
+      max-width: 42rem;
+    }
+
+    .hero-meta .cell,
+    .info-card,
+    .quote-panel,
+    .excerpt,
+    .impression-block,
+    .cta-band {
+      border: 1px solid var(--line);
+      background: linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0));
+    }
+
+    .hero-meta .cell { padding: 0.8rem 1rem; }
+    .hero-meta .cell strong { display: block; margin-top: 0.35rem; font-weight: 500; color: var(--fg); }
+
+    .cover-stage {
+      position: relative;
+      min-height: 72vh;
+      display: grid;
+      place-items: center;
+      overflow: hidden;
+      border: 1px solid var(--line);
+      background:
+        radial-gradient(circle at 20% 20%, rgba(230,163,181,0.18), transparent 30%),
+        radial-gradient(circle at 80% 70%, rgba(201,177,139,0.15), transparent 35%),
+        linear-gradient(145deg, #0b0b0b, #151515 55%, #090909);
+    }
+
+    .cover-stage::before,
+    .cover-stage::after {
+      content: "";
+      position: absolute;
+      inset: auto;
+      border-radius: 999px;
+      filter: blur(30px);
+      opacity: 0.8;
+    }
+
+    .cover-stage::before {
+      width: 18rem;
+      height: 18rem;
+      background: rgba(230,163,181,0.18);
+      top: 10%;
+      right: 8%;
+    }
+
+    .cover-stage::after {
+      width: 22rem;
+      height: 22rem;
+      background: rgba(201,177,139,0.12);
+      bottom: 4%;
+      left: 8%;
+    }
+
+    .book-mock {
+      position: relative;
+      width: min(28rem, 70%);
+      aspect-ratio: 0.72;
+      padding: 2rem;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      background: linear-gradient(180deg, rgba(255,255,255,0.08), rgba(255,255,255,0.02));
+      border: 1px solid rgba(243,239,231,0.2);
+      box-shadow: 0 30px 100px rgba(0,0,0,0.5);
+      backdrop-filter: blur(8px);
+    }
+
+    .book-mock .book-title {
+      font-family: "Cormorant", serif;
+      font-size: clamp(2rem, 4vw, 4rem);
+      line-height: 0.95;
+      max-width: 8ch;
+    }
+
+    .book-mock .book-author { color: var(--fg-dim); }
+
+    .section {
+      display: grid;
+      grid-template-columns: 0.35fr 1fr;
+      gap: 2rem;
+      padding: 4rem 0;
+      border-bottom: 1px solid var(--line);
+    }
+
+    .section-title {
+      font-family: "Cormorant", serif;
+      font-size: clamp(2rem, 3vw, 3.4rem);
+      line-height: 0.95;
+      margin: 0;
+    }
+
+    .section-kicker { color: var(--fg-dim); max-width: 18rem; }
+
+    .stack { display: grid; gap: 1rem; }
+
+    .quote-panel,
+    .excerpt,
+    .impression-block,
+    .info-card { padding: 1.25rem; }
+
+    .quote-panel blockquote,
+    .excerpt blockquote {
+      margin: 0;
+      font-family: "Cormorant", serif;
+      font-size: clamp(1.6rem, 2.8vw, 2.5rem);
+      line-height: 1.02;
+    }
+
+    .quote-panel p,
+    .excerpt p,
+    .info-card p,
+    .impression-block p { color: var(--fg-dim); }
+
+    .triptych {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 1rem;
+    }
+
+    .impression-block {
+      min-height: 18rem;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+    }
+
+    .impression-block h3,
+    .info-card h3 {
+      margin: 0 0 0.6rem;
+      font-family: "Cormorant", serif;
+      font-size: 1.6rem;
+      font-weight: 400;
+    }
+
+    .excerpt-grid {
+      display: grid;
+      grid-template-columns: 1.1fr 0.9fr;
+      gap: 1rem;
+    }
+
+    .cta-band {
+      margin-top: 4rem;
+      padding: 1.4rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 1.25rem;
+    }
+
+    .cta-band .cta-text {
+      font-family: "Cormorant", serif;
+      font-size: clamp(1.6rem, 2.4vw, 2.2rem);
+      line-height: 1;
+    }
+
+    .cta-band .cta-link {
+      padding: 0.9rem 1.1rem;
+      border: 1px solid var(--line);
+      background: rgba(230,163,181,0.08);
+    }
+
+    .footer-note {
+      padding-top: 2rem;
+      color: var(--fg-dim);
+      font-size: 0.9rem;
+    }
+
+    @media (max-width: 980px) {
+      .hero,
+      .section,
+      .excerpt-grid,
+      .triptych {
+        grid-template-columns: 1fr;
+      }
+
+      .hero { min-height: auto; padding-top: 3rem; }
+      .cover-stage { min-height: 30rem; }
+      .hero-meta { grid-template-columns: 1fr; }
+      .nav-links { display: none; }
+      .cta-band { flex-direction: column; align-items: flex-start; }
+    }
+  </style>
+</head>
+<body>
+  <nav class="site-nav" role="navigation" aria-label="Main navigation">
+    <div class="nav-wordmark"><a href="index.html">VERBOTEN MEDIA</a></div>
+    <ul class="nav-links" role="list">
+      <li><a href="writings.html">Writings</a></li>
+      <li><a href="about.html">About</a></li>
+      <li><a href="contact.html">Contact</a></li>
+    </ul>
+  </nav>
+
+  <main class="page">
+    <section class="hero">
+      <div>
+        <div class="eyebrow mono">Novel impression page / Swedish publication template</div>
+        <h1>Förläggaren<br>och den öppna<br>natten</h1>
+        <p class="hero-sub">
+          A specialized high-impression page type for Swedish novel publications: more visual, more cinematic, and more atmospheric than the ordinary writings surface, while still legible enough to function as a reusable template.
+        </p>
+        <div class="hero-meta">
+          <div class="cell"><span class="mono">Format</span><strong>Novel page / impression-led</strong></div>
+          <div class="cell"><span class="mono">Use case</span><strong>Featured publication launch</strong></div>
+          <div class="cell"><span class="mono">Mood</span><strong>Nordic, nocturnal, load-bearing</strong></div>
+        </div>
+      </div>
+      <div class="cover-stage" aria-label="Book stage mockup">
+        <div class="book-mock">
+          <div class="mono">VERBOTEN MEDIA</div>
+          <div class="book-title">Förläggaren<br>och den öppna natten</div>
+          <div class="book-author">Roman av [författarnamn]</div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div>
+        <p class="section-kicker mono">Page logic</p>
+        <h2 class="section-title">A publication page should feel less like product and more like encounter.</h2>
+      </div>
+      <div class="stack">
+        <div class="quote-panel">
+          <blockquote>
+            This page type is for books that need atmosphere before explanation.
+          </blockquote>
+          <p>
+            Use it when the ordinary writing page is too informational and too flat. This format is meant to announce a publication as an event surface: cover, fragments, pressure, atmosphere, and a few carefully staged facts.
+          </p>
+        </div>
+        <div class="info-card">
+          <h3>What makes this page type different</h3>
+          <p>
+            It leads with image-pressure, title architecture, excerpt fragments, and bold spatial rhythm. It should still be reusable, but it is designed to feel more singular, more cinematic, and more willing to let typography carry emotion.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div>
+        <p class="section-kicker mono">Three impression blocks</p>
+        <h2 class="section-title">The book appears first as weather, then as structure.</h2>
+      </div>
+      <div class="triptych">
+        <article class="impression-block">
+          <div>
+            <h3>Atmosphere</h3>
+            <p>Use one compressed statement on the emotional climate of the novel. Not summary. Temperature.</p>
+          </div>
+          <div class="mono">Ex: “A domestic system under ceremonial pressure.”</div>
+        </article>
+        <article class="impression-block">
+          <div>
+            <h3>Conflict field</h3>
+            <p>Name the live pressure without flattening it into marketing shorthand.</p>
+          </div>
+          <div class="mono">Ex: “Publishing, intimacy, and survival sharing one nervous system.”</div>
+        </article>
+        <article class="impression-block">
+          <div>
+            <h3>Reader invitation</h3>
+            <p>Invite without overselling. The page should feel selective, not needy.</p>
+          </div>
+          <div class="mono">Ex: “Enter if you can tolerate structure before resolution.”</div>
+        </article>
+      </div>
+    </section>
+
+    <section class="section">
+      <div>
+        <p class="section-kicker mono">Excerpt architecture</p>
+        <h2 class="section-title">Fragments should work like chambers, not blurbs.</h2>
+      </div>
+      <div class="excerpt-grid">
+        <div class="excerpt">
+          <blockquote>
+            “Jag ville att texten skulle bära både lockelsen och bevisbördan, som om varje mening redan hade vittnat mot sig själv.”
+          </blockquote>
+          <p>
+            Primary excerpt. Place one strong passage here. It should not be the most explanatory paragraph. It should be the passage that generates the page’s internal climate.
+          </p>
+        </div>
+        <div class="info-card">
+          <h3>How to use excerpts</h3>
+          <p>
+            One main excerpt, one shorter side-fragment, and one pressure-caption is enough. More than that and the page starts behaving like a press release or a repository. This format is meant to stay concentrated.
+          </p>
+          <p class="mono">Short side-fragment: “Every archive invents its own weather.”</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div>
+        <p class="section-kicker mono">Design inheritance</p>
+        <h2 class="section-title">Keep the Verboten skeleton, let the page become louder.</h2>
+      </div>
+      <div class="stack">
+        <div class="info-card">
+          <h3>Inherited from the main site</h3>
+          <p>
+            Black field, restrained serif/sans interplay, sparse pink accent, architectural spacing, anti-feed tone.
+          </p>
+        </div>
+        <div class="info-card">
+          <h3>Turned up for this page type</h3>
+          <p>
+            Larger hero title, more sculptural layout, stronger contrast blocks, staged metadata, cinematic cover zone, and a willingness to let visual rhythm precede explanation.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <div class="cta-band">
+      <div>
+        <div class="mono">Template use</div>
+        <div class="cta-text">Use this page type for featured Swedish novel launches, not for every book.</div>
+      </div>
+      <a class="cta-link mono" href="writings.html">Back to writings</a>
+    </div>
+
+    <p class="footer-note">
+      Proposal note: this file is a template prototype intended for `_gpt/proposals/` rather than live deployment. Future publication pages should swap title, excerpt, cover treatment, and impression blocks while preserving the underlying structure.
+    </p>
+  </main>
+</body>
+</html>
