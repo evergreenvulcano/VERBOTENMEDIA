@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Page — VERBOTEN MEDIA</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant:ital,wght@0,300;0,400;0,600;1,300;1,400&family=Inter:wght@300;400&family=IBM+Plex+Mono:wght@300;400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <nav class="site-nav" role="navigation" aria-label="Main navigation">
+    <div class="nav-wordmark">
+      <a href="index.html">VERBOTEN MEDIA</a>
+    </div>
+    <button class="nav-toggle" aria-label="Toggle navigation" aria-expanded="false">
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
+    <ul class="nav-links" role="list">
+      <li><a href="about.html">About</a></li>
+      <li><a href="writings.html">Writings</a></li>
+      <li><a href="experimental-sandbox.html">Experimental Sandbox</a></li>
+      <li><a href="events.html">Events</a></li>
+      <li><a href="lectures-workshops.html">Lectures &amp; Workshops</a></li>
+      <li><a href="associated-projects.html">Associated Projects</a></li>
+      <li><a href="contact.html">Contact</a></li>
+    </ul>
+  </nav>
+
+  <div class="page-body">
+    <main class="article">
+      <header class="article-header">
+        <div class="article-meta" id="article-meta"></div>
+        <h1 class="article-title" id="article-title">Loading…</h1>
+        <p class="article-summary" id="article-summary"></p>
+      </header>
+      <article class="article-body" id="article-body">
+        <p class="text-muted">Loading markdown page…</p>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <span class="label">VERBOTEN MEDIA</span>
+      <nav class="footer-links" aria-label="Footer links">
+        <a href="writings.html">Writings</a>
+        <a href="experimental-sandbox.html">Sandbox</a>
+        <a href="contact.html">Contact</a>
+      </nav>
+    </footer>
+  </div>
+
+  <script src="js/main.js"></script>
+  <script>
+    (function () {
+      'use strict';
+
+      var ALLOWED_PREFIXES = ['static-pages/', 'modules/'];
+      var mdPath = '';
+      var titleEl = document.getElementById('article-title');
+      var summaryEl = document.getElementById('article-summary');
+      var metaEl = document.getElementById('article-meta');
+      var bodyEl = document.getElementById('article-body');
+
+      function decodePath(rawPath) {
+        try {
+          return decodeURIComponent(rawPath || '');
+        } catch (e) {
+          return '';
+        }
+      }
+
+      function normalizePath(path) {
+        return String(path || '').trim().replace(/\\/g, '/').replace(/^\/+/, '');
+      }
+
+      function isAllowedPath(path) {
+        if (!path) return false;
+        if (path.indexOf('..') !== -1) return false;
+        if (!path.endsWith('.md')) return false;
+        return ALLOWED_PREFIXES.some(function (prefix) {
+          return path.startsWith(prefix);
+        });
+      }
+
+      function deriveTitleFromPath(path) {
+        var file = path.split('/').pop() || '';
+        var base = file.replace(/\.md$/, '').replace(/[-_]+/g, ' ').trim();
+        if (!base) return 'Untitled';
+        return base.replace(/\b\w/g, function (ch) { return ch.toUpperCase(); });
+      }
+
+      function escapeHtml(input) {
+        return String(input || '')
+          .replace(/&/g, '&amp;')
+          .replace(/</g, '&lt;')
+          .replace(/>/g, '&gt;')
+          .replace(/"/g, '&quot;')
+          .replace(/'/g, '&#39;');
+      }
+
+      function parseFrontmatter(text) {
+        var meta = {};
+        var match = text.match(/^---\s*\n([\s\S]*?)\n---\s*(?:\n|$)/);
+        if (!match) return { meta: meta, body: text };
+
+        match[1].split('\n').forEach(function (line) {
+          var idx = line.indexOf(':');
+          if (idx === -1) return;
+          var key = line.slice(0, idx).trim();
+          if (!key) return;
+          var value = line.slice(idx + 1).trim().replace(/^['"]|['"]$/g, '');
+          meta[key] = value;
+        });
+
+        return {
+          meta: meta,
+          body: text.slice(match[0].length),
+        };
+      }
+
+      function parseInline(text) {
+        return escapeHtml(text)
+          .replace(/`([^`]+)`/g, '<code>$1</code>')
+          .replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>')
+          .replace(/\*([^*]+)\*/g, '<em>$1</em>');
+      }
+
+      function renderMarkdown(markdown) {
+        var lines = String(markdown || '').replace(/\r\n/g, '\n').split('\n');
+        var html = [];
+        var paragraph = [];
+        var inUl = false;
+        var inOl = false;
+
+        function flushParagraph() {
+          if (!paragraph.length) return;
+          html.push('<p>' + parseInline(paragraph.join(' ')) + '</p>');
+          paragraph = [];
+        }
+
+        function closeLists() {
+          if (inUl) {
+            html.push('</ul>');
+            inUl = false;
+          }
+          if (inOl) {
+            html.push('</ol>');
+            inOl = false;
+          }
+        }
+
+        lines.forEach(function (line) {
+          var trimmed = line.trim();
+
+          if (!trimmed) {
+            flushParagraph();
+            closeLists();
+            return;
+          }
+
+          var heading = trimmed.match(/^(#{1,6})\s+(.+)$/);
+          if (heading) {
+            flushParagraph();
+            closeLists();
+            var level = heading[1].length;
+            html.push('<h' + level + '>' + parseInline(heading[2]) + '</h' + level + '>');
+            return;
+          }
+
+          var unordered = trimmed.match(/^[-*]\s+(.+)$/);
+          if (unordered) {
+            flushParagraph();
+            if (inOl) {
+              html.push('</ol>');
+              inOl = false;
+            }
+            if (!inUl) {
+              html.push('<ul>');
+              inUl = true;
+            }
+            html.push('<li>' + parseInline(unordered[1]) + '</li>');
+            return;
+          }
+
+          var ordered = trimmed.match(/^\d+\.\s+(.+)$/);
+          if (ordered) {
+            flushParagraph();
+            if (inUl) {
+              html.push('</ul>');
+              inUl = false;
+            }
+            if (!inOl) {
+              html.push('<ol>');
+              inOl = true;
+            }
+            html.push('<li>' + parseInline(ordered[1]) + '</li>');
+            return;
+          }
+
+          var quote = trimmed.match(/^>\s?(.+)$/);
+          if (quote) {
+            flushParagraph();
+            closeLists();
+            html.push('<blockquote>' + parseInline(quote[1]) + '</blockquote>');
+            return;
+          }
+
+          paragraph.push(trimmed);
+        });
+
+        flushParagraph();
+        closeLists();
+
+        return html.join('\n');
+      }
+
+      function showError(message) {
+        metaEl.textContent = 'Markdown Viewer';
+        titleEl.textContent = 'Unable to open page';
+        summaryEl.textContent = message;
+        bodyEl.innerHTML = '<p class="text-muted">' + escapeHtml(message) + '</p>';
+      }
+
+      async function loadPage() {
+        var params = new URLSearchParams(window.location.search);
+        mdPath = normalizePath(decodePath(params.get('path')));
+
+        if (!isAllowedPath(mdPath)) {
+          showError('Invalid path. Only static-pages/*.md and modules/*.md are allowed.');
+          return;
+        }
+
+        try {
+          var res = await fetch(mdPath, { cache: 'no-store' });
+          if (!res.ok) throw new Error('File could not be loaded.');
+          var text = await res.text();
+          var parsed = parseFrontmatter(text);
+          var title = (parsed.meta.title || '').trim() || deriveTitleFromPath(mdPath);
+          var summary = (parsed.meta.summary || parsed.meta.description || '').trim();
+          var articleMeta = (parsed.meta.date || parsed.meta.year || '').trim();
+
+          document.title = title + ' — VERBOTEN MEDIA';
+          titleEl.textContent = title;
+          summaryEl.textContent = summary;
+          metaEl.textContent = articleMeta || mdPath;
+          bodyEl.innerHTML = renderMarkdown(parsed.body || '');
+        } catch (error) {
+          showError('The requested markdown file could not be loaded.');
+        }
+      }
+
+      loadPage();
+    })();
+  </script>
+</body>
+</html>

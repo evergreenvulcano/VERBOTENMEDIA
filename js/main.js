@@ -122,6 +122,37 @@
     });
   }
 
+  /* --- Markdown card links --------------------------------- */
+  function initMarkdownCardLinks() {
+    var cards = document.querySelectorAll('[data-md-path]');
+    if (!cards.length) return;
+
+    function openCard(path) {
+      if (!path) return;
+      window.location.href = 'page.html?path=' + encodeURIComponent(path);
+    }
+
+    cards.forEach(function (card) {
+      var path = card.dataset.mdPath;
+      if (!path) return;
+
+      card.classList.add('md-link-card');
+      card.setAttribute('tabindex', '0');
+
+      card.addEventListener('click', function (e) {
+        if (e.target.closest('a, button')) return;
+        openCard(path);
+      });
+
+      card.addEventListener('keydown', function (e) {
+        if (e.key === 'Enter' || e.key === ' ') {
+          e.preventDefault();
+          openCard(path);
+        }
+      });
+    });
+  }
+
   /* --- Init all ------------------------------------------- */
   document.addEventListener('DOMContentLoaded', function () {
     initRotatingLine();
@@ -129,5 +160,6 @@
     initMobileNav();
     initActiveNav();
     initWritingsFilter();
+    initMarkdownCardLinks();
   });
 })();

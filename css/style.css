@@ -641,6 +641,15 @@ em     { font-style: italic; }
   background-color: var(--bg-alt);
 }
 
+.md-link-card {
+  cursor: pointer;
+}
+
+.md-link-card:focus-visible {
+  outline: 1px solid var(--accent);
+  outline-offset: 2px;
+}
+
 .writing-item-date {
   font-size: var(--size-xs);
   color: var(--fg-muted);
