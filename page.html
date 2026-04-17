@@ -102,6 +102,12 @@
           .replace(/'/g, '&#39;');
       }
 
+      function decodeEscapedText(input) {
+        var text = document.createElement('textarea');
+        text.innerHTML = String(input || '');
+        return text.value;
+      }
+
       function normalizeSegments(path) {
         var invalid = false;
         var stack = [];
@@ -195,15 +201,15 @@
         return escapeHtml(text)
           .replace(/`([^`]+)`/g, '<code>$1</code>')
           .replace(/!\[([^\]]*)\]\(((?:\\.|[^)])+)\)/g, function (_, alt, rawUrl) {
-            var textAlt = alt;
-            var safeUrl = resolveMarkdownUrl(rawUrl);
-            if (!safeUrl) return '![' + textAlt + '](' + escapeHtml(rawUrl) + ')';
-            return '<img src="' + escapeHtml(safeUrl) + '" alt="' + textAlt + '" loading="lazy">';
+            var textAlt = decodeEscapedText(alt);
+            var safeUrl = resolveMarkdownUrl(decodeEscapedText(rawUrl));
+            if (!safeUrl) return '![' + escapeHtml(textAlt) + '](' + escapeHtml(rawUrl) + ')';
+            return '<img src="' + escapeHtml(safeUrl) + '" alt="' + escapeHtml(textAlt) + '" loading="lazy">';
           })
           .replace(/\[([^\]]*)\]\(((?:\\.|[^)])+)\)/g, function (_, label, rawUrl) {
-            var safeUrl = resolveMarkdownUrl(rawUrl);
-            var textLabel = label;
-            if (!safeUrl) return '[' + textLabel + '](' + escapeHtml(rawUrl) + ')';
+            var safeUrl = resolveMarkdownUrl(decodeEscapedText(rawUrl));
+            var textLabel = decodeEscapedText(label);
+            if (!safeUrl) return '[' + escapeHtml(textLabel) + '](' + escapeHtml(rawUrl) + ')';
 
             var href = safeUrl;
             var hrefParts = splitUrlParts(href);
@@ -214,7 +220,7 @@
 
             var isExternal = /^https?:\/\//i.test(href);
             var attrs = isExternal ? ' target="_blank" rel="noopener noreferrer"' : '';
-            return '<a href="' + escapeHtml(href) + '"' + attrs + '>' + textLabel + '</a>';
+            return '<a href="' + escapeHtml(href) + '"' + attrs + '>' + escapeHtml(textLabel) + '</a>';
           })
           .replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>')
           .replace(/\*([^*]+)\*/g, '<em>$1</em>');
