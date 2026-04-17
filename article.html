@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Article — VERBOTEN MEDIA</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+
+<nav class="site-nav">
+  <div class="nav-wordmark"><a href="index.html">VERBOTEN MEDIA</a></div>
+</nav>
+
+<main class="article">
+
+  <header class="article-header">
+    <div class="article-meta" id="article-meta"></div>
+    <h1 class="article-title" id="article-title"></h1>
+    <p class="article-summary" id="article-summary"></p>
+  </header>
+
+  <article class="article-body" id="article-body"></article>
+
+</main>
+
+<script>
+async function loadArticle() {
+  const res = await fetch('content/articles/the-registration-has-closed.md');
+  const text = await res.text();
+
+  const parts = text.split('---');
+  const frontmatter = parts[1] || '';
+  const body = parts[2] || '';
+
+  const meta = {};
+  frontmatter.trim().split('\n').forEach(line => {
+    const idx = line.indexOf(':');
+    if (idx === -1) return;
+    const key = line.slice(0, idx).trim();
+    const value = line.slice(idx + 1).trim().replace(/^"|"$/g, '');
+    meta[key] = value;
+  });
+
+  document.getElementById('article-title').textContent = meta.title || '';
+  document.getElementById('article-summary').textContent = meta.summary || '';
+  document.getElementById('article-meta').textContent = meta.date || '';
+
+  const html = body
+    .replace(/^### (.*)$/gim, '<h3>$1</h3>')
+    .replace(/^## (.*)$/gim, '<h2>$1</h2>')
+    .replace(/^> (.*)$/gim, '<blockquote>$1</blockquote>')
+    .replace(/\n\n/g, '</p><p>')
+    .replace(/\n/g, '<br>');
+
+  document.getElementById('article-body').innerHTML = '<p>' + html + '</p>';
+}
+
+loadArticle();
+</script>
+
+</body>
+</html>
