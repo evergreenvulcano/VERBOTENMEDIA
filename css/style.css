@@ -1295,28 +1295,27 @@ em     { font-style: italic; }
   padding: var(--space-xl) var(--space-md) var(--space-2xl);
 }
 
-.page-markdown .article-body {
+.page-markdown .article-header {
   position: relative;
-  isolation: isolate;
+  overflow: visible;
 }
 
-.page-markdown .article-body::before {
+.page-markdown .article-header::after {
   content: "";
   position: absolute;
-  inset: 0;
+  right: 0;
+  bottom: 0;
+  transform: translateY(50%);
+  width: clamp(120px, 18vw, 200px);
+  height: clamp(120px, 18vw, 200px);
   background-image: url('../assets/skalle.gif');
   background-repeat: no-repeat;
-  background-size: clamp(220px, 36vw, 420px);
-  background-position: right 8% top 1.25rem;
-  opacity: 0.03;
+  background-size: contain;
+  background-position: center;
+  opacity: 0.12;
   mix-blend-mode: screen;
   pointer-events: none;
-  z-index: 0;
-}
-
-.page-markdown .article-body > * {
-  position: relative;
-  z-index: 1;
+  z-index: 2;
 }
 
 .article-body p {
