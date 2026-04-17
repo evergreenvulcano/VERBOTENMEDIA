@@ -203,18 +203,19 @@
           .replace(/`([^`]+)`/g, '<code>$1</code>')
           .replace(/!\[([^\]]*)\]\(([^)\s]+)\)/g, function (_, alt, rawUrl) {
             var safeUrl = resolveMarkdownUrl(decodeEscapedText(rawUrl));
-            if (!safeUrl) return '';
+            if (!safeUrl) return '![' + alt + '](' + rawUrl + ')';
             return '<img src="' + escapeHtml(safeUrl) + '" alt="' + escapeHtml(decodeEscapedText(alt)) + '" loading="lazy">';
           })
           .replace(/\[([^\]]+)\]\(([^)\s]+)\)/g, function (_, label, rawUrl) {
             var safeUrl = resolveMarkdownUrl(decodeEscapedText(rawUrl));
             var textLabel = decodeEscapedText(label);
-            if (!safeUrl) return escapeHtml(textLabel);
+            if (!safeUrl) return '[' + label + '](' + rawUrl + ')';
 
             var href = safeUrl;
-            var normalizedHref = normalizePath(href);
-            if (href.endsWith('.md') && isAllowedPath(normalizedHref)) {
-              href = 'page.html?path=' + encodeURIComponent(normalizedHref);
+            var hrefParts = splitUrlParts(href);
+            var normalizedHrefPath = normalizePath(hrefParts.path);
+            if (normalizedHrefPath.endsWith('.md') && isAllowedPath(normalizedHrefPath)) {
+              href = 'page.html?path=' + encodeURIComponent(normalizedHrefPath) + hrefParts.suffix;
             }
 
             var isExternal = /^https?:\/\//i.test(href);
