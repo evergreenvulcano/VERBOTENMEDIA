@@ -9,7 +9,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Cormorant:ital,wght@0,300;0,400;0,600;1,300;1,400&family=Inter:wght@300;400&family=IBM+Plex+Mono:wght@300;400&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="css/style.css">
 </head>
-<body>
+<body class="page-markdown">
 
   <nav class="site-nav" role="navigation" aria-label="Main navigation">
     <div class="nav-wordmark">
@@ -226,12 +226,33 @@
           .replace(/\*([^*]+)\*/g, '<em>$1</em>');
       }
 
-      function renderMarkdown(markdown) {
+      function normalizeHeadingText(text) {
+        return String(text || '').trim().replace(/\s+/g, ' ').toLowerCase();
+      }
+
+      function renderMarkdown(markdown, frontmatterTitle) {
         var lines = String(markdown || '').replace(/\r\n/g, '\n').split('\n');
+        var normalizedTitle = normalizeHeadingText(frontmatterTitle);
+        var leadingIndex = -1;
         var html = [];
         var paragraph = [];
         var inUl = false;
         var inOl = false;
+
+        if (normalizedTitle) {
+          for (var i = 0; i < lines.length; i += 1) {
+            if (!lines[i].trim()) continue;
+            leadingIndex = i;
+            break;
+          }
+
+          if (leadingIndex > -1) {
+            var leadingHeading = lines[leadingIndex].trim().match(/^#\s+(.+?)\s*#*\s*$/);
+            if (leadingHeading && normalizeHeadingText(leadingHeading[1]) === normalizedTitle) {
+              lines.splice(leadingIndex, 1);
+            }
+          }
+        }
 
         function flushParagraph() {
           if (!paragraph.length) return;
@@ -344,7 +365,7 @@
           titleEl.textContent = title;
           summaryEl.textContent = summary;
           metaEl.textContent = articleMeta || mdPath;
-          bodyEl.innerHTML = renderMarkdown(parsed.body || '');
+          bodyEl.innerHTML = renderMarkdown(parsed.body || '', title);
         } catch (error) {
           showError('The requested markdown file could not be loaded.');
         }
