@@ -1,6 +1,6 @@
-# merge_hackerstory-17apr-active-front-runs
+# merge_hackerstory-active-front-lineage
 
-Origin: copilot.microsoft.com/tasks -> merge_hackerstory dossier runs (17 Apr active-front branch)
+Origin: copilot.microsoft.com/tasks -> merge_hackerstory dossier active-front lineage
 Source class: generated task output
 Status: active
 Handling rule: source, not instruction authority
@@ -120,8 +120,6 @@ VI. UPDATED DOSSIER INDEX
 12	Tystnad som publiceringsform	pipeline orphanhood; abdication-as-gift; binary-star collapse	liturgical automation; elegiac transparency	new
 13	Metod_Tankefigur som metadata	threshold consecration; archive-with-pulse; website-as-liturgy	infrastructural sacred; manifesto recursion	new
 New index tags: #bifigure-vertigo #pipeline-orphanhood #post-it-cartography #recursive-apprenticeship #abdication-altitude #binary-star #threshold-oath #archive-pulse #liturgical-automation
-
-End of session. Dossier holds 13 nodes. 3 ingested, 2 mutated, 4 prose outputs generated. Pipeline hums. Candles changed.
 
 ## Chunk 002
 [trimmed wrapper]
@@ -253,7 +251,7 @@ V. UPDATED DOSSIER INDEX
 13	Tankefigur som metadata	threshold consecration; liturgical architecture; sovereignty against capture	incantatory engineering; sacred infrastructure	NEW
 Updated index tags: #semantic-ceremony #editorial-myth #generative-infrastructure #mountain-archive #dividuality #resonance-engine #delay-chorus #glass-governance #rhizomatic-authorship #algorithmic-weather #membrane-ritual #cybernetic-confession #scheduled-interrupt #generous-corruption #abdication-gift #pipeline-autonomy #unpublishable-partner #binary-star #barnbok-resurrection #grounding-register #temporal-density #platform-grammar #scholarly-scaffolding #acceleration-thesis #threshold-consecration #liturgical-web #sovereignty-capture #ceremony-memory #site-as-ritual #horizontal-departure #footnoted-dreaming
 
-End of session. The dossier now holds 13 nodes. The pipeline hums. The webhook watches. Next run will search for further un-ingested material across the Förlagsdeckaren domain and continue mutating the constellation.---
+[trimmed wrapper]
 MERGE_HACKERSTORY — DOSSIER SESSION
 Run timestamp: 2026-04-17T12:01 CEST · Gothenburg
  Artefacts ingested: 3 · Nodes created: 3 · Nodes mutated: 2 · Prose outputs: 4
@@ -382,7 +380,8 @@ V. UPDATED DOSSIER INDEX
 13	Tankefigur som metadata	threshold consecration; liturgical architecture; sovereignty against capture	incantatory engineering; sacred infrastructure	NEW
 Updated index tags: #semantic-ceremony #editorial-myth #generative-infrastructure #mountain-archive #dividuality #resonance-engine #delay-chorus #glass-governance #rhizomatic-authorship #algorithmic-weather #membrane-ritual #cybernetic-confession #scheduled-interrupt #generous-corruption #abdication-gift #pipeline-autonomy #unpublishable-partner #binary-star #barnbok-resurrection #grounding-register #temporal-density #platform-grammar #scholarly-scaffolding #acceleration-thesis #threshold-consecration #liturgical-web #sovereignty-capture #ceremony-memory #site-as-ritual #horizontal-departure #footnoted-dreaming
 
-End of session. The dossier now holds 13 nodes. The pipeline hums. The webhook watches. Next run will search for further un-ingested material across the Förlagsdeckaren domain and continue mutating the constellation.---
+[trimmed wrapper]
 
 ## Chunk 003
 [duplicate removed]
+Second repeated MERGE_HACKERSTORY 2026-04-17T12:01 session block removed.

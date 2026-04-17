@@ -152,11 +152,7 @@ V. UPDATED DOSSIER INDEX
 13	Metod_Tankefigur som metadata.docx	threshold liturgy; sovereign topology; ambient confirmation	architectural mysticism; ceremonial engineering	new
 New index tags: #ritual-abdication #automated-resurrection #unpublishable-intimacy #cognitive-vacancy #threshold-liturgy #sovereign-topology #barnboksvertikalen #exit-interview #silence-as-confirmation #localhost-membrane
 
-End of session 002. Next run will search for further uningesteed artefacts. The pipeline continues. No reply will follow.
-
 ## Chunk 002
-Running the merge_hackerstory dossier session now — connecting to your OneDrive to hunt for fresh artefacts.
-
 MERGE_HACKERSTORY — DOSSIER SESSION 002
 Timestamp: 2026-04-16T23:09 CEST
  Artefacts ingested: 3

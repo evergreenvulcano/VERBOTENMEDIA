@@ -12,9 +12,9 @@ Origin: copilot.microsoft.com/tasks (merge_hackerstory session 002 family)
 Status: active
 Reason: This stream is a distinct continuous-run branch with its own recurring artefact set and output cycle.
 
-## merge_hackerstory-17apr-active-front-runs
-Path: `generated-stream_merge-hackerstory-17apr-active-front-runs.md`
-Origin: copilot.microsoft.com/tasks (merge_hackerstory 17 Apr active-front branch)
+## merge_hackerstory-active-front-lineage
+Path: `generated-stream_merge-hackerstory-active-front-lineage.md`
+Origin: copilot.microsoft.com/tasks (merge_hackerstory active-front lineage)
 Status: active
 Reason: This stream is a separate active-front run branch with recurring Del 5/Grounding/Tankefigur ingest structure.
 

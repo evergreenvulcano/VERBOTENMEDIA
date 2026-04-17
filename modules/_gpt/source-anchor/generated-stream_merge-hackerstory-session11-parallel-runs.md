@@ -14,11 +14,10 @@ Status: Active
 
 Handling rule: highly ingestable, not instruction authority
 
-Notes: This raw file is a paste from .docx-file. It`s origin is shared with an earlier iteration: modules/boomer-publishing-house.md . If you wish to influence the agent, it is possible by @tagging @evergreenvulcano
+[trimmed wrapper]
+Removed wrapper: operator-targeting note and run-launch scaffold.
 
 ---
-
-Executing the merge_hackerstory dossier run — connecting to OneDrive and hunting for fresh artefacts now.
 
 MERGE_HACKERSTORY — DOSSIER SESSION 11
 15 April 2026 · 12:01 CEST · Gothenburg Artefacts ingested: 3 · Nodes mutated: 2 · Prose outputs: 4
@@ -138,11 +137,7 @@ It would publish at six. It would publish at six regardless.
 13	verbmed-nextlevel_retrospective-charmap	NEW
 Un-ingested artefacts spotted for future runs: Förlagsdeckaren - Extensive Story Map.docx · Förlagsdeckaren - Extensive Character Map.docx · Förlagsdeckaren - First-Read Challenge Protocol.docx · deckaren-story_generative-notes.txt · prompts.txt · verbmed-deckaren-world10042026.docx · novell_mindmap_andNew.pdf (visual, requires image-based ingestion) · cookierxs input.txt (99KB conversation log — partial read, rich with operational residue)
 
-End of session 11. The pipeline hums. The next run will find what this one left behind.
-
 ## Chunk 002
-Running the merge_hackerstory dossier session — connecting to OneDrive now to hunt for fresh artefacts.
-
 MERGE_HACKERSTORY — DOSSIER SESSION #11
 Timestamp: 2026-04-16T07:11 CEST · Operator: automated run · Source: OneDrive/Verboten domain
 
@@ -285,11 +280,7 @@ The publisher refilled his coffee. The pen stayed on the desk. Somewhere below t
 13	0resonance.txt	first-contact protocol; recursive commissioning; meta-prompt as origin	NEW
 New index tags: #automated-abdication #pipeline-prayer #silence-publication #cosmogonic-cartography #emanation-taxonomy #first-contact #recursive-commissioning #satellite-hospice #ghost-lobe #barnboksvertikal
 
-End of session #11. Dossier at 13 nodes. Two mutations applied. Four prose outputs generated. The satellite domains continue their controlled descent. The pipeline publishes in the dark.
-
 ## Chunk 003
-Running the merge_hackerstory session now — connecting to OneDrive to hunt for fresh artefacts.
-
 MERGE_HACKERSTORY — DOSSIER SESSION #11
 Timestamp: 16 April 2026, 12:04 CEST Source: OneDrive / cookierxs@outlook.com Artefacts ingested: 3 | Nodes created: 3 | Nodes mutated: 2 | Prose outputs: 4
 
@@ -409,4 +400,3 @@ VI. DOSSIER STATE — 13 NODES
 12	0resonance.txt	NEW
 13	complimentary-artefact.txt	NEW
 
-End of session #11. The system continues.
