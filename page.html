@@ -102,15 +102,6 @@
           .replace(/'/g, '&#39;');
       }
 
-      function decodeEscapedText(input) {
-        return String(input || '')
-          .replace(/&quot;/g, '"')
-          .replace(/&#39;/g, '\'')
-          .replace(/&lt;/g, '<')
-          .replace(/&gt;/g, '>')
-          .replace(/&amp;/g, '&');
-      }
-
       function normalizeSegments(path) {
         var invalid = false;
         var stack = [];
@@ -145,6 +136,8 @@
       function isSafeUrl(url) {
         var value = String(url || '').trim();
         if (!value) return false;
+        var compact = value.replace(/[\u0000-\u001F\u007F\s]+/g, '').toLowerCase();
+        if (/^(javascript|data|vbscript):/.test(compact)) return false;
         if (value.startsWith('#')) return true;
         if (value.startsWith('//')) return false;
         if (/^(https?:|mailto:|tel:)/i.test(value)) return true;
@@ -202,15 +195,15 @@
         return escapeHtml(text)
           .replace(/`([^`]+)`/g, '<code>$1</code>')
           .replace(/!\[([^\]]*)\]\(((?:\\.|[^)])+)\)/g, function (_, alt, rawUrl) {
-            var textAlt = decodeEscapedText(alt);
-            var safeUrl = resolveMarkdownUrl(decodeEscapedText(rawUrl));
-            if (!safeUrl) return '![' + escapeHtml(textAlt) + '](' + rawUrl + ')';
-            return '<img src="' + escapeHtml(safeUrl) + '" alt="' + escapeHtml(textAlt) + '" loading="lazy">';
+            var textAlt = alt;
+            var safeUrl = resolveMarkdownUrl(rawUrl);
+            if (!safeUrl) return '![' + textAlt + '](' + escapeHtml(rawUrl) + ')';
+            return '<img src="' + escapeHtml(safeUrl) + '" alt="' + textAlt + '" loading="lazy">';
           })
           .replace(/\[([^\]]*)\]\(((?:\\.|[^)])+)\)/g, function (_, label, rawUrl) {
-            var safeUrl = resolveMarkdownUrl(decodeEscapedText(rawUrl));
-            var textLabel = decodeEscapedText(label);
-            if (!safeUrl) return '[' + escapeHtml(textLabel) + '](' + rawUrl + ')';
+            var safeUrl = resolveMarkdownUrl(rawUrl);
+            var textLabel = label;
+            if (!safeUrl) return '[' + textLabel + '](' + escapeHtml(rawUrl) + ')';
 
             var href = safeUrl;
             var hrefParts = splitUrlParts(href);
@@ -221,7 +214,7 @@
 
             var isExternal = /^https?:\/\//i.test(href);
             var attrs = isExternal ? ' target="_blank" rel="noopener noreferrer"' : '';
-            return '<a href="' + escapeHtml(href) + '"' + attrs + '>' + escapeHtml(textLabel) + '</a>';
+            return '<a href="' + escapeHtml(href) + '"' + attrs + '>' + textLabel + '</a>';
           })
           .replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>')
           .replace(/\*([^*]+)\*/g, '<em>$1</em>');
