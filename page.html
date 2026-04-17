@@ -201,15 +201,16 @@
       function parseInline(text) {
         return escapeHtml(text)
           .replace(/`([^`]+)`/g, '<code>$1</code>')
-          .replace(/!\[([^\]]*)\]\(([^)\s]+)\)/g, function (_, alt, rawUrl) {
+          .replace(/!\[([^\]]*)\]\(([^)]+)\)/g, function (_, alt, rawUrl) {
+            var textAlt = decodeEscapedText(alt);
             var safeUrl = resolveMarkdownUrl(decodeEscapedText(rawUrl));
-            if (!safeUrl) return '![' + alt + '](' + escapeHtml(rawUrl) + ')';
-            return '<img src="' + escapeHtml(safeUrl) + '" alt="' + escapeHtml(decodeEscapedText(alt)) + '" loading="lazy">';
+            if (!safeUrl) return '![' + escapeHtml(textAlt) + '](' + escapeHtml(rawUrl) + ')';
+            return '<img src="' + escapeHtml(safeUrl) + '" alt="' + escapeHtml(textAlt) + '" loading="lazy">';
           })
-          .replace(/\[([^\]]+)\]\(([^)\s]+)\)/g, function (_, label, rawUrl) {
+          .replace(/\[([^\]]+)\]\(([^)]+)\)/g, function (_, label, rawUrl) {
             var safeUrl = resolveMarkdownUrl(decodeEscapedText(rawUrl));
             var textLabel = decodeEscapedText(label);
-            if (!safeUrl) return '[' + label + '](' + escapeHtml(rawUrl) + ')';
+            if (!safeUrl) return '[' + escapeHtml(textLabel) + '](' + escapeHtml(rawUrl) + ')';
 
             var href = safeUrl;
             var hrefParts = splitUrlParts(href);
