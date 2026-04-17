@@ -201,16 +201,16 @@
       function parseInline(text) {
         return escapeHtml(text)
           .replace(/`([^`]+)`/g, '<code>$1</code>')
-          .replace(/!\[([^\]]*)\]\(([^)]+)\)/g, function (_, alt, rawUrl) {
+          .replace(/!\[([^\]]*)\]\(((?:\\.|[^)])+)\)/g, function (_, alt, rawUrl) {
             var textAlt = decodeEscapedText(alt);
             var safeUrl = resolveMarkdownUrl(decodeEscapedText(rawUrl));
-            if (!safeUrl) return '![' + escapeHtml(textAlt) + '](' + escapeHtml(rawUrl) + ')';
+            if (!safeUrl) return '![' + escapeHtml(textAlt) + '](' + rawUrl + ')';
             return '<img src="' + escapeHtml(safeUrl) + '" alt="' + escapeHtml(textAlt) + '" loading="lazy">';
           })
-          .replace(/\[([^\]]+)\]\(([^)]+)\)/g, function (_, label, rawUrl) {
+          .replace(/\[([^\]]*)\]\(((?:\\.|[^)])+)\)/g, function (_, label, rawUrl) {
             var safeUrl = resolveMarkdownUrl(decodeEscapedText(rawUrl));
             var textLabel = decodeEscapedText(label);
-            if (!safeUrl) return '[' + escapeHtml(textLabel) + '](' + escapeHtml(rawUrl) + ')';
+            if (!safeUrl) return '[' + escapeHtml(textLabel) + '](' + rawUrl + ')';
 
             var href = safeUrl;
             var hrefParts = splitUrlParts(href);
