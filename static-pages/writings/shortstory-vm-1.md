@@ -4,242 +4,50 @@ summary: Slot-based template for a more designed Swedish novel publication surfa
 date: 2026
 ---
 
-# Shortstory VM 1
-
-This file is the **content and image template** for a future high-impression Swedish novel publication page.
-
-It is not a normal article page.
-It is a page type for publications that need stronger atmosphere, more visual staging, and a more cinematic first encounter.
-
-## How to use this file
-
-Fill this file with:
-- one atmosphere line
-- one pressure paragraph
-- one primary excerpt
-- one side fragment
-- minimal edition facts
-- image assets that fit the exact slots below
-
-The future designed page should read this file as a content contract.
+![Volcano erupting inside a wineglass, molten red and orange against dark surroundings, tension between fragility and violent force.](C:\Users\cooki\.vscode\verbmed\VERBOTENMEDIA\assets\deckaren-del1\deckaren1-hero.png)
 
 ---
 
-## Page sequence
+![This image expands the book’s atmosphere into a spatial metaphor: the architecture itself becomes a battlefield of ideologies, the air thick with tension and unresolved boundaries. It’s not filler scenery but a continuation of the narrative pulse — the exterior mirroring the inner fragmentation.](../../assets/deckaren-del1/deckaren1-slotb.png)
 
-The page should unfold in this order:
-
-1. Hero image / cover stage
-2. Atmosphere line
-3. Pressure field
-4. Primary excerpt
-5. Supporting image sequence
-6. Edition facts / CTA
-
-The reader should first feel the book, then orient, then read.
 
 ---
 
-## Exact image template
+![The climb tightens — a spiral staircase in a basement that feels alive with noise and residue. Posters overlap like scales, torn edges curling toward the dim red light above. A hand grips the railing, veins tense, the metal cold and sticky from years of sweat and tape glue. Every step compresses the air, the smell of beer and ink thickening. This image sharpens intimacy and danger — the pressure of ascent, the claustrophobic texture of walls that remember every concert scream.](../../assets/deckaren-del1/deckaren1-slotc.png)
 
-The template expects **three required images** and **one optional image**.
-
-## Slot A — Hero / cover image
-**Required:** yes  
-**Role:** first emotional claim  
-**Ratio:** 4:5 preferred, 2:3 acceptable  
-**Suggested minimum:** 2000 px wide  
-**Orientation:** vertical
-
-### What this image should do
-- establish the page's temperature immediately
-- function as the visual equivalent of the title
-- carry mood before explanation
-
-### What kind of image belongs here
-- cover artwork
-- strong photographic motif
-- typographic cover composition
-- a single charged scene or object
-
-### Avoid here
-- busy collage logic
-- multiple competing focal points
-- generic promo mockups
-- cheerful commercial energy
 
 ---
 
-## Slot B — Atmosphere image
-**Required:** yes  
-**Role:** widen the book's world  
-**Ratio:** 16:9 preferred, 3:2 acceptable  
-**Suggested minimum:** 2200 px wide  
-**Orientation:** landscape
-
-### What this image should do
-- expand the weather around the book
-- show environment, architecture, landscape, room, street, or symbolic space
-- create a second chamber after the hero image
-
-### What kind of image belongs here
-- exterior location
-- room or corridor
-- natural setting
-- city fragment
-- spatial detail with narrative implication
-
-### Avoid here
-- repeating the same visual logic as Slot A
-- making it purely descriptive
-- using it as filler scenery
+![Ett kallt ljus faller från ett högt fönster över ett skrivbord där kablar, anteckningar och korrekturark ligger som sediment av arbete. Den gamla skrivmaskinen står bredvid den moderna terminalen, båda kopplade till samma nervsystem av sladdar. På väggen sitter utskrivna sidor och post‑it‑lappar med deadlines och påminnelser, som om själva tornet försöker minnas.](../../assets/deckaren-del1/deckaren1-slotd.png)
 
 ---
 
-## Slot C — Detail / pressure image
-**Required:** yes  
-**Role:** sharpen intimacy or danger  
-**Ratio:** 1:1 preferred, 4:5 acceptable  
-**Suggested minimum:** 1600 px wide  
-**Orientation:** square or near-square
+## Atmosphere line
 
-### What this image should do
-- tighten the page inward
-- introduce texture, pressure, or strangeness
-- feel more intimate or more dangerous than the first two images
+> Med pannan i djupa veck över hur allt kommer att framstå för kommande generationer...
 
-### What kind of image belongs here
-- close-up of a hand, paper, object, fabric, wall, wound-mark, ritual detail, texture, partial face, cropped gesture
+## Pressure field
+Några nätter senare ska han drömma att ön där de byggt sin ekoby fått bud om att en militant gruppering ska inta landet
 
-### Avoid here
-- explanatory documentary clarity
-- over-lit product-photo feeling
-- decorative abstraction with no pressure
+## Primary fragment
+Förläggaren drömde att närområdet var oklart uppdelat i olika militanta grupperingar, där fanns en miniskvadron av marscherande militärklädda som han i en tidigare dröm gjorde misstaget att interagera med, nackskottet kom i plytet och efter en kort stund av identifikation där drömgruppens drömledare alltså vred huvudet och fokuserade blicken på honom innan han lyfte personvapnet och fyrade av; en mindre organiserad men likväl linjeströmmad samling andragenerationister som är artiga och rätt roliga tills de underhåller sig med helt andra sysselsättningar, någon gång stormade de hans hem, någon gång höll de flera grupperingar gisslan på en och samma tågperrong, och denna gång rörde de sig likt militantgruppen i klunga men längs grusvägar och tvingade honom på flykt flera gånger, viftade med pistoler och sköt alldelens vid sidan om hans hukande gestalt; dessa grupperingar var flera, det kunde förläggare förstå på ett intuitivt plan och hålla med om efter att ha vaknat och fått tillgång till "logikens fakulteter"; de fyllde olika syften i den stora samhällskroppen som ryms inom hans undermedvetna, arketypiskt kompartmentaliserade på ett sätt som är så unikt att man måste leva ett helt liv för att kanske få ihop allt, enligt jungiansk psykoanalytisk praxis; veckor senare ska han för första gången drömma om att han för fram ett fordon i kollektivtrafiksflottan, och detta utgör ett klart trendbrott; en gång tog han tåget till en park och där visade Väder AB en ny teknologisk mojäng som kunde förvandla privatpersoner till träskmossa, till träd; en annan gång hoppade förläggaren fallskärm från en rymdraketsuppskjutning och landade på en megaparabol för att diskutera livets begivenheter med Jokern från en animerad tv-version av DC-comics ärkeskurk. Det slår den som walk the walk and talk the talk att dessa drömbundna syften alltjämt vidarefinns även i vaket tillstånd, lika mycket som den individfrånskilda samhällskroppen, och exempelvis dess olika fraktioner och syftesenliga anslutningar. Tänk hur skådespelarna införlivar gudomliga rollspel, gudar som då i sin tur har fått villkoren dikterade av suprahumanoida arketyper, så har du en ledtråd.
 
----
+## Side fragment
+Förläggaren hade nyst så det dånade i hela lokalen, vridit VR-glasögonen runt nackbenen och svurit åt barnen som lekte där; han hade stekt en ryggbiff, slängt en saint augur i kokkärlet och låtit sänka en handfull pommes fritt i en *ack så efterlängtad* air fryer; slängt den i diskhon, straffknullat lillfrugan,  ejakulerat i hennes öra; han hade kammat håret i sidbena, lagt på en peruk och tiktokdansat i en god halvtimme, tills höfterna var trötta, då hade han löst tre korsord innan klockan blev 20 och nyhetssändningen tutade in genom televisionsapparaten. Sömnen hade gjort honom till en ny man, igen. Han hade som vanligt tagit den färska besvikelsen som en ursäkt att undvika djupare utredning av de gamla, och skridit till ett nytt verk. *Äggning* handlade helt enkelt om att kartlägga sin egen situation istället för att involvera andra i smeten: 
 
-## Slot D — Process / archival insert
-**Required:** optional  
-**Role:** show the work as object  
-**Ratio:** flexible, 4:3 or 3:2 preferred  
-**Suggested minimum:** 1600 px wide
+*En stigande tidvåg lyfter alla båtar, heter det. Det fanns en handfull sattelittelefoner ombord på några synnerligen välutrustade svarta lådor som skumpar runt i den vilda nordhavsbassängen; borta är de fagra kvinnonamnen med storartade flasksmällar mot sidan av karossen under offentlig invigning framför folksamlingens mjugga unnsamhet, ombord varje liten skuta sitter en IT-konsult i flytväst, vissa orangea, någon rosa, någon blå.*
 
-### What this image should do
-- show manuscript, proof, notebook, page detail, source fragment, publication object, or working trace
-- make the book feel made, not merely announced
 
-### Only use this slot when
-- the process object adds pressure
-- the archival image deepens the publication surface
-- the page benefits from one object-level interruption
+## Edition facts
+- Förlagsdeckaren: En stigande tidvåg lyfter alla båtar
+- Martin Nygren
+- Novellserie: Del I av Plural.
+- 2022
+- Publicerad som PDF den 20 juni 2022.
 
-### Do not use this slot when
-- it is merely “nice to have”
-- it weakens the page’s concentration
-
----
-
-## Global image rules
-
-All images for this page type should feel:
-- Nordic
-- tactile
-- exact
-- late-light, nocturnal, winter-clear, or otherwise load-bearing in atmosphere
-- restrained but not flat
-- cinematic without becoming movie-poster cliché
-
-All images for this page type should avoid:
-- stock-photo energy
-- cheerful marketing polish
-- random collage abundance
-- overexposure and washed-out softness
-- multiple image styles fighting each other
-
-## Text overlay rule
-
-Do **not** bake body text into the images.
-
-Only the hero image may carry title-level typographic treatment if the design needs it.
-All other text should remain live HTML/CSS later.
-
----
-
-## Text blocks expected
-
-## 1. Atmosphere line
-One short line describing the emotional or structural climate of the novel.
-Not summary. Temperature.
-
-Example:
-
-> A domestic system under ceremonial pressure.
-
-## 2. Pressure field
-One short paragraph naming the active contradiction or governing pressure.
-Not back-cover copy. Internal weather.
-
-## 3. Primary excerpt
-One strong excerpt long enough to let the language work.
-Prefer one passage over many short ones.
-
-## 4. Side fragment
-A shorter line that sits in tension with the primary excerpt.
-This should behave like a secondary chamber, not a caption.
-
-## 5. Edition facts
-Only the essential facts:
-- title
-- author
-- form
-- year
-- optionally ISBN / publisher / edition note
-
-Do not let metadata dominate the page.
-
----
-
-## Design expectations for the future specialized page
-
-The future designed page should:
-- inherit the Verboten black-field seriousness
-- use larger title architecture than the ordinary writing page
-- let image-pressure arrive before summary logic
-- keep one accent color at most
-- use serif typography as the main emotional carrier
-- preserve negative space
-- resist feed-like scrolling and product-page behavior
-
-This page type should feel selective.
-Not like a generic article.
-Not like a simple repository entry.
-Not like an e-commerce landing page.
-
----
-
-## Minimal delivery checklist
-
-Before a publication is dropped into this format, make sure it has:
-- Slot A image
-- Slot B image
-- Slot C image
-- atmosphere line
-- pressure paragraph
-- primary excerpt
-- side fragment
-- minimal edition facts
-
-Optional:
-- Slot D image
-
-If those exist, the designed page can be built cleanly.
-
----
-
-## Closing note
-
-This file is not asking you to invent the image grammar.
-It **defines** the image grammar the future designed page expects.
-
-Your job is to provide images that fit the slots.
-The page logic comes later.
+![a Nordic‑nocturnal tableau of metamorphosis and invention. In a mist‑lit forest laboratory, the inventor resembling Tomas Di Leva presses a glowing green button on his machine. Tubes and wires shimmer with eerie light as nearby figures begin to turn into moss and bark, their bodies merging with the trees. The atmosphere is cinematic yet restrained: twilight blues against the phosphorescent green of transformation](../../assets/deckaren-del1/deckaren1-hero2.png)
+![The transformation is complete — the inventor himself becoming part of his creation. His expression carries that sly, knowing calm: bark creeping up his neck, moss threading through his hair, fingers half‑wooden as they press the glowing green button. The forest light folds around him, green and spectral, as if the machine and the man have agreed on a secret.](../../assets/deckaren-del1/deckaren1-hero3.png)
+![His transformation is complete — now less mystic, more mercurial. Dressed in the elegance of an old‑world entrepreneur, he wears a waistcoat and cravat, moss and bark creeping through his refined attire. His smile is sharp, his eyes gleam with the alchemist’s ambition as his hand, half‑wooden, presses the green button.](../../assets/deckaren-del1/deckaren1-hero4.png)
+![That neutral‑workspace version absolutely lands — the comedy of a man halfway into arboreal transcendence while still sitting in a workshop full of rope, tools, and paperwork is just perfect.](../../assets/deckaren-del1/deckaren1-hero5.png)
+![alt text](../../assets/deckaren-del1/deckaren1-hero6.png)
+![alt text](../../assets/deckaren-del1/deckaren1-hero7.png)
