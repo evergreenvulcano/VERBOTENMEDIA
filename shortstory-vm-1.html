@@ -22,255 +22,47 @@
       --vm-max: 1440px;
       --vm-pad: clamp(1.2rem, 2vw, 2rem);
     }
-
-    body.shortstory-vm {
-      background: var(--vm-bg);
-      color: var(--vm-fg);
-    }
-
-    .vm-page {
-      width: min(100%, var(--vm-max));
-      margin: 0 auto;
-      padding: 0 var(--vm-pad) 6rem;
-    }
-
-    .vm-hero {
-      min-height: 96vh;
-      display: grid;
-      grid-template-columns: 0.95fr 1.05fr;
-      gap: 2rem;
-      align-items: stretch;
-      padding: 3rem 0 4rem;
-      border-bottom: 1px solid var(--vm-line);
-    }
-
-    .vm-hero-copy {
-      display: flex;
-      flex-direction: column;
-      justify-content: flex-end;
-      padding-bottom: 1rem;
-    }
-
-    .vm-eyebrow,
-    .vm-mono {
-      font-family: "IBM Plex Mono", monospace;
-      font-size: 0.78rem;
-      letter-spacing: 0.12em;
-      text-transform: uppercase;
-    }
-
-    .vm-eyebrow {
-      color: var(--vm-accent);
-      margin-bottom: 1rem;
-    }
-
-    .vm-title {
-      margin: 0;
-      font-family: "Cormorant", serif;
-      font-size: clamp(3.8rem, 9vw, 8.5rem);
-      line-height: 0.88;
-      font-weight: 400;
-      letter-spacing: -0.03em;
-      max-width: 8ch;
-    }
-
-    .vm-sub {
-      margin-top: 1.25rem;
-      max-width: 42rem;
-      color: var(--vm-fg-dim);
-      font-size: clamp(1rem, 1.5vw, 1.18rem);
-    }
-
-    .vm-meta {
-      display: grid;
-      grid-template-columns: repeat(4, minmax(0, 1fr));
-      gap: 0.75rem;
-      margin-top: 2rem;
-      max-width: 52rem;
-    }
-
-    .vm-meta-card,
-    .vm-card,
-    .vm-excerpt,
-    .vm-image-card,
-    .vm-gallery-item,
-    .vm-band {
-      border: 1px solid var(--vm-line);
-      background: linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0));
-    }
-
-    .vm-meta-card {
-      padding: 0.85rem 1rem;
-    }
-
-    .vm-meta-card strong {
-      display: block;
-      margin-top: 0.35rem;
-      font-weight: 500;
-      color: var(--vm-fg);
-    }
-
-    .vm-cover-stage {
-      position: relative;
-      overflow: hidden;
-      min-height: 70vh;
-      border: 1px solid var(--vm-line);
-      background: radial-gradient(circle at 20% 20%, rgba(230,163,181,0.12), transparent 30%), linear-gradient(180deg, #090909, #131313 60%, #0b0b0b);
-    }
-
-    .vm-cover-stage img {
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
-      display: block;
-    }
-
-    .vm-cover-caption {
-      position: absolute;
-      left: 1rem;
-      bottom: 1rem;
-      padding: 0.5rem 0.7rem;
-      background: rgba(5,5,5,0.68);
-      backdrop-filter: blur(12px);
-      border: 1px solid var(--vm-line);
-    }
-
-    .vm-section {
-      display: grid;
-      grid-template-columns: 0.35fr 1fr;
-      gap: 2rem;
-      padding: 4rem 0;
-      border-bottom: 1px solid var(--vm-line);
-    }
-
-    .vm-section-title {
-      margin: 0;
-      font-family: "Cormorant", serif;
-      font-size: clamp(2rem, 3vw, 3.3rem);
-      line-height: 0.95;
-      font-weight: 400;
-    }
-
-    .vm-kicker {
-      color: var(--vm-fg-dim);
-      max-width: 18rem;
-    }
-
-    .vm-stack {
-      display: grid;
-      gap: 1rem;
-    }
-
-    .vm-card,
-    .vm-excerpt,
-    .vm-image-card,
-    .vm-gallery-item,
-    .vm-band {
-      padding: 1.25rem;
-    }
-
-    .vm-card h3,
-    .vm-image-card h3 {
-      margin: 0 0 0.6rem;
-      font-family: "Cormorant", serif;
-      font-size: 1.6rem;
-      font-weight: 400;
-    }
-
-    .vm-card p,
-    .vm-image-card p,
-    .vm-excerpt p {
-      color: var(--vm-fg-dim);
-    }
-
-    .vm-excerpt blockquote {
-      margin: 0;
-      font-family: "Cormorant", serif;
-      font-size: clamp(1.4rem, 2.8vw, 2.3rem);
-      line-height: 1.03;
-    }
-
-    .vm-split {
-      display: grid;
-      grid-template-columns: 1.05fr 0.95fr;
-      gap: 1rem;
-    }
-
-    .vm-support-image,
-    .vm-detail-image,
-    .vm-archive-image {
-      width: 100%;
-      display: block;
-      border: 1px solid var(--vm-line);
-      background: var(--vm-bg-soft);
-    }
-
+    body.shortstory-vm { background: var(--vm-bg); color: var(--vm-fg); }
+    .vm-page { width: min(100%, var(--vm-max)); margin: 0 auto; padding: 0 var(--vm-pad) 6rem; }
+    .vm-hero { min-height: 96vh; display: grid; grid-template-columns: 0.95fr 1.05fr; gap: 2rem; align-items: stretch; padding: 3rem 0 4rem; border-bottom: 1px solid var(--vm-line); }
+    .vm-hero-copy { display: flex; flex-direction: column; justify-content: flex-end; padding-bottom: 1rem; }
+    .vm-eyebrow, .vm-mono { font-family: "IBM Plex Mono", monospace; font-size: 0.78rem; letter-spacing: 0.12em; text-transform: uppercase; }
+    .vm-eyebrow { color: var(--vm-accent); margin-bottom: 1rem; }
+    .vm-title { margin: 0; font-family: "Cormorant", serif; font-size: clamp(3.8rem, 9vw, 8.5rem); line-height: 0.88; font-weight: 400; letter-spacing: -0.03em; max-width: 8ch; }
+    .vm-sub { margin-top: 1.25rem; max-width: 42rem; color: var(--vm-fg-dim); font-size: clamp(1rem, 1.5vw, 1.18rem); }
+    .vm-meta { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 0.75rem; margin-top: 2rem; max-width: 52rem; }
+    .vm-meta-card, .vm-card, .vm-excerpt, .vm-image-card, .vm-gallery-item, .vm-band { border: 1px solid var(--vm-line); background: linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0)); }
+    .vm-meta-card { padding: 0.85rem 1rem; }
+    .vm-meta-card strong { display: block; margin-top: 0.35rem; font-weight: 500; color: var(--vm-fg); }
+    .vm-cover-stage { position: relative; overflow: hidden; min-height: 70vh; border: 1px solid var(--vm-line); background: radial-gradient(circle at 20% 20%, rgba(230,163,181,0.12), transparent 30%), linear-gradient(180deg, #090909, #131313 60%, #0b0b0b); }
+    .vm-cover-stage img { width: 100%; height: 100%; object-fit: cover; display: block; }
+    .vm-cover-caption { position: absolute; left: 1rem; bottom: 1rem; padding: 0.5rem 0.7rem; background: rgba(5,5,5,0.68); backdrop-filter: blur(12px); border: 1px solid var(--vm-line); }
+    .vm-section { display: grid; grid-template-columns: 0.35fr 1fr; gap: 2rem; padding: 4rem 0; border-bottom: 1px solid var(--vm-line); }
+    .vm-section-title { margin: 0; font-family: "Cormorant", serif; font-size: clamp(2rem, 3vw, 3.3rem); line-height: 0.95; font-weight: 400; }
+    .vm-kicker { color: var(--vm-fg-dim); max-width: 18rem; }
+    .vm-stack { display: grid; gap: 1rem; }
+    .vm-card, .vm-excerpt, .vm-image-card, .vm-gallery-item, .vm-band { padding: 1.25rem; }
+    .vm-card h3, .vm-image-card h3 { margin: 0 0 0.6rem; font-family: "Cormorant", serif; font-size: 1.6rem; font-weight: 400; }
+    .vm-card p, .vm-image-card p, .vm-excerpt p { color: var(--vm-fg-dim); }
+    .vm-excerpt blockquote { margin: 0; font-family: "Cormorant", serif; font-size: clamp(1.4rem, 2.8vw, 2.3rem); line-height: 1.03; }
+    .vm-split { display: grid; grid-template-columns: 1.05fr 0.95fr; gap: 1rem; }
+    .vm-support-image, .vm-detail-image, .vm-archive-image { width: 100%; display: block; border: 1px solid var(--vm-line); background: var(--vm-bg-soft); }
     .vm-support-image { aspect-ratio: 16 / 9; object-fit: cover; }
     .vm-detail-image { aspect-ratio: 1 / 1; object-fit: cover; }
     .vm-archive-image { aspect-ratio: 4 / 3; object-fit: cover; }
-
-    .vm-gallery {
-      display: grid;
-      grid-template-columns: repeat(3, minmax(0, 1fr));
-      gap: 1rem;
-    }
-
-    .vm-gallery-item img {
-      width: 100%;
-      aspect-ratio: 4 / 5;
-      object-fit: cover;
-      display: block;
-      border: 1px solid var(--vm-line);
-      margin-bottom: 0.75rem;
-    }
-
-    .vm-band {
-      margin-top: 4rem;
-      display: flex;
-      justify-content: space-between;
-      gap: 1rem;
-      align-items: center;
-    }
-
-    .vm-band strong {
-      font-family: "Cormorant", serif;
-      font-size: clamp(1.5rem, 2.2vw, 2.2rem);
-      font-weight: 400;
-    }
-
-    .vm-link {
-      display: inline-block;
-      padding: 0.9rem 1.05rem;
-      border: 1px solid var(--vm-line);
-      background: rgba(230,163,181,0.08);
-    }
-
-    @media (max-width: 980px) {
-      .vm-hero,
-      .vm-section,
-      .vm-split,
-      .vm-gallery {
-        grid-template-columns: 1fr;
-      }
-
-      .vm-meta { grid-template-columns: 1fr 1fr; }
-      .vm-band { flex-direction: column; align-items: flex-start; }
-      .vm-hero { min-height: auto; }
-    }
-
-    @media (max-width: 640px) {
-      .vm-meta { grid-template-columns: 1fr; }
-    }
+    .vm-gallery { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1rem; }
+    .vm-gallery-item img { width: 100%; aspect-ratio: 4 / 5; object-fit: cover; display: block; border: 1px solid var(--vm-line); margin-bottom: 0.75rem; }
+    .vm-band { margin-top: 4rem; display: flex; justify-content: space-between; gap: 1rem; align-items: center; }
+    .vm-band strong { font-family: "Cormorant", serif; font-size: clamp(1.5rem, 2.2vw, 2.2rem); font-weight: 400; }
+    .vm-link { display: inline-block; padding: 0.9rem 1.05rem; border: 1px solid var(--vm-line); background: rgba(230,163,181,0.08); }
+    @media (max-width: 980px) { .vm-hero, .vm-section, .vm-split, .vm-gallery { grid-template-columns: 1fr; } .vm-meta { grid-template-columns: 1fr 1fr; } .vm-band { flex-direction: column; align-items: flex-start; } .vm-hero { min-height: auto; } }
+    @media (max-width: 640px) { .vm-meta { grid-template-columns: 1fr; } }
   </style>
 </head>
 <body class="shortstory-vm">
   <nav class="site-nav" role="navigation" aria-label="Main navigation">
     <div class="nav-wordmark"><a href="index.html">VERBOTEN MEDIA</a></div>
-    <button class="nav-toggle" aria-label="Toggle navigation" aria-expanded="false">
-      <span></span>
-      <span></span>
-      <span></span>
-    </button>
+    <button class="nav-toggle" aria-label="Toggle navigation" aria-expanded="false"><span></span><span></span><span></span></button>
     <ul class="nav-links" role="list">
       <li><a href="about.html">About</a></li>
       <li><a href="writings.html">Writings</a></li>
@@ -281,15 +73,12 @@
       <li><a href="contact.html">Contact</a></li>
     </ul>
   </nav>
-
   <main class="vm-page">
     <section class="vm-hero">
       <div class="vm-hero-copy">
         <div class="vm-eyebrow">Swedish novel impression page / live test</div>
         <h1 class="vm-title">En stigande tidvåg lyfter alla båtar</h1>
-        <p class="vm-sub">
-          A specialized impression-led publication surface for Swedish fiction: more cinematic, more atmospheric, and more willing to let image-pressure and typography arrive before explanation.
-        </p>
+        <p class="vm-sub">A specialized impression-led publication surface for Swedish fiction: more cinematic, more atmospheric, and more willing to let image-pressure and typography arrive before explanation.</p>
         <div class="vm-meta">
           <div class="vm-meta-card"><span class="vm-mono">Work</span><strong>Förlagsdeckaren</strong></div>
           <div class="vm-meta-card"><span class="vm-mono">Form</span><strong>Novellserie / Del I av Plural</strong></div>
@@ -298,11 +87,10 @@
         </div>
       </div>
       <div class="vm-cover-stage">
-        <img src="assets/deckaren-del1/deckaren1-hero1.png" alt="Volcano erupting inside a wineglass, molten red and orange against dark surroundings, tension between fragility and violent force.">
-        <div class="vm-cover-caption vm-mono">Slot A / Hero image</div>
+        <img src="assets/deckaren1-hero2.png" alt="A Nordic-nocturnal tableau of metamorphosis and invention in a mist-lit forest laboratory.">
+        <div class="vm-cover-caption vm-mono">Primary hero image</div>
       </div>
     </section>
-
     <section class="vm-section">
       <div>
         <p class="vm-kicker vm-mono">Atmosphere + pressure</p>
@@ -319,115 +107,55 @@
         </div>
       </div>
     </section>
-
     <section class="vm-section">
       <div>
         <p class="vm-kicker vm-mono">Primary excerpt</p>
         <h2 class="vm-section-title">Fragments should work as chambers, not blurbs.</h2>
       </div>
       <div class="vm-split">
-        <div class="vm-excerpt">
-          <blockquote>
-            Förläggaren drömde att närområdet var oklart uppdelat i olika militanta grupperingar, där fanns en miniskvadron av marscherande militärklädda som han i en tidigare dröm gjorde misstaget att interagera med, nackskottet kom i plytet och efter en kort stund av identifikation där drömgruppens drömledare alltså vred huvudet och fokuserade blicken på honom innan han lyfte personvapnet och fyrade av...
-          </blockquote>
-        </div>
-        <div class="vm-card">
-          <h3>Side fragment</h3>
-          <p>
-            Förläggaren hade nyst så det dånade i hela lokalen, vridit VR-glasögonen runt nackbenen och svurit åt barnen som lekte där; han hade stekt en ryggbiff, slängt en saint augur i kokkärlet och låtit sänka en handfull pommes fritt i en <em>ack så efterlängtad</em> air fryer...
-          </p>
-        </div>
+        <div class="vm-excerpt"><blockquote>Förläggaren drömde att närområdet var oklart uppdelat i olika militanta grupperingar, där fanns en miniskvadron av marscherande militärklädda som han i en tidigare dröm gjorde misstaget att interagera med, nackskottet kom i plytet och efter en kort stund av identifikation där drömgruppens drömledare alltså vred huvudet och fokuserade blicken på honom innan han lyfte personvapnet och fyrade av...</blockquote></div>
+        <div class="vm-card"><h3>Side fragment</h3><p>Förläggaren hade nyst så det dånade i hela lokalen, vridit VR-glasögonen runt nackbenen och svurit åt barnen som lekte där; han hade stekt en ryggbiff, slängt en saint augur i kokkärlet och låtit sänka en handfull pommes fritt i en <em>ack så efterlängtad</em> air fryer...</p></div>
       </div>
     </section>
-
     <section class="vm-section">
       <div>
         <p class="vm-kicker vm-mono">Image sequence</p>
         <h2 class="vm-section-title">The world widens, then tightens.</h2>
       </div>
       <div class="vm-stack">
-        <div class="vm-image-card">
-          <h3>Slot B — Atmosphere image</h3>
-          <img class="vm-support-image" src="assets/deckaren-del1/deckaren1-slotb.png" alt="Architecture as battlefield of ideologies, the air thick with tension and unresolved boundaries.">
-          <p>This image expands the world around the book. It should not repeat the hero image; it should widen the weather.</p>
-        </div>
+        <div class="vm-image-card"><h3>Atmosphere image</h3><img class="vm-support-image" src="assets/deckaren1-slotb.png" alt="Architecture as battlefield of ideologies, the air thick with tension and unresolved boundaries."><p>This image expands the world around the book.</p></div>
         <div class="vm-split">
-          <div class="vm-image-card">
-            <h3>Slot C — Detail / pressure image</h3>
-            <img class="vm-detail-image" src="assets/deckaren-del1/deckaren1-slotc.png" alt="A spiral staircase in a basement alive with posters, tape, and red light, tightening intimacy and danger.">
-            <p>This slot should feel sharper, stranger, and more intimate than the first two.</p>
-          </div>
-          <div class="vm-image-card">
-            <h3>Slot D — Process / archival insert</h3>
-            <img class="vm-archive-image" src="assets/deckaren-del1/deckaren1-slotd.png" alt="Cold light over a desk where cables, notes, and corrected pages lie like sediment of work.">
-            <p>Use this only when the process object adds pressure rather than distracting from it.</p>
-          </div>
+          <div class="vm-image-card"><h3>Detail / pressure image</h3><img class="vm-detail-image" src="assets/deckaren1-slotc.png" alt="A spiral staircase in a basement alive with posters, tape, and red light, tightening intimacy and danger."><p>This slot should feel sharper, stranger, and more intimate than the first two.</p></div>
+          <div class="vm-image-card"><h3>Process / archival insert</h3><img class="vm-archive-image" src="assets/deckaren1-slotd.png" alt="Cold light over a desk where cables, notes, and corrected pages lie like sediment of work."><p>Use this only when the process object adds pressure rather than distracting from it.</p></div>
         </div>
       </div>
     </section>
-
     <section class="vm-section">
       <div>
         <p class="vm-kicker vm-mono">Edition facts</p>
         <h2 class="vm-section-title">Keep the metadata minimal and load-bearing.</h2>
       </div>
       <div class="vm-stack">
-        <div class="vm-card">
-          <h3>Publication facts</h3>
-          <p>Förlagsdeckaren: En stigande tidvåg lyfter alla båtar</p>
-          <p>Martin Nygren</p>
-          <p>Novellserie: Del I av Plural</p>
-          <p>Publicerad som PDF den 20 juni 2022</p>
-        </div>
-        <div class="vm-card">
-          <h3>Format note</h3>
-          <p>This test page proves the image-slot logic with real assets. When the structure feels right, this surface can move into its own subfolder and dedicated page system.</p>
-        </div>
+        <div class="vm-card"><h3>Publication facts</h3><p>Förlagsdeckaren: En stigande tidvåg lyfter alla båtar</p><p>Martin Nygren</p><p>Novellserie: Del I av Plural</p><p>Publicerad som PDF den 20 juni 2022</p></div>
+        <div class="vm-card"><h3>Format note</h3><p>This test page proves the image-slot logic with real assets. When the structure feels right, this surface can move into its own subfolder and dedicated page system.</p></div>
       </div>
     </section>
-
     <section class="vm-section">
       <div>
-        <p class="vm-kicker vm-mono">Additional hero variants</p>
-        <h2 class="vm-section-title">Alternative intensity studies</h2>
+        <p class="vm-kicker vm-mono">Alternative intensity studies</p>
+        <h2 class="vm-section-title">Additional visual variants</h2>
       </div>
       <div class="vm-gallery">
-        <div class="vm-gallery-item">
-          <img src="assets/deckaren-del1/deckaren1-hero2.png" alt="A Nordic nocturnal tableau of metamorphosis and invention in a mist-lit forest laboratory.">
-          <div class="vm-mono">Hero variation 2</div>
-        </div>
-        <div class="vm-gallery-item">
-          <img src="assets/deckaren-del1/deckaren1-hero3.png" alt="The inventor becoming part of his creation as bark creeps through him in spectral green light.">
-          <div class="vm-mono">Hero variation 3</div>
-        </div>
-        <div class="vm-gallery-item">
-          <img src="assets/deckaren-del1/deckaren1-hero4.png" alt="The inventor now more mercurial than mystic, elegant and half-arboreal.">
-          <div class="vm-mono">Hero variation 4</div>
-        </div>
-        <div class="vm-gallery-item">
-          <img src="assets/deckaren-del1/deckaren1-hero5.png" alt="A neutral-workspace version of the transformation, part comedy and part occult procedure.">
-          <div class="vm-mono">Hero variation 5</div>
-        </div>
-        <div class="vm-gallery-item">
-          <img src="assets/deckaren-del1/deckaren1-hero6.png" alt="Additional image variant for the novel impression sequence.">
-          <div class="vm-mono">Hero variation 6</div>
-        </div>
-        <div class="vm-gallery-item">
-          <img src="assets/deckaren-del1/deckaren1-hero7.png" alt="Additional image variant for the novel impression sequence.">
-          <div class="vm-mono">Hero variation 7</div>
-        </div>
+        <div class="vm-gallery-item"><img src="assets/deckaren1-hero3.png" alt="The inventor becoming part of his creation as bark creeps through him in spectral green light."><div class="vm-mono">Variant 3</div></div>
+        <div class="vm-gallery-item"><img src="assets/deckaren1-hero4.png" alt="The inventor now more mercurial than mystic, elegant and half-arboreal."><div class="vm-mono">Variant 4</div></div>
+        <div class="vm-gallery-item"><img src="assets/deckaren1-hero5.png" alt="A neutral-workspace version of the transformation, part comedy and part occult procedure."><div class="vm-mono">Variant 5</div></div>
+        <div class="vm-gallery-item"><img src="assets/deckaren1-hero6.png" alt="Additional image variant for the novel impression sequence."><div class="vm-mono">Variant 6</div></div>
+        <div class="vm-gallery-item"><img src="assets/deckaren1-hero7.png" alt="Additional image variant for the novel impression sequence."><div class="vm-mono">Variant 7</div></div>
+        <div class="vm-gallery-item"><img src="assets/Stamp.png" alt="Stamp asset currently present in the root assets folder."><div class="vm-mono">Auxiliary asset</div></div>
       </div>
     </section>
-
-    <div class="vm-band">
-      <div>
-        <div class="vm-mono">Live test page</div>
-        <strong>This is the rendering test for the future Swedish novel impression format.</strong>
-      </div>
-      <a class="vm-link vm-mono" href="writings.html">Back to writings</a>
-    </div>
+    <div class="vm-band"><div><div class="vm-mono">Live test page</div><strong>This is the rendering test for the future Swedish novel impression format.</strong></div><a class="vm-link vm-mono" href="writings.html">Back to writings</a></div>
   </main>
-
   <script src="js/main.js"></script>
 </body>
 </html>
