@@ -75,18 +75,29 @@
     .vm2-title-wrap {
       display: flex;
       flex-direction: column;
-      justify-content: flex-end;
+      justify-content: space-between;
       border: 1px solid var(--line);
       padding: 1.5rem;
+      gap: 1.4rem;
       background:
         radial-gradient(circle at 20% 10%, rgba(216,140,162,0.15), transparent 32%),
         linear-gradient(180deg, #0c0c0c, #141414);
     }
 
     .vm2-title-wrap .stamp {
-      width: 5rem;
-      margin: 0 0 1rem;
-      opacity: 0.9;
+      width: 100%;
+      max-height: clamp(6rem, 26vh, 13rem);
+      object-fit: cover;
+      object-position: center 28%;
+      opacity: 0.96;
+      mix-blend-mode: screen;
+      filter: saturate(1.08) contrast(1.08);
+      margin: -0.75rem -0.75rem 0;
+      border-bottom: 1px solid var(--line);
+    }
+
+    .vm2-title-copy {
+      margin-top: auto;
     }
 
     .vm2-eyebrow { color: var(--accent); margin-bottom: 1rem; }
@@ -268,10 +279,12 @@
       <section class="vm2-main">
         <section class="vm2-hero">
           <div class="vm2-title-wrap">
-            <img class="stamp" src="assets/Stamp.png" alt="Decorative stamp asset">
-            <div class="vm2-eyebrow vm2-mono">Swedish novel impression page / template 2</div>
-            <h1 class="vm2-title">En stigande tidvåg lyfter alla båtar</h1>
-            <p class="vm2-sub">A second impression type for VERBOTEN MEDIA: more editorial, more fractured, more like a dossier of weather and pressure than a singular cinematic chamber.</p>
+            <img class="stamp" src="assets/skalle.gif" alt="Skalle motif drifting above the headline.">
+            <div class="vm2-title-copy">
+              <div class="vm2-eyebrow vm2-mono">Swedish novel impression page / template 2</div>
+              <h1 class="vm2-title">En stigande tidvåg lyfter alla båtar</h1>
+              <p class="vm2-sub">A second impression type for VERBOTEN MEDIA: more editorial, more fractured, more like a dossier of weather and pressure than a singular cinematic chamber.</p>
+            </div>
           </div>
           <div class="vm2-hero-image">
             <img src="assets/deckaren1-hero4.png" alt="The transformed inventor in old-world elegance, mercurial and half-arboreal.">
