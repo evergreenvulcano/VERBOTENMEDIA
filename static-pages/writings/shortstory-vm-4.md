@@ -1,34 +1,29 @@
 ---
-title: Shortstory VM 4
-author: VERBOTEN MEDIA
-date: "2026-04-18"
-summary: Immersive chapter runway template for novel and short story publication.
-type: novel
+title: "En stigande tidvåg lyfter alla båtar"
+format: shortstory
+layout: split
+opening_image: ../../assets/deckaren1-hero3.png
+opening_alt: "The inventor at the threshold of metamorphosis — bark threading through the costume in spectral green light."
+date: "2022"
+author: "Martin Nygren"
+summary: "Del I av Plural. Novellserie från Förlagsdeckaren."
+type: literary
 status: draft
 slug: shortstory-vm-4
 ---
 
-![Immersive novel hero treatment with spectral transformation.](../../assets/deckaren1-hero3.png)
+Förläggaren drömde att närområdet var oklart uppdelat i olika militanta grupperingar. Det var de nätter då han fortfarande kunde sova — det var de nätter som sedan slutade.
 
-## Template orientation
+> Med pannan i djupa veck över hur allt kommer att framstå för kommande generationer.
 
-Template 4 is a novel-first runway surface. It should open with atmospheric pressure, then move into concise fragments and image sequence.
+Några nätter senare ska han drömma att ön där de byggt sin ekoby fått bud om att en militant gruppering ska inta landet. Det är inte krig. Det är inte fred. Det är något mitt emellan — ett tillstånd som kräver ett namn det ännu inte fått.
 
-## Suggested section order
+Han hade stekt en ryggbiff, slängt en saint augur i kokkärlet och låtit sänka en handfull pommes fritt i en *ack så efterlängtad* air fryer. Sömnen hade gjort honom till en ny man, igen. Han hade som vanligt tagit den färska besvikelsen som en ursäkt att undvika djupare utredning av de gamla, och skridit till ett nytt verk.
 
-1. Hero image and title chamber
-2. One atmospheric pull line
-3. Three-image narrative sequence
-4. Minimal publication facts
+*En stigande tidvåg lyfter alla båtar, heter det. Det fanns en handfull satelittelefoner ombord på några synnerligen välutrustade svarta lådor som skumpar runt i den vilda nordhavsbassängen; borta är de fagra kvinnonamnen med storartade flasksmällar mot sidan av karossen under offentlig invigning framför folksamlingens mjugga unnsamhet, ombord varje liten skuta sitter en IT-konsult i flytväst, vissa orangea, någon rosa, någon blå.*
 
-## Image sequence
+Förläggaren hade nyst så det dånade i hela lokalen, vridit VR-glasögonen runt nackbenen och svurit åt barnen som lekte där. Sömnen hade gjort honom till en ny man, igen.
 
-![Atmosphere plate for world context.](../../assets/deckaren1-slotb.png)
+## Editionsuppgifter
 
-![Pressure detail image.](../../assets/deckaren1-slotc.png)
-
-![Archival process image.](../../assets/deckaren1-slotd.png)
-
-## Use case
-
-Best for novels, short stories, and image-forward literary dossiers.
+Förlagsdeckaren: En stigande tidvåg lyfter alla båtar — Martin Nygren — Novellserie: Del I av Plural — Publicerad som PDF den 20 juni 2022.
