@@ -1,4 +1,7 @@
 <!DOCTYPE html>
+<!-- ARCHIVE REFERENCE ONLY — This file is a static demo of the shortstory reading
+     system. The canonical publishing path is markdown through page.html.
+     Do not treat this file as a production template. -->
 <html lang="sv">
 <head>
   <meta charset="UTF-8">
@@ -12,33 +15,27 @@
   <style>
     :root {
       --vm6-bg: #070707;
-      --vm6-panel: #101010;
       --vm6-fg: #f3efe7;
       --vm6-dim: #b7afa2;
       --vm6-line: rgba(243,239,231,0.12);
       --vm6-accent: #d88ca2;
-      --vm6-max: 1400px;
+      --vm6-prose: 680px;
       --vm6-pad: clamp(1rem, 2vw, 2rem);
-      --vm6-copy: 920px;
     }
     body.vm6 { background: var(--vm6-bg); color: var(--vm6-fg); }
-    .vm6-page { width: min(100%, var(--vm6-max)); margin: 0 auto; padding: 2rem var(--vm6-pad) 6rem; }
-    .vm6-mono { font-family: "IBM Plex Mono", monospace; font-size: 0.78rem; letter-spacing: 0.12em; text-transform: uppercase; }
-    .vm6-hero, .vm6-block, .vm6-band { border: 1px solid var(--vm6-line); background: linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0)); }
-    .vm6-hero, .vm6-block, .vm6-band { padding: 1.25rem; }
-    .vm6-hero img { width: 100%; aspect-ratio: 21 / 9; object-fit: cover; border: 1px solid var(--vm6-line); margin-bottom: 1rem; display: block; }
-    .vm6-title { margin: 0.4rem 0 0; font-family: "Cormorant", serif; font-size: clamp(2.9rem, 6.4vw, 5.9rem); line-height: 0.9; font-weight: 400; letter-spacing: -0.03em; }
-    .vm6-sub { margin: 1rem 0 0; color: var(--vm6-dim); max-width: 52rem; }
-    .vm6-copy { width: min(100%, var(--vm6-copy)); margin: 1rem auto 0; display: grid; gap: 1rem; }
-    .vm6-block h3 { margin: 0 0 0.5rem; font-family: "Cormorant", serif; font-size: 1.45rem; font-weight: 400; }
-    .vm6-block p { margin: 0; color: var(--vm6-dim); line-height: 1.65; }
-    .vm6-inline-image { width: 100%; border: 1px solid var(--vm6-line); display: block; margin: 0.9rem 0; aspect-ratio: 16 / 10; object-fit: cover; background: var(--vm6-panel); }
-    .vm6-band { margin-top: 1rem; display: flex; justify-content: space-between; align-items: center; gap: 1rem; }
-    .vm6-link { display: inline-block; padding: 0.85rem 1rem; border: 1px solid var(--vm6-line); background: rgba(216,140,162,0.08); color: var(--vm6-fg); text-decoration: none; }
-    @media (max-width: 980px) {
-      .vm6-hero img { aspect-ratio: 16 / 10; }
-      .vm6-band { flex-direction: column; align-items: flex-start; }
-    }
+    .vm6-page { width: min(100%, var(--vm6-prose)); margin: 0 auto; padding: 0 var(--vm6-pad) 6rem; }
+    .vm6-mono { font-family: "IBM Plex Mono", monospace; font-size: 0.78rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--vm6-dim); }
+    .vm6-header { padding: 4rem 0 2rem; border-bottom: 1px solid var(--vm6-line); margin-bottom: 2.5rem; }
+    .vm6-title { margin: 0 0 0.75rem; font-family: "Cormorant", serif; font-size: clamp(1.75rem, 4vw, 2.75rem); line-height: 1.1; font-weight: 400; letter-spacing: -0.02em; }
+    .vm6-sub { color: var(--vm6-dim); margin: 0 0 1rem; max-width: 48ch; }
+    .vm6-meta { margin-top: 1rem; }
+    .vm6-body p { line-height: 1.75; margin-bottom: 1.25rem; }
+    .vm6-body blockquote { font-family: "Cormorant", serif; font-size: clamp(1.2rem, 2.4vw, 1.625rem); line-height: 1.4; font-style: italic; color: var(--vm6-fg); margin: 2.5rem 0; padding-left: 1rem; border-left: 1px solid var(--vm6-accent); }
+    .vm6-body img { width: 100%; display: block; margin: 2.5rem 0; }
+    .vm6-nav-link { font-family: "IBM Plex Mono", monospace; font-size: 0.78rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--vm6-dim); text-decoration: none; display: inline-block; margin-top: 2rem; border-bottom: 1px solid var(--vm6-line); padding-bottom: 2px; }
+    .vm6-nav-link:hover { color: var(--vm6-fg); }
+    .vm6-archive-note { padding: 2rem 0 1rem; color: var(--vm6-dim); }
+    .vm6-archive-note a { color: var(--vm6-dim); }
   </style>
 </head>
 <body class="vm6">
@@ -57,39 +54,25 @@
   </nav>
 
   <main class="vm6-page">
-    <header class="vm6-hero">
-      <img src="assets/deckaren1-hero2.png" alt="Broad cinematic image for an essay/novel bridge template.">
-      <div class="vm6-mono">Novel template / essay bridge</div>
-      <h1 class="vm6-title">Template 6: Longform bridge format</h1>
-      <p class="vm6-sub">This format holds prose continuity while keeping images active at regular intervals, suited to essays, special articles, and chapter excerpts.</p>
+    <p class="vm6-archive-note vm6-mono">Arkiv&shy;referens — kanonisk läsväg: <a href="page.html?path=static-pages/writings/shortstory-vm-6.md">page.html</a></p>
+    <header class="vm6-header">
+      <div class="vm6-mono">Shortstory — Image-led interruption reference</div>
+      <h1 class="vm6-title">Borderland</h1>
+      <p class="vm6-sub">Festival. Noll procent algoritm. Och ändå dog någon.</p>
+      <div class="vm6-meta vm6-mono">Martin Nygren — 2022</div>
     </header>
 
-    <section class="vm6-copy">
-      <article class="vm6-block">
-        <h3>Opening fragment</h3>
-        <p>Start with a compact atmospheric fragment and one clear line of publication context. Keep this block short so the page breathes before longer prose appears.</p>
-      </article>
+    <section class="vm6-body">
+      <p>Noll procent algoritm vid Borderland. Det är inte ett löfte — det är en formel. Ingen sponsring, inga datainsamlingar, inget feed som formaterar vad du ser och i vilken ordning. Kropp möter kropp. Konst skapas och konsumeras i samma rörelse.</p>
+      <p>Resultatet är inte utopi. Det är desorientering. Utan algoritmer måste uppmärksamheten styras av sig självt — och det visar sig vara hårdare än någon förväntade sig.</p>
 
-      <article class="vm6-block">
-        <h3>Image-supported section</h3>
-        <img class="vm6-inline-image" src="assets/deckaren1-slotb.png" alt="Inline support image inside template 6.">
-        <p>Use one image every major section to mark tonal movement. Let each image be semantically connected to the adjacent text rather than decorative.</p>
-      </article>
+      <img src="assets/deckaren1-slotb.png" alt="Arkitekturen som ideologiernas slagfält — luften tung av spänning och olösta gränser.">
 
-      <article class="vm6-block">
-        <h3>Secondary movement</h3>
-        <img class="vm6-inline-image" src="assets/deckaren1-slotd.png" alt="Secondary inline process image inside template 6.">
-        <p>This final section can carry an excerpt, editorial note, or publication metadata while retaining the same rhythm and typographic restraint.</p>
-      </article>
+      <p>Klonet framträdde på Borderland. Samma kropp som Arthur, samma röst, men ett minne kirurgiskt bortopererat via SHA2-modifiering. Det framförde psykopomp-poesi om kvantmekanik och fotosyntes för en publik som inte bett om en föreläsning.</p>
+      <blockquote>"Klonet är Arthur minus Skylars död. Det är mallen med traumat bortredigerat. Är en mall för ett jag utan lidande fortfarande ett jag?"</blockquote>
+      <p>I sjukhustältet dog någon. En festival konstruerad för livet. En tillfällig stad byggd för att fira närvaro. Och ändå. Corpus of departures växer.</p>
+      <a class="vm6-nav-link" href="page.html?path=static-pages/writings/shortstory-vm-6.md">Läs i läsaren →</a>
     </section>
-
-    <div class="vm6-band">
-      <div>
-        <div class="vm6-mono">Use case</div>
-        <strong>Essays, special articles, and novel chapter previews.</strong>
-      </div>
-      <a class="vm6-link vm6-mono" href="shortstory-vm-3.html">Back to template 3</a>
-    </div>
   </main>
 
   <script src="js/main.js"></script>

@@ -1413,3 +1413,133 @@ em     { font-style: italic; }
     opacity: 0.08;
   }
 }
+
+/* ============================================================
+   SHORTSTORY READING SYSTEM
+   One contract — three layout modulations.
+   Prose is primary. Images pace the reading. Nothing else.
+   ============================================================ */
+
+/* -- Header image figure: hidden until explicitly activated -- */
+
+.article-header-image {
+  display: none;
+  margin: 0;
+  padding: 0;
+}
+
+/* -- Base shortstory profile --------------------------------- */
+
+.article--shortstory .article-header::after {
+  display: none;
+}
+
+.article--shortstory .article-title {
+  font-size: clamp(1.75rem, 3.5vw, 2.75rem);
+  letter-spacing: -0.02em;
+  line-height: 1.1;
+}
+
+.article--shortstory .article-summary {
+  font-size: var(--size-md);
+  margin-top: 0.75rem;
+  max-width: 48ch;
+}
+
+.article--shortstory .article-body h2 {
+  font-size: var(--size-xl);
+  font-weight: 300;
+  letter-spacing: 0;
+  color: var(--fg-muted);
+  margin-top: var(--space-lg);
+  margin-bottom: var(--space-sm);
+}
+
+.article--shortstory .article-body h3 {
+  font-size: var(--size-lg);
+  font-weight: 300;
+  color: var(--fg-muted);
+  margin-top: var(--space-md);
+  margin-bottom: 0.5rem;
+}
+
+/* Pull fragment — editorial, quiet at reading tone */
+.article--shortstory .article-body blockquote {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-size: clamp(1.2rem, 2.4vw, 1.625rem);
+  line-height: 1.45;
+  margin: var(--space-lg) 0;
+  padding-left: var(--space-md);
+  border-left: 1px solid var(--accent);
+}
+
+/* Inline images — editorial width, clean margins */
+.article--shortstory .article-body img {
+  width: 100%;
+  display: block;
+  margin: var(--space-lg) 0;
+}
+
+/* -- Image-led interruption variant (layout: interrupted) ---- */
+/*
+   Identical to the base shortstory profile.
+   The one semantic image break receives extra vertical breathing room
+   to signal a deliberate reading interrupt. No other structural change.
+*/
+.article--interrupted .article-body img {
+  margin-top: var(--space-xl);
+  margin-bottom: var(--space-xl);
+}
+
+/* -- Opening split variant (layout: split) ------------------- */
+
+.article--split .article-header {
+  max-width: var(--max-prose-wide);
+  padding: var(--space-xl) var(--space-md) 0;
+  border-bottom: none;
+}
+
+.article--split .article-header-inner {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: var(--space-md);
+  align-items: end;
+  padding-bottom: var(--space-lg);
+  border-bottom: 1px solid var(--border);
+}
+
+.article--split .article-header-text {
+  padding-bottom: var(--space-xs);
+}
+
+.article--split .article-header-image {
+  display: block;
+}
+
+.article--split .article-header-image img {
+  width: 100%;
+  height: 100%;
+  display: block;
+  object-fit: cover;
+  aspect-ratio: 3 / 4;
+}
+
+@media (max-width: 760px) {
+  .article--split .article-header {
+    padding: var(--space-lg) var(--space-md) 0;
+  }
+
+  .article--split .article-header-inner {
+    grid-template-columns: 1fr;
+  }
+
+  .article--split .article-header-image {
+    order: -1;
+  }
+
+  .article--split .article-header-text {
+    min-height: 0;
+    justify-content: flex-start;
+  }
+}

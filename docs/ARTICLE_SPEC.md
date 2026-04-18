@@ -10,10 +10,13 @@ Markdown with frontmatter.
 
 ## Frontmatter fields
 
+The frontmatter parser supports flat `key: value` pairs only.
+It does not support arrays, nested fields, or multiline values.
+Quote strings that contain colons or special characters.
+
 ```yaml
 ---
 title: ""
-slug: ""
 date: "YYYY-MM-DD"
 summary: ""
 type: "essay | fragment | novel | note | experimental"
@@ -26,11 +29,17 @@ inline_image_alt: ""
 ## Rules
 
 - `title` is required
-- `slug` should be URL-safe
 - `date` should reflect intended publication date
 - `summary` should be 1–2 sentences
 - `type` defines the category
 - `status` controls readiness
+
+## Shortstory mode
+
+For literary prose that needs one of the three shortstory layouts (split, article, interrupted),
+add `mode: shortstory` and optionally `layout:` to the frontmatter.
+
+See `docs/SHORTSTORY_SYSTEM.md` for the full shortstory contract.
 
 ## Body structure
 

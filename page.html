@@ -34,9 +34,14 @@
   <div class="page-body">
     <main class="article">
       <header class="article-header">
-        <div class="article-meta" id="article-meta"></div>
-        <h1 class="article-title" id="article-title">Loading…</h1>
-        <p class="article-summary" id="article-summary"></p>
+        <div class="article-header-inner">
+          <div class="article-header-text">
+            <div class="article-meta" id="article-meta"></div>
+            <h1 class="article-title" id="article-title">Loading…</h1>
+            <p class="article-summary" id="article-summary"></p>
+          </div>
+          <figure class="article-header-image" id="article-header-image"></figure>
+        </div>
       </header>
       <article class="article-body" id="article-body">
         <p class="text-muted">Loading markdown page…</p>
@@ -360,12 +365,39 @@
           var title = (parsed.meta.title || '').trim() || deriveTitleFromPath(mdPath);
           var summary = (parsed.meta.summary || parsed.meta.description || '').trim();
           var articleMeta = (parsed.meta.date || parsed.meta.year || '').trim();
+          var author = (parsed.meta.author || '').trim();
+          var mode = (parsed.meta.mode || '').trim().toLowerCase();
+          var layout = (parsed.meta.layout || '').trim().toLowerCase();
+          var openingImage = (parsed.meta.opening_image || '').trim();
+          var openingAlt = (parsed.meta.opening_alt || '').trim();
 
           document.title = title + ' — VERBOTEN MEDIA';
           titleEl.textContent = title;
           summaryEl.textContent = summary;
-          metaEl.textContent = articleMeta || mdPath;
+          var metaLine = [author, articleMeta].filter(Boolean).join(' — ');
+          metaEl.textContent = metaLine || mdPath;
           bodyEl.innerHTML = renderMarkdown(parsed.body || '', title);
+
+          if (mode === 'shortstory') {
+            var articleEl = document.querySelector('.article');
+            if (articleEl) {
+              articleEl.classList.add('article--shortstory');
+              if (layout === 'split' && openingImage) {
+                var safeImgUrl = resolveMarkdownUrl(openingImage);
+                if (safeImgUrl) {
+                  articleEl.classList.add('article--split');
+                  var headerImgEl = document.getElementById('article-header-image');
+                  if (headerImgEl) {
+                    headerImgEl.innerHTML = '<img src="' + escapeHtml(safeImgUrl) + '" alt="' + escapeHtml(openingAlt) + '" loading="lazy">';
+                  }
+                }
+              } else if (layout === 'interrupted') {
+                // Interrupted layout: CSS adds extra margins to the image break to signal reading pause.
+                articleEl.classList.add('article--interrupted');
+              }
+              // layout: article (or no layout) uses the base shortstory profile only.
+            }
+          }
         } catch (error) {
           showError('The requested markdown file could not be loaded.');
         }

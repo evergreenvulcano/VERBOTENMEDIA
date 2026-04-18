@@ -1,4 +1,7 @@
 <!DOCTYPE html>
+<!-- ARCHIVE REFERENCE ONLY — This file is a static demo of the shortstory reading
+     system. The canonical publishing path is markdown through page.html.
+     Do not treat this file as a production template. -->
 <html lang="sv">
 <head>
   <meta charset="UTF-8">
@@ -11,35 +14,27 @@
   <link rel="stylesheet" href="css/style.css">
   <style>
     :root {
-      --vm5-bg: #060606;
-      --vm5-panel: #111111;
+      --vm5-bg: #070707;
       --vm5-fg: #f3efe7;
       --vm5-dim: #b7afa2;
       --vm5-line: rgba(243,239,231,0.12);
-      --vm5-accent: #bda07d;
-      --vm5-max: 1480px;
+      --vm5-accent: #d88ca2;
+      --vm5-prose: 680px;
       --vm5-pad: clamp(1rem, 2vw, 2rem);
     }
     body.vm5 { background: var(--vm5-bg); color: var(--vm5-fg); }
-    .vm5-page { width: min(100%, var(--vm5-max)); margin: 0 auto; padding: 2rem var(--vm5-pad) 6rem; }
-    .vm5-mono { font-family: "IBM Plex Mono", monospace; font-size: 0.78rem; letter-spacing: 0.12em; text-transform: uppercase; }
-    .vm5-head, .vm5-card, .vm5-band { border: 1px solid var(--vm5-line); background: linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0)); }
-    .vm5-head, .vm5-card, .vm5-band { padding: 1.25rem; }
-    .vm5-title { margin: 0.4rem 0 0; font-family: "Cormorant", serif; font-size: clamp(2.8rem, 6vw, 5.4rem); line-height: 0.9; font-weight: 400; letter-spacing: -0.03em; }
-    .vm5-sub { margin: 1rem 0 0; color: var(--vm5-dim); max-width: 56rem; }
-    .vm5-mosaic { margin-top: 1rem; display: grid; grid-template-columns: 1.2fr 0.8fr; gap: 1rem; }
-    .vm5-column { display: grid; gap: 1rem; }
-    .vm5-card img { width: 100%; border: 1px solid var(--vm5-line); display: block; margin-bottom: 0.75rem; background: var(--vm5-panel); }
-    .vm5-card .hero { aspect-ratio: 16 / 9; object-fit: cover; }
-    .vm5-card .tall { aspect-ratio: 4 / 5; object-fit: cover; }
-    .vm5-card h3 { margin: 0 0 0.5rem; font-family: "Cormorant", serif; font-size: 1.35rem; font-weight: 400; }
-    .vm5-card p { margin: 0; color: var(--vm5-dim); }
-    .vm5-band { display: flex; justify-content: space-between; gap: 1rem; align-items: center; margin-top: 1rem; }
-    .vm5-link { display: inline-block; padding: 0.85rem 1rem; border: 1px solid var(--vm5-line); background: rgba(189,160,125,0.08); color: var(--vm5-fg); text-decoration: none; }
-    @media (max-width: 980px) {
-      .vm5-mosaic { grid-template-columns: 1fr; }
-      .vm5-band { flex-direction: column; align-items: flex-start; }
-    }
+    .vm5-page { width: min(100%, var(--vm5-prose)); margin: 0 auto; padding: 0 var(--vm5-pad) 6rem; }
+    .vm5-mono { font-family: "IBM Plex Mono", monospace; font-size: 0.78rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--vm5-dim); }
+    .vm5-header { padding: 4rem 0 2rem; border-bottom: 1px solid var(--vm5-line); margin-bottom: 2.5rem; }
+    .vm5-title { margin: 0 0 0.75rem; font-family: "Cormorant", serif; font-size: clamp(1.75rem, 4vw, 2.75rem); line-height: 1.1; font-weight: 400; letter-spacing: -0.02em; }
+    .vm5-sub { color: var(--vm5-dim); margin: 0 0 1rem; max-width: 48ch; }
+    .vm5-meta { margin-top: 1rem; }
+    .vm5-body p { line-height: 1.75; margin-bottom: 1.25rem; }
+    .vm5-body blockquote { font-family: "Cormorant", serif; font-size: clamp(1.2rem, 2.4vw, 1.625rem); line-height: 1.4; font-style: italic; color: var(--vm5-fg); margin: 2.5rem 0; padding-left: 1rem; border-left: 1px solid var(--vm5-accent); }
+    .vm5-nav-link { font-family: "IBM Plex Mono", monospace; font-size: 0.78rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--vm5-dim); text-decoration: none; display: inline-block; margin-top: 2rem; border-bottom: 1px solid var(--vm5-line); padding-bottom: 2px; }
+    .vm5-nav-link:hover { color: var(--vm5-fg); }
+    .vm5-archive-note { padding: 2rem 0 1rem; color: var(--vm5-dim); }
+    .vm5-archive-note a { color: var(--vm5-dim); }
   </style>
 </head>
 <body class="vm5">
@@ -58,46 +53,21 @@
   </nav>
 
   <main class="vm5-page">
-    <header class="vm5-head">
-      <div class="vm5-mono">Novel template / image-forward mosaic</div>
-      <h1 class="vm5-title">Template 5: Mosaic issue surface</h1>
-      <p class="vm5-sub">Use this for special articles, essay features, or short story issues where image sequencing should carry equal narrative weight as text.</p>
+    <p class="vm5-archive-note vm5-mono">Arkiv&shy;referens — kanonisk läsväg: <a href="page.html?path=static-pages/writings/shortstory-vm-5.md">page.html</a></p>
+    <header class="vm5-header">
+      <div class="vm5-mono">Shortstory — Austere longform reference</div>
+      <h1 class="vm5-title">Tystnad som publiceringsform</h1>
+      <p class="vm5-sub">Om hundraexemplarsupplagorna och det publicerade tomrummet.</p>
+      <div class="vm5-meta vm5-mono">Martin Nygren — 2022</div>
     </header>
 
-    <section class="vm5-mosaic">
-      <div class="vm5-column">
-        <article class="vm5-card">
-          <img class="hero" src="assets/deckaren1-hero4.png" alt="Primary panel image for template 5.">
-          <h3>Primary panel</h3>
-          <p>Main image sets tone; keep title and metadata concise.</p>
-        </article>
-        <article class="vm5-card">
-          <img class="hero" src="assets/deckaren1-hero5.png" alt="Secondary panel image for template 5.">
-          <h3>Secondary panel</h3>
-          <p>Secondary image shifts register without breaking visual rhythm.</p>
-        </article>
-      </div>
-      <div class="vm5-column">
-        <article class="vm5-card">
-          <img class="tall" src="assets/deckaren1-slotc.png" alt="Detail panel image for template 5.">
-          <h3>Detail panel</h3>
-          <p>Detail image anchors a fragment, quote, or pull sentence.</p>
-        </article>
-        <article class="vm5-card">
-          <img class="tall" src="assets/deckaren1-slotd.png" alt="Process panel image for template 5.">
-          <h3>Process panel</h3>
-          <p>Process slot supports publication notes or editorial framing.</p>
-        </article>
-      </div>
+    <section class="vm5-body">
+      <p>Ett hundra exemplar. Kultupplagan — ett tryck konstruerat inte för distribution utan för existens. Varje exemplar är numrerat. Varje exemplar är ett faktum. Men rummet mellan exemplaren — de nittionio luckorna, de ohörda hyllorna, de bokhandlar som aldrig kommer att ta in det — det är det publicerade tomrummet.</p>
+      <p>Romanen fyller inte detta tomrum med marknadsföring. Den låter det stå. Tystnad som publiceringsform är inte avsaknad av ambition. Det är en annan sorts ambition: att varje läsare ska vara ett val, inte ett nummer i ett reach-diagram.</p>
+      <blockquote>"Tystnaden mellan kapitlen är det publicerade tomrummet gjort fysiskt: rummet där läsaren befinner sig ensam, mellan två textväggar, utan något att hålla i utom minnet av det som just lästes."</blockquote>
+      <p>Läsaren stiger ur ett kapitel gaspande — inte för att texten var lång utan för att den vägrade andas. Och sedan: tomrummet. En sida. Inget annat. Det är här boken publicerar sin viktigaste mening.</p>
+      <a class="vm5-nav-link" href="page.html?path=static-pages/writings/shortstory-vm-5.md">Läs i läsaren →</a>
     </section>
-
-    <div class="vm5-band">
-      <div>
-        <div class="vm5-mono">Use case</div>
-        <strong>Short stories, special articles, and image-led longform.</strong>
-      </div>
-      <a class="vm5-link vm5-mono" href="shortstory-vm-6.html">Next template</a>
-    </div>
   </main>
 
   <script src="js/main.js"></script>
