@@ -1,0 +1,371 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Shortstory VM 2 — a second Swedish novel impression page template for VERBOTEN MEDIA.">
+  <title>Shortstory VM 2 — VERBOTEN MEDIA</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant:ital,wght@0,300;0,400;0,600;1,300;1,400&family=Inter:wght@300;400;500&family=IBM+Plex+Mono:wght@300;400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+  <style>
+    :root {
+      --bg: #060606;
+      --panel: #111111;
+      --fg: #f3efe7;
+      --fg-dim: #b7afa2;
+      --line: rgba(243,239,231,0.12);
+      --accent: #d88ca2;
+      --accent-soft: rgba(216,140,162,0.12);
+      --accent-2: #bda07d;
+      --max: 1480px;
+      --pad: clamp(1rem, 2vw, 2rem);
+    }
+
+    * { box-sizing: border-box; }
+    body.vm2 { background: var(--bg); color: var(--fg); }
+    img { max-width: 100%; display: block; }
+
+    .vm2-page { width: min(100%, var(--max)); margin: 0 auto; padding: 0 var(--pad) 6rem; }
+    .vm2-mono { font-family: "IBM Plex Mono", monospace; font-size: 0.78rem; letter-spacing: 0.12em; text-transform: uppercase; }
+
+    .vm2-grid {
+      display: grid;
+      grid-template-columns: 0.3fr 1fr;
+      gap: 1.2rem;
+      padding-top: 2rem;
+    }
+
+    .vm2-rail {
+      position: sticky;
+      top: 6rem;
+      align-self: start;
+      display: grid;
+      gap: 1rem;
+    }
+
+    .vm2-rail-card,
+    .vm2-panel,
+    .vm2-quote,
+    .vm2-band,
+    .vm2-gallery-item,
+    .vm2-strip {
+      border: 1px solid var(--line);
+      background: linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0));
+    }
+
+    .vm2-rail-card,
+    .vm2-panel,
+    .vm2-quote,
+    .vm2-band,
+    .vm2-gallery-item {
+      padding: 1rem;
+    }
+
+    .vm2-main { display: grid; gap: 1.2rem; }
+
+    .vm2-hero {
+      display: grid;
+      grid-template-columns: 1.1fr 0.9fr;
+      gap: 1rem;
+      min-height: 82vh;
+    }
+
+    .vm2-title-wrap {
+      display: flex;
+      flex-direction: column;
+      justify-content: flex-end;
+      border: 1px solid var(--line);
+      padding: 1.5rem;
+      background:
+        radial-gradient(circle at 20% 10%, rgba(216,140,162,0.15), transparent 32%),
+        linear-gradient(180deg, #0c0c0c, #141414);
+    }
+
+    .vm2-eyebrow { color: var(--accent); margin-bottom: 1rem; }
+
+    .vm2-title {
+      margin: 0;
+      font-family: "Cormorant", serif;
+      font-size: clamp(3rem, 8vw, 7rem);
+      line-height: 0.88;
+      letter-spacing: -0.03em;
+      max-width: 9ch;
+      font-weight: 400;
+    }
+
+    .vm2-sub {
+      margin-top: 1rem;
+      color: var(--fg-dim);
+      max-width: 38rem;
+      font-size: clamp(1rem, 1.45vw, 1.12rem);
+    }
+
+    .vm2-hero-image {
+      position: relative;
+      overflow: hidden;
+      border: 1px solid var(--line);
+    }
+
+    .vm2-hero-image img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+
+    .vm2-hero-image .stamp {
+      position: absolute;
+      right: 1rem;
+      bottom: 1rem;
+      width: 5rem;
+      opacity: 0.9;
+    }
+
+    .vm2-strip {
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
+      gap: 1px;
+      background: var(--line);
+      overflow: hidden;
+    }
+
+    .vm2-strip-item {
+      background: var(--panel);
+      padding: 1rem;
+      min-height: 8rem;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+    }
+
+    .vm2-strip-item strong {
+      font-family: "Cormorant", serif;
+      font-size: 1.7rem;
+      font-weight: 400;
+      line-height: 0.95;
+    }
+
+    .vm2-duo {
+      display: grid;
+      grid-template-columns: 0.95fr 1.05fr;
+      gap: 1rem;
+    }
+
+    .vm2-quote blockquote {
+      margin: 0;
+      font-family: "Cormorant", serif;
+      font-size: clamp(1.4rem, 2.6vw, 2.2rem);
+      line-height: 1.02;
+    }
+
+    .vm2-panel h3,
+    .vm2-quote h3,
+    .vm2-gallery-item h3,
+    .vm2-rail-card h3 {
+      margin: 0 0 0.6rem;
+      font-family: "Cormorant", serif;
+      font-weight: 400;
+      font-size: 1.5rem;
+    }
+
+    .vm2-panel p,
+    .vm2-quote p,
+    .vm2-rail-card p,
+    .vm2-gallery-item p {
+      color: var(--fg-dim);
+    }
+
+    .vm2-gallery {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 1rem;
+    }
+
+    .vm2-gallery-item img {
+      width: 100%;
+      aspect-ratio: 4 / 5;
+      object-fit: cover;
+      border: 1px solid var(--line);
+      margin-bottom: 0.8rem;
+    }
+
+    .vm2-long {
+      display: grid;
+      grid-template-columns: 1.15fr 0.85fr;
+      gap: 1rem;
+    }
+
+    .vm2-band {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 1rem;
+      margin-top: 1rem;
+    }
+
+    .vm2-band strong {
+      font-family: "Cormorant", serif;
+      font-size: clamp(1.45rem, 2.1vw, 2rem);
+      font-weight: 400;
+      line-height: 1;
+    }
+
+    .vm2-link {
+      display: inline-block;
+      padding: 0.85rem 1rem;
+      border: 1px solid var(--line);
+      background: var(--accent-soft);
+      color: var(--fg);
+      text-decoration: none;
+    }
+
+    @media (max-width: 1020px) {
+      .vm2-grid,
+      .vm2-hero,
+      .vm2-duo,
+      .vm2-long,
+      .vm2-gallery {
+        grid-template-columns: 1fr;
+      }
+      .vm2-rail { position: static; }
+      .vm2-strip { grid-template-columns: 1fr; }
+      .vm2-band { flex-direction: column; align-items: flex-start; }
+    }
+  </style>
+</head>
+<body class="vm2">
+  <nav class="site-nav" role="navigation" aria-label="Main navigation">
+    <div class="nav-wordmark"><a href="index.html">VERBOTEN MEDIA</a></div>
+    <button class="nav-toggle" aria-label="Toggle navigation" aria-expanded="false"><span></span><span></span><span></span></button>
+    <ul class="nav-links" role="list">
+      <li><a href="about.html">About</a></li>
+      <li><a href="writings.html">Writings</a></li>
+      <li><a href="experimental-sandbox.html">Experimental Sandbox</a></li>
+      <li><a href="events.html">Events</a></li>
+      <li><a href="lectures-workshops.html">Lectures &amp; Workshops</a></li>
+      <li><a href="associated-projects.html">Associated Projects</a></li>
+      <li><a href="contact.html">Contact</a></li>
+    </ul>
+  </nav>
+
+  <main class="vm2-page">
+    <div class="vm2-grid">
+      <aside class="vm2-rail">
+        <div class="vm2-rail-card">
+          <div class="vm2-mono">Template type</div>
+          <h3>Dossier / fracture page</h3>
+          <p>Use this variation when the publication should feel sharper, more editorial, more cut into panels and signals than the first template.</p>
+        </div>
+        <div class="vm2-rail-card">
+          <div class="vm2-mono">Best for</div>
+          <p>Novels, fractured prose, theory-fiction, strange editions, manifesto-bearing literary work.</p>
+        </div>
+        <div class="vm2-rail-card">
+          <div class="vm2-mono">Surface law</div>
+          <p>Less cinematic immersion. More collision, sequence, and visible arrangement.</p>
+        </div>
+      </aside>
+
+      <section class="vm2-main">
+        <section class="vm2-hero">
+          <div class="vm2-title-wrap">
+            <div class="vm2-eyebrow vm2-mono">Swedish novel impression page / template 2</div>
+            <h1 class="vm2-title">En stigande tidvåg lyfter alla båtar</h1>
+            <p class="vm2-sub">A second impression type for VERBOTEN MEDIA: more editorial, more fractured, more like a dossier of weather and pressure than a singular cinematic chamber.</p>
+          </div>
+          <div class="vm2-hero-image">
+            <img src="assets/deckaren1-hero4.png" alt="The transformed inventor in old-world elegance, mercurial and half-arboreal.">
+            <img class="stamp" src="assets/Stamp.png" alt="Decorative stamp asset">
+          </div>
+        </section>
+
+        <section class="vm2-strip">
+          <div class="vm2-strip-item">
+            <div class="vm2-mono">Atmosphere</div>
+            <strong>Domestic myth under pressure</strong>
+          </div>
+          <div class="vm2-strip-item">
+            <div class="vm2-mono">Conflict field</div>
+            <strong>Ecology, militancy, and the social body</strong>
+          </div>
+          <div class="vm2-strip-item">
+            <div class="vm2-mono">Reader invitation</div>
+            <strong>Enter through fracture, not explanation</strong>
+          </div>
+        </section>
+
+        <section class="vm2-duo">
+          <article class="vm2-quote">
+            <h3>Primary chamber</h3>
+            <blockquote>“Med pannan i djupa veck över hur allt kommer att framstå för kommande generationer...”</blockquote>
+            <p>This variation makes the line feel like evidence or signal rather than soft immersion.</p>
+          </article>
+          <article class="vm2-panel">
+            <h3>Pressure statement</h3>
+            <p>Några nätter senare ska han drömma att ön där de byggt sin ekoby fått bud om att en militant gruppering ska inta landet.</p>
+            <p>The second template works when the pressure should feel clipped, staged, and slightly forensic.</p>
+          </article>
+        </section>
+
+        <section class="vm2-long">
+          <article class="vm2-panel">
+            <h3>Long fragment</h3>
+            <p>Förläggaren drömde att närområdet var oklart uppdelat i olika militanta grupperingar, där fanns en miniskvadron av marscherande militärklädda som han i en tidigare dröm gjorde misstaget att interagera med, nackskottet kom i plytet och efter en kort stund av identifikation där drömgruppens drömledare alltså vred huvudet och fokuserade blicken på honom innan han lyfte personvapnet och fyrade av; en mindre organiserad men likväl linjeströmmad samling andragenerationister som är artiga och rätt roliga tills de underhåller sig med helt andra sysselsättningar...</p>
+          </article>
+          <article class="vm2-panel">
+            <h3>Counter-fragment</h3>
+            <p>Förläggaren hade nyst så det dånade i hela lokalen, vridit VR-glasögonen runt nackbenen och svurit åt barnen som lekte där; han hade stekt en ryggbiff, slängt en saint augur i kokkärlet och låtit sänka en handfull pommes fritt i en <em>ack så efterlängtad</em> air fryer...</p>
+          </article>
+        </section>
+
+        <section class="vm2-gallery">
+          <article class="vm2-gallery-item">
+            <img src="assets/deckaren1-slotb.png" alt="Architecture as battlefield of ideologies.">
+            <h3>World image</h3>
+            <p>Slot B reads here like a panel in an editorial spread rather than a cinematic secondary shot.</p>
+          </article>
+          <article class="vm2-gallery-item">
+            <img src="assets/deckaren1-slotc.png" alt="Spiral staircase under pressure.">
+            <h3>Pressure image</h3>
+            <p>Slot C becomes a hard cut inward, almost like a dossier insert.</p>
+          </article>
+          <article class="vm2-gallery-item">
+            <img src="assets/deckaren1-slotd.png" alt="Desk, notes, cables, and proof pages under cold light.">
+            <h3>Process image</h3>
+            <p>The archival slot can feel stronger here because the overall page logic is already more editorial.</p>
+          </article>
+        </section>
+
+        <section class="vm2-gallery">
+          <article class="vm2-gallery-item">
+            <img src="assets/deckaren1-hero2.png" alt="Forest laboratory variant.">
+            <h3>Variant 1</h3>
+            <p>More atmospheric, less severe.</p>
+          </article>
+          <article class="vm2-gallery-item">
+            <img src="assets/deckaren1-hero3.png" alt="Spectral transformation variant.">
+            <h3>Variant 2</h3>
+            <p>Leans further into metamorphosis and secrecy.</p>
+          </article>
+          <article class="vm2-gallery-item">
+            <img src="assets/deckaren1-hero5.png" alt="Workshop-comic variant.">
+            <h3>Variant 3</h3>
+            <p>Lets the page flirt with wit without losing the black-field seriousness.</p>
+          </article>
+        </section>
+
+        <div class="vm2-band">
+          <div>
+            <div class="vm2-mono">Template contrast</div>
+            <strong>Template 1 = cinematic chamber. Template 2 = editorial fracture.</strong>
+          </div>
+          <a class="vm2-link vm2-mono" href="shortstory-vm-1.html">See template 1</a>
+        </div>
+      </section>
+    </div>
+  </main>
+
+  <script src="js/main.js"></script>
+</body>
+</html>
