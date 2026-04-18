@@ -366,7 +366,7 @@
           var summary = (parsed.meta.summary || parsed.meta.description || '').trim();
           var articleMeta = (parsed.meta.date || parsed.meta.year || '').trim();
           var author = (parsed.meta.author || '').trim();
-          var format = (parsed.meta.format || '').trim().toLowerCase();
+          var mode = (parsed.meta.mode || '').trim().toLowerCase();
           var layout = (parsed.meta.layout || '').trim().toLowerCase();
           var openingImage = (parsed.meta.opening_image || '').trim();
           var openingAlt = (parsed.meta.opening_alt || '').trim();
@@ -378,7 +378,7 @@
           metaEl.textContent = metaLine || mdPath;
           bodyEl.innerHTML = renderMarkdown(parsed.body || '', title);
 
-          if (format === 'shortstory') {
+          if (mode === 'shortstory') {
             var articleEl = document.querySelector('.article');
             if (articleEl) {
               articleEl.classList.add('article--shortstory');
@@ -392,10 +392,12 @@
                   }
                 }
               } else if (layout === 'interrupted') {
-                // Image-led interruption: same base reading system, inline images
-                // interrupt the prose. No structural difference from the base profile.
+                // One semantic image break interrupts the prose.
+                // No structural change from the base profile; extra margin
+                // is applied via CSS to signal the intentional reading break.
                 articleEl.classList.add('article--interrupted');
               }
+              // layout: article (or no layout) uses the base shortstory profile only.
             }
           }
         } catch (error) {

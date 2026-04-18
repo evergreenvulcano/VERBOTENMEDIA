@@ -1,13 +1,10 @@
 ---
 title: "Borderland"
-format: shortstory
+mode: shortstory
 layout: interrupted
 date: "2022"
 author: "Martin Nygren"
 summary: "Festival. Noll procent algoritm. Och ändå dog någon."
-type: literary
-status: draft
-slug: shortstory-vm-6
 ---
 
 Noll procent algoritm vid Borderland. Det är inte ett löfte — det är en formel. Ingen sponsring, inga datainsamlingar, inget feed som formaterar vad du ser och i vilken ordning. Kropp möter kropp. Konst skapas och konsumeras i samma rörelse. Det finns ingen publik eftersom alla är deltagare.

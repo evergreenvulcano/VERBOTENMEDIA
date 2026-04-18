@@ -1,15 +1,12 @@
 ---
 title: "En stigande tidvåg lyfter alla båtar"
-format: shortstory
+mode: shortstory
 layout: split
 opening_image: ../../assets/deckaren1-hero3.png
 opening_alt: "The inventor at the threshold of metamorphosis — bark threading through the costume in spectral green light."
 date: "2022"
 author: "Martin Nygren"
 summary: "Del I av Plural. Novellserie från Förlagsdeckaren."
-type: literary
-status: draft
-slug: shortstory-vm-4
 ---
 
 Förläggaren drömde att närområdet var oklart uppdelat i olika militanta grupperingar. Det var de nätter då han fortfarande kunde sova — det var de nätter som sedan slutade.

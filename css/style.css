@@ -1463,11 +1463,12 @@ em     { font-style: italic; }
   margin-bottom: 0.5rem;
 }
 
-/* Pull fragment — larger, accented, still restrained */
+/* Pull fragment — editorial, quiet at reading tone */
 .article--shortstory .article-body blockquote {
+  font-family: var(--font-display);
+  font-style: italic;
   font-size: clamp(1.2rem, 2.4vw, 1.625rem);
   line-height: 1.45;
-  color: var(--fg);
   margin: var(--space-lg) 0;
   padding-left: var(--space-md);
   border-left: 1px solid var(--accent);
@@ -1478,6 +1479,17 @@ em     { font-style: italic; }
   width: 100%;
   display: block;
   margin: var(--space-lg) 0;
+}
+
+/* -- Image-led interruption variant (layout: interrupted) ---- */
+/*
+   Identical to the base shortstory profile.
+   The one semantic image break receives extra vertical breathing room
+   to signal a deliberate reading interrupt. No other structural change.
+*/
+.article--interrupted .article-body img {
+  margin-top: var(--space-xl);
+  margin-bottom: var(--space-xl);
 }
 
 /* -- Opening split variant (layout: split) ------------------- */
@@ -1492,16 +1504,13 @@ em     { font-style: italic; }
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: var(--space-md);
-  align-items: stretch;
+  align-items: end;
   padding-bottom: var(--space-lg);
   border-bottom: 1px solid var(--border);
 }
 
 .article--split .article-header-text {
-  display: flex;
-  flex-direction: column;
-  justify-content: flex-end;
-  min-height: 18rem;
+  padding-bottom: var(--space-xs);
 }
 
 .article--split .article-header-image {

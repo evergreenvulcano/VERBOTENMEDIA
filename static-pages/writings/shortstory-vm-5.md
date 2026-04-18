@@ -1,12 +1,10 @@
 ---
 title: "Tystnad som publiceringsform"
-format: shortstory
+mode: shortstory
+layout: article
 date: "2022"
 author: "Martin Nygren"
 summary: "Om hundraexemplarsupplagorna och det publicerade tomrummet."
-type: literary
-status: draft
-slug: shortstory-vm-5
 ---
 
 Ett hundra exemplar. Kultupplagan — ett tryck konstruerat inte för distribution utan för existens. Varje exemplar är numrerat. Varje exemplar är ett faktum. Men rummet mellan exemplaren — de nittionio luckorna, de ohörda hyllorna, de bokhandlar som aldrig kommer att ta in det — det är det publicerade tomrummet.
