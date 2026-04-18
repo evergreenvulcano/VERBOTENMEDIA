@@ -391,6 +391,10 @@
                     headerImgEl.innerHTML = '<img src="' + escapeHtml(safeImgUrl) + '" alt="' + escapeHtml(openingAlt) + '" loading="lazy">';
                   }
                 }
+              } else if (layout === 'interrupted') {
+                // Image-led interruption: same base reading system, inline images
+                // interrupt the prose. No structural difference from the base profile.
+                articleEl.classList.add('article--interrupted');
               }
             }
           }
