@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Shortstory VM 3 — a cleaner Swedish novel impression page template for VERBOTEN MEDIA.">
+  <title>Shortstory VM 3 — VERBOTEN MEDIA</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant:ital,wght@0,300;0,400;0,600;1,300;1,400&family=Inter:wght@300;400;500&family=IBM+Plex+Mono:wght@300;400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+  <style>
+    :root {
+      --bg: #070707;
+      --panel: #101010;
+      --fg: #f3efe7;
+      --fg-dim: #b7afa2;
+      --line: rgba(243,239,231,0.12);
+      --accent: #d88ca2;
+      --max: 1480px;
+      --pad: clamp(1rem, 2vw, 2rem);
+      --copy: 880px;
+    }
+    * { box-sizing: border-box; }
+    body.vm3 { background: var(--bg); color: var(--fg); }
+    img { max-width: 100%; display: block; }
+    .vm3-page { width: min(100%, var(--max)); margin: 0 auto; padding: 0 var(--pad) 6rem; }
+    .vm3-mono { font-family: "IBM Plex Mono", monospace; font-size: 0.78rem; letter-spacing: 0.12em; text-transform: uppercase; }
+
+    .vm3-hero {
+      padding-top: 2rem;
+      border-bottom: 1px solid var(--line);
+      margin-bottom: 3rem;
+    }
+
+    .vm3-hero-image {
+      width: 100%;
+      aspect-ratio: 21 / 9;
+      overflow: hidden;
+      border: 1px solid var(--line);
+      background: var(--panel);
+    }
+    .vm3-hero-image img { width: 100%; height: 100%; object-fit: cover; }
+
+    .vm3-headline {
+      width: min(100%, var(--copy));
+      margin: 0 auto;
+      padding: 2.5rem 0 0;
+      text-align: center;
+    }
+
+    .vm3-headline .stamp {
+      width: 4.8rem;
+      margin: 0 auto 1rem;
+      opacity: 0.92;
+    }
+
+    .vm3-headline h1 {
+      margin: 0;
+      font-family: "Cormorant", serif;
+      font-size: clamp(3.2rem, 7vw, 6.6rem);
+      line-height: 0.9;
+      letter-spacing: -0.03em;
+      font-weight: 400;
+    }
+
+    .vm3-headline p {
+      margin: 1rem auto 0;
+      max-width: 44rem;
+      color: var(--fg-dim);
+      font-size: clamp(1rem, 1.45vw, 1.12rem);
+    }
+
+    .vm3-meta {
+      width: min(100%, var(--copy));
+      margin: 1.4rem auto 0;
+      display: flex;
+      gap: 0.85rem;
+      flex-wrap: wrap;
+      justify-content: center;
+      color: var(--fg-dim);
+    }
+
+    .vm3-meta span {
+      border: 1px solid var(--line);
+      padding: 0.55rem 0.75rem;
+      background: linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0));
+    }
+
+    .vm3-core {
+      display: grid;
+      gap: 1rem;
+      width: min(100%, var(--copy));
+      margin: 0 auto;
+    }
+
+    .vm3-line,
+    .vm3-fragment,
+    .vm3-panel,
+    .vm3-band,
+    .vm3-grid-card {
+      border: 1px solid var(--line);
+      background: linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0));
+      padding: 1.25rem;
+    }
+
+    .vm3-line {
+      font-family: "Cormorant", serif;
+      font-size: clamp(1.6rem, 2.6vw, 2.35rem);
+      line-height: 1.02;
+    }
+
+    .vm3-fragment {
+      color: var(--fg);
+      font-size: 1rem;
+      line-height: 1.6;
+    }
+
+    .vm3-duo {
+      display: grid;
+      grid-template-columns: 1.08fr 0.92fr;
+      gap: 1rem;
+      width: min(100%, 1120px);
+      margin: 2rem auto 0;
+    }
+
+    .vm3-grid-card img {
+      width: 100%;
+      border: 1px solid var(--line);
+      margin-bottom: 0.85rem;
+      background: var(--panel);
+    }
+
+    .vm3-grid-card h3,
+    .vm3-panel h3 {
+      margin: 0 0 0.5rem;
+      font-family: "Cormorant", serif;
+      font-size: 1.45rem;
+      font-weight: 400;
+    }
+
+    .vm3-grid-card p,
+    .vm3-panel p { color: var(--fg-dim); }
+
+    .vm3-gallery {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 1rem;
+      width: min(100%, 1120px);
+      margin: 2rem auto 0;
+    }
+
+    .vm3-gallery img {
+      width: 100%;
+      aspect-ratio: 4 / 5;
+      object-fit: cover;
+      border: 1px solid var(--line);
+      background: var(--panel);
+      margin-bottom: 0.75rem;
+    }
+
+    .vm3-band {
+      width: min(100%, 1120px);
+      margin: 2rem auto 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 1rem;
+    }
+
+    .vm3-band strong {
+      font-family: "Cormorant", serif;
+      font-size: clamp(1.45rem, 2vw, 1.95rem);
+      font-weight: 400;
+      line-height: 1;
+    }
+
+    .vm3-link {
+      display: inline-block;
+      padding: 0.85rem 1rem;
+      border: 1px solid var(--line);
+      background: rgba(216,140,162,0.08);
+      color: var(--fg);
+      text-decoration: none;
+    }
+
+    @media (max-width: 980px) {
+      .vm3-duo,
+      .vm3-gallery { grid-template-columns: 1fr; }
+      .vm3-band { flex-direction: column; align-items: flex-start; }
+      .vm3-hero-image { aspect-ratio: 16 / 10; }
+    }
+  </style>
+</head>
+<body class="vm3">
+  <nav class="site-nav" role="navigation" aria-label="Main navigation">
+    <div class="nav-wordmark"><a href="index.html">VERBOTEN MEDIA</a></div>
+    <button class="nav-toggle" aria-label="Toggle navigation" aria-expanded="false"><span></span><span></span><span></span></button>
+    <ul class="nav-links" role="list">
+      <li><a href="about.html">About</a></li>
+      <li><a href="writings.html">Writings</a></li>
+      <li><a href="experimental-sandbox.html">Experimental Sandbox</a></li>
+      <li><a href="events.html">Events</a></li>
+      <li><a href="lectures-workshops.html">Lectures &amp; Workshops</a></li>
+      <li><a href="associated-projects.html">Associated Projects</a></li>
+      <li><a href="contact.html">Contact</a></li>
+    </ul>
+  </nav>
+
+  <main class="vm3-page">
+    <section class="vm3-hero">
+      <div class="vm3-hero-image">
+        <img src="assets/deckaren1-slotb.png" alt="Architecture and atmosphere widening the weather of the novel.">
+      </div>
+      <div class="vm3-headline">
+        <img class="stamp" src="assets/Stamp.png" alt="Decorative skull or stamp asset">
+        <h1>En stigande tidvåg lyfter alla båtar</h1>
+        <p>A cleaner Swedish novel impression page: broader image swing, fewer labels, less pseudo-editorial signaling, more trust in image, title, and fragment to do the work.</p>
+      </div>
+      <div class="vm3-meta vm3-mono">
+        <span>Förlagsdeckaren</span>
+        <span>Martin Nygren</span>
+        <span>Del I av Plural</span>
+        <span>2022</span>
+      </div>
+    </section>
+
+    <section class="vm3-core">
+      <div class="vm3-line">“Med pannan i djupa veck över hur allt kommer att framstå för kommande generationer...”</div>
+      <div class="vm3-panel">
+        <p>Några nätter senare ska han drömma att ön där de byggt sin ekoby fått bud om att en militant gruppering ska inta landet.</p>
+      </div>
+      <div class="vm3-fragment">
+        Förläggaren drömde att närområdet var oklart uppdelat i olika militanta grupperingar, där fanns en miniskvadron av marscherande militärklädda som han i en tidigare dröm gjorde misstaget att interagera med, nackskottet kom i plytet och efter en kort stund av identifikation där drömgruppens drömledare alltså vred huvudet och fokuserade blicken på honom innan han lyfte personvapnet och fyrade av; en mindre organiserad men likväl linjeströmmad samling andragenerationister som är artiga och rätt roliga tills de underhåller sig med helt andra sysselsättningar...
+      </div>
+    </section>
+
+    <section class="vm3-duo">
+      <article class="vm3-grid-card">
+        <img src="assets/deckaren1-hero2.png" alt="Hero variation two.">
+        <h3>Broad image, softer intrusion</h3>
+        <p>This slot keeps the image large and present without forcing the page into a too-theoretical or over-labeled layout.</p>
+      </article>
+      <article class="vm3-grid-card">
+        <img src="assets/deckaren1-slotc.png" alt="Detail image from the book world.">
+        <h3>Close pressure</h3>
+        <p>The detail image still matters, but it works better here as a secondary cut rather than one panel among too many equal panels.</p>
+      </article>
+    </section>
+
+    <section class="vm3-duo">
+      <article class="vm3-panel">
+        <h3>Side fragment</h3>
+        <p>Förläggaren hade nyst så det dånade i hela lokalen, vridit VR-glasögonen runt nackbenen och svurit åt barnen som lekte där; han hade stekt en ryggbiff, slängt en saint augur i kokkärlet och låtit sänka en handfull pommes fritt i en <em>ack så efterlängtad</em> air fryer...</p>
+      </article>
+      <article class="vm3-grid-card">
+        <img src="assets/deckaren1-slotd.png" alt="Archival or desk image.">
+        <h3>Object trace</h3>
+        <p>The process image remains, but it no longer tries to explain the page. It simply deepens the objecthood of the work.</p>
+      </article>
+    </section>
+
+    <section class="vm3-gallery">
+      <article class="vm3-grid-card">
+        <img src="assets/deckaren1-hero3.png" alt="Variant three.">
+        <h3>Variant 3</h3>
+      </article>
+      <article class="vm3-grid-card">
+        <img src="assets/deckaren1-hero4.png" alt="Variant four.">
+        <h3>Variant 4</h3>
+      </article>
+      <article class="vm3-grid-card">
+        <img src="assets/deckaren1-hero5.png" alt="Variant five.">
+        <h3>Variant 5</h3>
+      </article>
+    </section>
+
+    <div class="vm3-band">
+      <div>
+        <div class="vm3-mono">Template contrast</div>
+        <strong>Template 3 keeps the pressure, but strips away the extra explanatory scaffolding.</strong>
+      </div>
+      <a class="vm3-link vm3-mono" href="shortstory-vm-2.html">Back to template 2</a>
+    </div>
+  </main>
+
+  <script src="js/main.js"></script>
+</body>
+</html>
