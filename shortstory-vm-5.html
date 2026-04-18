@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Shortstory VM 5 — image-forward mosaic template for VERBOTEN MEDIA.">
+  <title>Shortstory VM 5 — VERBOTEN MEDIA</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant:ital,wght@0,300;0,400;0,600;1,300;1,400&family=Inter:wght@300;400;500&family=IBM+Plex+Mono:wght@300;400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+  <style>
+    :root {
+      --vm5-bg: #060606;
+      --vm5-panel: #111111;
+      --vm5-fg: #f3efe7;
+      --vm5-dim: #b7afa2;
+      --vm5-line: rgba(243,239,231,0.12);
+      --vm5-accent: #bda07d;
+      --vm5-max: 1480px;
+      --vm5-pad: clamp(1rem, 2vw, 2rem);
+    }
+    body.vm5 { background: var(--vm5-bg); color: var(--vm5-fg); }
+    .vm5-page { width: min(100%, var(--vm5-max)); margin: 0 auto; padding: 2rem var(--vm5-pad) 6rem; }
+    .vm5-mono { font-family: "IBM Plex Mono", monospace; font-size: 0.78rem; letter-spacing: 0.12em; text-transform: uppercase; }
+    .vm5-head, .vm5-card, .vm5-band { border: 1px solid var(--vm5-line); background: linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0)); }
+    .vm5-head, .vm5-card, .vm5-band { padding: 1.25rem; }
+    .vm5-title { margin: 0.4rem 0 0; font-family: "Cormorant", serif; font-size: clamp(2.8rem, 6vw, 5.4rem); line-height: 0.9; font-weight: 400; letter-spacing: -0.03em; }
+    .vm5-sub { margin: 1rem 0 0; color: var(--vm5-dim); max-width: 56rem; }
+    .vm5-mosaic { margin-top: 1rem; display: grid; grid-template-columns: 1.2fr 0.8fr; gap: 1rem; }
+    .vm5-column { display: grid; gap: 1rem; }
+    .vm5-card img { width: 100%; border: 1px solid var(--vm5-line); display: block; margin-bottom: 0.75rem; background: var(--vm5-panel); }
+    .vm5-card .hero { aspect-ratio: 16 / 9; object-fit: cover; }
+    .vm5-card .tall { aspect-ratio: 4 / 5; object-fit: cover; }
+    .vm5-card h3 { margin: 0 0 0.5rem; font-family: "Cormorant", serif; font-size: 1.35rem; font-weight: 400; }
+    .vm5-card p { margin: 0; color: var(--vm5-dim); }
+    .vm5-band { display: flex; justify-content: space-between; gap: 1rem; align-items: center; margin-top: 1rem; }
+    .vm5-link { display: inline-block; padding: 0.85rem 1rem; border: 1px solid var(--vm5-line); background: rgba(189,160,125,0.08); color: var(--vm5-fg); text-decoration: none; }
+    @media (max-width: 980px) {
+      .vm5-mosaic { grid-template-columns: 1fr; }
+      .vm5-band { flex-direction: column; align-items: flex-start; }
+    }
+  </style>
+</head>
+<body class="vm5">
+  <nav class="site-nav" role="navigation" aria-label="Main navigation">
+    <div class="nav-wordmark"><a href="index.html">VERBOTEN MEDIA</a></div>
+    <button class="nav-toggle" aria-label="Toggle navigation" aria-expanded="false"><span></span><span></span><span></span></button>
+    <ul class="nav-links" role="list">
+      <li><a href="about.html">About</a></li>
+      <li><a href="writings.html">Writings</a></li>
+      <li><a href="experimental-sandbox.html">Experimental Sandbox</a></li>
+      <li><a href="events.html">Events</a></li>
+      <li><a href="lectures-workshops.html">Lectures &amp; Workshops</a></li>
+      <li><a href="associated-projects.html">Associated Projects</a></li>
+      <li><a href="contact.html">Contact</a></li>
+    </ul>
+  </nav>
+
+  <main class="vm5-page">
+    <header class="vm5-head">
+      <div class="vm5-mono">Novel template / image-forward mosaic</div>
+      <h1 class="vm5-title">Template 5: Mosaic issue surface</h1>
+      <p class="vm5-sub">Use this for special articles, essay features, or short story issues where image sequencing should carry equal narrative weight as text.</p>
+    </header>
+
+    <section class="vm5-mosaic">
+      <div class="vm5-column">
+        <article class="vm5-card">
+          <img class="hero" src="assets/deckaren1-hero4.png" alt="Primary panel image for template 5.">
+          <h3>Primary panel</h3>
+          <p>Main image sets tone; keep title and metadata concise.</p>
+        </article>
+        <article class="vm5-card">
+          <img class="hero" src="assets/deckaren1-hero5.png" alt="Secondary panel image for template 5.">
+          <h3>Secondary panel</h3>
+          <p>Secondary image shifts register without breaking visual rhythm.</p>
+        </article>
+      </div>
+      <div class="vm5-column">
+        <article class="vm5-card">
+          <img class="tall" src="assets/deckaren1-slotc.png" alt="Detail panel image for template 5.">
+          <h3>Detail panel</h3>
+          <p>Detail image anchors a fragment, quote, or pull sentence.</p>
+        </article>
+        <article class="vm5-card">
+          <img class="tall" src="assets/deckaren1-slotd.png" alt="Process panel image for template 5.">
+          <h3>Process panel</h3>
+          <p>Process slot supports publication notes or editorial framing.</p>
+        </article>
+      </div>
+    </section>
+
+    <div class="vm5-band">
+      <div>
+        <div class="vm5-mono">Use case</div>
+        <strong>Short stories, special articles, and image-led longform.</strong>
+      </div>
+      <a class="vm5-link vm5-mono" href="shortstory-vm-6.html">Next template</a>
+    </div>
+  </main>
+
+  <script src="js/main.js"></script>
+</body>
+</html>
