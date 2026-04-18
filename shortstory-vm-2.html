@@ -84,8 +84,21 @@
         linear-gradient(180deg, #0c0c0c, #141414);
     }
 
+    .vm2-title-art {
+      height: clamp(6rem, 24vh, 12rem);
+      overflow: hidden;
+      border-bottom: 1px solid var(--line);
+    }
+
     .vm2-title-wrap .stamp {
       width: 100%;
+      height: 100%;
+      object-fit: cover;
+      object-position: center 36%;
+      opacity: 0.96;
+      mix-blend-mode: screen;
+      filter: saturate(1.06) contrast(1.06);
+      transform: translateY(-10%);
       max-height: clamp(6rem, 26vh, 13rem);
       object-fit: cover;
       object-position: center 28%;
@@ -279,6 +292,9 @@
       <section class="vm2-main">
         <section class="vm2-hero">
           <div class="vm2-title-wrap">
+            <div class="vm2-title-art">
+              <img class="stamp" src="assets/skalle.gif" alt="Skalle motif drifting above the headline.">
+            </div>
             <img class="stamp" src="assets/skalle.gif" alt="Skalle motif drifting above the headline.">
             <div class="vm2-title-copy">
               <div class="vm2-eyebrow vm2-mono">Swedish novel impression page / template 2</div>
