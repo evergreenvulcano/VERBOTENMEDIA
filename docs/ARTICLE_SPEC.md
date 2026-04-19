@@ -1,80 +1,47 @@
-# ARTICLE SPEC — VERBOTEN MEDIA
+# ARTICLE SPEC
 
-This document defines the canonical structure for publishable articles.
+This file describes the repository article baseline in short form.
+
+For the canonical repository markdown contract, use:
+
+- `docs/markdown-publishing-standard-v1.md`
 
 ## Principle
-Any source material may enter the system. All publishable articles must conform to this structure.
+
+Any source material may enter the system. Publication structure may adapt to the repository contract, but conversion does not authorize creative rewriting.
 
 ## Format
-Markdown with frontmatter.
 
-## Frontmatter fields
+Markdown with flat frontmatter.
 
-The frontmatter parser supports flat `key: value` pairs only.
-It does not support arrays, nested fields, or multiline values.
-Quote strings that contain colons or special characters.
+## Conversion integrity
 
-```yaml
----
-title: ""
-date: "YYYY-MM-DD"
-summary: ""
-type: "essay | fragment | novel | note | experimental"
-status: "draft | ready | published"
-inline_image: ""
-inline_image_alt: ""
----
-```
+Markdown conversion is structural adaptation only.
 
-## Rules
+Unless explicitly authorized, conversion must not alter the source text's words, sentences, paragraphs, repetitions, tone, or rhetorical character.
 
-- `title` is required
-- `date` should reflect intended publication date
-- `summary` should be 1–2 sentences
-- `type` defines the category
-- `status` controls readiness
+Allowed conversion work:
 
-## Shortstory mode
+- adding required flat frontmatter
+- assigning compliant file names and metadata fields
+- preserving or mapping structural headings that already exist in the source
+- converting container-level formatting into supported markdown where the source wording is unchanged
+- flagging unsupported structures instead of rewriting them
+- staging outputs in inbox before promotion
 
-For literary prose that needs one of the three shortstory layouts (split, article, interrupted),
-add `mode: shortstory` and optionally `layout:` to the frontmatter.
+Forbidden during conversion unless explicitly requested:
 
-See `docs/SHORTSTORY_SYSTEM.md` for the full shortstory contract.
+- rewriting or paraphrasing prose
+- readability edits
+- punctuation or style normalization
+- semantic compression
+- collapsing repetitions
+- editorial cleanup disguised as conversion
 
-## Body structure
-
-Keep structure simple and readable.
-
-- Paragraphs
-- Headings (`##` / `###`)
-- Occasional blockquotes
-- Inline images if needed
-
-Avoid:
-- complex layout logic inside markdown
-- decorative separators
-- embedded styling
-
-## Images
-
-Inline images should be minimal:
-
-```md
-![Alt text](/assets/articles/example.jpg)
-```
-
-No decorative wrappers.
-No excessive repetition.
-
-## Philosophy
-
-The article must stand on its own.
-Typography and spacing should carry the experience.
-Images are supportive, not dominant.
+If structural compliance would require changing the creative text, flag the incompatibility instead of rewriting the file.
 
 ## Pipeline
 
-Raw input → normalized Markdown → rendered page
+Raw input -> structurally adapted Markdown -> review -> rendered page
 
-Do not skip normalization.
-Do not publish directly from `/modules/` without conversion.
+Do not publish directly from `/modules/` without conversion review.
