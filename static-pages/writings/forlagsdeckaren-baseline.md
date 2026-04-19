@@ -1,16 +1,17 @@
 ---
-title: "Förlagsdeckaren — Text Baseline"
+title: "Förlagsdeckaren - Text Baseline"
 date: "2026-04-19"
 summary: "Text-first baseline page for developing the Förlagsdeckaren shortstory in the existing markdown publishing flow."
-type: "novel"
+type: "literary"
 status: "draft"
+author: "Martin Nygren"
 mode: "shortstory"
 layout: "article"
 ---
 
 ## Baseline intent
 
-This file is the practical baseline for developing the shortstory version of **Förlagsdeckaren**.
+This file is the practical baseline for developing the shortstory version of **Förlagsdeckaren** under Markdown Publishing Standard v1.
 
 It is intentionally plain:
 

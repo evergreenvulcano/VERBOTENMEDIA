@@ -11,8 +11,6 @@ status: "draft"
 # opening_alt: "Describe the image only if the split layout is needed."
 ---
 
-This legacy template mirrors the canonical baseline in `static-pages/templates/writing-baseline.md`.
-
 ## Baseline intent
 
 State what this piece is trying to become in 2-4 sentences.
