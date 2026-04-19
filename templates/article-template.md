@@ -1,24 +1,31 @@
 ---
-title: ""
-slug: ""
-date: ""
-summary: ""
+title: "LEGACY POINTER - DO NOT USE AS THE CANONICAL TEMPLATE"
+date: "YYYY-MM-DD"
+summary: "Use static-pages/templates/writing-baseline.md instead."
 type: "essay"
 status: "draft"
-inline_image: ""
-inline_image_alt: ""
 ---
 
-Intro paragraph.
+# Legacy template pointer
 
-## Section heading
+Do not use this file as the primary baseline for new Writings.
 
-Body text.
+Canonical template:
 
-## Section heading
+- `static-pages/templates/writing-baseline.md`
 
-Body text continues.
+Reason:
 
-> Optional pull quote.
+- Markdown Publishing Standard v1 defines `static-pages/templates/writing-baseline.md` as the single canonical baseline template.
+- This file remains only as a legacy reference path for anyone looking for the older `templates/article-template.md` location.
 
-Closing paragraph.
+## Creation path
+
+Use the scaffold instead:
+
+```powershell
+powershell -ExecutionPolicy Bypass -File .\scripts\new-writing.ps1 `
+  -Title "Example Piece" `
+  -Summary "One-sentence summary." `
+  -Type essay
+```
