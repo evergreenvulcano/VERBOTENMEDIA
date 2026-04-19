@@ -5,6 +5,16 @@ This folder contains starter markdown pages for cards currently defined in:
 - `/writings.html`
 - `/experimental-sandbox.html`
 
+Canonical published writing assets belong here.
+
+If a markdown file was created by conversion from another source, conversion alone does not authorize creative-text editing and does not make the file canonical automatically.
+
+Stage converted candidates in:
+
+- `/inbox/writings/`
+
+Review them for title, summary, type, date, naming, and Markdown Publishing Standard v1 compliance before promotion into `/static-pages/writings/`.
+
 ## Writings
 
 - `writings/the-density-of-the-present.md`

@@ -9,6 +9,7 @@ The goal is not to preserve every ad hoc markdown habit already in the repo. The
 This standard applies to:
 
 - markdown files published from `static-pages/writings/`
+- staged conversion candidates in `inbox/writings/`
 - cards added manually to `writings.html`
 - prose rendered through `page.html?path=...`
 
@@ -127,9 +128,38 @@ Examples:
 ## Directory conventions
 
 - `static-pages/writings/` contains publishable Writings files.
+- `inbox/writings/` contains staged conversion candidates that are not yet canonical published writings.
 - `static-pages/templates/` contains reusable markdown baselines for this flow.
 - `scripts/` contains local scaffolding helpers.
 - `writings.html` remains the manual registry of visible Writings cards in v1.
+
+## Conversion integrity rule
+
+Markdown conversion is structural adaptation only.
+
+Unless explicitly authorized, conversion must not alter the source text's words, sentences, paragraphs, repetitions, tone, or rhetorical character.
+
+Allowed during conversion:
+
+- adding flat frontmatter required by the repository contract
+- assigning compliant file names and slugs
+- assigning compliant metadata fields such as `type`, `date`, and `status`
+- preserving or mapping existing structural headings when they already exist in the source
+- converting only container-level formatting into supported markdown structures where this does not change the source wording
+- flagging unsupported structures or incompatibilities
+- staging outputs in inbox before promotion
+
+Not allowed during conversion unless explicitly requested:
+
+- rewriting or paraphrasing prose
+- smoothing wording
+- punctuation or style normalization
+- readability edits
+- semantic compression
+- collapsing repetitions
+- editorial cleanup disguised as format conversion
+
+If a source cannot be made compliant with the markdown publishing baseline without altering the creative text, the agent must flag the incompatibility rather than rewrite the text.
 
 ## Writings entry contract
 
@@ -198,6 +228,8 @@ The script:
 - defaults `date` to today unless provided
 - requires explicit `-OpeningImage` and `-OpeningAlt` when using `-Mode shortstory -Layout split`
 - prints the exact `writings.html` card snippet to add manually
+
+The scaffold defines structure only. It does not authorize creative-text editing during conversion.
 
 ## First specimen
 
