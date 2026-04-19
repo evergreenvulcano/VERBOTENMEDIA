@@ -21,6 +21,10 @@ param(
   [ValidateSet('', 'article', 'split', 'interrupted')]
   [string]$Layout = '',
 
+  [string]$OpeningImage,
+
+  [string]$OpeningAlt,
+
   [switch]$Force,
 
   [switch]$DryRun
@@ -87,6 +91,12 @@ if ($Mode -eq 'shortstory' -and -not $Layout) {
   $Layout = 'article'
 }
 
+if ($Layout -eq 'split') {
+  if (-not $OpeningImage -or -not $OpeningAlt) {
+    throw 'Split layout requires both -OpeningImage and -OpeningAlt.'
+  }
+}
+
 $repoRoot = (Resolve-Path (Join-Path $PSScriptRoot '..')).Path
 $templatePath = Join-Path $repoRoot 'static-pages\templates\writing-baseline.md'
 $targetDir = Join-Path $repoRoot 'static-pages\writings'
@@ -118,8 +128,8 @@ if ($Mode -eq 'shortstory') {
   $content = $content -replace '(?m)^# layout: article$', ('layout: ' + $Layout)
 
   if ($Layout -eq 'split') {
-    $content = $content -replace '(?m)^# opening_image: "\.\./\.\./assets/example-image\.jpg"$', 'opening_image: "../../assets/example-image.jpg"'
-    $content = $content -replace '(?m)^# opening_alt: "Describe the image only if the split layout is needed\."$', 'opening_alt: "Describe the image."'
+    $content = $content -replace '(?m)^# opening_image: "\.\./\.\./assets/example-image\.jpg"$', ('opening_image: ' + (Quote-FrontmatterValue -Value $OpeningImage))
+    $content = $content -replace '(?m)^# opening_alt: "Describe the image only if the split layout is needed\."$', ('opening_alt: ' + (Quote-FrontmatterValue -Value $OpeningAlt))
   }
   else {
     $content = $content -replace '(?m)^# opening_image: "\.\./\.\./assets/example-image\.jpg"\r?\n', ''

@@ -1,5 +1,5 @@
 ---
-title: "Förlagsdeckaren - Text Baseline"
+title: "Förlagsdeckaren — Text Baseline"
 date: "2026-04-19"
 summary: "Text-first baseline page for developing the Förlagsdeckaren shortstory in the existing markdown publishing flow."
 type: "literary"

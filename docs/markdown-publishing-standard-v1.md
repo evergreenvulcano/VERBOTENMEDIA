@@ -196,6 +196,7 @@ The script:
 - normalizes or derives the slug
 - defaults `status` to `draft`
 - defaults `date` to today unless provided
+- requires explicit `-OpeningImage` and `-OpeningAlt` when using `-Mode shortstory -Layout split`
 - prints the exact `writings.html` card snippet to add manually
 
 ## First specimen

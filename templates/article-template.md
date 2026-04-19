@@ -1,38 +1,31 @@
 ---
-title: "{{TITLE}}"
-date: "{{DATE}}"
-summary: "{{SUMMARY}}"
-type: "{{TYPE}}"
+title: "LEGACY POINTER - DO NOT USE AS THE CANONICAL TEMPLATE"
+date: "YYYY-MM-DD"
+summary: "Use static-pages/templates/writing-baseline.md instead."
+type: "essay"
 status: "draft"
-# author: "{{AUTHOR}}"
-# mode: shortstory
-# layout: article
-# opening_image: "../../assets/example-image.jpg"
-# opening_alt: "Describe the image only if the split layout is needed."
 ---
 
-This legacy template mirrors the canonical baseline in `static-pages/templates/writing-baseline.md`.
+# Legacy template pointer
 
-## Baseline intent
+Do not use this file as the primary baseline for new Writings.
 
-State what this piece is trying to become in 2-4 sentences.
+Canonical template:
 
-Keep this baseline text-first:
+- `static-pages/templates/writing-baseline.md`
 
-- readable without images
-- structurally plain
-- easy to extend without redesigning the page
+Reason:
 
-## Draft
+- Markdown Publishing Standard v1 defines `static-pages/templates/writing-baseline.md` as the single canonical baseline template.
+- This file remains only as a legacy reference path for anyone looking for the older `templates/article-template.md` location.
 
-Write the opening paragraph here.
+## Creation path
 
-Add more paragraphs before adding more structure.
+Use the scaffold instead:
 
-## Development notes
-
-Use headings only when they improve reading.
-
-Use blockquotes sparingly.
-
-Use images only if they carry semantic weight.
+```powershell
+powershell -ExecutionPolicy Bypass -File .\scripts\new-writing.ps1 `
+  -Title "Example Piece" `
+  -Summary "One-sentence summary." `
+  -Type essay
+```
