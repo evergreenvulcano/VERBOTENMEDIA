@@ -21,6 +21,26 @@ Keep this baseline text-first:
 - structurally plain
 - easy to extend without redesigning the page
 
+## Conversion rule
+
+If this file is being created from an existing source text, preserve the source wording exactly unless explicit editorial revision has been requested.
+
+Allowed during conversion:
+
+- adding the required frontmatter
+- assigning compliant metadata fields
+- mapping existing headings into supported markdown headings
+- staging the result for review
+
+Not allowed during conversion unless explicitly requested:
+
+- rewriting prose
+- smoothing wording
+- punctuation or style normalization
+- readability edits
+- semantic compression
+- collapsing repetitions
+
 ## Draft
 
 Write the opening paragraph here.
