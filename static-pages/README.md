@@ -10,6 +10,7 @@ This folder contains starter markdown pages for cards currently defined in:
 - `writings/the-density-of-the-present.md`
 - `writings/platform-logic-and-the-grammar-of-appearance.md`
 - `writings/forlagsdeckaren.md`
+- `writings/forlagsdeckaren-baseline.md`
 - `writings/shortstory-vm-1.md`
 - `writings/shortstory-vm-4.md`
 - `writings/shortstory-vm-5.md`
