@@ -3,7 +3,7 @@ title: "The Registration Has Closed"
 date: "2026-04-17"
 summary: "A black-screen publication system, built from refusals, discovers that silence, protocol, and structure can become narrative in their own right."
 type: "essay"
-status: "published"
+status: "draft"
 ---
 
 The website went live on a Thursday, which Förläggaren considered cosmologically appropriate because Thursday is the day named after a god who solves problems with a hammer, and the website had been built entirely from refusals.
