@@ -15,6 +15,8 @@ layout: article
 
 ### Prelude
 
+---
+
 > »Uppdraget gavs aldrig. Det låg bara där, som en nyckel på ett bord i ett rum man inte minns att man gått in i. Man kan ta upp nyckeln. Man kan låta den ligga. Ingen har sagt vilket som är rätt. Det är det som gör det till ett uppdrag.«
 
 — Ur en odaterad anteckning, hittad i en lunta på logistikcentralen, författare okänd
