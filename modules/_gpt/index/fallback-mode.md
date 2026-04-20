@@ -1,6 +1,6 @@
 # GPT Fallback Mode
 
-This document defines what happens when a scheduled or interactive GPT run can reason successfully but cannot complete the final repository write.
+This document defines what happens when a scheduled or interactive GPT run can reason successfully but cannot complete the final repository file write.
 
 ## Why this exists
 
@@ -10,7 +10,7 @@ Typical causes:
 - write API unavailable or degraded
 - branch protection or permission mismatch
 - target file conflict
-- transient platform/tool failure
+- transient platform or tool failure
 - path resolution error
 
 Without fallback behavior, the repository looks silent even though the run actually happened.
@@ -30,13 +30,26 @@ Preferred write surfaces:
 
 ## Fallback sequence
 
-When repository persistence fails, use this order:
+When repository file persistence fails, use this order:
 
 1. Retry once against the same target path if the failure looks transient.
-2. If the retry fails, emit the full artifact in chat.
-3. Label the artifact clearly with the intended repo path and timestamp.
-4. State whether the failure was write-path, permission, conflict, or unknown.
-5. Preserve the artifact body in full; do not replace it with a summary.
+2. If the retry fails, create a GitHub issue in the same repository as the durable fallback sink.
+3. Put the full artifact body in the issue body.
+4. Use a title that includes the run type and intended repo path.
+5. Apply labels such as `fallback-emitted` and `run-artifact` when available.
+6. If issue creation also fails, emit the full artifact in chat.
+7. In all fallback cases, preserve the intended repo path, timestamp, write status, and failure reason.
+8. Preserve the artifact body in full; do not replace it with a summary.
+
+## Why issue fallback exists
+
+Ordinary chat visibility is not durable enough to function as primary recovery memory.
+A repository issue is a stronger fallback surface because it is:
+- repo-native
+- timestamped
+- searchable
+- labelable
+- recoverable without reconstructing context from the chat stream
 
 ## Required fallback header
 
@@ -64,12 +77,13 @@ If fallback mode was used, the next human or agent handling the repo should:
 2. preserve the original timestamp if possible
 3. avoid rewriting for style unless explicitly requested
 4. mark the recovery as complete in the next run notes
+5. close or relabel the fallback issue once the artifact is restored, if an issue was used
 
 ## Scheduled-task rule
 
 Scheduled tasks should never silently skip persistence.
 
-If they cannot write, they must emit fallback output visibly.
+If they cannot write the intended file, they must emit fallback output through the issue sink first, and only use chat as the final fallback.
 
 ## What fallback mode is not
 
@@ -81,6 +95,7 @@ It is a continuity protocol, not an escalation protocol.
 ## Short version
 
 - write to repo when possible
-- if repo write fails, emit full artifact visibly
+- if repo file write fails, create durable fallback issue with full artifact
+- if issue creation fails, emit full artifact in chat
 - preserve the intended target path
 - fail loud, not quiet
