@@ -1,5 +1,6 @@
 import { createIntakeDocument, toErrorResponse } from "@/lib/github-content";
 import { IntakeType } from "@/lib/types";
+import { redirect } from "next/navigation";
 
 type IntakePageProps = {
   searchParams: Promise<{ ok?: string; error?: string; path?: string }>;
@@ -29,10 +30,10 @@ export default async function IntakePage({ searchParams }: IntakePageProps) {
     } catch (error) {
       const mapped = toErrorResponse(error);
       const message = encodeURIComponent(mapped.error);
-      return Response.redirect(`${process.env.NEXT_PUBLIC_BASE_PATH ?? ""}/intake?error=${message}`, 302);
+      redirect(`/intake?error=${message}`);
     }
 
-    return Response.redirect(`${process.env.NEXT_PUBLIC_BASE_PATH ?? ""}/intake?ok=1`, 302);
+    redirect("/intake?ok=1");
   }
 
   return (

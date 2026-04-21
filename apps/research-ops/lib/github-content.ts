@@ -129,6 +129,13 @@ function ensureAllowedPath(path: string): string {
   return normalized;
 }
 
+function encodeContentPath(path: string): string {
+  return path
+    .split("/")
+    .map((segment) => encodeURIComponent(segment))
+    .join("/");
+}
+
 function detectScope(path: string): ContentScope {
   if (path.startsWith(SCOPE_ROOTS.published)) {
     return "published";
@@ -211,8 +218,17 @@ function createExcerpt(body: string, query?: string): string {
 }
 
 function toMetadata(document: DocumentRecord): DocumentMetadata {
-  const { body: _body, ...metadata } = document;
-  return metadata;
+  return {
+    path: document.path,
+    scope: document.scope,
+    title: document.title,
+    date: document.date,
+    summary: document.summary,
+    type: document.type,
+    status: document.status,
+    author: document.author,
+    excerpt: document.excerpt,
+  };
 }
 
 function normalizeDocument(path: string, rawContent: string): DocumentRecord {
@@ -236,7 +252,7 @@ function normalizeDocument(path: string, rawContent: string): DocumentRecord {
 async function fetchMarkdownContent(path: string, branch: string): Promise<string> {
   const { owner, repo } = getRepoConfig();
   const response = await githubRequest(
-    `/repos/${owner}/${repo}/contents/${encodeURIComponent(path)}?ref=${encodeURIComponent(branch)}`,
+    `/repos/${owner}/${repo}/contents/${encodeContentPath(path)}?ref=${encodeURIComponent(branch)}`,
   );
 
   const payload = (await response.json()) as { content: string; encoding: string };
@@ -379,7 +395,7 @@ export async function searchDocuments(params: {
     .filter((entry): entry is DocumentRecord & { score: number } => Boolean(entry))
     .sort((a, b) => b.score - a.score || a.path.localeCompare(b.path))
     .slice(0, limit)
-    .map(({ score: _score, ...doc }) => toMetadata(doc));
+    .map((entry) => toMetadata(entry));
 
   return scored;
 }
@@ -432,7 +448,7 @@ async function fileExists(path: string, branch: string): Promise<boolean> {
   const { owner, repo, token } = getRepoConfig();
 
   const response = await fetch(
-    `${GITHUB_API}/repos/${owner}/${repo}/contents/${encodeURIComponent(path)}?ref=${encodeURIComponent(branch)}`,
+    `${GITHUB_API}/repos/${owner}/${repo}/contents/${encodeContentPath(path)}?ref=${encodeURIComponent(branch)}`,
     {
       headers: {
         Accept: "application/vnd.github+json",
@@ -495,7 +511,7 @@ export async function createIntakeDocument(input: IntakeInput) {
 
   const { owner, repo } = getRepoConfig();
 
-  await githubRequest(`/repos/${owner}/${repo}/contents/${encodeURIComponent(targetPath)}`, {
+  await githubRequest(`/repos/${owner}/${repo}/contents/${encodeContentPath(targetPath)}`, {
     method: "PUT",
     headers: {
       "Content-Type": "application/json",
