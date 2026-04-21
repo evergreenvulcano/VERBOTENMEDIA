@@ -472,9 +472,10 @@ async function fileExists(path: string, branch: string): Promise<boolean> {
 }
 
 async function resolveUniqueInboxPath(baseSlug: string, branch: string): Promise<string> {
+  const MAX_COLLISION_ATTEMPTS = 500;
   let index = 1;
 
-  while (true) {
+  while (index <= MAX_COLLISION_ATTEMPTS) {
     const suffix = index === 1 ? "" : `-${index}`;
     const path = `inbox/writings/${baseSlug}${suffix}.md`;
 
@@ -484,6 +485,8 @@ async function resolveUniqueInboxPath(baseSlug: string, branch: string): Promise
 
     index += 1;
   }
+
+  throw new GitHubError("Unable to allocate unique inbox slug after multiple attempts", 409);
 }
 
 export async function createIntakeDocument(input: IntakeInput) {
