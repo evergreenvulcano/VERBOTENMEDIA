@@ -4,6 +4,8 @@ const GITHUB_API = "https://api.github.com";
 const READ_TTL_MS = 60_000;
 const MAX_LIMIT = 100;
 const DEFAULT_LIMIT = 20;
+const MAX_COLLISION_ATTEMPTS = 500;
+const EXCLUDED_MODULE_PREFIX = "modules/_gpt/";
 const ALLOWED_TYPES = new Set<IntakeType>(["essay", "criticism", "literary", "fragment", "analysis"]);
 
 const SCOPE_ROOTS = {
@@ -105,14 +107,14 @@ function isAllowedPath(path: string): boolean {
     return false;
   }
 
-  if (path.startsWith("modules/_gpt/")) {
+  if (path.startsWith(EXCLUDED_MODULE_PREFIX)) {
     return false;
   }
 
   return path.startsWith(SCOPE_ROOTS.published) ||
     path.startsWith(SCOPE_ROOTS.sandbox) ||
     path.startsWith(SCOPE_ROOTS.inbox) ||
-    (path.startsWith(SCOPE_ROOTS.modules) && !path.startsWith("modules/_gpt/"));
+    (path.startsWith(SCOPE_ROOTS.modules) && !path.startsWith(EXCLUDED_MODULE_PREFIX));
 }
 
 function ensureAllowedPath(path: string): string {
@@ -472,7 +474,6 @@ async function fileExists(path: string, branch: string): Promise<boolean> {
 }
 
 async function resolveUniqueInboxPath(baseSlug: string, branch: string): Promise<string> {
-  const MAX_COLLISION_ATTEMPTS = 500;
   let index = 1;
 
   while (index <= MAX_COLLISION_ATTEMPTS) {
@@ -486,7 +487,7 @@ async function resolveUniqueInboxPath(baseSlug: string, branch: string): Promise
     index += 1;
   }
 
-  throw new GitHubError("Unable to allocate unique inbox slug after multiple attempts", 409);
+  throw new GitHubError("Could not find an available filename after multiple attempts", 409);
 }
 
 export async function createIntakeDocument(input: IntakeInput) {
