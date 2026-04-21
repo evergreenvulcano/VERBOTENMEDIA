@@ -16,9 +16,3 @@ It may be provisional, but it should still be understandable.
 - `YYYY-MM-DD_mornest.md`
 - `YYYY-MM-DD_nightfold.md`
 - `YYYY-MM-DD_merge-session-004.md`
-
-## Rule
-Not every run deserves permanence.
-Only keep runs that add interpretive value, structural memory, or reusable output.
-
-If a run produces a concrete outward-facing candidate change, stage that candidate separately in `../proposals/`.
