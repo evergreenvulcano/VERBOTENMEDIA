@@ -5,7 +5,7 @@ const READ_TTL_MS = 60_000;
 const MAX_LIMIT = 100;
 const DEFAULT_LIMIT = 20;
 const MAX_COLLISION_ATTEMPTS = 500;
-const EXCLUDED_MODULE_PREFIX = "modules/_gpt/";
+const EXCLUDED_GPT_MODULE_PATH = "modules/_gpt/";
 const ISO_DATE_PATTERN = /^\d{4}-\d{2}-\d{2}$/;
 const ALLOWED_TYPES = new Set<IntakeType>(["essay", "criticism", "literary", "fragment", "analysis"]);
 
@@ -108,14 +108,14 @@ function isAllowedPath(path: string): boolean {
     return false;
   }
 
-  if (path.startsWith(EXCLUDED_MODULE_PREFIX)) {
+  if (path.startsWith(EXCLUDED_GPT_MODULE_PATH)) {
     return false;
   }
 
   return path.startsWith(SCOPE_ROOTS.published) ||
     path.startsWith(SCOPE_ROOTS.sandbox) ||
     path.startsWith(SCOPE_ROOTS.inbox) ||
-    (path.startsWith(SCOPE_ROOTS.modules) && !path.startsWith(EXCLUDED_MODULE_PREFIX));
+    (path.startsWith(SCOPE_ROOTS.modules) && !path.startsWith(EXCLUDED_GPT_MODULE_PATH));
 }
 
 function ensureAllowedPath(path: string): string {
