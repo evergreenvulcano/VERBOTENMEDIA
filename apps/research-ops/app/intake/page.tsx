@@ -62,7 +62,7 @@ export default async function IntakePage({ searchParams }: IntakePageProps) {
 
         <label>
           Date
-          <input name="date" type="date" defaultValue={todayString()} placeholder="YYYY-MM-DD" />
+          <input name="date" type="date" defaultValue={todayString()} />
         </label>
 
         <label>

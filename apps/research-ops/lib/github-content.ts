@@ -6,6 +6,7 @@ const MAX_LIMIT = 100;
 const DEFAULT_LIMIT = 20;
 const MAX_COLLISION_ATTEMPTS = 500;
 const EXCLUDED_MODULE_PREFIX = "modules/_gpt/";
+const ISO_DATE_PATTERN = /^\d{4}-\d{2}-\d{2}$/;
 const ALLOWED_TYPES = new Set<IntakeType>(["essay", "criticism", "literary", "fragment", "analysis"]);
 
 const SCOPE_ROOTS = {
@@ -263,6 +264,7 @@ async function fetchMarkdownContent(path: string, branch: string): Promise<strin
     throw new GitHubError(`Unsupported encoding for ${path}`, 500);
   }
 
+  // GitHub returns base64 with line breaks; remove them before decoding.
   return Buffer.from(payload.content.replace(/\n/g, ""), "base64").toString("utf8");
 }
 
@@ -407,7 +409,7 @@ function normalizeDate(value?: string): string {
     return new Date().toISOString().slice(0, 10);
   }
 
-  if (!/^\d{4}-\d{2}-\d{2}$/.test(value)) {
+  if (!ISO_DATE_PATTERN.test(value)) {
     throw new GitHubError("date must use YYYY-MM-DD format", 400);
   }
 
@@ -474,6 +476,7 @@ async function fileExists(path: string, branch: string): Promise<boolean> {
 }
 
 async function resolveUniqueInboxPath(baseSlug: string, branch: string): Promise<string> {
+  // V1 collision handling is intentionally sequential and simple: slug, slug-2, slug-3...
   let index = 1;
 
   while (index <= MAX_COLLISION_ATTEMPTS) {
