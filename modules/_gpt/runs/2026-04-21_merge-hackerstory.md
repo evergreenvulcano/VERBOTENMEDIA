@@ -73,9 +73,9 @@ Place them beside each other.
 Strike through every noun that starts sounding too proud of itself.
 Keep the verbs.
 Keep the pressure.
-When a sentence begins to explain the system, test whether posture survives without it.
-If posture survives, keep moving.
-If posture collapses, the sentence is load-bearing.
+When a sentence begins to explain the system, ask whether posture would survive if the sentence vanished.
+If yes, delete the sentence in your head and continue.
+If no, the sentence was load-bearing after all.
 Do not resolve the contradiction.
 That unresolved remainder is where continuity is still telling the truth.
 
