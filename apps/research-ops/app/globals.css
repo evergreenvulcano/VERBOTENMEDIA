@@ -1,0 +1,89 @@
+:root {
+  color-scheme: dark;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Inter, system-ui, -apple-system, sans-serif;
+  background: #0d0d0d;
+  color: #e2ddd6;
+}
+
+a {
+  color: inherit;
+}
+
+main {
+  max-width: 760px;
+  margin: 0 auto;
+  padding: 2rem 1.25rem 4rem;
+}
+
+h1 {
+  font-size: 1.6rem;
+  margin-bottom: 0.25rem;
+}
+
+p {
+  color: #c8c2bb;
+  line-height: 1.5;
+}
+
+form {
+  margin-top: 1.5rem;
+  display: grid;
+  gap: 0.9rem;
+}
+
+label {
+  display: grid;
+  gap: 0.35rem;
+  font-size: 0.9rem;
+}
+
+input,
+textarea,
+button,
+select {
+  width: 100%;
+  border: 1px solid #2f2c29;
+  background: #131313;
+  color: #e2ddd6;
+  border-radius: 6px;
+  padding: 0.65rem 0.75rem;
+  font: inherit;
+}
+
+textarea {
+  min-height: 280px;
+  resize: vertical;
+}
+
+button {
+  width: auto;
+  cursor: pointer;
+  background: #b99a8e;
+  border: none;
+  color: #0d0d0d;
+  font-weight: 600;
+  padding: 0.65rem 1rem;
+}
+
+.notice {
+  margin-top: 1rem;
+  border: 1px solid #2f2c29;
+  border-radius: 8px;
+  padding: 0.75rem 0.9rem;
+  background: #111;
+}
+
+.notice.error {
+  border-color: #7c3f3f;
+  color: #f0c1c1;
+}
