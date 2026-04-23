@@ -32,6 +32,23 @@ This module is conceptually adjacent to `modules/_gpt` but fully isolated from i
 
 `source-intake.md` tracks provenance, normalization status, and admission status for all packet files.
 
+## Module tier
+
+**Developmental — non-canon, non-public.**
+
+This module is a support runtime package. It is not settled canon and carries no publishing authority.
+It exists to discipline a specific line of constitutive/generative work.
+
+Promotion to a higher tier requires explicit re-ceremony in `admission-gate.md`. Folder existence,
+file completeness, or organized structure do not constitute promotion. Do not let the module's legibility
+masquerade as its authority.
+
+## Anti-expansion clause
+
+This module must not grow by self-justification. The addition of more protection files, more glossary entries,
+more review surfaces, or more helper scaffolding is not progress unless a specific, demonstrated semantic gap
+requires it. If a proposed addition cannot name the gap it closes, the addition is rejected.
+
 ## Core non-goals
 
 This module must not drift into:
@@ -44,3 +61,9 @@ This module must not drift into:
 - generic empathy vocabulary
 
 `Dujag.md` is treated first as a **positions file**, not as a character-role instruction surface.
+
+## Admission gate
+
+The formal admission ceremony for this module lives in `admission-gate.md`.
+Read it before any constitutive or runtime work. It names what is constitutive, what is not,
+and what cannot be changed silently.
