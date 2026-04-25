@@ -175,6 +175,6 @@ När jag gjorde praktik var det tabu att nämna det absurda i att bankerna skapa
 
 Det låter som att din praktik tog slut snart.
 
-Nej då, jag betalade gärna för erfarenhet med min tid för struntlön. Min praktik varade i fyra långa år. Sedan hamnade jag i egenskap av andrasortering som förvaltare och grindväktare för en skitprodukt och på den vägen var det, jag har gjort praktik många fler gånger, till slut så fick det bli detta påhittade lek. Låt oss gå till bildäckgungan, jag kan snurra dig till stjärnstopp. 
+Nej då, jag betalade gärna för erfarenhet med min tid för struntlön. Min praktik varade i fyra långa år. (Rättelse från mysteriet 2026: Sju år and going strong ...) Sedan hamnade jag i egenskap av andrasortering som förvaltare och grindväktare för en skitprodukt och på den vägen var det, jag har gjort praktik många fler gånger, till slut så fick det bli detta påhittade lek. Låt oss gå till bildäckgungan, jag kan snurra dig till stjärnstopp. 
 
 © Verboten Media 2023-06-25

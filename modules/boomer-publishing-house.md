@@ -1,3 +1,28 @@
+# boomer-publishing-house
+
+Repo-native source anchor for the former `pool=HackerStory.docx` mass.
+
+## Status
+Canonical source surface.
+Not a GPT-owned file.
+Not a staging area.
+
+## Use
+Read as source material for:
+- dossier ingestion
+- node extraction
+- proposal derivation
+- continuity tracking across sessions
+
+## Do not use this file for
+- raw GPT run logs
+- duplicate mirrors of existing sources
+- silent structural rewrites without review
+
+## Operational note
+Derived GPT work should accumulate in `modules/_gpt/`.
+This file should remain a canonical input surface unless explicitly revised.
+
 --- FILSTART: [pool=HackerStory.docx] ---
 I see the architecture — a living dossier engine that ingests artefacts, crystallizes them into nodes, mutates existing nodes, and generates prose outputs (micro-stories, homepage blurbs, ritual prompts) in a continuous integration loop. I'll internalize the system, locate your OneDrive artefacts, run the first session now, and set up 4 daily automated runs.
 Now I'll execute the initial run and set up the 4 daily scheduled tasks simultaneously.

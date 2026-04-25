@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>VERBOTEN MEDIA</title>
+
+<style>
+:root{
+  --bg:#000000;
+  --fg:#ffffff;
+  --muted:#9a9a9a;
+  --accent:#e6a3b5; /* very restrained pink */
+}
+
+*{box-sizing:border-box;}
+html{scroll-behavior:smooth;}
+body{
+  margin:0;
+  background:var(--bg);
+  color:var(--fg);
+  font-family: serif;
+  letter-spacing:0.01em;
+  line-height:1.5;
+}
+
+/* TYPE */
+
+h1,h2,h3{
+  font-weight:400;
+  margin:0 0 1rem 0;
+}
+
+h1{
+  font-size:clamp(2.5rem,6vw,5rem);
+  letter-spacing:0.05em;
+}
+
+h2{
+  font-size:clamp(1.6rem,3vw,2.5rem);
+}
+
+p{
+  margin:0 0 1rem 0;
+  color:var(--muted);
+}
+
+/* LAYOUT */
+
+.wrap{
+  width:min(1100px, calc(100% - 2rem));
+  margin:0 auto;
+}
+
+section{
+  padding:5rem 0;
+  border-top:1px solid #111;
+}
+
+/* NAV */
+
+nav{
+  position:fixed;
+  top:0;
+  left:0;
+  width:100%;
+  padding:1.2rem 1rem;
+  display:flex;
+  justify-content:space-between;
+  z-index:100;
+  background:rgba(0,0,0,0.85);
+}
+
+nav a{
+  color:var(--muted);
+  text-decoration:none;
+  margin-left:1rem;
+  font-size:0.85rem;
+  letter-spacing:0.12em;
+  text-transform:uppercase;
+}
+
+nav a:hover{
+  color:var(--fg);
+}
+
+nav .brand{
+  color:var(--fg);
+  letter-spacing:0.2em;
+  font-size:0.9rem;
+}
+
+/* HERO */
+
+.hero{
+  height:100vh;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  text-align:center;
+  position:relative;
+}
+
+.hero img{
+  width:80px;
+  margin-bottom:2rem;
+  opacity:0.9;
+}
+
+.hero p{
+  max-width:480px;
+  margin:0 auto;
+}
+
+/* GRID */
+
+.grid{
+  display:grid;
+  grid-template-columns:repeat(3,1fr);
+  gap:1rem;
+}
+
+.card{
+  border:1px solid #111;
+  padding:1.2rem;
+}
+
+.card h3{
+  font-size:1.1rem;
+  margin-bottom:0.5rem;
+}
+
+/* IMAGE SYSTEM */
+
+.image-block{
+  margin-top:2rem;
+  display:grid;
+  grid-template-columns:1fr 1fr;
+  gap:1rem;
+}
+
+.image-block img{
+  width:100%;
+  height:auto;
+  display:block;
+}
+
+.image-caption{
+  font-size:0.85rem;
+  color:var(--muted);
+  margin-top:0.5rem;
+}
+
+/* LINKS */
+
+a.inline{
+  color:var(--accent);
+  text-decoration:none;
+}
+
+a.inline:hover{
+  color:var(--fg);
+}
+
+/* FOOTER */
+
+footer{
+  padding:3rem 0;
+  text-align:center;
+  font-size:0.8rem;
+  color:var(--muted);
+  border-top:1px solid #111;
+}
+
+/* RESPONSIVE */
+
+@media(max-width:900px){
+  .grid{
+    grid-template-columns:1fr;
+  }
+  .image-block{
+    grid-template-columns:1fr;
+  }
+}
+</style>
+</head>
+
+<body>
+
+<nav>
+  <div class="brand">VERBOTEN</div>
+  <div>
+    <a href="#works">WORK</a>
+    <a href="#method">METHOD</a>
+    <a href="#archive">ARCHIVE</a>
+    <a href="#contact">CONTACT</a>
+  </div>
+</nav>
+
+<section class="hero">
+  <div>
+    <img src="assets/Stamp.png" alt="Verboten symbol" />
+    <h1>VERBOTEN MEDIA</h1>
+    <p>
+      A system for writing where the archive is visible,  
+      authorship is distributed, and structure becomes narrative.
+    </p>
+  </div>
+</section>
+
+<section id="works">
+  <div class="wrap">
+    <h2>WORK</h2>
+
+    <div class="grid">
+      <div class="card">
+        <h3>Förlagsdeckaren</h3>
+        <p>Central narrative system. Fiction behaving as infrastructure.</p>
+      </div>
+
+      <div class="card">
+        <h3>Fragments</h3>
+        <p>Aphoristic and extracted material. Editorial membrane in action.</p>
+      </div>
+
+      <div class="card">
+        <h3>Satellite Works</h3>
+        <p>Peripheral texts, experiments, and deviations.</p>
+      </div>
+    </div>
+
+    <div class="image-block">
+      <div>
+        <img src="assets/skalle.png" alt="Abstract head of tangled lines representing divided cognition" />
+        <div class="image-caption">
+          Dividual cognition. Thought as entangled structure.
+        </div>
+      </div>
+
+      <div>
+        <img src="assets/skalle.gif" alt="Animated head with internal disturbance, interruption in cognitive field" />
+        <div class="image-caption">
+          Interruption as signal. Disturbance reveals structure.
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="method">
+  <div class="wrap">
+    <h2>METHOD</h2>
+
+    <div class="grid">
+      <div class="card">
+        <h3>Blueprint</h3>
+        <p>Structure precedes narrative. Narrative confirms structure.</p>
+      </div>
+
+      <div class="card">
+        <h3>Membrane</h3>
+        <p>Context transforms fragments. Same input, divergent realities.</p>
+      </div>
+
+      <div class="card">
+        <h3>Iteration</h3>
+        <p>No final form. Only versions with different pressure.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="archive">
+  <div class="wrap">
+    <h2>ARCHIVE</h2>
+
+    <p>
+      The archive is not a repository. It is the structure that makes the work possible.
+    </p>
+
+    <div class="grid">
+      <div class="card">
+        <h3>Timeline</h3>
+        <p>Documents as sequence.</p>
+      </div>
+
+      <div class="card">
+        <h3>Corpus</h3>
+        <p>Fragments, notes, systems, drift.</p>
+      </div>
+
+      <div class="card">
+        <h3>Access</h3>
+        <p>
+          Controlled visibility.  
+          <a class="inline" href="#">Request entry</a>
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="contact">
+  <div class="wrap">
+    <h2>CONTACT</h2>
+
+    <p>
+      Editorial, collaboration, or structural inquiry.
+    </p>
+
+    <div class="grid">
+      <div class="card">
+        <h3>Editorial</h3>
+        <p>editorial@verboten.media</p>
+      </div>
+
+      <div class="card">
+        <h3>Studio</h3>
+        <p>studio@verboten.media</p>
+      </div>
+
+      <div class="card">
+        <h3>Signal</h3>
+        <p>Low-frequency contact only.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<footer>
+  VERBOTEN MEDIA — no feed, no stream, no noise
+</footer>
+
+</body>
+</html>

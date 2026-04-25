@@ -1,0 +1,44 @@
+workflow_schema.json
+JSON
+
+{
+  "workflow_name": "creative-aphorism-extraction",
+  "workflow_display_name": "Creative Aphorism Extraction Workflow",
+  "description": "Extract creative content from source files and transform into aphoristic format with metadata sections, plus create meta-perspective presentation",
+  "version": "1.0.0",
+  "created_date": "2026-04-08",
+  "parameters": [
+    {
+      "name": "source_files",
+      "display_name": "Source Files",
+      "description": "Creative content files to extract from",
+      "type": "files",
+      "required": true,
+      "default": ["Google Keep-dokument (1).docx"]
+    },
+    {
+      "name": "reference_files",
+      "display_name": "Reference Files",
+      "description": "Target style reference files for aphoristic format",
+      "type": "files",
+      "required": true,
+      "default": ["stride_TARGET.docx"]
+    }
+  ],
+  "steps": [
+    {
+      "step_number": 1,
+      "step_name": "creative_extraction",
+      "display_name": "Creative Content Extraction",
+      "description": "Extract creative content chunks and transform into aphoristic format with metadata sections",
+      "parameters_used": ["source_files", "reference_files"]
+    },
+    {
+      "step_number": 2,
+      "step_name": "meta_presentation",
+      "display_name": "Create Meta-Perspective Presentation",
+      "description": "Create PowerPoint presentation analyzing the work from orchestrator agent perspective",
+      "parameters_used": []
+    }
+  ]
+}

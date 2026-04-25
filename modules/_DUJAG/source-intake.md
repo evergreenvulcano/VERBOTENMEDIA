@@ -42,3 +42,11 @@ Normalization rule in this module: source packet copied into `source-packet/` wi
 - Runtime files are derivative and cannot override constitutive interpretation.
 - Diagnostic artifacts can pressure interpretation but have no constitutive authority.
 - Unstable materials are retained by default until explicit promotion criteria are met.
+
+## Adjacent module references
+
+These are not part of `_DUJAG`'s normalized `source-packet/`, but they are intentionally available from `/modules/` for shared reference.
+
+| Path | Relationship | Admission | Note |
+|---|---|---|---|
+| `modules/forlagsdeckaren-del-6-13-raw-session-source.md` | external raw reference | non-authoritative | Frozen stale reference file preserving the original Del 6-13 session intake for cross-module access, including `_DUJAG`. |

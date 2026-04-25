@@ -51,3 +51,5 @@ This file should remain a canonical input surface unless explicitly revised.
 
 If accepted, this patch should be inserted at the top of `modules/boomer-publishing-house.md` as a minimal orienting preface.
 The body of the file should remain otherwise unchanged.
+
+User confirmation: Accepted.
