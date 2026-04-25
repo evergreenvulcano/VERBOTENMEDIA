@@ -1,0 +1,21 @@
+services:
+  site:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8080:80"
+    volumes:
+      - .:/usr/share/nginx/html:ro
+  tools:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    working_dir: /workspace
+    entrypoint: []
+    command:
+      - /bin/sh
+    tty: true
+    stdin_open: true
+    volumes:
+      - .:/workspace

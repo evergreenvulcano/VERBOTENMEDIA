@@ -1,0 +1,10 @@
+.git
+.github
+.gitignore
+README.md
+docs
+inbox
+scripts
+templates
+compose.yml
+.dockerignore

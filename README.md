@@ -4,11 +4,11 @@ Nothing needs to be finished.
 
 # VERBOTEN MEDIA
 
-Production-ready static website for [VERBOTEN MEDIA](https://verbotenmedia.se) — an independent cultural platform working across literature, media, artistic research, and inquiry into contemporary digital life.
+Production-ready static website for [VERBOTEN MEDIA](https://verbotenmedia.se) - an independent cultural platform working across literature, media, artistic research, and inquiry into contemporary digital life.
 
 ## Structure
 
-```
+```text
 index.html                  Landing
 about.html                  About
 writings.html               Writings
@@ -23,9 +23,42 @@ js/main.js                  Minimal JavaScript
 
 ## Setup
 
-The site is fully static — no build step required.
+The site is fully static - no build step required.
 
-**Local development:** open any HTML file directly in a browser, or serve the directory with any static server:
+**Preferred local development:** use Docker for a consistent preview environment:
+
+```bash
+docker compose up
+```
+
+Then open `http://localhost:8080`.
+
+This Docker setup is intentionally minimal. It standardizes local preview only and does not add publishing automation, a build pipeline, or server-side behavior.
+
+The Docker image also includes `node` and `npm` for future tooling and validation work. Example version checks:
+
+```bash
+docker compose run --rm --entrypoint node site --version
+docker compose run --rm --entrypoint npm site --version
+```
+
+The preview mount remains read-only. For writable Node-based work, use the separate `tools` service:
+
+```bash
+docker compose run --rm tools node --version
+docker compose run --rm tools npm --version
+docker compose run --rm tools npm init -y
+```
+
+For an interactive shell inside the writable tooling container:
+
+```bash
+docker compose run --rm tools
+```
+
+This keeps the preview service stable while giving you a clean place to run future Node-based scripts, install packages, or add validation tooling.
+
+**Non-Docker local development:** open any HTML file directly in a browser, or serve the directory with any static server:
 
 ```bash
 npx serve .
@@ -43,9 +76,9 @@ Loaded from Google Fonts: [Cormorant](https://fonts.google.com/specimen/Cormoran
 
 Defined entirely in `css/style.css` via CSS custom properties at `:root`. Key variables:
 
-- `--bg` — page background (`#0d0d0d`)
-- `--fg` — primary text (`#e2ddd6`)
-- `--accent` — dusty rose accent (`#b99a8e`)
-- `--font-display` — Cormorant (serif, editorial)
-- `--font-body` — Inter (sans-serif, UI/body)
-- `--font-mono` — IBM Plex Mono (monospace, labels/fragments)
+- `--bg` - page background (`#0d0d0d`)
+- `--fg` - primary text (`#e2ddd6`)
+- `--accent` - dusty rose accent (`#b99a8e`)
+- `--font-display` - Cormorant (serif, editorial)
+- `--font-body` - Inter (sans-serif, UI/body)
+- `--font-mono` - IBM Plex Mono (monospace, labels/fragments)
