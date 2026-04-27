@@ -18,6 +18,7 @@ This file is intentionally referential. It defines the repo surfaces, the defaul
 - `writings.html` is the manual public registry for Writings cards.
 - `inbox/writings/` is staging for converted or normalized candidates. It is not canon by default.
 - `modules/` is source and development space. It may contain meaningful anchors, but it is not publish-ready by default.
+- `modules/_DUJAG/` is a separate developmental semantic-runtime package. It may be read for semantic/runtime discipline, but it must not be collapsed into `modules/_gpt/`, treated as public content, or reorganized without explicit instruction.
 - `modules/_gpt/index/` is operational memory and durable orientation.
 - `modules/_gpt/runs/` is dated operational output.
 - `modules/_gpt/proposals/` is proposal space for outward-facing candidate changes.
@@ -53,6 +54,7 @@ Do not collapse these states together. Source, staging, proposal, public content
 - `docs/EDITORIAL_SYSTEM.md`: editorial posture and readiness distinctions across source, normalized, and published material.
 - `inbox/writings/README.md`: staging and conversion-integrity rules for inbox candidates.
 - `static-pages/README.md`: canonical public-content location and promotion expectations.
+- `modules/_DUJAG/README.md`: boundary and load-order notes for the developmental semantic-runtime package.
 - `modules/_gpt/README.md`: operational membrane for GPT-assisted work.
 - `modules/_gpt/index/write-policy.md`: controlling `_gpt` write-boundary policy.
 - `modules/_gpt/index/run-spec.md`: required structure for recurring run artifacts.
