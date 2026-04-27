@@ -6,6 +6,8 @@ Nothing needs to be finished.
 
 Production-ready static website for [VERBOTEN MEDIA](https://verbotenmedia.se) - an independent cultural platform working across literature, media, artistic research, and inquiry into contemporary digital life.
 
+Operational repo contract for human and coding-agent work: [AGENTS.md](AGENTS.md).
+
 ## Structure
 
 ```text
