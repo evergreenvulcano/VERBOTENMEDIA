@@ -1,7 +1,7 @@
 ---
 type: proposal, cleanup, source-governance, runtime-orientation
 what: classify Praktikanten operative source, review, runtime, and DUJAG-adjacent surfaces without expanding the architecture
-source-material: modules/zoomer-publishing-castle.md, modules/PRAKTIKANTEN operative dossier pass.md, modules/_FORLAGSDECKAREN/, modules/_DUJAG/source-packet/urV41/, modules/_gpt/index/source-manifest.md
+source-material: modules/zoomer-publishing-castle.md, modules/PRAKTIKANTEN operative dossier pass.md, modules/FORLAGSDECKAREN/, modules/_DUJAG/source-packet/urV41/, modules/_gpt/index/source-manifest.md
 status: proposal
 promote: review -> bounded cleanup PR
 ---
@@ -33,8 +33,8 @@ The cleanup should do four things:
 
 1. Register `modules/zoomer-publishing-castle.md` as an active source anchor.
 2. Move and rename `modules/PRAKTIKANTEN operative dossier pass.md` as a review/orientation file under `_gpt/index`.
-3. Preserve the existing `_FORLAGSDECKAREN` runtime structure as the current primary runtime layer.
-4. Keep DUJAG-compatible Praktikanten material in DUJAG, with no merge into `_FORLAGSDECKAREN`.
+3. Preserve the existing `FORLAGSDECKAREN` runtime structure as the current primary runtime layer.
+4. Keep DUJAG-compatible Praktikanten material in DUJAG, with no merge into `FORLAGSDECKAREN`.
 
 No public writing surface should be changed.
 

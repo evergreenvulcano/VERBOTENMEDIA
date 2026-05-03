@@ -1,4 +1,4 @@
-# _FORLAGSDECKAREN
+# FORLAGSDECKAREN
 
 Developmental runtime module for Förlagsdeckaren.
 
@@ -6,7 +6,7 @@ This module is non-canon and non-public. It is not part of the markdown publishi
 
 ## Purpose
 
-`_FORLAGSDECKAREN` holds source-informed runtime infrastructure for future chapter and scene composition, including Praktikanten-as-literary-engine and multi-character board room formats.
+`FORLAGSDECKAREN` holds source-informed runtime infrastructure for future chapter and scene composition, including Praktikanten-as-literary-engine and multi-character board room formats.
 
 It is conceptually adjacent to `_DUJAG` as a support runtime package, but it is independent from `_DUJAG`. DUJAG may be used as architectural precedent only; the two modules must not be merged.
 
