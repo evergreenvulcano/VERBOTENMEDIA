@@ -69,3 +69,9 @@ Path: `forlagsdeckaren-del-6-13/del-13/README.md`
 Origin: user-supplied source files and source descriptions for Del 13 normalization
 Status: active
 Reason: This packet anchors the staged Del 13 text to the existing 20-card grounding register, the Tankefigur method documents, the parallel companion body `Den andra Praktikanten`, and the embedded post-it/page-203/bifigur structure that splits the grounder in two.
+
+## copilot-runs-0501-0506-source-packet
+Path: `copilot-runs-0501-0506/README.md`
+Origin: user-supplied external Copilot transcript `copilot runs 0501-0506.txt`
+Status: intake
+Reason: This packet preserves 18 split merge_hackerstory-like run sections as non-canonical source anchors with explicit external-intake metadata.
