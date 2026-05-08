@@ -5,8 +5,6 @@ type: capsule
 summary: AI may assist with reading, sorting, status diagnosis, and producing capsules — but must not replace literary prose, authorial voice, or origin-bearing essayistic thought.
 ---
 
-# AI får läsa, men inte ärva rösten
-
 AI may participate in this work. The boundary is not about distrust. It is about function.
 
 ---
@@ -37,14 +35,17 @@ AI may participate in this work. The boundary is not about distrust. It is about
 
 ## Distinguishing the kinds of text
 
-| Kind | AI-permitted | Notes |
-|------|-------------|-------|
-| Literary work | No | Authorial origin required |
-| Essay | No | Origin-bearing thought |
-| Capsule | Yes, with disclosure | Does not claim literary voice |
-| Log | Yes | Process record, not prose |
-| Diagnosis | Yes | Status assessment, not expression |
-| AI-mediated synthesis | Yes | Must be named as such |
+**Literary work** — not AI-permitted. Authorial origin required.
+
+**Essay** — not AI-permitted. Origin-bearing thought.
+
+**Capsule** — AI-permitted, with disclosure. Does not claim literary voice.
+
+**Log** — AI-permitted. Process record, not prose.
+
+**Diagnosis** — AI-permitted. Status assessment, not expression.
+
+**AI-mediated synthesis** — AI-permitted. Must be named as such.
 
 ---
 

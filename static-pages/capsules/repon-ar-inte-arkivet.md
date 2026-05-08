@@ -5,8 +5,6 @@ type: capsule
 summary: The repository is a publication membrane, not a total archive. Raw origins, working bodies, and unstable source clusters live elsewhere. The repo gives status.
 ---
 
-# Repon är inte arkivet
-
 The repository has a function. That function is not storage.
 
 ---

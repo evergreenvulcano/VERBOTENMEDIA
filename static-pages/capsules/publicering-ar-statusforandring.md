@@ -5,8 +5,6 @@ type: capsule
 summary: Publishing changes the status of a text or artefact. It is not merely making something available. Draft, source, capsule, diagnosis, essay, and literary work are not the same kind of object.
 ---
 
-# Publicering är statusförändring, inte distribution
-
 Publishing is not a delivery action. It is a status event.
 
 ---
