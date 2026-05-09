@@ -16,7 +16,7 @@ Praktikanten had designed it. Black ground. White serif. A pink so quiet it coul
 "Because sans-serif implies you've moved on," Praktikanten said without turning around. "Serif says you're still arriving."
 
 The sections loaded in sequence: WORK. METHOD. ARCHIVE. CONTACT. Each one a door that opened onto a room containing only its own description. Fiction behaving as infrastructure. Förläggaren read it and felt the particular vertigo of recognizing your own skeleton displayed in a museum while you are still using it.
-
+ 
 ## The liturgy of refusal
 
 At the center of the page sat a sentence on black, bone-white and unblinking. Everything around it was restraint. No feed. No stream. No noise. Just serif letters in white and a pink so restrained it barely existed: the color of a blush on a document that had decided not to apologize.

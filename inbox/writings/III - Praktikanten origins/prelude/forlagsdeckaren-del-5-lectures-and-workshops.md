@@ -14,7 +14,7 @@ recommendation: this is site content wowbeside explicit short story priority. th
 ## Lectures and Workshops
 
 Utdrag ur Praktikantens arbetsnoteringar. CONSIDER TO UTILIZE IN SHORT STORY FLOW - just delete headlines and use page as sandbox 
-
+ 
 #### SECTION C — LECTURES AND WORKSHOPS
 
 ##### 1. "Living in the Feed"

@@ -65,4 +65,4 @@ Så vad gör en sådan framåtsyftande auktoritet med reversibiliteten?
 
 Jodå, det går utmärkt. Även reträtter, tillbakadragande och snedsteg arkivförs. Också det otillräckliga, det ångrade och det förhastade som fläckar ned det perfekt tajmade, suveränt anspråksfulla publiceringskroppen har plats i en "semantisk kernel" som denna. 
 
-Tack för att du läser! 
+Tack för att du läser!  

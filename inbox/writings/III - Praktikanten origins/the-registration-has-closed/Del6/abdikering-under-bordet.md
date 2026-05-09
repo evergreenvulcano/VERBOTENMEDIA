@@ -55,7 +55,7 @@ Förläggaren ville att saken skulle vara överstökad. Det gick inte. Det gick 
 Flempo svarade inte direkt. Han öppnade ett anteckningsblock — inte för att anteckna utan för att dess öppnande signalerade att vad som än sades nu tillhörde protokollet, att orden hade övergått från samtal till handling, att tiden nu var handläggningstid och att handläggningstid inte kunde avkortas av den som ärendet gällde.
 
 — Lagändringarna träder i kraft den andra augusti, sade Flempo. Abdikeringen kan inte beredas före dess.
-
+ 
 — Varför inte, sade Förläggaren.
 
 — För att abdikeringen berör upphovsrättsliga frågor som efter den andra augusti kommer att ha en annan juridisk status än de har idag. Om abdikeringen behandlas före den andra augusti, behandlas den under en lag som inte längre gäller vid tidpunkten för dess ikraftträdande. Abdikeringen skulle i så fall vara giltig i en verklighet som juridiskt sett redan har upphört.

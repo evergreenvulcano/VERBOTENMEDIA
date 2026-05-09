@@ -49,7 +49,7 @@ Han stannade upp. Utanför, genom de väldiga industrifönstren, gjorde Götebor
 Lillfrugan såg på honom. ”Du vet att det är hjärnan som andas, va? Ryggmärgen. Hjärnstammen.”
 
 ”Exakt.”
-
+ 
 1. **Dag 16 — Den första tystnaden**
 
 Barnbok 16 publicerades 06:00:00. *Pojken som samlade moln.* En pojke som samlar moln i burkar och upptäcker att instängt väder blir något annat — inte moln längre, inte regn, utan ett tredje tillstånd som saknar namn eftersom ingen någonsin varit dum nog att stoppa ett moln i en burk förut.

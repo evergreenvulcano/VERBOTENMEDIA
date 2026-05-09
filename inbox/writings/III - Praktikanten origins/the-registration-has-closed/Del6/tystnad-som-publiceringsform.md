@@ -27,7 +27,7 @@ Förläggaren: Eller att jag lyckades bygga något som överlever mig. Det beror
 EH: Och vem tittar?
 Förläggaren: Två visningar. Du minns.
 EH: Jag minns. Jag var en av dem.
-
+ 
 EH: Verboten Media. Grundat 2019. PRE LLM, som du alltid insisterar på att tillägga.
 Förläggaren: Det är inte en nostalgisk markör. Det är en ontologisk. Vi existerade innan språkmaskinerna kunde simulera oss. Det betyder att vi var tvungna att vara verkliga. Det kostade oss något att skriva varje mening, att sammankalla varje tankesmedjemöte, att ladda upp varje föreläsning till en svart ruta med noll visningar. Det var inte friktionsfritt. Det var inte skalbart. Det var äkta på det sättet som bara saker som kostar tid kan vara äkta.
 EH: Och nu? POST LLM — vad kostar det er?

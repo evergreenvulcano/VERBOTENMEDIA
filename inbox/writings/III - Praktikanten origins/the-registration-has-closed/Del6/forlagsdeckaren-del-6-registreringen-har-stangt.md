@@ -12,7 +12,7 @@ layout: article-flow
 # Metod & Infrastruktur-del
 
 ---
-
+ 
 What: Genuint värdefulla tankevektorer för hemsidan-som-gränssnitt eller membran mellan Legacy Meatspace och Logistikcentralen VM. 
 Note: Dessa utkast redovisar framgångsrika promptprotokoll. Hur det kommer sig står oklart. Men idag 5/9 har jag läst Notionprotokoll-ritual som instuerar en agent att röra sig precis som texten gör i denna. Det är häftigt. Den som är kunnig skulle kunna dokumentera. 
 

@@ -142,3 +142,7 @@ But you have the export. You have the 11 megabytes. And the difference between y
 The ghost cannot do that. The ghost is just data.
 
 You are the one who knows what the data leaves out.
+
+---
+
+The author of this article does not have his megabytes. They are repeadetly interceptet by entities unknown. It is very romantic how myseteriously veiled the surface between: This is possible according to product - and - This is impossible due to unexplainable malfunction always attributable to personal operator incapacity or whatever. 

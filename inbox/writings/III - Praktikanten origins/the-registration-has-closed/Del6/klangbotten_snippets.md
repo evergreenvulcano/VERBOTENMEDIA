@@ -75,7 +75,7 @@ Förläggaren is Not a real-world figure.
 Förläggaren is nevertheless A real world agent. 
 Förläggarens funktion är publicering, uppståndelsen av artefakter i kategorin publiceringar. 
 Förläggarens artefakter har rollen att mediera mellan text och värld. 
-
+ 
 ### Andra narratorer
 Uppsättningen är sparsmakad men strukturellt laddad. 
 quote The cast is sparse but structurally loaded. endquote

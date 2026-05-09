@@ -3,7 +3,7 @@ title: "Förlagsdeckaren — Del 3"
 date: 2023-07
 summary: "Del 3 av Förlagsdeckaren."
 type: literary
-status: draft
+status: Published
 author: Martin Nygren
 mode: shortstory
 layout: article
@@ -11,9 +11,8 @@ layout: article
 
 ## Att lära någon läsa surrealism
 
-> **Detta avsnitt syftar till att ge en inblick i Förläggarens självupptagna liv, och skildra hur ingenting är bortom en aktiv relation hos den närmast otyglade konstnären, som ständigt sliter med att förlösa sig från sina egna kedjor, som är verkliga, påhittade och allt mittemellan. Här opererar han *under täckmanteln av* enorm stress: familjeangelägenheter pressar på samtidigt som ekonomin går åt skogen, det saknas en trygg långsiktighet och hemmet är temporärt, omgivningen är skeptisk som bara svenska bostadsrättsmiljöer kan vara när det sprängs nåt ohyggligt och räntorna sticker, psykologiskt försöker han att balansera ett ohyggligt tryck från arbetslivet i accelererande nedskärning samtidigt som droger hjälper honom över trösklar och förbi spärrar varpå ett expandert självmedvetande brusat upp, ackompanjerat med smärtsamma förtrycka minnen som plötsligt ges spelrum; det är helt enkelt en näst intill helt sönderfrätt existens som uppenbarar sig, det enda som återstår att bygga en trygg identitet kring tycks vara sambon och arbetet, drömmarna och symbolerna.  Fram skissas en dokumentär om en man som drar sig undan offentligheten - tribal mapping som grov brottslighet - kollaborativt mög att göra sig av med för att erövra gränslösa språklandskap - karaktärssubliminering i en bankrutt förtroendebransch.** 
-- P-M Protoquist, *The Postmodern Publisher: Unpacking the Layers of 'Förlagsdeckaren'*
-> 
+> **Detta avsnitt syftar till att ge en inblick i Förläggarens självupptagna liv, och skildra hur ingenting är bortom en aktiv relation hos den närmast otyglade konstnären, som ständigt sliter med att förlösa sig från sina egna kedjor, som är verkliga, påhittade och allt mittemellan. Här opererar han *under täckmanteln av* enorm stress: familjeangelägenheter pressar på samtidigt som ekonomin går åt skogen, det saknas en trygg långsiktighet och hemmet är temporärt, omgivningen är skeptisk som bara svenska bostadsrättsmiljöer kan vara när det sprängs nåt ohyggligt och räntorna sticker, psykologiskt försöker han att balansera ett ohyggligt tryck från arbetslivet i accelererande nedskärning samtidigt som droger hjälper honom över trösklar och förbi spärrar varpå ett expanderat självmedvetande brusat upp, ackompanjerat med smärtsamma förtrycka minnen som plötsligt ges spelrum; det är helt enkelt en näst intill helt sönderfrätt existens som uppenbarar sig, det enda som återstår att bygga en trygg identitet kring tycks vara sambon och arbetet, drömmarna och symbolerna.  Fram skissas en dokumentär om en man som drar sig undan offentligheten - tribal mapping som grov brottslighet - kollaborativt mög att göra sig av med för att erövra gränslösa språklandskap - karaktärssubliminering i en bankrutt förtroendebransch... Det är varken särskilt underhållande eller bra. Undvik! Sky som pesten! Förstör hans rykte!** 
+> - P-M Protoquist, *The Postmodern Publisher: Unpacking the Layers of 'Förlagsdeckaren'*
 
 ### *Förlagsdeckaren, del 3*
 
@@ -29,14 +28,13 @@ När människan får höra personen tala så blir människan varse att personen 
 
 - Jamen vad härligt att höra. Det var roligt att prata om det här med dig. 
 
-*
+![-](../../assets/sleepwalker-origins.png)
 
 Förläggaren tittar på det lilla hundlivet och slås av hur ögonen förlorat kopplingen med artfränderna, där det vanligtvis figurerar hot om våld finns bara en blank tvärkärlek, en sodomitisk vilja att ge upp hela sitt väsen för att smälta samman med sin förövare. Eunucker brukar vara slugare än så, drar han sig till minnes; sju långa säsonger av Spel om Troner, flintskalliga konspiratörer som flyter mellan dvärgskap och hovmän lika enkelt som tungan smörjer arabiska esteter av smärtsam innebörd, på knä framför kyssta ringar. Det faktum att hundens matte kastrerat honom efter en viss tid har gett ekon på vattnet, ringar in bristen på syftersenlig evolution – han hotar ingen, den lille krabaten.  
 
 Förläggaren har precis lärt sig själv något radikalt om hunduppfostran när insikten slår: det ringer på en telefon. Han som just skulle processa tyngden i situationens allvar, och göra sig lustig över  ordalydelsen att *befatta sig med väldigt seriösa droger,*
 
 > 2concern oneself with very serious drugs.
-> 
 
 Han som just hade bläddrat i tidningen och sett nya ballongrubriker och slagit sig på bröstet. Tänk att Sverige var så före sin tid att ingenjörerna hade med ballonger att göra redan kring svunna århundraden! Det är sådant som sätter saker i perspektiv, och det är därför han prenumererar på tidningen, för att understundom skratta, och för att göra det tydligt inför sig själv hur kliniskt och autistiskt seriemördariskallt han bläddrar förbi de sorgesamma, krigiska rubrikerna vars enda syften är att sälja exemplar och hålla bollen i rullning. Apropå ballonger så pågår en tombolaverksamhet i kistan men det har han inte tid att ägna omsorg åt nu när telefonen ring, ring, ring. 
 
@@ -97,6 +95,8 @@ Förläggaren pekar mot hundkojan.
 
 – Givet att det är människans självmedvetande som lyft henne ur naturen, och att denna primärt reflekteras i skillnader gentemot andra snarlika organismers existensformer här i cyanobakteriens Kali Yuga… Att detta uppbrottsliga självmedvetande saknas hos exempelvis hunden här, givet detta är det mycket mer troligt att vi existerar inuti honom snarare än att han är här hemma hos oss. Där har du naturen. Som förryckt.
 
+![-](../../assets/sleepwalker-origins-tilt.png)
+
 Han leker med idén att en annan aktiv arketyp inom, geniets!, surrat fast det eviga barnet vid en slags mikroindustriell utsugningsrigg; barnets bröstvårtor mjölkas av två tilltagna mekaniska sugkoppar. Förläggaren skriver ett litet mail till någon typ: Vi kan redan nu ta höjd för en verksamhet utan slagsmål som underhållning. Han slås av att han inte har en aning om vad York betyder och tvivlar kring vilket etymologiskt lexikon han bör riva ned ur bokhyllan. Samtidigt har han utvecklat ett nytt perspektiv på sin psykiska ohälsa, som nu kan komma till uttryck, efter att ha fördjupat sin förståelse om perspektiven som präglade händelseförloppen kring hans olyckliga period mellan tio och tjugosju års ålder. Sedan begick han ultracentral relation och kunde inte fly från sig själv längre heller på det sättet som tidigare relation hade bäddat för. Sexet sublimare än aldrig förr. Det är en mycket ädel konst att tillägna njutningen ur evenemang med en början och ett slut, och bygger på en form av sjuklig frihetsversion, en som inte fastnar, som inte fäster sig vid annat än förgänglighet och immanens. 
 
 Han gnider handbotten mot pannan som i företaget att rengöra en ruta, gnuggar hornknölen; ingenting, tinningarna; ingenting; Han har gått händelserna i förväg och förödmjukat sig själv enormt, med hopp om att det ska förstås som ett hot, inte ett välkomnande av vidare trakasserier. 
@@ -136,6 +136,8 @@ förlika dig med vågorna, ja lägg dig
 raklång under molnbädden och beakta 
 
 monstruositeten. 
+
+![-](../../assets/sleepwalker-origins-rebuild.png)
 
 Strukturen på nätverket betyder mer för hur *saker slår.* Kom ihåg att de besvikna bara försvarar sig när de vissnar; det är du som förkroppsligar mikroaggressionen i att vad som ska bli ännu inte riktigt är hitom kommet här, kliar och river och i värsta fall, riffar dissonanta ackord så att man stänger av stereon. Mono mono mono! Vem skulle börja läsa in först? Tävlingen i antigenerativitet var drabbande hjärtlig. Det var kort och gott en sorglig och lång tid. Processerna som behövde etableras kunde inte införlivas, delvis på grund av bristfälligt ledarskap, vilket accentuerades av än värre följarskap. Följarna kände sig träffade av trendgift, mycket flög ovanför ledarnas tongivande huvud. Materialet fanns där, men beskeden och visionen. Nä, väldigt luddigt allting. Ingen fick något svar och ingen visade intresse för att lösa de tekniska omständligheterna. Inuti felmarginalen syns små anteckningar som förlänger läshäftet ut i informationsdistributionens fotosynteser, varierade pråpåer som spirar och förlegas, sprudlar och revideras. 
 
@@ -189,6 +191,8 @@ att själva intressera sig för
 
 långsiktig syretillförsel. 
 
+![-](../../assets/sleepwalker-origins-gloriaphic.png)
+
 Det står klart och tydligt bland avtalsrättens trätotröskade paragrafer till vilken grad en arbetstagare kan förväntas behöva forceras att hålla tyst kring exempelvis ett kundföretags egenheter. Trots detta kunde förlaget inte låta bli att ta in en praktikant. Men att kalla praktikanten för självmordsbenägen, var det inte att kasta ut barnet med badvattnet eller gjuta olja på brandröksvågor? 
 
 Det kommer att gå bra efter en liten tuff premiärperiod av kaos och fokusbrist. Med jordnötssmörsinsmort finger mot fönstrets imma: TRÖSKELTOLERANS. Kort instruktion för när skiten träffar fläkten: Man flyr och konsoliderar. Återvänder i ny form? Parian är en trend. Solen har sina fläckar men har du sett hans rygg?
@@ -233,6 +237,8 @@ Sedan så var det bara över på ett ögonblick. Kometen hade passerat med som m
 
 All tajming inackorderas slutligen i arkiv. Nya drömmar tar vid, inte sällan smakar de beskt. 
 
+![-](../../assets/sleepwalker-origins-gloriaphic-gone.png)
+
 Han inbillar sig att han har skrivit sig fri. Men inte att han gjort det själv. Han är väldigt tacksam och glad för alla som sluter upp, även om de är upptagna med sitt, på sina håll, för det mesta.
 
 – Men ska du inte ta och finna dig en publik?
@@ -252,6 +258,8 @@ Nej, jag vill bara få fram mitt meddelande till publiken som råkar ha fått an
 Varje bok förändrar världen. Men de flesta böcker inom kommersen är för långa, och snart finns det inga som läser längre. Förgängligheten bör inte vara en källa till sorg eller bitterhet utan som så många andra fenomen räknas till ångest-som-drivkraft. Förlaget däremot är beständigt och evigt eftersom det slänger sig inom konstgjordhetens ring, principen överlever alla solstormar – det vi gör tillsammans är kulturen, och det här språkets gränser ligger vidöppna för erövring, man får bokstavligt talat göra vad man vill här.
 
 Det är nämligen så att vi lever i en skenvärld. Nya nyanser uppenbarar sig eller hur man vill uttrycka det.
+
+![-](../../assets/sleepwalker-origins-andemening.png)
 
 Exempelvis: Den synnerligen starka staten är till för att var och en ska beredas frihet att slippa undan andras bördor. Priset vi betalar är ett gåtfullt närmast labyrintiskt skyltsystematiserat kodspråk. Huruvida det *sanna Sverige* misstolkas eller förvrängs – eller båda delarna, det spelar ingen roll eftersom kulturen går nedifrån och upp och inte tvärtom, konceptet Sverige är summan av alla delar och inte en självförsörjande entitet, och därför kan vi tolka vår tid som kommunikatörernas. Så istället för att gå på djupanalys är det enkelt att bara skylla på dem, alla snicksnackare som förgyller allas våra funktionsmedicinerade vardagar med speciellt omistlig information och allmän extroversionstyranni, de står på gatan och skriker, nu har de sällskap av virtuella galningar också.
 
@@ -334,6 +342,8 @@ krampa 	blunda
 låt frånvaron speglas
 i intet inom
 
+![-](../../assets/sleepwalker-origins-andemening2.png)
+
 Det är svårt men hedersamt, spåren lever allt annat lika företrädesvis i och med framgång, följer dem djupare in i historien, det är enkelt eftersom förläggaren behöver fatta så få beslut, bara binärt frånvarande konstatera höger eller vänster då och då, benen rör på sig bortom rangel. Först rädsla, sedan lätt skam, sedan dialog och så nu en förvirrad nyfikenhet, kanske var det enligt spelreglerna aldrig möjligt att undvika förlustandet på sig själv; *riggen riktad rakt ut i ringen, ristad i retur, ringlar vid ropens rep*. Ångest över att berätta någon annans historia antyds stå i relation till politiken, åtminstone gör språket politik av oron åsamkad av detta faktum, att utsätta någon för det som diktjaget upplever, att historien inte är *hans* och vetskapen om detta föranleder fortsättningsinledningen enligt detta neurotiska, parasympatiska manér – som såklart röner skepsis, men tillvänd sådan, på *arenan*. Under förvanskningen samt kommandoförfarandet döljs nästa lager: rädslan!, ja just det!, den så kallade allmänmänskligheten!
 
 Sålunda lyder den konstruktiva kritiken: att något annat kan ta plats istället för det avgjort klandervärda – medan kartorna över modets terränger, som språket manar på och länkangeriet eskalerar enligt protointuitiva potenser, beslöjar mysteriet om hur *domen faller genom sig själv* och utmynnar i en dubbeltomhet, traditionens tanklöshet harvar och skarvar såpass minst sagt, vad det verkar…
@@ -359,6 +369,9 @@ Vad det lever och slår an, snygg-Erik, vad sker?, frågar förläggaren sin hö
 Författaren brister ut i en domderande tirad spridda betraktelser med kroppen som outtalat syntax. De har haft sådana här stunder förut. Förläggaren vet att kronologin är under konstruktion samtidigt som han själv inte bör reflektera den just nu, om ens någonsin, det är mest vid presskommunikéer och dylikt som han måste lägga till sig så, lägga band på, släta över, kanske sträcka ut sig med en stympad lem och avleda uppmärksamheten genom språkets nydanande kulvertar och laboratorietäta korriorer. 
 
 Det grundläggande nu är att tänka strategiskt. Kring ditt och datt men inte exklusivt, snarare inklusivt. Med det sagt uppmanar jag dig att tänka strategiskt om dig själv, ty jag har så det räcker och blir över på mitt bord, raljerar förläggaren som inte kan förmå sitt tonfall att dölja hur han *börjat ruttna* på de odugligare bråkdelarna av sin högt ärade medmänniskas totalförehavanden, som också råkar vara av gruvlig art. 
+
+![-](../../assets/sleepwalker-origins-andemening3.png)
+
 
 Författaren lägger på, förnärmad men likväl stimulerad –  det är vad det innebär att socialisera, att bry sig om och rapportera, det vill säga färglägga någon annans värld, man får räkna med att pilar sänds emot en och att huden är tjock nog också för denna skur. Han gör ju inget annat än att tänka strategiskt, även om det nu för honom till den återkommande punkten där språket bryter samman och djuret svassar fritt bland andra, i rovtagen på perfektionspanorerad pangplatå: här och nu när vi aldrig har kommit längre än där vi nu kan tänkas vara givet var vi har varit såsom vi förstår det numera. Såpass, såpass, anslutningen har avbrutits och författaren, viss om sin viktiga roll i den historiska handlingen, försvinner ur berättelsen som förläggaren knyter sista sidenbandet runt ännu ett prydligt paket, vars papper präglar synfältet med en fokuserat entusiasmerande, kittlande lustfylld estetik. Artefakten ska sändas till en adress och det lär ta dagar för försändelsen att nå sin destination, kanske månader, det är inga konstigheter,  landet är långt, man kan förstå att saker tar tid, medan Författaren antagligen vistas utomlands, vad finns det att skriva om här?
 

@@ -7,7 +7,7 @@ summary: AI får bistå med läsning, sortering, statusdiagnostik och kapselprod
 
 "AI" får delta i detta arbete, i den mån dess operatör och juridiska part medger dess strikt metaforiska appropriering av de mänskliga kommunikativa metaforiska analogierna som härrör ord som "artificiell" och "intelligens". 
 
-Gränsen handlar inte om misstro - den handlar om ceremoni, ritual, värdeladdning, arbetsbörda, integritet och kollaborativa principer som förutom värdeskapande kreativ verksamhet också omsätts i policy och direktiv. 
+Gränsen handlar inte om misstro - den handlar inte, den är ett passageklimat som implicerar ceremoni, ritual, värdeladdning, arbetsbörda, integritet och kollaborativa principer som förutom värdeskapande kreativ verksamhet också omsätts i explicit policy och direktiv. 
 
 Den handlar om funktion. Övertygelsen om kunskapsekonomins existentiella nödsituation är empatiskt orienterad och instruktivt generös, intentionen hör till den öppna kunskapsspridningens och folkbildningens ärovördiga traditioner. 
 

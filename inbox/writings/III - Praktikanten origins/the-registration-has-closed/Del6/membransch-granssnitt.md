@@ -16,7 +16,7 @@ normalized_from: md
 *Specialfall: Systemgenomskärande patch med realtidsinvändningar*
 
 ---
-
+ 
 ## § 1 — Patchen
 
 Förläggaren hade förberett sig. Det var ovanligt. Det var så ovanligt att Flempo Guyenjaure, som hade anlänt först och redan inventerat rummet — stolarna, skärmen, den gröna diodens standby-frekvens, den fossila markören i whiteboardtavlans ränna, de tre orden ONTOLOGI / ENTOLOGI / ENOLOGI vars konturer nu befann sig i det stadium av optisk degradering där de bara var läsbara för den som redan visste vad de sade — omedelbart registrerade det som diagnostiskt signifikant. Förläggaren hade ett dokument. Inte ett anteckningsblock, inte en telefon, inte den typ av handskriven lapp som han ibland fiskade ur fickan med den gest som signalerade att tanken hade uppstått under transport och krävde omedelbar avlastning — utan ett dokument. Tryckt. Formaterat. Med rubriker.
