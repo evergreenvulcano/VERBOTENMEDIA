@@ -1,59 +1,78 @@
 ---
-title: Repon är inte arkivet
+title: Repositoryt är inte arkivet
 date: 2026
 type: capsule
-summary: The repository is a publication membrane, not a total archive. Raw origins, working bodies, and unstable source clusters live elsewhere. The repo gives status.
+summary: Repositoryt är ett publiceringsmembran, inte ett totalarkiv. Råa ursprung, arbetskroppar och ostabila källkluster lever någon annanstans. Repositoryt ger status.
 ---
 
-The repository has a function. That function is not storage.
-
----
-
-## What the repo does
-
-The repo is the membrane between raw material and public status. When a text or artefact passes through it, something changes: the material has been named, positioned, and made available under a defined structure. That is what publishing means here.
-
-The repo supports:
-
-- Finished texts being published or staged for publication
-- Capsules with defined public functions
-- Renderer and publication infrastructure
-- Method and editorial rule documentation
-- Status diagnostics for active publication decisions
+Repositoryt har en funktion. Den funktionen är inte lagring.
 
 ---
 
-## What the repo does not do
+## Vad repositoryt gör
 
-The repo does not carry the full burden of the project archive.
+Repositoryt är membranet mellan råmaterial och publik status. När en text eller artefakt passerar genom det, förändras något: materialet har namngivits, positionerats och tillgängliggjorts under en definierad struktur. Det är vad publicering betyder här.
 
-**OneDrive, Notion, and local folders** may hold:
+Repositoryt stöder framför allt:
 
-- Raw source exports and working drafts
-- Large experimental text corpora and agent-protocol runs
-- Visual asset batches and image collections
-- Proof material and version histories
-- Unstable draft clusters not yet in active preparation
-- Everything that is interesting but not yet functional in publication terms
+- Färdiga texter som publiceras eller ställs i ordning för publicering
+- Kapslar med definierade publika funktioner
+- Renderer- och publiceringsinfrastruktur
+- Metod- och redaktionell regeldokumentation
+- Statusdiagnostik för aktiva publiceringsbeslut
 
-This material does not disappear when it is not in the repo. It exists in its working space, where it belongs, until it has a specific reason to cross the membrane.
+Med det viktiga tillägget: 
+- Staging-material när det är tydligt märkt som icke-publicerat och befinner sig i aktiv beredning
+
+Den övermättade listan lyder: 
+
+- Färdiga texter som publiceras eller ställs i ordning för publicering
+- Kapslar med definierade publika funktioner
+- Renderer- och publiceringsinfrastruktur
+- Metod- och redaktionell regeldokumentation
+- Statusdiagnostik för aktiva publiceringsbeslut
+- Mallar, kontrakt och formatstandarder som styr publiceringsflödet
+- Index, register och navigationsfiler som gör materialet läsbart och förvaltningsbart
+- Källnära dokumentation när den behövs för att förstå publicerad status, proveniens eller metod
+- Loggar och körspår när de fungerar som processbevis eller redaktionell dokumentation
+- Staging-material när det är tydligt märkt som icke-publicerat och befinner sig i aktiv beredning
+- Source maps eller origins-dokument när de inte ersätter källarkivet utan förklarar relationen mellan källa, status och publicerad artefakt
+- Visuella eller textuella assets när de har direkt funktion i publicering, layout, identitet eller renderer
+- README-filer som förklarar vad en mapp är, vad den inte är, och vilken status dess innehåll har
 
 ---
 
-## The membrane model
+## Vad repositoryt inte gör
 
-Crossing into the repo is a status event. It means: this material has a defined publication function right now.
+Repositoryt bär inte hela projektarkivets börda.
 
-The repo does not accumulate everything that might eventually be published. That approach collapses the distinction between source and status, between draft and publication, between working material and public-facing artefact.
+Molntjänster och hårddiskar kan bära:
 
-The larger project exists. The repo reflects the part of it that currently has public status.
+- Råa källexporter och arbetsutkast
+- Stora experimentella textkorpusar och agentprotokollkörningar
+- Visuella asset-batcher och bildsamlingar
+- Bevismaterial och versionshistorik
+- Ostabila utkastkluster som ännu inte befinner sig i aktiv beredning
+- Allt som är intressant men ännu inte funktionellt i publiceringstermer
+
+Detta material försvinner inte när det inte finns i repositoryt. Det existerar i sin arbetsyta, där det hör hemma, tills det har en specifik anledning att korsa membranet.
 
 ---
 
-## Practical consequence
+## Membranmodellen
 
-When adding material to the repo, the question is not: *is this part of the project?*
+Att korsa in i repositoryt är en statushändelse. Det betyder: detta material har en definierad publiceringsfunktion just nu.
 
-The question is: *does this material have a function in the repo right now?*
+Repositoryt ackumulerar inte allt som eventuellt kan komma att publiceras. Ett sådant tillvägagångssätt kollapsar skillnaden mellan källa och status, mellan utkast och publicering, mellan arbetsmaterial och publiktillvänd artefakt.
 
-If it does not — if it is held because it might be useful later, or because it represents substantial work, or because it belongs to the project in some general sense — it stays in the working archive until it does.
+Det större projektet existerar. Repositoryt reflekterar den del av det som för närvarande har publik status.
+
+---
+
+## Praktisk konsekvens
+
+När material läggs till i repositoryt är frågan inte: *är detta en del av projektet?*
+
+Frågan är: *har detta material en funktion i repositoryt just nu?*
+
+Om det inte har det — om det hålls för att det kan bli användbart senare, eller för att det representerar omfattande arbete, eller för att det tillhör projektet i någon allmän mening — stannar det i arbetsarkivet tills det har det.
