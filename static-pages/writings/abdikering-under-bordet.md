@@ -1,36 +1,29 @@
 ---
 title: "Abdikering under bordet"
-status: internal
-type: satellite-chapter
+status: published
+type: shortstory
 project: forlagsdeckaren
-source_file: "abdikering-under-bordet.md"
-normalized_from: md
+note: Del 3.1, näst sista delen 
 ---
 
-# Abdikering under bordet
+## Abdikera eller att gå på plankan under bordet
 
-## STYRELSEMÖTET - Abdikera eller att gå på plankan under bordet
+*Styrelseprotokoll: Om en abdikering som ännu inte trätt i kraft*
 
-*Förlagsdeckaren — satellit origins*
-
-*Protokoll från en abdikering som ännu inte trätt i kraft*
-
----
-
-## § 1 — Kallelsen
+### § 1 — Kallelsen
 
 Kallelsen anlände per e-post klockan 14:07 en tisdag, vilket i sig inte var anmärkningsvärt — det är tisdagar som den sortens e-post anländer, med den specifika gravitation som uppstår när ett meddelande bär ämnesraden *Extraordinär dagordning: Ärendet om Förläggarens operativa rättsställning* och avsändaren är en person som undertecknar sina mejl med titeln Wise Consultant utan att någon formellt har tilldelat honom den. Kallelsen var formulerad i ett register som befann sig i det exakta gränsland där juridisk precision och litterär ambivalens delar syntax: "Med anledning av annalkande lagändringar vars operativa konsekvenser ännu inte kan avgränsas till en enda verklighetsnivå, kallas härmed till sammanträde i Förlagets ordinarie möteslokal. Ärendet avser ej avgång. Ärendet avser behandlingsbarheten av en abdikering vars ikraftträdande förutsätter att samtliga berörda parter — inklusive texten — har hunnit bereda frågan."
 
 Det stod inte *styrelsemöte* i kallelsen. Det stod *sammanträde*, ett ord som Flempo Guyenjaure valde med den precision som kännetecknar alla hans administrativa ingrepp — sammanträde implicerar att kroppar sammanförs i ett rum utan att kräva att de som sammanförs har mandat, stadgar eller ens en gemensam uppfattning om vad som ska behandlas. Under dagordningen listades fyra punkter, numrerade med den decimalnoggrannhet som signalerar att den som formaterade dokumentet inte förväntar sig att man läser det utan att man arkiverar det:
 
-1.1 Genomgång av inkomna handlingar (bilaga A: intercepterat meddelande, fem kopior)
-1.2 Föredragning: Annalkande lagändringar rörande AI-genererat materials upphovsrättsliga status
-1.3 Preliminär beredning av Förläggarens abdikering (ärendestatus: ej påbörjad)
-1.4 Övriga frågor (hemsidan, F-fattaren, Den sista intervjun.docx)
+**1.1** Genomgång av inkomna handlingar (bilaga A: intercepterat meddelande, fem kopior)
+**1.2** Föredragning: Annalkande lagändringar rörande AI-genererat materials upphovsrättsliga status
+**1.3** Preliminär beredning av Förläggarens abdikering (ärendestatus: ej påbörjad)
+**1.4** Övriga frågor (hemsidan, F-fattaren, Den sista intervjun.docx)
 
 Förläggaren läste kallelsen på sin telefon i hissen. Han läste den en gång, sedan en gång till, inte för att han inte förstod den utan för att han kände igen den — inte ordvalet, inte formateringen, utan den specifika känsla av administrativ oundviklighet som uppstår när ett system man själv har skapat börjar producera dokument man inte har beställt. Han tryckte inte på svara. Han tog hissen upp.
 
-## § 2 — Bordet
+### § 2 — Bordet
 
 Bordet var detsamma. Det industriella bordet med ytan som bar spåren av varje markör, varje kaffekopp utan fat, varje armbåge som vilat mot det under möten vars längd bestämdes av tavlans yta snarare än av dagordningens punkter. Men idag låg det fem utskrifter i en fläktformation i bordets centrum, placerade med den geometriska omsorg som antyder att den som lade dem där betraktar papperskopiering som en kommunikationsform snarare än en reproduktionsmetod. Fem exemplar av samma meddelande, utskrivna på det papper som skrivaren levererar med den specifika gråton som uppstår när tonern befinner sig i den fas av sitt liv som tillverkaren kallar *low* men som den som använder skrivaren kallar *tillräckligt*.
 
@@ -44,7 +37,7 @@ Förläggaren satte sig sist. Han valde inte en plats — han placerades, av den
 
 De fem utskrifterna låg kvar mellan dem som ett gemensamt dokument som ingen hade öppnat men alla redan hade läst.
 
-## § 3 — Handläggningstiden
+### § 3 — Handläggningstiden
 
 — Vi börjar, sade Flempo, och det var inte en fråga och inte en uppmaning utan en katalogisering av övergången från icke-möte till möte, den exakta punkt där tid slutar vara ambient och börjar vara handläggningsbar.
 
@@ -68,7 +61,7 @@ Förläggaren hörde det. Han hörde det inte som provokation — Jens provocera
 
 Flempo gjorde inte invändning. Han justerade bara ordningsföljden i sitt anteckningsblock, en rörelse som innebar att punkt 1.3 — *Preliminär beredning av Förläggarens abdikering* — flyttades från tredje till fjärde position, efter lagändringarna, efter remissen, efter den andra augustis gravitation, till den plats i dagordningen där ärenden placeras som inte kan behandlas men inte heller kan avföras.
 
-## § 4 — Remissen
+### § 4 — Remissen
 
 Flempo tog upp det som kallelsen hade benämnt *Föredragning* men som i praktiken innebar att han läste högt från ett dokument han inte erkände som sitt eget — ett mejl, ursprungligen adresserat till Förläggaren, vidarebefordrat genom kanaler vars exakta sträckning inte specificerades, vars innehåll beskrev det juridiska läget med den precision som uppstår när en maskin sammanfattar en verklighet den inte bor i.
 
@@ -98,7 +91,7 @@ Han sade det mot soppan, inte mot rummet. Flempo registrerade att Jens hade abso
 
 — Den har redan hänt, sade Förläggaren, och det var den tystaste mening som hittills hade uttalats i rummet, en mening som inte adresserade dagordningen utan den insikt som hade materialiserat sig under Flempos uppräkning: att lagändringarna inte var förslag utan beskrivningar, att de inte föreslog en framtid utan kartlade ett faktum, att gränsen mellan Förlagets verkliga beslut och textens beslut redan hade suddats ut vid en tidpunkt som ingen i rummet kunde datera men alla kunde känna — den tidpunkt då Förläggaren slutade vara den som fattade beslut och blev den vars beslut fattades av den text som beskrev honom.
 
-## § 5 — Driftstoppet
+### § 5 — Driftstoppet
 
 Flempo lade ett papper framför Förläggaren. Det var inte det viktigaste papperet i rummet — de fem utskrifterna i fläktformation var viktigare, dagordningen var viktigare, det juridiska underlaget var viktigare — men det var det papper som krävde en underskrift, och det var underskriften som skulle förändra ärendets status från *pågående* till *bordlagt med operativ verkan*, en distinktion som bara existerade i den mötesordning som Flempo hade utarbetat och som ingen annan hade läst men alla behandlade som gällande.
 
@@ -116,7 +109,7 @@ Flempo gjorde det enda han kunde göra: han fortsatte. Inte förbi Förläggaren
 
 Pennan låg kvar i Förläggarens hand. Papperet låg kvar under pennan. Mötet fortsatte runt hans stillastående hand som en procedur som inte längre behövde sitt subjekt för att producera sina protokoll.
 
-## § 6 — Underlaget
+### § 6 — Underlaget
 
 Under punkt 1.4 — *Övriga frågor* — öppnade Flempo den mapp han hade haft med sig sedan ankomsten, en mapp vars fysiska tjocklek kommunicerade att övriga frågor var fler och tyngre än de ordinarie. Han inventerade bilagorna med den systematik som gör att varje föremål, när det nämns, retroaktivt förvandlas till bevismaterial i en utredning vars slutsatser redan är bestämda men vars process måste fullföljas.
 
@@ -140,7 +133,7 @@ UNDERLAGET ÄR ALLTID ÄLDRE ÄN DEN UTREDNING SOM KRÄVER DET
 
 Jens sade det med skeden i handen, termosen stängd, soppan ett minne. Det var adresserat till ingen och till alla, den rubrik som ingen tidning skulle trycka men som ändå bar den typografiska tyngd som gör att den som hör den vet att den redan är arkiverad.
 
-## § 7 — Abdikeringen
+### § 7 — Abdikeringen
 
 Ingen dramatisk final. Det var inte den sortens rum, inte den sortens möte, inte den sortens abdikering. Flempo sammanfattade med den precision som uppstår när en handläggare har nått slutet av en dagordning och vet att det enda som återstår är formuleringen av det beslut som alla redan har fattat men som ännu inte har fått den administrativa form som gör det verkligt.
 

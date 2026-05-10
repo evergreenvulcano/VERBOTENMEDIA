@@ -3,7 +3,8 @@ title: "Lex: funkonaturalism"
 date: 2026-04-20
 summary: "Arbetslexikon över funkonaturalismens mekanismer och funktioner."
 type: analysis
-status: draft - under reconstruction and translation 
+status: draft - under reconstruction and translation
+note: part 3.1 del 3
 ---
 
 ## Funkonaturalism — Mechanisms and Functions

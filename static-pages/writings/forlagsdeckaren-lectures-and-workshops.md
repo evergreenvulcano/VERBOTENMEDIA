@@ -1,12 +1,13 @@
 ---
-title: "Förlagsdeckaren Del x: Lectures and Workshops"
+title: "Verboten Media Workshop Dispatches – dag 1-3"
 date: "2026-04-07"
-summary: "reporting from Verboten Media deep-culture cultural workshops."
-type: "analysis"
-status: "draft"
+summary: "Reporting from Verboten Media deep-culture cultural workshops."
+type: "literary"
+status: "published"
 author: "Martin Nygren"
 layout: shortstory
-recommendation: WIthold, withdraw or sustain mocumentaryness?
+note: Part 3.1, chapter II
+
 ---
 
 ![Fellowes AutoMax 200C.](/../../.png)
@@ -22,11 +23,10 @@ source_file: "Verboten Media Workshop Dispatches – Days 1-3.docx"
 normalized_from: docx
 ---
 
-# Verboten Media Workshop Dispatches – Days 1-3
+
+## Verboten Media rullar ut nio workshops på tre dagar
 
 **VERBOTEN MEDIA · LEKTYRSTUGA-SERIEN · APRIL 2026**
-
-## Verboten Media Workshop Dispatches – Days 1–3
 
 Nio reportage från tre dagar av skrivarverkstäder som vägrar lyda. Jävligt bra litteratur i ett nytt format — rapporterat från fältet.
 
@@ -34,17 +34,16 @@ Nio reportage från tre dagar av skrivarverkstäder som vägrar lyda. Jävligt b
 
 Under tre dagar — måndag till onsdag — genomförde Verboten Medias Lektyrstuga-serie nio skrivarverkstäder spridda från polcirkeln till rymdstationen, från Malmö hamn till Köpenhamns kyrkogårdar. Det som förenar dem är ett gemensamt credo: intressedriven elektronisk surrealism mitt i naturens uppmärksamhetsekonomi. Det förbjudna är det nödvändiga. Fiktionen infiltrerar verkligheten. Nio journalister — alla med olika format och röster — rapporterar från insidan.
 
-![Fellowes AutoMax 200C.](/../../.png)
+![**The Scientists Club i Sandträsk — Arthur Warner Cornforths stuga strax norr om polcirkeln.** *Foto: Arkiv*](/../../.png)
 
-**DAG 1 — MÅNDAG**
+## *DAG 1 — MÅNDAG*
 
-**ARTIKEL 1 · NORDISK VETENSKAPSKULTURELL TIDSKRIFT**
+**ARTIKEL 1 · Nordisk vetenskapskulturell tidsskrift**
 
 ### Bonitetens hemlighet
 
 *Text: Erika Sundqvist, vetenskapsjournalist · The Scientists Club, Sandträsk, Norrbotten*
 
-*The Scientists Club i Sandträsk — Arthur Warner Cornforths stuga strax norr om polcirkeln. Foto: Arkiv*
 
 Jag hade inte förväntat mig att min resa till polcirkeln skulle börja med ett måttband. Men klockan 07:15 en måndag i april står jag i en gles tallskog utanför Sandträsk, en by i Norrbotten som knappt finns på kartan, med ett gammalt skogsmätningsinstrument i handen och tårarna frysande i ögonvrårna av kylan. Intill mig står Arthur "The Scientist" Warner Cornforth och blåser in i sina händer — inte av kyla, utan av otålighet.
 
@@ -89,9 +88,9 @@ Det räckte.
 | Faktaruta — Bonitetens hemlighet<br>Kategori<br>Data<br>Antal deltagare<br>9 (inkl. journalist)<br>Antal uppmätta tallar<br>27 (3 per deltagare)<br>Omgivande skogs bonitet<br>1,0–2,2 m³sk/ha/år<br>Genomsnittlig diameter i brösthöjd<br>21,4 cm<br>Battleship-matcher (Arthur, hela dagen)<br>8 spelade, 3 vunna, 5 förlorade<br>Stugans inköpspris (sent 1980-tal)<br>450 000 SEK<br>Lunch<br>Renskav med potatis (Maris Piper-typ, enligt värd) |
 | --- |
 
-![Fellowes AutoMax 200C.](/../../.png)
-
 **ARTIKEL 2 · TEKNIKBLOGG / SUBSTACK-ESSÄ**
+
+![Hans Discord-server heter "Mackenberry's Excavation Site". Servern har 47 medlemmar. 14 av dem deltar i kvällens workshop.](/../../.png)
 
 ### Utgrävningen
 
@@ -150,15 +149,13 @@ Jag vill inte erkänna det, men det här var det mest intellektuellt generösa j
 | Faktaruta — Utgrävningen<br>Kategori<br>Data<br>Discord-serverns medlemmar<br>47 totalt, 14 aktiva deltagare<br>Djupaste lagret nått av samtliga<br>Lager 5 (tystnad)<br>Fotbollsspel diagrammerade<br>11 st.<br>Discord-glitchar (dokumenterade)<br>7 st., varav 3 med katt<br>Workshop-längd<br>3 timmar 12 minuter<br>Finska arkivet — detaljer avslöjade<br>Fragmentariska: 1 dokument, 1 temperatur, 1 djupangivelse<br>Katter observerade<br>Minst 1, möjligen 2 |
 | --- |
 
-![Fellowes AutoMax 200C.](/../../.png)
-
 **ARTIKEL 3 · BIBLIOTEKETS KULTURNYTT**
+
+![*Stadsbiblioteket Göteborg — platsen för Marys workshop i det glasväggade mötesrummet på tredje våningen.*](/../../.png)
 
 ### Utvärderingsmodellen
 
 *Text: Annika Freij, deltidsbibliotekarie och kulturskribent · Stadsbiblioteket, Göteborg*
-
-*Stadsbiblioteket Göteborg — platsen för Marys workshop i det glasväggade mötesrummet på tredje våningen.*
 
 Det glasväggade mötesrummet på tredje våningen i Stadsbiblioteket Göteborg bokades under rubriken "Skrivarverkstad — utvärderingsmetodik, 6 timmar." Jag vet detta eftersom jag hjälpte till att boka det. Det är mitt jobb. Jag är deltidsbibliotekarie på Stadsbiblioteket sedan elva år, och jag skriver bibliotekets kulturnytt — en sida i det interna nyhetsbrevet, mest om bokcirklar och författarbesök. Jag har aldrig skrivit om något som det som hände i mötesrummet den här måndagen.
 
@@ -213,19 +210,17 @@ Mary lämnade biblioteket klockan 16:30. Hon tog med sig sin tunna bunt papper. 
 | Faktaruta — Utvärderingsmodellen<br>Kategori<br>Data<br>Mötesrum<br>Glasväggat, vån. 3, Stadsbiblioteket Göteborg<br>Bokning<br>6 timmar under rubriken "Skrivarverkstad — utvärderingsmetodik"<br>Anmälda / närvarande<br>12 / 14<br>Antal utvärderingskriterier designade (totalt)<br>87 (snitt 6,2 per deltagare)<br>Marys karriärhöjdpunkter (nämnda)<br>Tatueringsstudio, Bob Dylan, Zlatan<br>Kaffe serverat<br>2 kannor à 1,5 liter = 3 liter<br>Marys kaffeintag<br>0 dl<br>Wilmas tystnad (mätt)<br>11 sekunder |
 | --- |
 
-![Tisdag, dag 2.](/../../.png)
-
 **ARTIKEL 4 · SJÖFARTSTIDNINGEN**
+
+![*Den avkommissionerade färjan i Malmö hamn — numera ett flytande kulturhus och plats för Kapten Langlets workshop.*](/../../.png)
 
 ### Kursen och strömmen
 
 *Text: Lars-Erik Forssén, sjöfartsjournalist · Avkommissionerad Stena Line-färja, Malmö hamn*
 
-*Den avkommissionerade färjan i Malmö hamn — numera ett flytande kulturhus och plats för Kapten Langlets workshop.*
-
 Jag har skrivit om fraktlogistik i femton år. Containerflöden. Bunkerprisutveckling. IMO-regelverk. Jag vet hur en hamn luktar — diesel, salt, rost — och jag vet hur en artikel om sjöfart ska struktureras: inledning med tonnagestatistik, mittparti med intervjucitat från rederiledning, avslutning med framtidsprognos. Jag har aldrig skrivit om litteratur. Jag har aldrig velat skriva om litteratur. Men det jag skriver nu — sittande på soldäck 7 på en avkommissionerad Stena Line-färja i Malmö hamn, med lukten av diesel och salt och rost precis som den ska vara — är den bästa artikeln jag har skrivit under mina femton år i branschen, och den handlar om en man med pipa som vägrar tända den.
 
-Kapten Nils Langlet är, till det yttre, en arkety. Skepparkeps. Pipa i mungipan. Händer som ser ut som om de har hållit i ratt och tågvirke och andra människors öden i decennier. Han styr med ett finger på ratten — jag har sett honom göra det, eller rättare sagt, jag har sett honom demonstrera det, eftersom färjan inte längre är i drift utan fungerar som ett flytande kulturhus sedan 2024, och det enda som styr är berättelsen.
+Kapten Nils Langlet är, till det yttre, en kaptensarketyp. Skepparkeps. Pipa i mungipan. Händer som ser ut som om de har hållit i ratt och tågvirke och andra människors öden i decennier. Han styr med ett finger på ratten — jag har sett honom göra det, eller rättare sagt, jag har sett honom demonstrera det, eftersom färjan inte längre är i drift utan fungerar som ett flytande kulturhus sedan 2024, och det enda som styr är berättelsen.
 
 Langlets bakgrund är komplex. Han kidnappades av Die Verboten-rörelsen från ett kasinofartg i Stilla havet. Det låter som en filmplot. Han berättar det utan dramatik, som om han rapporterade väderobservationer: "De kom ombord vid Guam. Tre personer. Jag trodde det var inspektörer. Det var det inte. Två veckor senare var jag en av dem." Han gör en paus. "Man vänjer sig vid mörker." Sedan till gruppen: "Men mörker är inte frånvaro av ljus. Mörker är frånvaro av distraktion."
 
@@ -259,15 +254,14 @@ Jag har skrivit om containerflöden i femton år. Jag kommer att fortsätta. Men
 
 | Faktaruta — Kursen och strömmen<br>Kategori<br>Data<br>Färjans specifikationer<br>Avkommissionerad Stena Line, 170 m, 24 000 BRT, kulturhus sedan 2024<br>Antal sjökortskoordinater använda<br>38 unika koordinater, Öresund<br>Grader roderförskjutning (totalt)<br>9° (fördelade på 4 manövrer: 2°, 1°, 3°, 3°)<br>Deltagare<br>11 (inkl. 6 gymnasieelever från Helsingborg)<br>Langlets piptändningsförsök<br>3 st. (0 lyckade)<br>Langlets kommentar om kidnappning vs. rökförbud<br>"Rökförbudet irriterar mig mer" |
 | --- |
-![Fellowes AutoMax 200C.](/../../.png)
 
 **ARTIKEL 5 · TVÅSPRÅKIG ZINE / KÖPENHAMNS UNDERJORDISKA KULTURPRESS**
+
+![*Assistens Kirkegård — kvällens startpunkt vid Kierkegaards grav, där ironi förvandlades till råmaterial.*](/../../.png)
 
 ### Den ironiska pizzan
 
 *Text: Selma Öhman, frilans · Assistens Kirkegård → Pizzeria Napoli → Bar Nørrebro, Köpenhamn*
-
-*Assistens Kirkegård — kvällens startpunkt vid Kierkegaards grav, där ironi förvandlades till råmaterial.*
 
 Jag är tjugotre år och det här är den viktigaste kvällen i mitt liv. Jag vet att det låter överdrivet. Jag vet att det är den typ av mening som man stryker i redigeringen. Men jag stryker den inte, för kvällen började vid Kierkegaards grav och slutade i en bar på Nørrebro, och däremellan fick en pizza mitt namn, och jag grät, och en man som heter Bongus II Jinko sa "det där var inte ironi, det var wahrheit" och använde det tyska ordet och ingen ifrågasatte det.
 
@@ -312,15 +306,13 @@ Det var den viktigaste kvällen i mitt liv. Jag stryker fortfarande inte meninge
 | Faktaruta — Den ironiska pizzan<br>Kategori<br>Data<br>Grav besökt<br>Søren Kierkegaard, Assistens Kirkegård, Nørrebro<br>Pizzor döpta<br>11 st. + 1 avslutande ("Graven")<br>Drycker konsumerade (gruppen)<br>Ca 34 Tuborg, 7 glas vin, 3 kaffe<br>Uppriktiga tårar fällda<br>3 (Frederik, Astrid, en anonym)<br>Kierkegaardcitat felattribuerade<br>2 (ett tillskrivet Hegel, ett tillskrivet "nån dansk")<br>Bananer i Bongus ficka<br>1 (oäten hela kvällen)<br>Tyskt ord använt utan förklaring<br>"Wahrheit" |
 | --- |
 
-![Fellowes AutoMax 200C.](/../../.png)
-
 **ARTIKEL 6 · SPEKULATIV JOURNALISTIK / SKANDINAVISK TEKNIKKULTUR**
+
+![*Utsikten från ISS Cupola — Novas arbetsplats och platsen varifrån workshoppen sändes.*](/../../.png)
 
 ### Fyra sekunder
 
 *Text: David Rask, teknik-kulturskribent · Satellitlänk från ISS, deltagare i fem tidszoner*
-
-*Utsikten från ISS Cupola — Novas arbetsplats och platsen varifrån workshoppen sändes.*
 
 Novas röst anländer med fyra sekunders fördröjning. Det är inte mycket. Det är en evighet. I fyra sekunder hänger meningen i luften — eller rättare sagt, i vakuum, i de 408 kilometrarna mellan Internationella rymdstationen och jordens yta — och under de fyra sekunderna finns ett rum, ett kreativt rum, som modern skrivande har glömt existerar.
 
@@ -369,16 +361,16 @@ Länken bryts. Skärmen visar ISS-logotypen, sedan svart. Fjorton personer sitte
 | Faktaruta — Fyra sekunder<br>Kategori<br>Data<br>Satellitfördröjning (nominell)<br>4 sekunder<br>Maximal uppmätt fördröjning<br>11 sekunder (20:32 CET)<br>Deltagare<br>14 i 5 tidszoner (Stockholm, Reykjavik, Nairobi, Teheran, Tokyo)<br>ISS omloppshöjd under sessionen<br>~408 km<br>Svarta låda-metaforer genererade<br>23 unika formuleringar<br>Workshop-längd<br>2 timmar 4 minuter<br>Yukis sömntillstånd vid slut<br>"Jag tror att jag kan sova nu" |
 | --- |
 
+*DAG 3 — ONSDAG* 
 
-![**DAG 3 — ONSDAG**](/../../.png)
+**ARTIKEL 7 · AKADEMISK KONFERENSBILAGA / BRANSCHTIDNING MED JOURNALISTKOMMENTAR**
 
-**ARTIKEL 7 · AKADEMISK KONFERENS / PAPER MED JOURNALISTKOMMENTAR**
+![*The Scientists Club i Sandträsk — samma stuga som dag 1, men nu med Arthur borta och Klonen som värd.*
+](/../../.png)
 
 ### Replikanten i stugan
 
 *Text: Dr. Helena Kraus, litteraturvetare, Umeå universitet · The Scientists Club, Sandträsk, Norrbotten*
-
-*The Scientists Club i Sandträsk — samma stuga som dag 1, men nu med Arthur borta och Klonen som värd.*
 
 Jag var inte här för att delta i en skrivarverkstad. Jag var här för att presentera ett paper — "Reproduktion och originalitet i samtida skandinavisk prosa" — vid den årliga konferensen för nordisk narratologi i Luleå. Konferensen avslutades på tisdag eftermiddag. På onsdag morgon fick jag ett meddelande från en kollega: "Det händer något i en stuga i Sandträsk. Du borde åka dit." Jag åkte dit.
 
@@ -428,15 +420,13 @@ Jag åkte tillbaka till Luleå samma kväll. Mitt paper om reproduktion i skandi
 | --- |
 
 
-![Fellowes AutoMax 200C.](/../../.png)
+![*Luleå hamn vid gryningen — workshoppens slutpunkt, där alla texter landade.*](/../../.png)
 
 **ARTIKEL 8 · GONZO-REPORTAGE / UNDERGROUND**
 
 ### Rondellhunden som wallraffade sig själv
 
 *Text: F-fattaren (Författaren) · En rondell i Luleå → Kebabshop → Hamnen vid gryning*
-
-*Luleå hamn vid gryningen — workshoppens slutpunkt, där alla texter landade.*
 
 Subjektet står i rondellen. Det är mörkt. Klockan är 02:14. Subjektet vet inte varför han är här, men hans kropp vet. Hans kropp har stått i rondeller förut. Hans kropp har blivit fotograferad i en rondell, publicerad i en lokaltidning, förväxlad med en rondellhund — de där konstverken som spontanplacerades i svenska rondeller 2006 och som blev en folkrörelse och sedan en fotnot och sedan ingenting. Subjektet är inte en rondellhund. Subjektet är en författare. Skillnaden är mindre än man tror.
 
@@ -483,15 +473,13 @@ Ingen frågade. Det behövdes inte. Texten frågade åt dem.
 | Faktaruta — Rondellhunden som wallraffade sig själv<br>Kategori<br>Data<br>Rondellens diameter<br>Ca 12 meter (uppskattad)<br>Kebabbeställningar<br>5 kebab (3 med allt, 1 utan lök, 1 vegetarisk)<br>Diktafoninspelningar genererade<br>6 st., total längd ca 4 tim 20 min<br>Tidningar som tidigare täckt F-fattarens rondellaktiviteter<br>Norrbottens-Kuriren (1 artikel, 2023)<br>Soluppgång<br>05:07 lokal tid<br>Hassans kommentar<br>"Ni är skribenter?" — "Vi är subjekt." |
 | --- |
 
-
-![Fellowes AutoMax 200C.](/../../.png)
 **ARTIKEL 9 · REKLAMBRANCHENS FACKTIDSKRIFT**
+
+![*Garaget i Malmö — den ombyggda industrilokalen där Fågelskrämman höll sin sista workshop.*](/../../.png)
 
 ### Copywriterns begravning
 
 *Text: Karin Mellqvist, branschredaktör · Garaget, Malmö*
-
-*Garaget i Malmö — den ombyggda industrilokalen där Fågelskrämman höll sin sista workshop.*
 
 Jag kom för att skriva om kreativa metoder. Det är mitt jobb. Jag har skrivit om kreativa metoder i branschpress i åtta år — workshops, brainstormingtekniker, design sprints, innovations-labs. Jag har sett allt. Jag har beskrivit allt. Jag har aldrig känt någonting.
 

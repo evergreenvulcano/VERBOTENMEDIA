@@ -2,8 +2,8 @@
 title: "The Registration Has Closed"
 date: "2026-04-17"
 summary: "A black-screen publication system, built from refusals, discovers that silence, protocol, and structure can become narrative in their own right."
-type: "essay"
-status: "draft"
+type: "Article"
+status: "draft, for translation"
 note: This is probably an article-reporter-field-note in a online antrophological creative magazine. 
 ---
 

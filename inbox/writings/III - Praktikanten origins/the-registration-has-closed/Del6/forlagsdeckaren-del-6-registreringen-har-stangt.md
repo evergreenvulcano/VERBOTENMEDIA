@@ -2,71 +2,14 @@
 title: "Förlagsdeckaren — Del 6: Registreringen har stängt"
 date: "2026-04-08"
 summary: "Sajten blir tröskel, dörr och vägran: Verboten Academy, den svarta hemsidan, den stängda registreringen och länkarna man vill klicka på men inte kommer åt."
-type: "literary avant garde"
+type: "literary.
 status: "draft"
 author: "2._.3"
-mode: experimental
-layout: article-flow
+mode: shortstory
+layout: article
 ---
 
 # Metod & Infrastruktur-del
-
----
- 
-What: Genuint värdefulla tankevektorer för hemsidan-som-gränssnitt eller membran mellan Legacy Meatspace och Logistikcentralen VM. 
-Note: Dessa utkast redovisar framgångsrika promptprotokoll. Hur det kommer sig står oklart. Men idag 5/9 har jag läst Notionprotokoll-ritual som instuerar en agent att röra sig precis som texten gör i denna. Det är häftigt. Den som är kunnig skulle kunna dokumentera. 
-
---- 
-
-## Del 6 — Registreringen har stängt
-
-Fil: `inbox/writings/forlagsdeckaren-del-6-registreringen-har-stangt.md`
-
-Datum: `2026-04-08`
-
-Motor: sajten som tröskel och vägran.
-
-Innehåll: wrong-address-letter, Kära xyz, Verboten Academy, closed registration, black homepage, METHOD/ARCHIVE/CONTACT, index.hmtl.txt, pre-rationell modularitet, no feed/no stream/no noise.
-
-Motiv: Detta bör öppna den nya sviten eftersom det etablerar Verboten Media som publik yta innan senare delar går djupare in i metoden, infrastrukturen och autonoma publiceringssystem. Kapitlet handlar mindre om en webbsida och mer om att en dörr byggs för att inte öppnas. Det är en genuint rimlig väg in i hackerstory. 
-
-Bildidé: svart browserfönster med vit seriftext, dov rosa footer, avstängd registreringsmodul i bakgrunden.
-
-Osäkerhet: Vissa homepage-versioner återkommer senare i källmassan. De bör inte dupliceras fullständigt om Del 6 senare görs kanonisk; då kan de fungera som varianter eller marginalmaterial.
-
-## Del 7 — Mellanrubrikerna
-
-Fil: `inbox/writings/forlagsdeckaren-del-7-mellanrubrikerna.md`
-
-Datum: `2026-04-10`
-
-Motor: rubriken som diagnosrum.
-
-Innehåll: Klas i terapi, 20-årskrisen, techautisten, Praktikanten som avbryter techautistbanan, Petson & Findus, `--almost`, rubriksmappning, JSON-schema och kreativ extraktion.
-
-Motiv: Här flyttas tyngdpunkten från sajtens yta till Verboten Medias interna metod. Mellanrubrikerna är inte etiketter för senare artiklar utan rum som producerar sin egen verklighet. Därför hör Klas-sessionen, Praktikantens generationsdiagnos och JSON-extraktionen samman.
-
-Bildidé: långt industribord med tolv A4-rubriker, JSON på laptop, kaffering från 2019, en rubrik inringad med blyerts.
-
-Osäkerhet: Mer av materialet kring homepage och 20-årskrisen kan senare flyttas mellan Del 6 och Del 7 beroende på om Del 6 ska vara mer ren sajtmyt eller mer metodintroduktion.
-
-## Del 8 — Skull Migration
-
-Fil: `inbox/writings/forlagsdeckaren-del-8-skull-migration.md`
-
-Datum: `2026-04-12`
-
-Motor: administrationen som ikon och kyrkorum.
-
-Innehåll: Ritual Prompt: Skull Migration, SharePoint/body migration, wireframe-skalle, CSS-variabler, Nordic esoteric administration, Node 13, Shadow Copy, Roundtable och podcast-as-knowledge-composition.
-
-Motiv: Skallen är inte en dekorativ tech-bild utan ett sätt för systemet att visa sin egen skelettstruktur. Shadow Copy hör hemma här eftersom även podcastmodellen gör samma sak: den ersätter person med resonansfält, kropp med score, panel med orkester.
-
-Bildidé: vit wireframe-skalle på nästan svart skärm, vertexetiketter som CSS-variabler, svagt SharePoint-lager bakom.
-
-Metod-fork-möjlighet: Shadow Copy-briefen har även excel kropp, fungerar bra (`?) som Del 8:s abstrakta överbyggnad.
-
-<!-- IMAGE PLACEHOLDER: black browser viewport with restrained white serif text, faint dusty-pink footer, and a barely visible disabled closed-registration form in the background. -->
 
 ## Registreringen har stängt
 

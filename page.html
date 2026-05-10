@@ -63,7 +63,7 @@
     (function () {
       'use strict';
 
-      var ALLOWED_PREFIXES = ['static-pages/', 'modules/'];
+      var ALLOWED_PREFIXES = ['static-pages/'];
       var mdPath = '';
       var titleEl = document.getElementById('article-title');
       var summaryEl = document.getElementById('article-summary');
@@ -353,7 +353,7 @@
         mdPath = normalizePath(decodePath(params.get('path')));
 
         if (!isAllowedPath(mdPath)) {
-          showError('Invalid path. Only static-pages/*.md and modules/*.md are allowed.');
+          showError('Invalid path. Only static-pages/*.md files are allowed.');
           return;
         }
 
