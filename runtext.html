@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="VERBOTEN MEDIA text-only rotor.">
+  <title>Runtext - VERBOTEN MEDIA</title>
+  <style>
+    :root {
+      --bg: #050505;
+      --fg: #e7e1d8;
+      --muted: #8c857c;
+      --accent: #d0a79b;
+      --line: rgba(231, 225, 216, 0.18);
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    html, body { min-height: 100%; background: var(--bg); color: var(--fg); }
+
+    body {
+      min-height: 100vh;
+      background: linear-gradient(rgba(255, 255, 255, 0.025) 1px, transparent 1px), var(--bg);
+      background-size: 100% 2.15rem;
+      font-family: Georgia, "Times New Roman", serif;
+    }
+
+    a { color: inherit; text-decoration: none; }
+
+    .site {
+      width: min(100%, 92rem);
+      min-height: 100vh;
+      margin: 0 auto;
+      padding: clamp(1rem, 3vw, 2.5rem);
+      display: grid;
+      grid-template-rows: auto 1fr auto;
+      gap: clamp(1.4rem, 4vw, 4.5rem);
+    }
+
+    .top, .bottom {
+      display: flex;
+      align-items: baseline;
+      justify-content: space-between;
+      gap: 1rem;
+      color: var(--muted);
+      font-family: "Courier New", Courier, monospace;
+      font-size: clamp(0.65rem, 1.4vw, 0.8rem);
+      letter-spacing: 0.16em;
+      line-height: 1.5;
+      text-transform: uppercase;
+    }
+
+    .top { border-bottom: 1px solid var(--line); padding-bottom: 0.85rem; }
+    .bottom { border-top: 1px solid var(--line); padding-top: 0.85rem; }
+    .source { overflow-wrap: anywhere; text-align: right; }
+    .index { color: var(--accent); text-align: right; }
+
+    .main {
+      align-self: center;
+      display: grid;
+      gap: clamp(1.5rem, 3vw, 2.5rem);
+      opacity: 1;
+      transform: translateY(0);
+      transition: opacity 900ms ease, transform 900ms ease;
+    }
+
+    .main.changing { opacity: 0; transform: translateY(0.75rem); }
+
+    .title {
+      max-width: 18ch;
+      color: var(--accent);
+      font-family: "Courier New", Courier, monospace;
+      font-size: clamp(0.82rem, 1.8vw, 1.05rem);
+      font-weight: 400;
+      letter-spacing: 0.18em;
+      line-height: 1.35;
+      text-transform: uppercase;
+    }
+
+    .body {
+      max-width: 30ch;
+      white-space: pre-wrap;
+      font-size: clamp(2.15rem, 6.2vw, 6.9rem);
+      line-height: 0.96;
+      letter-spacing: 0;
+    }
+
+    .site.source-mode .body {
+      max-width: 36ch;
+      font-size: clamp(1.55rem, 4.4vw, 4.9rem);
+      line-height: 1.04;
+    }
+
+    ::selection { background: var(--accent); color: var(--bg); }
+
+    @media (max-width: 760px) {
+      .site { min-height: 100svh; }
+      .top, .bottom { align-items: flex-start; flex-direction: column; }
+      .source, .index { text-align: left; }
+      .body { max-width: 22ch; font-size: clamp(2rem, 13.2vw, 4.7rem); }
+      .site.source-mode .body { max-width: 24ch; font-size: clamp(1.42rem, 9.2vw, 3.8rem); }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      .main { transition: none; }
+    }
+  </style>
+</head>
+<body>
+  <main class="site" aria-label="Textrotor">
+    <header class="top">
+      <a href="index.html">VERBOTEN MEDIA</a>
+      <p class="source">RUNTIME FIELD / 22.3S</p>
+    </header>
+
+    <section class="main" aria-live="polite" aria-atomic="true">
+      <p class="title"></p>
+      <div class="body"></div>
+    </section>
+
+    <footer class="bottom">
+      <p>NO FEED / NO STREAM / NO IMAGE</p>
+      <p class="index"></p>
+    </footer>
+  </main>
+
+  <script>
+    (function () {
+      'use strict';
+
+      var params = new URLSearchParams(window.location.search);
+      var seconds = numberParam('seconds', 22.3, 2, 300);
+      var chunkLimit = Math.round(numberParam('chunk', 1100, 320, 5000));
+      var partLimit = Math.max(260, Math.round(chunkLimit * 0.9));
+      var shuffle = flagParam('shuffle');
+      var transitionMs = 900;
+      var current = 0;
+      var timer = null;
+
+      var fallback = [
+        {
+          title: 'RUN FIELD 01',
+          body: 'The site begins where the archive stops pretending to be a shelf.\n\nA page can behave like a door, a corridor, a note left under the wrong apartment number, a registration desk after the registration has already closed.'
+        },
+        {
+          title: 'RUN FIELD 02',
+          body: 'A run is larger than a slogan and smaller than a book. It is the visible pressure mark left by a system while it was thinking.'
+        },
+        {
+          title: 'RUN FIELD 03',
+          body: 'Twenty two point three seconds is long enough for a paragraph to become a temporary climate and short enough for the next climate to threaten it.'
+        },
+        {
+          title: 'RUN FIELD 04',
+          body: 'The public page should carry the mood of the private system without exposing the private system itself. Cadence can be borrowed without leaking the room behind it.'
+        }
+      ];
+
+      var site = document.querySelector('.site');
+      var main = document.querySelector('.main');
+      var title = document.querySelector('.title');
+      var body = document.querySelector('.body');
+      var index = document.querySelector('.index');
+      var source = document.querySelector('.source');
+      var items = fallback;
+
+      function numberParam(name, fallbackValue, min, max) {
+        var value = Number(params.get(name));
+        return Number.isFinite(value) ? Math.min(max, Math.max(min, value)) : fallbackValue;
+      }
+
+      function flagParam(name) {
+        return ['1', 'true', 'yes', 'random'].indexOf(String(params.get(name) || '').toLowerCase()) !== -1;
+      }
+
+      function pad(value) {
+        return String(value).padStart(2, '0');
+      }
+
+      function shuffleItems(list) {
+        var out = list.slice();
+        for (var i = out.length - 1; i > 0; i -= 1) {
+          var j = Math.floor(Math.random() * (i + 1));
+          var temp = out[i];
+          out[i] = out[j];
+          out[j] = temp;
+        }
+        return out;
+      }
+
+      function render(position) {
+        title.textContent = items[position].title;
+        body.textContent = items[position].body;
+        index.textContent = pad(position + 1) + ' / ' + pad(items.length);
+      }
+
+      function advance() {
+        main.classList.add('changing');
+        window.setTimeout(function () {
+          current = (current + 1) % items.length;
+          render(current);
+          main.classList.remove('changing');
+        }, transitionMs);
+      }
+
+      function start(nextItems) {
+        items = nextItems.length ? nextItems : fallback;
+        items = shuffle ? shuffleItems(items) : items;
+        current = 0;
+        render(current);
+        if (timer) window.clearInterval(timer);
+        timer = window.setInterval(advance, seconds * 1000);
+      }
+
+      function cleanPath(path) {
+        return String(path || '').trim().replace(/^\.?\//, '');
+      }
+
+      function allowedMd(path) {
+        return path && path.indexOf('..') === -1 && path.indexOf('\\') === -1 &&
+          path.indexOf('\0') === -1 && path.indexOf('static-pages/') === 0 &&
+          path.slice(-3).toLowerCase() === '.md';
+      }
+
+      function allowedJson(path) {
+        return path && path.indexOf('..') === -1 && path.indexOf('\\') === -1 &&
+          path.indexOf('\0') === -1 && path.indexOf('static-pages/') === 0 &&
+          path.slice(-5).toLowerCase() === '.json';
+      }
+
+      function parseFrontmatter(markdown) {
+        var result = { meta: {}, body: markdown };
+        if (markdown.slice(0, 4) !== '---\n') return result;
+        var end = markdown.indexOf('\n---', 4);
+        if (end === -1) return result;
+        markdown.slice(4, end).split('\n').forEach(function (line) {
+          var split = line.indexOf(':');
+          if (split === -1) return;
+          result.meta[line.slice(0, split).trim()] = line.slice(split + 1).trim().replace(/^["']|["']$/g, '');
+        });
+        result.body = markdown.slice(end + 4).trim();
+        return result;
+      }
+
+      function readableTitle(path) {
+        return path.split('/').pop().replace(/\.md$/i, '').replace(/-/g, ' ');
+      }
+
+      function plainMarkdown(text) {
+        return text
+          .replace(/```[\s\S]*?```/g, ' ')
+          .replace(/!\[([^\]]*)\]\([^)]+\)/g, '$1')
+          .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1')
+          .replace(/^#{1,6}\s+/gm, '')
+          .replace(/^>\s?/gm, '')
+          .replace(/^\s*[-*+]\s+/gm, '')
+          .replace(/^\s*\d+\.\s+/gm, '')
+          .replace(/\*\*([^*]+)\*\*/g, '$1')
+          .replace(/\*([^*]+)\*/g, '$1')
+          .replace(/`([^`]+)`/g, '$1')
+          .replace(/\r\n/g, '\n')
+          .replace(/[ \t]+\n/g, '\n')
+          .trim();
+      }
+
+      function splitLong(part) {
+        if (part.length <= partLimit) return [part];
+        var sentences = part.match(/[^.!?]+[.!?]+|[^.!?]+$/g) || [part];
+        var out = [];
+        var active = '';
+        sentences.forEach(function (sentence) {
+          var next = active ? active + ' ' + sentence.trim() : sentence.trim();
+          if (active && next.length > partLimit) {
+            out.push(active);
+            active = sentence.trim();
+          } else {
+            active = next;
+          }
+        });
+        if (active) out.push(active);
+        return out;
+      }
+
+      function chunksFrom(markdown, path) {
+        var parsed = parseFrontmatter(markdown);
+        var docTitle = parsed.meta.title || readableTitle(path);
+        var pieces = [];
+        plainMarkdown(parsed.body).split(/\n{2,}/).forEach(function (part) {
+          part = part.replace(/\s+/g, ' ').trim();
+          if (part.length > 24) splitLong(part).forEach(function (piece) { pieces.push(piece); });
+        });
+
+        var chunks = [];
+        var active = [];
+        var length = 0;
+        pieces.forEach(function (piece) {
+          var nextLength = length + piece.length + (active.length ? 2 : 0);
+          if (active.length && nextLength > chunkLimit) {
+            chunks.push(active.join('\n\n'));
+            active = [];
+            length = 0;
+          }
+          active.push(piece);
+          length += piece.length + 2;
+        });
+        if (active.length) chunks.push(active.join('\n\n'));
+
+        return chunks.map(function (chunk, offset) {
+          return { title: docTitle + ' / ' + pad(offset + 1), body: chunk };
+        });
+      }
+
+      function status(statusTitle, statusBody) {
+        start([{ title: statusTitle, body: statusBody }]);
+      }
+
+      function fetchMarkdown(path) {
+        return window.fetch(path, { cache: 'no-store' }).then(function (response) {
+          if (!response.ok) throw new Error('HTTP ' + response.status);
+          return response.text();
+        }).then(function (markdown) {
+          return chunksFrom(markdown, path);
+        });
+      }
+
+      function loadPaths(paths) {
+        var safe = paths.map(cleanPath).filter(allowedMd);
+        if (!safe.length) {
+          status('PATHS REFUSED', 'Use public markdown paths under static-pages/.');
+          return;
+        }
+        site.classList.add('source-mode');
+        source.textContent = 'RUNSTREAM / ' + safe.length + ' FILES / ' + seconds + 'S';
+        status('LOADING FILES', safe.join('\n'));
+        Promise.all(safe.map(fetchMarkdown)).then(function (sets) {
+          start([].concat.apply([], sets));
+        }).catch(function () {
+          status('SOURCE NOT FOUND', 'One or more markdown files could not be loaded.');
+        });
+      }
+
+      function loadManifest(path) {
+        var safe = cleanPath(path);
+        if (!allowedJson(safe)) {
+          status('MANIFEST REFUSED', 'Manifest files must be public JSON files under static-pages/.');
+          return;
+        }
+        site.classList.add('source-mode');
+        source.textContent = safe.toUpperCase() + ' / ' + seconds + 'S';
+        status('LOADING MANIFEST', safe);
+        window.fetch(safe, { cache: 'no-store' }).then(function (response) {
+          if (!response.ok) throw new Error('HTTP ' + response.status);
+          return response.json();
+        }).then(function (manifest) {
+          var entries = Array.isArray(manifest) ? manifest : (manifest.items || manifest.paths || []);
+          loadPaths(entries.map(function (entry) { return typeof entry === 'string' ? entry : entry.path; }));
+        }).catch(function () {
+          status('MANIFEST NOT FOUND', 'Could not load ' + safe + '.');
+        });
+      }
+
+      var manifest = params.get('manifest');
+      var singlePath = params.get('path');
+      var manyPaths = String(params.get('paths') || '').split(',').filter(Boolean);
+
+      if (manifest) loadManifest(manifest);
+      else if (manyPaths.length) loadPaths(manyPaths);
+      else if (singlePath) loadPaths([singlePath]);
+      else start(fallback);
+    })();
+  </script>
+</body>
+</html>
