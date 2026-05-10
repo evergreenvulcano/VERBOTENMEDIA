@@ -1,5 +1,7 @@
 ---
 title: "En stigande tidvåg lyfter alla båtar"
+type: literary
+status: published
 mode: shortstory
 layout: split
 opening_image: ../../assets/deckaren1-hero3.png

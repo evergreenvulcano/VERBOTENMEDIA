@@ -2,7 +2,7 @@
 title: "Förlagsdeckaren — Del 6: Registreringen har stängt"
 date: "2026-04-08"
 summary: "Sajten blir tröskel, dörr och vägran: Verboten Academy, den svarta hemsidan, den stängda registreringen och länkarna man vill klicka på men inte kommer åt."
-type: "literary.
+type: "literary"
 status: "draft"
 author: "2._.3"
 mode: shortstory

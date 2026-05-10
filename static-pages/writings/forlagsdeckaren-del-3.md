@@ -3,7 +3,7 @@ title: "Förlagsdeckaren — Del 3"
 date: 2023-07
 summary: "Del 3 av Förlagsdeckaren."
 type: literary
-status: Published
+status: published
 author: Martin Nygren
 mode: shortstory
 layout: article
@@ -137,7 +137,7 @@ raklång under molnbädden och beakta
 
 monstruositeten. 
 
-![-](../../assets/sleepwalker-origins-rebuild.png)
+![-](../../assets/sleepwalker-origins-tilt-rebuild.png)
 
 Strukturen på nätverket betyder mer för hur *saker slår.* Kom ihåg att de besvikna bara försvarar sig när de vissnar; det är du som förkroppsligar mikroaggressionen i att vad som ska bli ännu inte riktigt är hitom kommet här, kliar och river och i värsta fall, riffar dissonanta ackord så att man stänger av stereon. Mono mono mono! Vem skulle börja läsa in först? Tävlingen i antigenerativitet var drabbande hjärtlig. Det var kort och gott en sorglig och lång tid. Processerna som behövde etableras kunde inte införlivas, delvis på grund av bristfälligt ledarskap, vilket accentuerades av än värre följarskap. Följarna kände sig träffade av trendgift, mycket flög ovanför ledarnas tongivande huvud. Materialet fanns där, men beskeden och visionen. Nä, väldigt luddigt allting. Ingen fick något svar och ingen visade intresse för att lösa de tekniska omständligheterna. Inuti felmarginalen syns små anteckningar som förlänger läshäftet ut i informationsdistributionens fotosynteser, varierade pråpåer som spirar och förlegas, sprudlar och revideras. 
 

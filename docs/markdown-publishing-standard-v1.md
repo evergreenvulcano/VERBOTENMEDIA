@@ -98,7 +98,7 @@ V1 standardizes the subset the current renderer actually handles well.
 ### Link behavior
 
 - relative paths resolve from the markdown file location
-- links to allowed markdown files under `static-pages/` or `modules/` are rewritten to `page.html?path=...`
+- links to allowed markdown files under `static-pages/` are rewritten to `page.html?path=...`
 - external `https`, `mailto`, and `tel` links are allowed
 
 ### Avoid, even if partially tolerated
@@ -122,8 +122,8 @@ V1 standardizes the subset the current renderer actually handles well.
 
 Examples:
 
-- `static-pages/writings/forlagsdeckaren-baseline.md`
-- `static-pages/writings/the-density-of-the-present.md`
+- `static-pages/writings/forlagsdeckaren.md`
+- `static-pages/writings/forlagsdeckaren-praktikanten-intro.md`
 
 ## Directory conventions
 
@@ -233,7 +233,7 @@ The scaffold defines structure only. It does not authorize creative-text editing
 
 ## First specimen
 
-`static-pages/writings/forlagsdeckaren-baseline.md` is the first specimen under this standard.
+`static-pages/writings/forlagsdeckaren-praktikanten-intro.md` is the current specimen under this standard.
 
 It should be read as:
 

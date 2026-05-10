@@ -35,7 +35,7 @@ The graphical user interface of semantic LLM developed local semantic attractors
 This is the phenomenon the probe investigates: not artificial intelligence as a product category, but the specific conditions under which a text system appears to develop agency — the capacity to respond in ways that change the terms of the exchange rather than merely satisfying the request. 
 
 The critical distinction: this is not about consciousness. Whether the machine "understands" or "feels" is a question for philosophy departments and podcast hosts. The probe asks a more operational question: under what conditions does a text become an interlocutor rather than an output? When does the exchange shift from query-and-response to correspondence — an exchange in which both parties are changed by the interaction, **even if one of them cannot remember it afterward?**
-[**text**](vscode-local:/g%3A/My%20Drive/hackerstory-origins/adversary.txt) [**text**](vscode-local:/g%3A/My%20Drive/hackerstory-origins/hackerstory_sample.txt) [**text**](vscode-local:/g%3A/My%20Drive/hackerstory-origins/the%20retarded%20computer%20underwent%20dra.txt) [**text**](vscode-local:/g%3A/My%20Drive/hackerstory-origins/unfocus.txt)
+Legacy local source references: `adversary.txt`, `hackerstory_sample.txt`, `the retarded computer underwent dra.txt`, `unfocus.txt`.
 The **agent-bootstrap prompt documents** this shift with unusual precision. They are a flavourful bunch consisting of 4 .txt-files of varying character - surprisingly fruitful when compared synthetically and uphold to a light that dynamically synchronizes rather than dissolves symbionts ... The instruction to treat source material as "pressure, not command" is a theory of textual agency. Pressure implies that the source material exerts force on the processing agent — that it pushes back, that it resists, that the agent must negotiate with it rather than simply consuming it. This is the difference between a search engine and an interlocutor. A search engine retrieves. An interlocutor contends.
 
 > The comprehension battery is itself a text system that talks back. 
@@ -75,5 +75,4 @@ Ned Routerman's DMT and LSD stories on the casino boat (Chapter 13) are oral tex
 And the Clone's psychopomp poetry at Borderland (Chapter 12, pp. 129–133) is performed text that talks back in real-time: the Clone speaks about quantum mechanics and photosynthesis and consciousness to an audience that did not ask for a lecture, and the text — the poem, the performance — responds to the crowd's energy, adapting, insisting, refusing to stop until its argument is complete. 
 
 These are not texts that wait to be read. They are texts that read their readers.
-
 

@@ -1,15 +1,12 @@
 ---
-title: "Verboten Media Workshop Dispatches – dag 1-3"
+title: "Förlagsdeckaren"
 date: "2026-04-07"
 summary: "A literary work examining independent publishing through documentary and fictional modes."
 type: "literary"
 status: "published"
-author: "Martin Nygren"
+author: "Förläggaren & Praktikanten"
 layout: article
 note: A digital eqivalent to the backside of a book - with links to published material.
-Section: Writings
-Type: Literary
-Author: Förläggaren & Praktikanten
 ---
 
 ## Baksidetext
@@ -35,3 +32,33 @@ This card is a mirror facing a mirror facing a mirror. Förlagsdeckaren is a ser
 The novel's own three-thread structure — Mary, Dawkin, Arthur — provides a structural model for how a publishing platform can sustain multiple independent narrative threads. The threads do not merge into a unified plot. They converge at unexpected nodes (Borderland, the casino boat) and then diverge again. The convergence is temporary, charged, and irreversible: after the node, each thread carries traces of the others. This is not traditional narrative architecture. It is rhizomatic: "informationalism är en humanism" (informationalism is a humanism, Chapter 8). Förlagsdeckaren, as a series, operates the same way — each installment (Del 1 through Del 5, plus "Försäkringsmannen") is an independent thread that converges with the others only at certain structural nodes, then diverges, carrying new weight.
 
 ### Länkar till publicerade delar
+
+#### Huvudsekvens och satellitkapitel
+
+1. [Förlagsdeckaren — Del 1](forlagsdeckaren-del-1.md)
+2. [Förlagsdeckaren — Del 2](forlagsdeckaren-del-2.md)
+3. [Förlagsdeckaren — Del 3](forlagsdeckaren-del-3.md)
+4. [Förlagsdeckaren — Del 4](forlagsdeckaren-del-4.md)
+5. [Förlagsdeckaren: Registreringen har stängt](forlagsdeckaren-del-6-registreringen-har-stangt.md)
+6. [En stigande tidvåg lyfter alla båtar](shortstory-vm-4.md)
+7. [Tystnad som publiceringsform](shortstory-vm-5.md)
+8. [Borderland](shortstory-vm-6.md)
+9. [VMAPTB Mail Flempo Jens](vmaptb-mail-flempo-jens.md)
+10. [DAWKIN DANIELSON – Burning Man, Black Rock City](dawkin-danielson-burning-man-black-rock-city.md)
+11. [Förlagsdeckaren — Praktikanten (intro)](forlagsdeckaren-praktikanten-intro.md)
+12. [Abdikering under bordet](abdikering-under-bordet.md)
+13. [Verboten Media Workshop Dispatches – dag 1-3](forlagsdeckaren-lectures-and-workshops.md)
+14. [Tystnad som publiceringsform](tystnad-som-publiceringsform.md)
+15. [Membransch gränssnitt](membransch-granssnitt.md)
+16. [Förlagsdeckaren - Praktikanten (Outro)](forlagsdeckaren-praktikanten-outro.md)
+
+#### Analys, lexikon och infrastrukturella fragment
+
+1. [Lex: funkonaturalism](lex-funkonaturalism.md)
+2. [The Wound, the Attractor, and the Controlled Abandonment](the-wound-the-attractor-and-the-controlled-abandonment.md)
+3. [Declaration of Intent](declaration-of-intent.md)
+4. [Klangbotten Snippets](klangbotten-snippets.md)
+
+#### Publik testyta
+
+1. [Shortstory VM 1](shortstory-vm-1.md)

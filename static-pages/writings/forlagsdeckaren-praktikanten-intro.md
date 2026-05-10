@@ -3,11 +3,11 @@ title: "Förlagsdeckaren — Praktikanten (intro)"
 date: "2026-04-19"
 summary: "Text-first baseline page for developing the Förlagsdeckaren shortstory in the existing markdown publishing flow."
 type: "literary"
-status: "Published"
+status: "published"
 author: "Förläggarne & Praktikanten"
 mode: "shortstory"
 layout: "article"
-Note: Part 3.1, first chapter
+note: "Part 3.1, first chapter"
 ---
 
 ## Baseline intent
@@ -33,8 +33,6 @@ Use this page for ongoing shortstory drafting in clean markdown.
 
 Keep additions text-led: paragraphs, headings, and occasional blockquotes only.
 
----
-
 ### landing page collection of quotes
 
 > minnesmatrisen som en fil man drar till papperskorgen och sedan tömmer, men som fortfarande finns
@@ -51,8 +49,6 @@ the system they had built was generative in ways they had not anticipated, becau
 ## Svenska funkonaturalismens oklara mandat
 
 ### Prelude
-
----
 
 > »Uppdraget gavs aldrig. Det låg bara där, som en nyckel på ett bord i ett rum man inte minns att man gått in i. Man kan ta upp nyckeln. Man kan låta den ligga. Ingen har sagt vilket som är rätt. Det är det som gör det till ett uppdrag.«
 > *Ur en odaterad anteckning, hittad i en lunta på logistikcentralen,* författare okänd
@@ -556,4 +552,3 @@ En tisdag, klockan 14:07, vibrerade telefonen. Okänt nummer. Inget samtal — e
 Praktikanten svarade inte. Lade ner telefonen på bordet med skärmen nedåt, den sortens gest som ser ut som likgiltighet men som egentligen är det motsatta — en gest som säger att meddelandet är för viktigt för att besvaras, att ett svar skulle reducera det till konversation, och att det som hade skrivits förtjänade att förbli exakt vad det var: en slutgiltig mening i en pågående text.
 
 Men Praktikanten sparade meddelandet. Det var det enda som gick att göra.
-

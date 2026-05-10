@@ -1,5 +1,7 @@
 ---
 title: "Borderland"
+type: literary
+status: published
 mode: shortstory
 layout: interrupted
 date: "2022"

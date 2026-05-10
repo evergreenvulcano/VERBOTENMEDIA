@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="VERBOTEN MEDIA — roterande skalle och textremsa.">
+  <title>Skalle — VERBOTEN MEDIA</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant:ital,wght@0,300;0,400;0,600;1,300;1,400&family=IBM+Plex+Mono:wght@300;400&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #050505;
+      --fg: #e2ddd6;
+      --muted: #7a746e;
+      --accent: #b99a8e;
+      --line: rgba(226, 221, 214, 0.16);
+      --font-display: "Cormorant", Georgia, "Times New Roman", serif;
+      --font-mono: "IBM Plex Mono", "Courier New", monospace;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    html,
+    body {
+      min-height: 100%;
+      background: var(--bg);
+    }
+
+    body {
+      min-height: 100vh;
+      overflow: hidden;
+      color: var(--fg);
+      font-family: var(--font-display);
+    }
+
+    .skull-site {
+      min-height: 100vh;
+      display: grid;
+      place-items: center;
+      position: relative;
+      isolation: isolate;
+      padding: clamp(1rem, 3vw, 3rem);
+    }
+
+    .skull-site::before {
+      content: "";
+      position: fixed;
+      inset: -18vmax;
+      z-index: -2;
+      background:
+        radial-gradient(circle at 50% 46%, rgba(185, 154, 142, 0.18), transparent 32%),
+        radial-gradient(circle at 50% 50%, rgba(226, 221, 214, 0.08), transparent 18%),
+        #050505;
+    }
+
+    .skull-site::after {
+      content: "";
+      position: fixed;
+      inset: 0;
+      z-index: -1;
+      background:
+        linear-gradient(rgba(255, 255, 255, 0.025) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(255, 255, 255, 0.018) 1px, transparent 1px);
+      background-size: 38px 38px;
+      mask-image: radial-gradient(circle at center, black 0%, transparent 72%);
+      opacity: 0.38;
+      pointer-events: none;
+    }
+
+    .skull-frame {
+      width: min(78vmin, 760px);
+      aspect-ratio: 1 / 1;
+      display: grid;
+      place-items: center;
+      filter: drop-shadow(0 0 1.2rem rgba(185, 154, 142, 0.25));
+      animation: skullPulse 5.6s ease-in-out infinite;
+    }
+
+    .skull-frame img {
+      width: 100%;
+      height: 100%;
+      object-fit: contain;
+      animation: skullSpin 28s linear infinite;
+      transform-origin: 50% 50%;
+      user-select: none;
+      -webkit-user-drag: none;
+    }
+
+    .skull-strip {
+      position: fixed;
+      left: 50%;
+      bottom: clamp(1.4rem, 4vw, 3rem);
+      transform: translateX(-50%);
+      width: min(calc(100vw - 2rem), 880px);
+      min-height: 3.25rem;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border-top: 1px solid var(--line);
+      border-bottom: 1px solid var(--line);
+      background: rgba(5, 5, 5, 0.72);
+      backdrop-filter: blur(14px);
+      overflow: hidden;
+    }
+
+    .skull-line {
+      padding: 0.95rem 1rem;
+      color: var(--accent);
+      font-family: var(--font-mono);
+      font-size: clamp(0.74rem, 1.8vw, 0.98rem);
+      font-weight: 400;
+      letter-spacing: 0.15em;
+      line-height: 1.35;
+      text-align: center;
+      text-transform: uppercase;
+      opacity: 0;
+      transform: translateY(0.5rem);
+      transition: opacity 600ms ease, transform 600ms ease;
+    }
+
+    .skull-line.visible {
+      opacity: 1;
+      transform: translateY(0);
+    }
+
+    .skull-home {
+      position: fixed;
+      top: clamp(1rem, 3vw, 2rem);
+      left: clamp(1rem, 3vw, 2rem);
+      color: var(--muted);
+      font-family: var(--font-mono);
+      font-size: 0.68rem;
+      letter-spacing: 0.16em;
+      text-decoration: none;
+      text-transform: uppercase;
+      transition: color 180ms ease;
+    }
+
+    .skull-home:hover {
+      color: var(--fg);
+    }
+
+    @keyframes skullSpin {
+      to {
+        transform: rotate(360deg);
+      }
+    }
+
+    @keyframes skullPulse {
+      0%,
+      100% {
+        transform: scale(0.99);
+      }
+
+      50% {
+        transform: scale(1.03);
+      }
+    }
+
+    @media (max-width: 700px) {
+      .skull-frame {
+        width: min(92vmin, 620px);
+      }
+
+      .skull-home {
+        font-size: 0.62rem;
+      }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      .skull-frame,
+      .skull-frame img,
+      .skull-line {
+        animation: none;
+        transition: none;
+      }
+    }
+  </style>
+</head>
+<body>
+  <main class="skull-site" aria-label="Roterande skalle">
+    <a class="skull-home" href="index.html">VERBOTEN MEDIA</a>
+
+    <div class="skull-frame">
+      <img src="assets/skalle-full.gif" alt="Roterande skalle">
+    </div>
+
+    <div class="skull-strip" aria-live="polite" aria-atomic="true">
+      <p class="skull-line"></p>
+    </div>
+  </main>
+
+  <script>
+    (function () {
+      'use strict';
+
+      var lines = [
+        'THE REGISTRATION HAS CLOSED',
+        'LIFE DESIGN — OR LACK THEREOF',
+        'ALL NUMBERS END',
+        'FOREVER ENDEAVOUR',
+        'NO FEED / NO STREAM / NO NOISE',
+        'EFTER FRITT HUVUD'
+      ];
+
+      var el = document.querySelector('.skull-line');
+      var current = 0;
+
+      function showLine(index) {
+        el.classList.remove('visible');
+        window.setTimeout(function () {
+          el.textContent = lines[index];
+          el.classList.add('visible');
+        }, 500);
+      }
+
+      showLine(current);
+      window.setInterval(function () {
+        current = (current + 1) % lines.length;
+        showLine(current);
+      }, 4200);
+    })();
+  </script>
+</body>
+</html>

@@ -5,24 +5,10 @@ summary: "Reporting from Verboten Media deep-culture cultural workshops."
 type: "literary"
 status: "published"
 author: "Martin Nygren"
-layout: shortstory
+mode: shortstory
+layout: article
 note: Part 3.1, chapter II
-
 ---
-
-![Fellowes AutoMax 200C.](/../../.png)
-
-<!-- IMAGE PLACEHOLDER: lecture handout pinned beside a logistics-center worktable, with marked cards, workshop headings, and northbound map lines connecting Kiruna, Sandtr?sk, Lule?, and Borderland. -->
-
----
-title: "Verboten Media Workshop Dispatches – Days 1-3"
-status: internal
-type: satellite-chapter
-project: forlagsdeckaren
-source_file: "Verboten Media Workshop Dispatches – Days 1-3.docx"
-normalized_from: docx
----
-
 
 ## Verboten Media rullar ut nio workshops på tre dagar
 
@@ -33,8 +19,6 @@ Nio reportage från tre dagar av skrivarverkstäder som vägrar lyda. Jävligt b
 *Sammanställt av Dispatch-redaktionen · Publicerat 13 april 2026*
 
 Under tre dagar — måndag till onsdag — genomförde Verboten Medias Lektyrstuga-serie nio skrivarverkstäder spridda från polcirkeln till rymdstationen, från Malmö hamn till Köpenhamns kyrkogårdar. Det som förenar dem är ett gemensamt credo: intressedriven elektronisk surrealism mitt i naturens uppmärksamhetsekonomi. Det förbjudna är det nödvändiga. Fiktionen infiltrerar verkligheten. Nio journalister — alla med olika format och röster — rapporterar från insidan.
-
-![**The Scientists Club i Sandträsk — Arthur Warner Cornforths stuga strax norr om polcirkeln.** *Foto: Arkiv*](/../../.png)
 
 ## *DAG 1 — MÅNDAG*
 
@@ -85,12 +69,17 @@ Arthur spelade sammanlagt åtta matcher Battleship under dagen. Han vann tre. Ha
 
 Det räckte.
 
-| Faktaruta — Bonitetens hemlighet<br>Kategori<br>Data<br>Antal deltagare<br>9 (inkl. journalist)<br>Antal uppmätta tallar<br>27 (3 per deltagare)<br>Omgivande skogs bonitet<br>1,0–2,2 m³sk/ha/år<br>Genomsnittlig diameter i brösthöjd<br>21,4 cm<br>Battleship-matcher (Arthur, hela dagen)<br>8 spelade, 3 vunna, 5 förlorade<br>Stugans inköpspris (sent 1980-tal)<br>450 000 SEK<br>Lunch<br>Renskav med potatis (Maris Piper-typ, enligt värd) |
-| --- |
+#### Faktaruta — Bonitetens hemlighet
+
+- Antal deltagare: 9 (inkl. journalist)
+- Antal uppmätta tallar: 27 (3 per deltagare)
+- Omgivande skogs bonitet: 1,0–2,2 m³sk/ha/år
+- Genomsnittlig diameter i brösthöjd: 21,4 cm
+- Battleship-matcher (Arthur, hela dagen): 8 spelade, 3 vunna, 5 förlorade
+- Stugans inköpspris (sent 1980-tal): 450 000 SEK
+- Lunch: Renskav med potatis (Maris Piper-typ, enligt värd)
 
 **ARTIKEL 2 · TEKNIKBLOGG / SUBSTACK-ESSÄ**
-
-![Hans Discord-server heter "Mackenberry's Excavation Site". Servern har 47 medlemmar. 14 av dem deltar i kvällens workshop.](/../../.png)
 
 ### Utgrävningen
 
@@ -146,12 +135,17 @@ Katten promenerar förbi kameran en sista gång. Bill ler. Discord fryser. Works
 
 Jag vill inte erkänna det, men det här var det mest intellektuellt generösa jag har deltagit i på år. Bill Mackenberry är en sidokaraktär som har förstått något som huvudkaraktärer inte gör: att den bästa positionen i berättelsen är den som ingen bevakar. Därifrån kan man se hela planen.
 
-| Faktaruta — Utgrävningen<br>Kategori<br>Data<br>Discord-serverns medlemmar<br>47 totalt, 14 aktiva deltagare<br>Djupaste lagret nått av samtliga<br>Lager 5 (tystnad)<br>Fotbollsspel diagrammerade<br>11 st.<br>Discord-glitchar (dokumenterade)<br>7 st., varav 3 med katt<br>Workshop-längd<br>3 timmar 12 minuter<br>Finska arkivet — detaljer avslöjade<br>Fragmentariska: 1 dokument, 1 temperatur, 1 djupangivelse<br>Katter observerade<br>Minst 1, möjligen 2 |
-| --- |
+#### Faktaruta — Utgrävningen
+
+- Discord-serverns medlemmar: 47 totalt, 14 aktiva deltagare
+- Djupaste lagret nått av samtliga: Lager 5 (tystnad)
+- Fotbollsspel diagrammerade: 11 st.
+- Discord-glitchar (dokumenterade): 7 st., varav 3 med katt
+- Workshop-längd: 3 timmar 12 minuter
+- Finska arkivet — detaljer avslöjade: Fragmentariska: 1 dokument, 1 temperatur, 1 djupangivelse
+- Katter observerade: Minst 1, möjligen 2
 
 **ARTIKEL 3 · BIBLIOTEKETS KULTURNYTT**
-
-![*Stadsbiblioteket Göteborg — platsen för Marys workshop i det glasväggade mötesrummet på tredje våningen.*](/../../.png)
 
 ### Utvärderingsmodellen
 
@@ -207,12 +201,18 @@ Jag är deltidsbibliotekarie. Jag skriver normalt om bokcirklar som läser Krist
 
 Mary lämnade biblioteket klockan 16:30. Hon tog med sig sin tunna bunt papper. Hon drack aldrig kaffe.
 
-| Faktaruta — Utvärderingsmodellen<br>Kategori<br>Data<br>Mötesrum<br>Glasväggat, vån. 3, Stadsbiblioteket Göteborg<br>Bokning<br>6 timmar under rubriken "Skrivarverkstad — utvärderingsmetodik"<br>Anmälda / närvarande<br>12 / 14<br>Antal utvärderingskriterier designade (totalt)<br>87 (snitt 6,2 per deltagare)<br>Marys karriärhöjdpunkter (nämnda)<br>Tatueringsstudio, Bob Dylan, Zlatan<br>Kaffe serverat<br>2 kannor à 1,5 liter = 3 liter<br>Marys kaffeintag<br>0 dl<br>Wilmas tystnad (mätt)<br>11 sekunder |
-| --- |
+#### Faktaruta — Utvärderingsmodellen
+
+- Mötesrum: Glasväggat, vån. 3, Stadsbiblioteket Göteborg
+- Bokning: 6 timmar under rubriken "Skrivarverkstad — utvärderingsmetodik"
+- Anmälda / närvarande: 12 / 14
+- Antal utvärderingskriterier designade (totalt): 87 (snitt 6,2 per deltagare)
+- Marys karriärhöjdpunkter (nämnda): Tatueringsstudio, Bob Dylan, Zlatan
+- Kaffe serverat: 2 kannor à 1,5 liter = 3 liter
+- Marys kaffeintag: 0 dl
+- Wilmas tystnad (mätt): 11 sekunder
 
 **ARTIKEL 4 · SJÖFARTSTIDNINGEN**
-
-![*Den avkommissionerade färjan i Malmö hamn — numera ett flytande kulturhus och plats för Kapten Langlets workshop.*](/../../.png)
 
 ### Kursen och strömmen
 
@@ -252,12 +252,16 @@ Langlet samlar in sjökorten. Han lägger dem i en kartmapp med skinnfodral, den
 
 Jag har skrivit om containerflöden i femton år. Jag kommer att fortsätta. Men jag kommer aldrig mer att skriva om det utan att tänka på Nils Langlet och hans ostukna pipa och hans två grader och hans ström som ändrar allt.
 
-| Faktaruta — Kursen och strömmen<br>Kategori<br>Data<br>Färjans specifikationer<br>Avkommissionerad Stena Line, 170 m, 24 000 BRT, kulturhus sedan 2024<br>Antal sjökortskoordinater använda<br>38 unika koordinater, Öresund<br>Grader roderförskjutning (totalt)<br>9° (fördelade på 4 manövrer: 2°, 1°, 3°, 3°)<br>Deltagare<br>11 (inkl. 6 gymnasieelever från Helsingborg)<br>Langlets piptändningsförsök<br>3 st. (0 lyckade)<br>Langlets kommentar om kidnappning vs. rökförbud<br>"Rökförbudet irriterar mig mer" |
-| --- |
+#### Faktaruta — Kursen och strömmen
+
+- Färjans specifikationer: Avkommissionerad Stena Line, 170 m, 24 000 BRT, kulturhus sedan 2024
+- Antal sjökortskoordinater använda: 38 unika koordinater, Öresund
+- Grader roderförskjutning (totalt): 9° (fördelade på 4 manövrer: 2°, 1°, 3°, 3°)
+- Deltagare: 11 (inkl. 6 gymnasieelever från Helsingborg)
+- Langlets piptändningsförsök: 3 st. (0 lyckade)
+- Langlets kommentar om kidnappning vs. rökförbud: "Rökförbudet irriterar mig mer"
 
 **ARTIKEL 5 · TVÅSPRÅKIG ZINE / KÖPENHAMNS UNDERJORDISKA KULTURPRESS**
-
-![*Assistens Kirkegård — kvällens startpunkt vid Kierkegaards grav, där ironi förvandlades till råmaterial.*](/../../.png)
 
 ### Den ironiska pizzan
 
@@ -303,12 +307,17 @@ Jag gick hem genom Nørrebro i mörkret. Jag hade en smak av basilika och auberg
 
 Det var den viktigaste kvällen i mitt liv. Jag stryker fortfarande inte meningen.
 
-| Faktaruta — Den ironiska pizzan<br>Kategori<br>Data<br>Grav besökt<br>Søren Kierkegaard, Assistens Kirkegård, Nørrebro<br>Pizzor döpta<br>11 st. + 1 avslutande ("Graven")<br>Drycker konsumerade (gruppen)<br>Ca 34 Tuborg, 7 glas vin, 3 kaffe<br>Uppriktiga tårar fällda<br>3 (Frederik, Astrid, en anonym)<br>Kierkegaardcitat felattribuerade<br>2 (ett tillskrivet Hegel, ett tillskrivet "nån dansk")<br>Bananer i Bongus ficka<br>1 (oäten hela kvällen)<br>Tyskt ord använt utan förklaring<br>"Wahrheit" |
-| --- |
+#### Faktaruta — Den ironiska pizzan
+
+- Grav besökt: Søren Kierkegaard, Assistens Kirkegård, Nørrebro
+- Pizzor döpta: 11 st. + 1 avslutande ("Graven")
+- Drycker konsumerade (gruppen): Ca 34 Tuborg, 7 glas vin, 3 kaffe
+- Uppriktiga tårar fällda: 3 (Frederik, Astrid, en anonym)
+- Kierkegaardcitat felattribuerade: 2 (ett tillskrivet Hegel, ett tillskrivet "nån dansk")
+- Bananer i Bongus ficka: 1 (oäten hela kvällen)
+- Tyskt ord använt utan förklaring: "Wahrheit"
 
 **ARTIKEL 6 · SPEKULATIV JOURNALISTIK / SKANDINAVISK TEKNIKKULTUR**
-
-![*Utsikten från ISS Cupola — Novas arbetsplats och platsen varifrån workshoppen sändes.*](/../../.png)
 
 ### Fyra sekunder
 
@@ -358,15 +367,19 @@ Fyra sekunder. Sedan: "Och nu ska jag gå tillbaka till mina svarta lådor. De b
 
 Länken bryts. Skärmen visar ISS-logotypen, sedan svart. Fjorton personer sitter i fem tidszoner med texter som luktar av rymd och fördröjning och diskbänkssprickor och bärt vatten. Yuki i Tokyo skriver i chatten: "Jag tror att jag kan sova nu." Ingen svarar i fyra sekunder. Det är inte tekniskt. Det är respekt.
 
-| Faktaruta — Fyra sekunder<br>Kategori<br>Data<br>Satellitfördröjning (nominell)<br>4 sekunder<br>Maximal uppmätt fördröjning<br>11 sekunder (20:32 CET)<br>Deltagare<br>14 i 5 tidszoner (Stockholm, Reykjavik, Nairobi, Teheran, Tokyo)<br>ISS omloppshöjd under sessionen<br>~408 km<br>Svarta låda-metaforer genererade<br>23 unika formuleringar<br>Workshop-längd<br>2 timmar 4 minuter<br>Yukis sömntillstånd vid slut<br>"Jag tror att jag kan sova nu" |
-| --- |
+#### Faktaruta — Fyra sekunder
+
+- Satellitfördröjning (nominell): 4 sekunder
+- Maximal uppmätt fördröjning: 11 sekunder (20:32 CET)
+- Deltagare: 14 i 5 tidszoner (Stockholm, Reykjavik, Nairobi, Teheran, Tokyo)
+- ISS omloppshöjd under sessionen: ~408 km
+- Svarta låda-metaforer genererade: 23 unika formuleringar
+- Workshop-längd: 2 timmar 4 minuter
+- Yukis sömntillstånd vid slut: "Jag tror att jag kan sova nu"
 
 *DAG 3 — ONSDAG* 
 
 **ARTIKEL 7 · AKADEMISK KONFERENSBILAGA / BRANSCHTIDNING MED JOURNALISTKOMMENTAR**
-
-![*The Scientists Club i Sandträsk — samma stuga som dag 1, men nu med Arthur borta och Klonen som värd.*
-](/../../.png)
 
 ### Replikanten i stugan
 
@@ -416,11 +429,14 @@ Klonen avslutade workshoppen genom att servera kaffe och stänga det finska doku
 
 Jag åkte tillbaka till Luleå samma kväll. Mitt paper om reproduktion i skandinavisk prosa — det jag presenterade på konferensen — var, insåg jag nu, en mutation av ett argument som någon annan hade gjort före mig, och mina mutationer var det intressanta, och jag hade aldrig vetat det förrän en klon i en stuga i Sandträsk ställde en fråga som inte hade något svar.
 
-| Faktaruta — Replikanten i stugan<br>Kategori<br>Data<br>Klonbeteendeavvikelser observerade<br>4 (skrattfördröjning, betoningsskift, Battleship-taktik, leende)<br>Texter replikerade<br>6 original → 6 kloner<br>Genomsnittlig mutationsfrekvens<br>3,8 mutationer per 1000 ord<br>Finska arkivdokumentets status<br>Delvis översatt, syfte okänt, datering: uppskattningsvis 1970-tal<br>Battleship-taktikskillnad<br>Klonen: diagonala öppningar. Arthur: horisontella svep.<br>Deltagare som kom som observatörer<br>1 (artikelns författare) |
-| --- |
+#### Faktaruta — Replikanten i stugan
 
-
-![*Luleå hamn vid gryningen — workshoppens slutpunkt, där alla texter landade.*](/../../.png)
+- Klonbeteendeavvikelser observerade: 4 (skrattfördröjning, betoningsskift, Battleship-taktik, leende)
+- Texter replikerade: 6 original → 6 kloner
+- Genomsnittlig mutationsfrekvens: 3,8 mutationer per 1000 ord
+- Finska arkivdokumentets status: Delvis översatt, syfte okänt, datering: uppskattningsvis 1970-tal
+- Battleship-taktikskillnad: Klonen: diagonala öppningar. Arthur: horisontella svep.
+- Deltagare som kom som observatörer: 1 (artikelns författare)
 
 **ARTIKEL 8 · GONZO-REPORTAGE / UNDERGROUND**
 
@@ -470,12 +486,16 @@ Workshoppen är slut. Artikeln är workshoppen. Cirkeln är sluten. Rondellhunde
 
 Ingen frågade. Det behövdes inte. Texten frågade åt dem.
 
-| Faktaruta — Rondellhunden som wallraffade sig själv<br>Kategori<br>Data<br>Rondellens diameter<br>Ca 12 meter (uppskattad)<br>Kebabbeställningar<br>5 kebab (3 med allt, 1 utan lök, 1 vegetarisk)<br>Diktafoninspelningar genererade<br>6 st., total längd ca 4 tim 20 min<br>Tidningar som tidigare täckt F-fattarens rondellaktiviteter<br>Norrbottens-Kuriren (1 artikel, 2023)<br>Soluppgång<br>05:07 lokal tid<br>Hassans kommentar<br>"Ni är skribenter?" — "Vi är subjekt." |
-| --- |
+#### Faktaruta — Rondellhunden som wallraffade sig själv
+
+- Rondellens diameter: Ca 12 meter (uppskattad)
+- Kebabbeställningar: 5 kebab (3 med allt, 1 utan lök, 1 vegetarisk)
+- Diktafoninspelningar genererade: 6 st., total längd ca 4 tim 20 min
+- Tidningar som tidigare täckt F-fattarens rondellaktiviteter: Norrbottens-Kuriren (1 artikel, 2023)
+- Soluppgång: 05:07 lokal tid
+- Hassans kommentar: "Ni är skribenter?" — "Vi är subjekt."
 
 **ARTIKEL 9 · REKLAMBRANCHENS FACKTIDSKRIFT**
-
-![*Garaget i Malmö — den ombyggda industrilokalen där Fågelskrämman höll sin sista workshop.*](/../../.png)
 
 ### Copywriterns begravning
 
@@ -541,8 +561,15 @@ Dokumentförstöraren stod på i sammanlagt fjorton minuter. Den åt trettioen �
 
 Den var inte en metafor. Den var en Fellowes AutoMax 200C. Och den gjorde sitt jobb.
 
-| Faktaruta — Copywriterns begravning<br>Kategori<br>Data<br>Guldägg representerade i rummet<br>4 st. (2 Fågelskrämmans, 1 Johannas byrå, 1 okänd)<br>Samlad reklamlivserfarenhet<br>127 år<br>Texter förstörda<br>14 (+ 1 Fågelskrämmans egen = 15 totalt)<br>Nya texter skrivna efter begravningen<br>14 st. på 30 minuter<br>Dokumentförstörarens ljudnivå<br>~68 dB (uppskattad, Fellowes AutoMax 200C)<br>Naturvin serverat<br>0 flaskor<br>Armar runt axlar<br>1 |
-| --- |
+#### Faktaruta — Copywriterns begravning
+
+- Guldägg representerade i rummet: 4 st. (2 Fågelskrämmans, 1 Johannas byrå, 1 okänd)
+- Samlad reklamlivserfarenhet: 127 år
+- Texter förstörda: 14 (+ 1 Fågelskrämmans egen = 15 totalt)
+- Nya texter skrivna efter begravningen: 14 st. på 30 minuter
+- Dokumentförstörarens ljudnivå: ~68 dB (uppskattad, Fellowes AutoMax 200C)
+- Naturvin serverat: 0 flaskor
+- Armar runt axlar: 1
 
 ### Efterord
 
@@ -563,4 +590,3 @@ Fiktionen infiltrerar verkligheten.
 Verkligheten infiltrerar tillbaka.
 
 © 2026 Verboten Media Workshop Dispatches. Alla texter är fiktiva. Alla karaktärer är påhittade. Alla pizzor är namngivna. Alla dokumentförstörare är verkliga.
-

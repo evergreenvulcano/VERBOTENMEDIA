@@ -1,4 +1,4 @@
-# Introduktion till information
+## Introduktion till information
 
 Infosfären är inte strikt virtuell; virtualiteten sluter sig till en analog verklighet som ett ytterligare raster, som alltjämt uppfattas naturlig för informationsvarelser som människan, begåvad med modellerande hjärnhalvor och kreativt käkarti liksom språktekniska fingertoppar vandrar hon utrustad med allehanda proteser och uppkopplad informationsteknologisk elektronik. Hon accepterar att världen är delvis virtuell, och att det virtuella rymmer världen.
 

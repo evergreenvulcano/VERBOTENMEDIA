@@ -1,5 +1,7 @@
 ---
 title: "Tystnad som publiceringsform"
+type: literary
+status: published
 mode: shortstory
 layout: article
 date: "2022"

@@ -67,7 +67,7 @@ Din far är ett känslosamt ämne för mig, jag vill varken tvinga ned dig på m
 
 Ingen kan spela dubbeltennis som Flempo Guyenjaure. Håkan Bacon kan knappt röra på skinkorna. Flempo tycker itne att det spelar någon roll. Alla relationer är inte tennisadepter. Flempo är en nationell ikon, sinnebilden för en fadersgestalt som håller samman lokala regioner per pur automatik, körkort och munläder.
 
-![Flempo Guyenjaure har många spjärn i elden sedan Vinterpratet 2019.](../../assets/kinetic-labs.png)
+![Flempo Guyenjaure har många spjärn i elden sedan Vinterpratet 2019.](../../assets/kinectic-labs.png)
 
 Men påminn mig ånyo herr förläggare, vad gör vi här nu igen? Varför är du inte ute och viftar med kuken så att säga? Varför har inte du en liten integrationsmiddag i familjens samklang, varför låter du inte så att säga europas gränser strömma genom dammen när det är så hejdlöst vackert i skyn?
 

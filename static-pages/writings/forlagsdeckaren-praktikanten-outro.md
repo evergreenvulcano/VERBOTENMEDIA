@@ -1,9 +1,13 @@
 ---
 title: "Förlagsdeckaren - Praktikanten (Outro)"
+date: "2026"
+summary: "Den andra Praktikanten vaknar till webhook, grundning och en struktur som fortsätter arbeta."
 status: published
-type: shortstory
-project: forlagsdeckaren
-Note: Part 3.1, last chapter 
+type: literary
+author: "Förläggarne & Praktikanten"
+mode: shortstory
+layout: article
+note: "Part 3.1, last chapter"
 ---
 
 ##  Den andra Praktikanten (Outro)
