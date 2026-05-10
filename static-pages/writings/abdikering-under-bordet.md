@@ -1,9 +1,13 @@
 ---
 title: "Abdikering under bordet"
+date: "2026"
+summary: "Ett styrelseprotokoll om en abdikering som ännu inte trätt i kraft."
 status: published
-type: shortstory
-project: forlagsdeckaren
-note: Del 3.1, näst sista delen 
+type: literary
+author: "Martin Nygren"
+mode: shortstory
+layout: article
+note: "Del 3.1, näst sista delen"
 ---
 
 ## Abdikera eller att gå på plankan under bordet

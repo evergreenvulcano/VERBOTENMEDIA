@@ -15,23 +15,31 @@ Stage converted candidates in:
 
 Review them for title, summary, type, date, naming, and Markdown Publishing Standard v1 compliance before promotion into `/static-pages/writings/`.
 
+## Root Pages
+
+- `the-registration-has-closed.md`
+
 ## Writings
 
-- `writings/the-density-of-the-present.md`
-- `writings/platform-logic-and-the-grammar-of-appearance.md`
+- `writings/abdikering-under-bordet.md`
+- `writings/dawkin-danielson-burning-man-black-rock-city.md`
+- `writings/declaration-of-intent.md`
+- `writings/forlagsdeckaren-del-1.md`
+- `writings/forlagsdeckaren-del-2.md`
+- `writings/forlagsdeckaren-del-3.md`
+- `writings/forlagsdeckaren-del-4.md`
+- `writings/forlagsdeckaren-lectures-and-workshops.md`
+- `writings/forlagsdeckaren-praktikanten-intro.md`
+- `writings/forlagsdeckaren-praktikanten-outro.md`
 - `writings/forlagsdeckaren.md`
-- `writings/forlagsdeckaren-baseline.md`
+- `writings/membransch-granssnitt.md`
 - `writings/shortstory-vm-1.md`
 - `writings/shortstory-vm-4.md`
 - `writings/shortstory-vm-5.md`
 - `writings/shortstory-vm-6.md`
-- `writings/the-body-without-coordinates.md`
-- `writings/against-the-archive-impulse.md`
-- `writings/notes-on-disappearance.md`
-- `writings/psychotechnical-subjectivity-a-field-note.md`
-- `writings/what-the-interface-withholds.md`
-- `writings/authenticity-after-instagram.md`
-- `writings/correspondence-persons-and-machines.md`
+- `writings/the-wound-the-attractor-and-the-controlled-abandonment.md`
+- `writings/tystnad-som-publiceringsform.md`
+- `writings/vmaptb-mail-flempo-jens.md`
 
 ## Experimental Sandbox
 

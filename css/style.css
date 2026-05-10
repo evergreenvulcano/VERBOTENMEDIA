@@ -387,6 +387,23 @@ em     { font-style: italic; }
   transform: translateY(0);
 }
 
+.landing-manifesto-link {
+  display: inline-block;
+  margin-top: var(--space-md);
+  font-family: var(--font-mono);
+  font-size: var(--size-xs);
+  font-weight: 400;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--fg);
+  border-bottom: 1px solid var(--accent);
+  padding-bottom: 0.2rem;
+}
+
+.landing-manifesto-link:hover {
+  color: var(--accent);
+}
+
 .landing-footer-bar {
   display: flex;
   align-items: center;

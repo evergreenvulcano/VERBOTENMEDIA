@@ -1,15 +1,12 @@
 ---
-title: "Verboten Media Workshop Dispatches – dag 1-3"
+title: "Förlagsdeckaren"
 date: "2026-04-07"
 summary: "A literary work examining independent publishing through documentary and fictional modes."
 type: "literary"
 status: "published"
-author: "Martin Nygren"
+author: "Förläggaren & Praktikanten"
 layout: article
 note: A digital eqivalent to the backside of a book - with links to published material.
-Section: Writings
-Type: Literary
-Author: Förläggaren & Praktikanten
 ---
 
 ## Baksidetext

@@ -3,7 +3,8 @@ title: "Declaration of Intent"
 date: "2026-04-20"
 summary: "A manifesto-like statement that frames Verboten Media as generative cultural infrastructure rather than a document set."
 type: "fragment"
-status: "draft"
+status: "published"
+author: "VERBOTEN MEDIA"
 ---
 
 We are not building "documents."

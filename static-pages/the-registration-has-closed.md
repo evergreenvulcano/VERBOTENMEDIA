@@ -1,11 +1,43 @@
 ---
 title: "The Registration Has Closed"
 date: "2026-04-17"
-summary: "A black-screen publication system, built from refusals, discovers that silence, protocol, and structure can become narrative in their own right."
-type: "Article"
-status: "draft, for translation"
-note: This is probably an article-reporter-field-note in a online antrophological creative magazine. 
+summary: "Manifesto, threshold, and publication register for standalone Förlagsdeckaren texts."
+type: "manifesto"
+status: "published"
+author: "VERBOTEN MEDIA"
+note: "Manifesto page and ordered article register."
 ---
+
+## Manifesto
+
+Registration has closed.
+
+Not because the work is finished. Because the threshold has changed function.
+
+This page is the public register for standalone Förlagsdeckaren material: field notes, chapters, side texts, dispatches, and public fragments that can be read without requesting access to a private archive. It is not a feed. It is not a stream. It is a controlled doorway.
+
+Future standalone parts will be added here in order.
+
+## Förlagsdeckaren publication sequence
+
+1. [Förlagsdeckaren](writings/forlagsdeckaren.md)
+2. [Förlagsdeckaren — Del 1](writings/forlagsdeckaren-del-1.md)
+3. [Förlagsdeckaren — Del 2](writings/forlagsdeckaren-del-2.md)
+4. [Förlagsdeckaren — Del 3](writings/forlagsdeckaren-del-3.md)
+5. [Förlagsdeckaren — Del 4](writings/forlagsdeckaren-del-4.md)
+6. [En stigande tidvåg lyfter alla båtar](writings/shortstory-vm-4.md)
+7. [Tystnad som publiceringsform](writings/shortstory-vm-5.md)
+8. [Borderland](writings/shortstory-vm-6.md)
+9. [VMAPTB Mail Flempo Jens](writings/vmaptb-mail-flempo-jens.md)
+10. [DAWKIN DANIELSON – Burning Man, Black Rock City](writings/dawkin-danielson-burning-man-black-rock-city.md)
+11. [Förlagsdeckaren — Praktikanten (intro)](writings/forlagsdeckaren-praktikanten-intro.md)
+12. [Abdikering under bordet](writings/abdikering-under-bordet.md)
+13. [Verboten Media Workshop Dispatches – dag 1-3](writings/forlagsdeckaren-lectures-and-workshops.md)
+14. [Tystnad som publiceringsform](writings/tystnad-som-publiceringsform.md)
+15. [Membransch gränssnitt](writings/membransch-granssnitt.md)
+16. [Förlagsdeckaren - Praktikanten (Outro)](writings/forlagsdeckaren-praktikanten-outro.md)
+
+## Opening field note
 
 The website went live on a Thursday, which Förläggaren considered cosmologically appropriate because Thursday is the day named after a god who solves problems with a hammer, and the website had been built entirely from refusals.
 
@@ -16,7 +48,7 @@ Praktikanten had designed it. Black ground. White serif. A pink so quiet it coul
 "Because sans-serif implies you've moved on," Praktikanten said without turning around. "Serif says you're still arriving."
 
 The sections loaded in sequence: WORK. METHOD. ARCHIVE. CONTACT. Each one a door that opened onto a room containing only its own description. Fiction behaving as infrastructure. Förläggaren read it and felt the particular vertigo of recognizing your own skeleton displayed in a museum while you are still using it.
- 
+
 ## The liturgy of refusal
 
 At the center of the page sat a sentence on black, bone-white and unblinking. Everything around it was restraint. No feed. No stream. No noise. Just serif letters in white and a pink so restrained it barely existed: the color of a blush on a document that had decided not to apologize.
@@ -56,4 +88,3 @@ There are websites that promise access. This one arranged thresholds.
 There are archives that store material. This one made storage feel liturgical.
 
 And once you had seen it, it became difficult to mispronounce the project again. It was not merely a platform. It was a narrative architecture built from selected absence.
-
