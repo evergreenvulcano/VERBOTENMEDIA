@@ -1,10 +1,10 @@
 ---
 title: "Tystnad som publiceringsform"
-status: internal
-type: satellite-chapter
+status: draft
+type: shortstory
 project: forlagsdeckaren
-source_file: "Tystnad som publiceringsform.docx"
-normalized_from: docx
+note: Del 3.2
+
 ---
 
 # Tystnad som publiceringsform
