@@ -3,7 +3,7 @@ title: "VMAPTB Mail Flempo Jens"
 status: internal
 type: satellite-chapter
 project: forlagsdeckaren
-source_file: "VMAPTB-mail-felmpo-jens.md"
+source_file: "VMAPTB-mail-flempo-jens.md"
 normalized_from: md
 ---
 
