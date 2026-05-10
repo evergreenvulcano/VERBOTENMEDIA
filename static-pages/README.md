@@ -28,10 +28,13 @@ Review them for title, summary, type, date, naming, and Markdown Publishing Stan
 - `writings/forlagsdeckaren-del-2.md`
 - `writings/forlagsdeckaren-del-3.md`
 - `writings/forlagsdeckaren-del-4.md`
+- `writings/forlagsdeckaren-del-6-registreringen-har-stangt.md`
 - `writings/forlagsdeckaren-lectures-and-workshops.md`
 - `writings/forlagsdeckaren-praktikanten-intro.md`
 - `writings/forlagsdeckaren-praktikanten-outro.md`
 - `writings/forlagsdeckaren.md`
+- `writings/klangbotten-snippets.md`
+- `writings/lex-funkonaturalism.md`
 - `writings/membransch-granssnitt.md`
 - `writings/shortstory-vm-1.md`
 - `writings/shortstory-vm-4.md`

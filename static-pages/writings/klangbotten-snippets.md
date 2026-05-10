@@ -4,6 +4,7 @@ date: "2026-04-20"
 summary: "A mixed-language fragment on Verboten Media as file system, theory, architecture, and unfinished modular corpus."
 type: "fragment"
 status: "draft"
+author: "VERBOTEN MEDIA"
 ---
 
 Verboten Media is not a book that happens to have files — it is a file system that happens to be a book.
