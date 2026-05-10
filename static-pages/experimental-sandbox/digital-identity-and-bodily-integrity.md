@@ -7,6 +7,23 @@
 Preliminary notes on divergence and conflict between embodiment and digital representation.
 
 ## Draft
+
+PROBE 7 — Digital Identity and Bodily Integrity
+← Biometric vs. credential-based identity
+The breach exposed the gap between bodily identity — the person sitting at 
+the keyboard, running antivirus, physically present, breathing, warm — and 
+digital identity — the credentials, the tokens, the SSO chains that no 
+longer belonged exclusively to that body. The body was intact. The digital 
+identity was not. In the novel's cave scene, the protagonist massages 
+their own eyes to recalibrate perception — a bodily intervention in a 
+digital condition. The HackerStory is the inverse: a digital intervention 
+in a bodily condition. The fingers typed the password. The body 
+authenticated. But the authentication went to the wrong recipient. The 
+body said I am who I am. The spoofed page said Thank you and sent the 
+confirmation somewhere else. Praktikanten touches his own fingertips. They 
+feel the same as before. He writes: The body is always authenticated. The 
+credential is always contingent.
+
 She tries to expand her visual field by massaging her eyes from the inside — pulling at them with consciousness itself, attempting to override the organ's natural function through sheer phenomenological will. The narrator in the cave is doing something that no digital interface can replicate: she is trying to change the body's hardware through software — through intention, through concentration, through the pressure of wanting to see more than the eyes are designed to reveal.
 
 This is where digital identity and bodily integrity diverge most violently and most revealingly. The digital self can be edited with precision. Change your name, your photo, your bio, your pronouns, your location, your relationship status — the platform updates instantly, propagates globally, and the previous version of you is either archived or annihilated depending on the platform's data retention policy. The body cannot be edited this way. The body is the thing that cracks its knuckles and hears the echo — "en liten sten faller ned i ett större vatten." The body is what stiffens when you sit too long. The body is what hurts when you try to see differently.

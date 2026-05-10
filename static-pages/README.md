@@ -45,3 +45,13 @@ Review them for title, summary, type, date, naming, and Markdown Publishing Stan
 - `experimental-sandbox/text-systems-that-talk-back.md`
 - `experimental-sandbox/cultural-diagnostics-a-survey.md`
 - `experimental-sandbox/the-attention-audit.md`
+- `experimental-sandbox/forlagsdeckaren-lectures-workshops-living-in-the-feed-capsule.md`
+- `experimental-sandbox/forlagsdeckaren-lectures-workshops-the-aesthetics-of-now-capsule.md`
+- `experimental-sandbox/forlagsdeckaren-lectures-workshops-independent-cultural-infrastructure-capsule.md`
+- `experimental-sandbox/forlagsdeckaren-lectures-workshops-reading-the-interface-capsule.md`
+- `experimental-sandbox/forlagsdeckaren-lectures-workshops-writing-against-the-template-capsule.md`
+- `experimental-sandbox/forlagsdeckaren-lectures-workshops-collaborative-creativity-in-technical-environments-capsule.md`
+- `experimental-sandbox/forlagsdeckaren-lectures-workshops-technology-culture-and-youth-capsule.md`
+- `experimental-sandbox/forlagsdeckaren-lectures-workshops-cultural-memory-and-the-digital-archive-capsule.md`
+- `experimental-sandbox/forlagsdeckaren-associated-projects-lank-capsule.md`
+- `experimental-sandbox/forlagsdeckaren-associated-projects-norrotiv-capsule.md`

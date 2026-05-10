@@ -3,50 +3,66 @@ title: Publicering är statusförändring, inte distribution
 date: 2026
 type: capsule
 summary: Publishing changes the status of a text or artefact. It is not merely making something available. Draft, source, capsule, diagnosis, essay, and literary work are not the same kind of object.
----
-
-Publishing is not a delivery action. It is a status event.
+what: Den bör kunna fungera som ett av de dokument som lär repo/agenter skillnaden mellan arbetsarkiv och publiceringshändelse.
 
 ---
 
-## What publication changes
-
-When a text is published, something about it changes permanently: it has moved from a private or unstable state into a defined public position. It has been named. It has been assigned a type. It has been made available under a structure that implies accountability for its presence.
-
-Distribution follows from publication. But distribution is not publication. Making a file accessible does not publish it. Uploading a draft does not change its status. Putting something in the repo does not make it a published work.
+Att publicera är inte resursallokering, delegering, distribution, avhämtning, pålastning. En publicering är en statushändelse. 
 
 ---
 
-## Status categories are not interchangeable
+## Vad publicering förändrar
 
-Different kinds of text carry different kinds of status. They must not be treated as the same object:
+När en text publiceras, förändras något som hör hela världen till: rörelsen från privat eller ostabil till definierad publik position markerar denna permanens. Permanensens konturer är namngivning, typtilldelning, kategoriseringens multiverktoriella nodalisering. Texten har tillgängliggjorts under en strukturs goda samvete, och denna strukturella expansion implicerar ett ansvarstagande för dess närvaro. 
 
-**Literary work** — carries authorial origin, voice, and the specific formal decisions of a piece of writing. Its publication status is distinct from every other category.
+Sådan permanens föregår påföljande distribution. Men distribution är inte publicering - att tillgängliggöra en fil är inte att publicera en fil. Blotta uppladdningen av ett utkast till en strukturs goda minne medför inget statusskifte som publicering gör. Att lägga in en fil i en repository gör den inte till ett publicerat arbete. 
 
-**Essay** — carries a thinking process, an argumentative position, and an authorial signature. It is not a capsule and should not be treated as one.
+## Statuskategorier är inte interchangable
 
-**Capsule** — a short, public-facing knowledge unit. Functional, precise, AI-permissible when it does not claim to be literary prose. Capsules have their own publication status, which is real and defined — but different from an essay or a literary work.
+Skillnaden mellan statusen som publicerad och statusen som utkast markerar faktumet att olika texttyper bär olika statustyper. De får inte behandlas som samma objekt: 
 
-**Diagnosis** — a status assessment. It exists to clarify where something stands. It is not a public artefact in the same sense as an essay or a literary text.
+**Skönlitterärt arbete** - bär auktoriellt ursprung, röst, och den specifika formella beslutsföringen kring en ställd skrift. Dess publiceringsstatus är distinkt från andra kategorier. 
 
-**Source** — raw material. It has not been published and should not be treated as though it has.
+**Essä** - bär tankens rörelse, argumentativa positioner såsom perspektivförskjutningar gör dikotomiskt dynamiska, och en auktoriell signatur. Protagonistisk, antagonistisk - tillhör tankefigurens domäner snarare än tidskapselns.
 
-**Draft** — working material. Being in the repo does not promote it to published status.
+**Kapsel** - En kortfattad, publiktillvänd kunskapsenhet. Funktionell, precis, ai-kompatibel i den mån det inte bär skönlitterär prosa.
 
----
+**Diagnostik** - En uppskattning av status. Diagnostiska artefakter existerar för att klargöra var någonting står, vilket stadie något befinner sig i. Det är inte en publik artefakt i samma bemärkelse som en essä eller litterär text. Dess offentliga tillvändhet tjänar snarare arkivariska eller akademiska syften, och en sådan status medför en nischad tillvändhet som inte är publik i samma populära andemening som andra format. 
 
-## Why this matters for VERBOTEN MEDIA
+**Källa** - rått material. Det har inte publicerats och borde inte behandlas som att det har en sådan status. Dess offentliga tillgänglighet tjänar andra syften och har således en annan status.  
 
-VERBOTEN MEDIA publishes across multiple registers — literary prose, critical essays, cultural analysis, method documentation, public capsules. The integrity of each register depends on keeping the status categories clear.
-
-If a diagnosis is labelled as an essay, the essay loses its weight. If a draft is treated as a published work, the publication loses its meaning. If an AI-mediated capsule is presented as literary prose, the prose loses its origin.
-
-Status clarity is not bureaucratic. It is what makes the different kinds of work legible as what they actually are.
+**Utkast** - Arbetsmaterial. Dess eventuella närvaro i repo-strukturen innebär inte en automagisk upphöjning till publicerad status. 
 
 ---
 
-## Publication as commitment
+## Varför detta är viktigt för VERBOTEN MEDIA 
 
-To publish something at VERBOTEN MEDIA is to say: this exists in a defined public form, under a specific type, with a specific status, and that status is intentional.
+VERBOTEN MEDIA publicerar kors och tvärs över flera register. Det är en av de utkomsterna till dags dato som ryms inuti begreppet mångvektoriell. I läsväg finns här litterär prosa, kritiska essäer, kulturanalys, metoddokumentation, publika kapslar. Integriteten tillhörande varje register beror på statuskategoriernas kristallklara gränsdragningar. 
 
-The repo reflects that commitment. Files without clear publication status belong in the working archive until they have one.
+> "Detta är det här, och det innebär att det inte är det här." 
+
+Sådana ostensiva hänvisande svepande rörelser kan man gestikulera på dylika sätt, vilket tillfredsställer de globala molndistribuerade kodstrukturernas många fascinerande tillämpningar och överskottsprocesser. 
+
+> "Det här är det här, precis som det där." 
+
+Det går också bra att förstå saken som en lokal angelägenhet. 
+
+---
+
+## Publicering som intentionsenligt engagemang
+
+Att publicera någonting via VERBOTEN MEDIAS tvärdomäner är att säga: detta existerar i en definierad publik form, klassificerad enligt en specifik typ, med en specifik status, och den statusen är intentionsenlig. 
+
+Det är tankefigurens version av uppbygglighet i ett tidevarv kännetecknat av upplösning och desintegration. Med tidevarv menar vi inte "nyhetscykel" eller "valcykel". Vi menar snart 100 år, mer?, mycket möjligt, mindre?, garanterat det också. 
+
+Repositoryt som möjliggör dessa digitala läsupplevelser reflekterar en sådan intention - gentemot hållbart, ihärdigt engagemang i uppbygglighetens anda.
+
+Filer utan tydlig status kring publikation hör till arbetsarkivet till dess att det finns en sådan status. 
+
+Så vad gör en sådan framåtsyftande auktoritet med reversibiliteten? 
+
+> Får man inte ångra något eller? 
+
+Jodå, det går utmärkt. Även reträtter, tillbakadragande och snedsteg arkivförs. Också det otillräckliga, det ångrade och det förhastade som fläckar ned det perfekt tajmade, suveränt anspråksfulla publiceringskroppen har plats i en "semantisk kernel" som denna. 
+
+Tack för att du läser!  

@@ -7,6 +7,23 @@
 A meta-level investigation into publishing as infrastructure, ideology, and technical system.
 
 ## Draft
+
+PROBE 5 — Infrastructural Publishing Logic
+← Persistent threat beyond endpoints
+The threat persists beyond endpoints. The password change is an endpoint. 
+The antivirus scan is an endpoint. But the threat has already moved into 
+the infrastructure — the linked accounts, the SSO chains, the browser's 
+stored credential suggestions that helpfully autofill a password the user 
+has already changed, because the browser remembers what the user is trying 
+to forget. Publishing operates the same way: the book is an endpoint, but 
+the infrastructure — the pipeline, the repository, the commit history, the 
+agent's operating stance — persists beyond it. A small press is a nervous 
+system, not a product line. When the infrastructure is compromised, no 
+single publication can fix it. You cannot cure a nervous disease by 
+amputating a finger. Praktikanten writes: The Förlag is the 
+infrastructure. The books are the endpoints. The HackerStory is the 
+diagnosis.
+
 The publisher lives on a logistics central. Goods pass through. Nothing stays. And yet he stays — and the tension between transit architecture and permanent habitation generates the question this probe investigates: what does it mean to build a container for thought, and what forms of thinking become possible when the container is self-constructed?
 
 The conventional publishing model treats infrastructure as invisible. The reader encounters a book. Behind the book: an editor, a designer, a printer, a distributor, a bookstore. The reader does not see the infrastructure. The infrastructure does not see the reader. The book passes between them like cargo through a logistics hub — its origin effaced, its journey invisible, its destination a shelf.

@@ -17,13 +17,39 @@ layout: article
 
 ### *Del 1*
 
-Ambitionen står i proportion till latheten, viljan till lathet som 1800-talets syfilisintroverter författade filosofiska stridsskrifer kring. Då på gentlemannabordellernas tidevarv, dårhusets tid, unabombaren låg ännu i industrialismens knyte som ett profetiskt embryo. Medan Artaud skakade tvångströja och läste Strindberg… Megalomanin står i proportion till den upplevda kärnans brist på relevans, Jung beskrev hur de med störst mindervärdeskomplex hyste de mest storartade drömmarna, där de förbisedda aspekterna av psykena - deras potential till storhet som förvisats till det omedvetna - artade sig i urspårad blom i drömmarna, där möten med historiens mest oproportionerliga personligheter kunde äga rum. En banknotarie med otillfredställande giftermål kunde dricka te och diskutera specialismer med Napoleon. En kvinna som aldrig tagit en ridlektion drömde att hennes pappa var Adolf Hitler. Förläggaren har haft sina drömmar han också. Men just nu står han i proportion till den nya logistikcentralens oerhörda reverb, i företaget att lösa ut det mysterium som han av ödets lott kommit att stå i kontakt med i egenskap av undandragande uttolkare, surrealistisk shaman och efterhängsen futurolog.
+Ambitionen står i proportion till latheten, viljan till lathet som 1800-talets syfilisintroverter författade filosofiska stridsskrifer kring. Då på gentlemannabordellernas tidevarv, dårhusets tid, unabombaren låg ännu i industrialismens knyte som ett profetiskt embryo. Medan Artaud skakade tvångströja och läste Strindberg… 
 
-Förläggaren ursäktar sig själv från rummets förpliktelser, arkitekturens formativa påbud, sätter sig vid sin simpla rymdstation, ett arbets- skriv- och ritbord, och drar bestämt ett streck över rubriken *Stamkartläggning* så där blott står *äggning*. Det hade varit ett naivt projekt, att gå emot Houllebecqska imperativet om ekonomisk atomisering och kapitaleffektiviserande ensamhet, multimediaflodens individualhybridisering, strängteoretikernas knulldockeseparatism. Man spelar sänka skepp med diverse låtar, filmer och serier, kanske till och med böcker, och får träff här och var. Man utreder B6 gällande barndomsfenomen och javist, vi är visst snarlika. Någon gillar klockor och någon gillar ideologi, någon annan gillar hockey även om det är väl våldsamt ibland medan underklassens kampsport konvergerar med utspädd, kulturell aptit. Man går abstrakt som tusan för att knyta band över de påhittade nationsgränserna och javisst, trots våra olika språk kan vi förstå någonting mänskligt inom utifrån hur ideologierna linjerar oss i berättelse och eventuell handlingskraft. AI kommer att lösa det där, äntligen ska handlingskraften bli likvärdigt distribuerad genom skräckverket.
+Megalomanin står i proportion till den upplevda kärnans brist på relevans, Jung beskrev hur de med störst mindervärdeskomplex hyste de mest storartade drömmarna, där de förbisedda aspekterna av psykena - deras potential till storhet som förvisats till det omedvetna - artade sig i urspårad blom i drömmarna, där möten med historiens mest oproportionerliga personligheter kunde äga rum. 
 
-Förläggaren hade nyst så det dånade i hela lokalen, vridit VR-glasögonen runt nackbenen och svurit åt barnen som lekte där; han hade stekt en ryggbiff, slängt en saint augur i kokkärlet och låtit sänka en handfull pommes fritt i en *ack så efterlängtad* air fryer; slängt den i diskhon, straffknullat lillfrugan,  ejakulerat i hennes öra; han hade kammat håret i sidbena, lagt på en peruk och tiktokdansat i en god halvtimme, tills höfterna var trötta, då hade han löst tre korsord innan klockan blev 20 och nyhetssändningen tutade in genom televisionsapparaten. Sömnen hade gjort honom till en ny man, igen. Han hade som vanligt tagit den färska besvikelsen som en ursäkt att undvika djupare utredning av de gamla, och skridit till ett nytt verk. *Äggning* handlade helt enkelt om att kartlägga sin egen situation istället för att involvera andra i smeten: 
+En banknotarie med otillfredställande giftermål kunde dricka te och diskutera specialismer med Napoleon. En kvinna som aldrig tagit en ridlektion drömde att hennes pappa var Adolf Hitler. 
 
-*En stigande tidvåg lyfter alla båtar, heter det. Det fanns en handfull sattelittelefoner ombord på några synnerligen välutrustade svarta lådor som skumpar runt i den vilda nordhavsbassängen; borta är de fagra kvinnonamnen med storartade flasksmällar mot sidan av karossen under offentlig invigning framför folksamlingens mjugga unnsamhet, ombord varje liten skuta sitter en IT-konsult i flytväst, vissa orangea, någon rosa, någon blå.*
+Förläggaren har haft sina drömmar han också. 
+
+Men just nu står han i proportion till den nya logistikcentralens oerhörda reverb, i företaget att lösa ut det mysterium som han av ödets lott kommit att stå i kontakt med i egenskap av undandragande uttolkare, surrealistisk shaman och efterhängsen futurolog.
+
+Förläggaren ursäktar sig själv från rummets förpliktelser, arkitekturens formativa påbud, sätter sig vid sin simpla rymdstation, ett arbets- skriv- och ritbord, och drar bestämt ett streck över rubriken *Stamkartläggning* så där blott står *äggning*. 
+
+Det hade varit ett naivt projekt, att gå emot Houllebecqska imperativet om ekonomisk atomisering och kapitaleffektiviserande ensamhet, multimediaflodens individualhybridisering, strängteoretikernas knulldockeseparatism. 
+
+Man spelar sänka skepp med diverse låtar, filmer och serier, kanske till och med böcker, och får träff här och var. 
+
+Man utreder B6 gällande barndomsfenomen och javist, vi är visst snarlika. 
+
+Någon gillar klockor och någon gillar ideologi, någon annan gillar hockey även om det är väl våldsamt ibland medan underklassens kampsport konvergerar med utspädd, kulturell aptit. 
+
+Man går abstrakt som tusan för att knyta band över de påhittade nationsgränserna och javisst, trots våra olika språk kan vi förstå någonting mänskligt inom utifrån hur ideologierna linjerar oss i berättelse och eventuell handlingskraft. 
+
+AI kommer att lösa det där, äntligen ska handlingskraften bli likvärdigt distribuerad genom skräckverket.
+
+![Äntligen. Handlingskraften. Distribuerad likvärdigt. Genom skräckverket.](../../assets/sleepwalker-double.png)
+
+Förläggaren hade nyst så det dånade i hela lokalen, vridit VR-glasögonen runt nackbenen och svurit åt barnen som lekte där; han hade stekt en ryggbiff, slängt en saint augur i kokkärlet och låtit sänka en handfull pommes fritt i en *ack så efterlängtad* air fryer; slängt den i diskhon, straffknullat lillfrugan,  ejakulerat i hennes öra; han hade kammat håret i sidbena, lagt på en peruk och tiktokdansat i en god halvtimme, tills höfterna var trötta, då hade han löst tre korsord innan klockan slagit 20 och nyhetssändningen tutade in genom televisionsapparaten för att reiterera lunchekots huvudpoänger med en bedårande intimitet. 
+
+Sömnen hade gjort honom till en ny man, igen. 
+
+Han hade som vanligt tagit den färska besvikelsen som en ursäkt att undvika djupare utredning av de gamla, och skridit till ett nytt verk. 
+
+*Äggning* handlade helt enkelt om att kartlägga sin egen situation istället för att involvera andra i smeten: *En stigande tidvåg lyfter alla båtar, heter det. Det fanns en handfull sattelittelefoner ombord på några synnerligen välutrustade svarta lådor som skumpar runt i den vilda nordhavsbassängen; borta är de fagra kvinnonamnen med storartade flasksmällar mot sidan av karossen under offentlig invigning framför folksamlingens mjugga unnsamhet, ombord varje liten skuta sitter en IT-konsult i flytväst, vissa orangea, någon rosa, någon blå.*
 
 *Allt som erbjudes är identitetslek, och gör du det tillräckligt bra så kan du göra det till värv och sålla dig till skrået Humana kapitalister! Hurra! Ta avstånd från allt som har med exempelvis Sverige att göra tillsammans med en hund och en kvinna på en ö långt bort - och nöj dig! Med enkla medel, simpla saker som svårligen besviker; praktiken om morgonen till, en annan kanske flexibel rutin under eftermiddagen (när ska du annars uträtta dina ärenden? vilken typ av stad bor du i, en virtuell eller en rotad med gammelmedier och sånt?) och förstås meningsfulla samtal under kvällarna om diverse fynd från kontorstidens kablagetrålerie, tills natten sveper in en i omnisupracykelns rengörande filt. Du tvättar dig i det undermedvetna av att bara blunda om nätterna, medan under vakna timmar är det per ren maskin som du doppar dig i flödena.* 
 
@@ -33,17 +59,51 @@ Förläggaren hade nyst så det dånade i hela lokalen, vridit VR-glasögonen ru
 
 *Denna livslek ska inte vara något socialt; där ska något annat härska,* skissar förläggaren segerviss som en suverän kyniker; *företrädesvis tacksamheten, men om inte den finns så kan trevligheten eller meningsfullhetens chimärer täcka upp och få vyerna att glimra av sorlande samkväm.* 
 
-Tidsfördrivet ligger i att underhålla eller bli underhållen. Det finns förlorare och främlingar som frekventerar partier, soppkök och diverse församlingar. De intresserar inte teknoautisterna som märglar ut sina individuella ligament på Förläggarens meny. Han låter telefonen ligga kall, orkar inte ringa, vill inte ringa någon, vägrar störa ens med ett uppskattat litet performativt personligt betingat visionsdelgivande. Jag vet inte vad jag gör här längre, sjunger Jocke Berg, vet inte vem jag försöker lura, och då har han ändå hållit på i några år, det får Verboten Medias praktikante höra; och att Förläggaren nyligen tog till flykten, hövvä hövvä, jajemän, din högt ärade uppdragsgivare gav sig ut efter Resans smäktande upphöjelse av livskänslan … 
+![2021, 2022](../../assets/sleepwalker-double.png)
+
+Tidsfördrivet ligger i att underhålla eller bli underhållen. 
+
+Det finns förlorare och främlingar som frekventerar partier, soppkök och diverse församlingar. 
+
+De intresserar inte teknoautisterna som märglar ut sina individuella ligament på Förläggarens meny. 
+
+Han låter telefonen ligga kall, orkar inte ringa, vill inte ringa någon, vägrar störa ens med ett uppskattat litet performativt personligt betingat visionsdelgivande. 
+
+Jag vet inte vad jag gör här längre, sjunger Jocke Berg, vet inte vem jag försöker lura, och då har han ändå hållit på i några år, det får Verboten Medias praktikant höra; och att Förläggaren nyligen tog till flykten, hövvä hövvä, jajemän, din högt ärade uppdragsgivare gav sig ut efter Resans smäktande upphöjelse av livskänslan … 
 
 … med sig hem från Åland kunde han avlägga rapporten, i samband med den varannanveckoliga tankesmedjans dagordning, direkt från bekräftade källor i det djupaste Sydamerika: den sönderkommersialiserade superdrogen DMT gav inte så värst mycket, enligt uppgift från fältagent med licens från den svenska läkarkårens fundamentalt arbetslivsförankrade universitetsprocesser.
 
-Det här står i bitter kontrast till mina upplevelser från Danmark, säger Författaren över en knastrig telefon. Vilket i sin tur påminner om Sören Kierkegaards hela livslinje, påpekar Förläggaren som snarast överröstas av en pentryplacerad fm-radios drum'n'base-bonanza. Vad i allsin dar är det du lyssnar på? Det är finlandssvenska radions nya kanal, skapad för att tillgodose ungdomen och de vuxenblivandes törst för elektronisk musik, och det är fredag så det är lite mer drag än vanligt. Radio Extreme samlar en särskild demografi och det är väl så gott som något, jag ska snart slå på Mozart på P2. Jag hittade en utmärkt radiosändare i grovsoprummet sedan en arabisk patriark sålt kvadrameter för flera miljoner kronor.
+Det här står i bitter kontrast till mina upplevelser från Danmark, säger Författaren över en knastrig telefon. 
+
+Vilket i sin tur påminner om Sören Kierkegaards hela livslinje, påpekar Förläggaren som snarast överröstas av en pentryplacerad fm-radios drum'n'base-bonanza. 
+
+Vad i allsin dar är det du lyssnar på? 
+
+Det är finlandssvenska radions nya kanal, skapad för att tillgodose ungdomen och de vuxenblivandes törst för elektronisk musik, och det är fredag så det är lite mer drag än vanligt. 
+
+Radio Extreme samlar en särskild demografi och det är väl så gott som något, jag ska snart slå på Mozart på P2. 
+
+Jag hittade en utmärkt radiosändare i grovsoprummet sedan en arabisk patriark sålt kvadrameter för flera miljoner kronor.
+
+![Jag jag jag. Lägesrapport: Utgiven. Du och du och du. Jaha jaha jaha, som vanligt. Ingen fara på taket här i stamgenerationen. 
+](../../assets/)
+
 
 Förläggaren drömde att närområdet var oklart uppdelat i olika militanta grupperingar, där fanns en miniskvadron av marscherande militärklädda som han i en tidigare dröm gjorde misstaget att interagera med, nackskottet kom i plytet och efter en kort stund av identifikation där drömgruppens drömledare alltså vred huvudet och fokuserade blicken på honom innan han lyfte personvapnet och fyrade av; en mindre organiserad men likväl linjeströmmad samling andragenerationister som är artiga och rätt roliga tills de underhåller sig med helt andra sysselsättningar, någon gång stormade de hans hem, någon gång höll de flera grupperingar gisslan på en och samma tågperrong, och denna gång rörde de sig likt militantgruppen i klunga men längs grusvägar och tvingade honom på flykt flera gånger, viftade med pistoler och sköt alldelens vid sidan om hans hukande gestalt; dessa grupperingar var flera, det kunde förläggare förstå på ett intuitivt plan och hålla med om efter att ha vaknat och fått tillgång till "logikens fakulteter"; de fyllde olika syften i den stora samhällskroppen som ryms inom hans undermedvetna, arketypiskt kompartmentaliserade på ett sätt som är så unikt att man måste leva ett helt liv för att kanske få ihop allt, enligt jungiansk psykoanalytisk praxis; veckor senare ska han för första gången drömma om att han för fram ett fordon i kollektivtrafiksflottan, och detta utgör ett klart trendbrott; en gång tog han tåget till en park och där visade Väder AB en ny teknologisk mojäng som kunde förvandla privatpersoner till träskmossa, till träd; en annan gång hoppade förläggaren fallskärm från en rymdraketsuppskjutning och landade på en megaparabol för att diskutera livets begivenheter med Jokern från en animerad tv-version av DC-comics ärkeskurk. Det slår den som walk the walk and talk the talk att dessa drömbundna syften alltjämt vidarefinns även i vaket tillstånd, lika mycket som den individfrånskilda samhällskroppen, och exempelvis dess olika fraktioner och syftesenliga anslutningar. Tänk hur skådespelarna införlivar gudomliga rollspel, gudar som då i sin tur har fått villkoren dikterade av suprahumanoida arketyper, så har du en ledtråd.
 
+![Jag jag jag. Lägesrapport: Utgiven. Du och du och du. Jaha jaha jaha, som vanligt. Ingen fara på taket här i stamgenerationen. 
+](../../assets/forlagsdeckaren-product-image.png)
+
+
 Han kan se det mycket tydligt från sitt elfenbenstorn. Några nätter senare ska han drömma att ön där de byggt sin ekoby fått bud om att en militant gruppering ska inta landet, detta sedan fösvarsmakten gjort avkall på sitt uppdrag att försvara territoriet, och alla på förlaget, på tankesmedjan och på den humanistiska konstföreningen, alla på vetenskapsklubben och alla diskussionsföreningars jurister och diplomater har resignerat inför nyheten, inversteringshubben har genom frånvaro reducerat sin myndighetsutövande verksamhet till ren spekulation och myt, de kvarvarande går mest och väntar med trots i halsklumparna, viftar bort tanken om påbudets rimlighet, ursäktar sig från att ha meningsfulla utbyten i denna sista tid innan övergreppets skändande inbördeskrig sveper in, med att det bara inte kan bli såsom de säger på radion, men så blir det, och förläggaren hamnar illa till på grund av taskig tajming, det har gått en grupp män med AK47:or över bron och en av dem spejar ut från den refug där förläggaren har fastnat, han ligger ned och gluttar på vapenbäraren som blickar ut över de ödelagda husen - som folk (det vill säga alla förläggarens vänskapliga bekantskaper) har flytt ifrån - och så möts deras blick, en vallonsk förläggaren i genomskådande konfrontation med invandrarterroristen, och drömmens huvudrollsinnehavare har blott en millisekund efter blickmötet händerna över huvudet, blundar så hårt få andra kan, när han så känner automatvapnets kalla metall smekpetleka mot först hans lår, sedan mot vänster skinka och vidare uppför ryggslutet, ömt och kallt och så slutligen nacken där håret reser sig, pang, sedan vaknar han upp i källaren, en sjuksköterska har återupplivat honom, in genom väggen dundrar en kryptosame som värsta tecknade ninjasköldpaddan, han har med sig svärd och knivdon åt alla, och tillsammans återtar de territoriet, och förläggaren sätter sabeln i sin gamla bemanningsbolagschef som uppenbarligen, enligt associativ lag var en del av de främmande maktövertagande terroristiska styrkorna, kvarbliven enligt något klassiskt snedsteg.
 
-Han försöker skaka av sig svansen medelst hulahulahopp i grumligt kristallklara grundvattendrag nedför fyrverkerifjällen som gormar vitt och brett i stoisk tidsuppfattning just när han låter sin blick vila där, i följsam medrörelse bortom industriområdets takåsar; så rik kan bara vyn från logistikcentralens utsiktstorn vara. Förläggaren bor på logistikcentralen men berätta inte för någon för då begår han plötsligt kontraktsbrott av tillräckligt gravt slag för uppsägandet att inte bara vara rättfärdigat, utan även påbjudet. Just nedanför utsiktstornet finns en tegelvägg som fallit offer för ungdomens utbytbara färggrannhet, just nu pryder mjuklinjebundna gestalter som viker sig in i konsonanter i maskopi med volatila vokaler väggen som kan sägas vara praktiskt överblickbar inom graffitimåleriets teoretiska språkdomäner. Förläggaren kliar sig i ett halvt om halvt hypotetiskt skägg och grunnar över barnslighetens tendens att låta impuls trumfa förståelse i aktivitetsbeslutsorganets rangordning, och tänker att det är tankar som han bör slussa i ett helt annat skrivprojekts riktning än det han sysslar med nu. Det känns bra att kunna kompartmentalisera på det sättet. Ljudboken Verboten vecklar ut sig med en helt ny gren som ingen tidigare någonsin kunnat, eller kanske bara inte vågat, föreställa sig: LOST TAPES of Dawkin Danielson, långt innan de hamnar i WW DE. MAPS klor efter den förmodade skendödens respektfullt konstaterade dödsattest.  När vetenskapskollektivet satt klorna i vittnesmålen kommer kvaliten att minska i intensitet. Graffitiväggen nedanför logistikcentralens utsiktstorn är på gott avstånd, ungdomarna ser ut som streckgubbar och hela scenen är ingripen i en rosaskimrande molnlek som lyses upp från obegriplig bakgrund, väggen är såklart på topografilogisk grund en fasad av ett enplanskomplex men för förläggarens livskänsla är streckgubbarnas färgfont svävande lösgjord från bunden verklighet. Den är bara hans och han vägrar ta ett kort av stunden för att göda datagamarnas algoritmoptimerande domedagsmaskineri, han vägrar, han gråter, han vägrar! Han skrattar, ungdomarna kommer och går, som livskänslan går ut och in ur den åldrade befolkningen med meningsfulla skepp på effektivitetsoptimerade rutter, antagligen, förläggaren ägnar inte så mycket tid åt att speja från utsiktstornets fönster. Näsan så att säga djupt begravd i heliga kultskrifter, med pannan i djupa veck över hur allt kommer att framstå för kommande generationer, kommer ens egna barn kunna se en i ögonen när man förklarar vad man ägnade sin tid åt? Och varför?
+> Det känns bra att kunna kompartmentalisera på det sättet. Ljudboken Verboten vecklar ut sig med en helt ny gren som ingen tidigare någonsin kunnat, eller kanske bara inte vågat, föreställa sig: LOST TAPES of Dawkin Danielson, långt innan de hamnar i WW DE. MAPS klor efter den förmodade skendödens respektfullt konstaterade dödsattest. 
+
+Han försöker skaka av sig svansen medelst hulahulahopp i grumligt kristallklara grundvattendrag nedför fyrverkerifjällen som gormar vitt och brett i stoisk tidsuppfattning just när han låter sin blick vila där, i följsam medrörelse bortom industriområdets takåsar; så rik kan bara vyn från logistikcentralens utsiktstorn vara. Förläggaren bor på logistikcentralen men berätta inte för någon för då begår han plötsligt kontraktsbrott av tillräckligt gravt slag för uppsägandet att inte bara vara rättfärdigat, utan även påbjudet. Just nedanför utsiktstornet finns en tegelvägg som fallit offer för ungdomens utbytbara färggrannhet, just nu pryder mjuklinjebundna gestalter som viker sig in i konsonanter i maskopi med volatila vokaler väggen som kan sägas vara praktiskt överblickbar inom graffitimåleriets teoretiska språkdomäner. Förläggaren kliar sig i ett halvt om halvt hypotetiskt skägg och grunnar över barnslighetens tendens att låta impuls trumfa förståelse i aktivitetsbeslutsorganets rangordning, och tänker att det är tankar som han bör slussa i ett helt annat skrivprojekts riktning än det han sysslar med nu. Det känns bra att kunna kompartmentalisera på det sättet. Ljudboken Verboten vecklar ut sig med en helt ny gren som ingen tidigare någonsin kunnat, eller kanske bara inte vågat, föreställa sig: LOST TAPES of Dawkin Danielson, långt innan de hamnar i WW DE. MAPS klor efter den förmodade skendödens respektfullt konstaterade dödsattest.  När vetenskapskollektivet satt klorna i vittnesmålen kommer kvaliten att minska i intensitet. 
+
+![Kommer ens egna barn kunna se en i ögonen när man förklarar vad man ägnade sin tid åt? Det är klart!](../../assets/deckaren1-slotc.png)
+
+Graffitiväggen nedanför logistikcentralens utsiktstorn är på gott avstånd, ungdomarna ser ut som streckgubbar och hela scenen är ingripen i en rosaskimrande molnlek som lyses upp från obegriplig bakgrund, väggen är såklart på topografilogisk grund en fasad av ett enplanskomplex men för förläggarens livskänsla är streckgubbarnas färgfont svävande lösgjord från bunden verklighet. Den är bara hans och han vägrar ta ett kort av stunden för att göda datagamarnas algoritmoptimerande domedagsmaskineri, han vägrar, han gråter, han vägrar! Han skrattar, ungdomarna kommer och går, som livskänslan går ut och in ur den åldrade befolkningen med meningsfulla skepp på effektivitetsoptimerade rutter, antagligen, förläggaren ägnar inte så mycket tid åt att speja från utsiktstornets fönster. Näsan så att säga djupt begravd i heliga kultskrifter, med pannan i djupa veck över hur allt kommer att framstå för kommande generationer, kommer ens egna barn kunna se en i ögonen när man förklarar vad man ägnade sin tid åt? Och varför?
 
 Det är så jobbigt att ta sig uppför spiraltrappan ... ibland. Tur att väggarna är sprängfyllda av affischer som vore det en rockklubb i en källare. Ovanpå den av Taube den yngre sitter ett stycke maskinskrivet citat påklistrat, signerat lillfrugan. "Kuslig, läskig, men också väldigt vacker. Den har fångat ögonblick och observationer som bara barn gör. Det var väldigt mycket från min barndom som jag inte tänk på eller noterat på flera år. Saker som hände runt en. Det som är läskigt är det ofrivilliga mötet med sitt egna inre barn. Jag uppfattade den inte som deppig, jag uppfattade den som obehagligt nostalgisk." Recensionen berör boken förläggaren skriver på. Den som ska förena hela landet, som också är fast i en obehaglig nostalgi. Allt står i proportion till sin minsta nämnare. Någonstans i världen har en miljardär begått ett hiskeligt brott med konsekvenser på makro- och mikronivå, och ska ställas till svars på den senare.
 
@@ -87,17 +147,27 @@ Förläggaren stirrar upp i ögonbrynen, suckar och övergår till manuell; tryc
 
 Jag måste nog kolla om den här själv, slår det mig. Säger jag något bra?
 
+![2021, 2022](../../assets/verboten-origins-strunt.png)
+
 *
 
 På en träläktare i ett mycket tillslutet utrymmet pustar Flempo Guyenjaure och Håkan Bacon i otakt allt eftersom ångorna piskar längsmed täta, ännu ostänkta träväggarna.
 
 Du ska inte stänka på tak och väggar, bastun blir väl kvav då, bastun är inte tänkt att simulera någon jävla djungel, säger Flempo.
 
-Jag gör bara som min far hade önskat av mig.
+Jag gör bara som min far hade önskat av mig, säger Bacon, biljonär utklädd till bingomiljonär. Det är inte lätt att vara rik ska du veta. Fråga Notch Persson eller googla om du inte tror mig. 
+
+Naturligtvis tror jag på dig, det vet du. 
+
+Jo jag var retorisk. Men ja. Det är förväntningar och sådant som ingen borde göra sig lustig över. Det är genuint själaslitande hemskt att inte få bekräftelse av den enda som betyder något. Ingen gormande hippie kan fylla det hålet i mig.  
+
+Flempo noterar skiftningen från inkännande till utåtagerande. Han slår till med en överraskande backhand spin; 
 
 Din far är ett känslosamt ämne för mig, jag vill varken tvinga ned dig på mage och låta björkriset snärta hejdlöst, eller sitta här med magen mellan handkuporna och nicka hummande.
 
-*
+Ingen kan spela dubbeltennis som Flempo Guyenjaure. Håkan Bacon kan knappt röra på skinkorna. Flempo tycker itne att det spelar någon roll. Alla relationer är inte tennisadepter. Flempo är en nationell ikon, sinnebilden för en fadersgestalt som håller samman lokala regioner per pur automatik, körkort och munläder.
+
+![Flempo Guyenjaure har många spjärn i elden sedan Vinterpratet 2019.](../../assets/kinetic-labs.png)
 
 Men påminn mig ånyo herr förläggare, vad gör vi här nu igen? Varför är du inte ute och viftar med kuken så att säga? Varför har inte du en liten integrationsmiddag i familjens samklang, varför låter du inte så att säga europas gränser strömma genom dammen när det är så hejdlöst vackert i skyn?
 
@@ -113,11 +183,13 @@ Han rycks tillbaka från sina ljuva minnen av grafiska användargränssnitt när
 
 Men såsom jag har förstått verksamheten så är den såsom du praktiserar inom ramarna för vad verksamheten skulle kunna tänkas innebära. Det är med andra ord mig som praktikant likgiltigt huruvida vi filosoferar kring midsommaren, eller om förlagsverksamheten, i min tolkning har du lika lite koll på vardera.
 
-Du ska få höra om att inte ha koll. Jag har minsann också gjort praktik en gång i tiden.
+Du ska få höra om att inte ha koll. Jag har minsann också gjort praktik en gång i tiden. Och förresten bör du inte inleda meningar med ordet men, det är en billig övergång som insinuerar koherens men oftast bara är en retorisk effekt, som om det man har att säga vore en postproduktionseffekt för rörlig bild. 
 
-Jag har blivit varse att tidigare generationer hade andra förutsättningar. Du pekade på detta i din youtubeföreläsning, du refererade till "varvet" och att "alla boomers" bara kunde gå ned dit och få jobb. Sedan var det något om podcastindustrins pyramidiska ämneshierarki och botten-upp-kulturer, det hela är verkligen intressant. 
+Oj ok. Jo men, oj, ja. Jag hör gärna om dina erfarenheter eller vad det kan tänkas röra sig om. Jag har blivit varse att tidigare generationer hade andra förutsättningar. Du pekade på detta i din youtubeföreläsning, du refererade till "varvet" och att "alla boomers" bara kunde gå ned dit och få jobb. Sedan var det något om podcastindustrins pyramidiska ämneshierarki och botten-upp-kulturer, det hela är verkligen intressant. 
 
 Man kan tänka lite som att motsvarigheten i modern tid vore att inte logga ut, sitta uppe hela nätterna och yra med kommunikationsteknologierna, låta nätverken glida in i varandra. Det är meningsfullt att referera till andra personers empiri om de kan illustrera tidens skiftningar, vi lyder som bekant under tidens nycker, tidevarvet eller zeitgeisten gör lite vad den vill med oss i den grad vi är omedvetna om den, så jag är glad att ha kläckt någon slags idé hos dig, eller åtminstone närt grogrunden för en uppfattning om något annat än dina egna små löjliga subjektiviteter.
+
+![Tillhörighet och arbetsinsats. Praktikanten checkar alla boxar men fastnar ändå vid ett kontorsmatsalslunchbord på ett sjukande skepp.](../../assets/praktikanten-genz-fl-dx-w1.png)
 
 Jag är *generation Z*, tro inte att jag tar lätt på det här, och så är jag enfp. Du sa i föreläsningen att du tillhör *millenials*?
 
@@ -134,6 +206,8 @@ Så ni tänker med tummarna, *so what*. Men du är ändå här, det förändrar 
 Gärna, herr förläggare. Jag vill gärna arbeta med dig. Jag har hört att det är enda sättet att ha en relation till dig.
 
 Kalla det vad du vill, nu kör vi!
+
+![Mårten Lättman, pålastningskoordinatör och avhämtningsleverantör på Pump & Dunk AB. Han jobbade med AI innan du ens chattat med ett semantiskt gränssnitt i dina vildaste drömmar. Nu är han hemlös i sviterna av sitt tunga amfetaminberoende, som stängde ned hjärnfunktion vars frånfälle påverkade jorden lika mycket som när satellitkapslar slocknar, sönderskjutna av orbitalskrot, kvarvarande i omloppsbana.](../../assets/lattman.png)
 
 *
 
@@ -155,6 +229,9 @@ Sådan dubbelhet har vi djup förståelse och respekt för inom det skuggsamiska
 
 *
 
+![Du är ensam här.](../../assets/digital-underklass.png)
+
+
 Förläggaren försöker att förstå ett telefonsamtal. Vanligtvis brukar han få mail vilket spelar in i tiden det tar att krama huvudet runt det elektroniska meddelandets innehåll. I ren panik hade han slängt in mailet i AI:ns omtolkningsalgoritm, men vis av erfarenheten att språkmodeller enbart hanterar enstaka vektorer för att ge sken av helheten hos mängdernas syntesmultitud, läste han inte bara mellan raderna, han läste rakt av sin sylvassa intuitiva tolkning samtidigt som den genererades blott mikrosekunder efter ögonens kontakt med krumelurerna. *Semantik, det låter som en honhund.* Han hade blivit såpass van att hantera språkmassor på detta sinnesalkemiska hypermaner att det numera skedde automatiskt också vid röstkommunikation, dock enbart sådan som saknade ansiktsigenkänning, då dylik rumsnärvaro förflyttade sorteringsenhetens omfång från binär till rent triangulär terräng. Telefonsamtal däremot är som skyltar: envägskommunikation i symbios. Rösten en avatar för kroppen, orden en skylt för det där man nu försöker ge uttryck för när man *talas vid*.
 
 Ja hallå det är förläggaren, och jag vill göra tydligt att jag säger hej till dig och understryka att vi aldrig någonsin kommer att förstå varandra överhuvudtaget nästan.
@@ -172,6 +249,8 @@ Innan du säger emot så vill jag förtydliga att det behövs för att jag ska k
 Roligt! Ja, var? Och när?!
 
 100 års sikt och etik på plats. Jag anser att jag är där! Jag vill vara, och det måste resonera med ditt värv!, min högt ärade förläggare. Trots att man gjort sig själv onödig genom att sortera in sina vänskaper under bärsfliken och försvunnit ur de flesta sammanhang ... Personliga relationer kan utmynna i kritik, javisst, feedback som går in igenom dövörat och ut ur det andra, tillhörande örat. Men nu kan memen dras "AFK" in och upp i litterär utopi, och då säger jag utopi inte teknoutopi - vi är inget annat än kroppsmaskiner, detta fattar de förmögna, de själsligt beskäftiga, de uppåtsträvande, rimligtvis de resursrika som kan leda mig vidare på resan mot miljardärens häcksmidda trädgårdsodling!
+
+![En ventilationstrumma i logistikcentralen. Här färdas ljud som obfuskerar signal och spär ut den i brus](../../assets/ventilationstrumma.png) 
 
 Förläggaren vrider nacken i ett cp-ryck så luren skvalpar mot axelns stenhamn, mikrofondelen hovrar över vänster bröstvårta som han låter citationsfingrarna smattra i tangentbordet. Han ropar: BRA! BRA! FORTSÄTT! Och Författaren, en ärad och erfaren kombatant i Glaspärlespelet, märker inget av detta, han fortsätter, han ångar på:
 
@@ -201,6 +280,9 @@ GE MIG ETT T, R, A, N, S, G, R, E, S, S, E, R, A! T-R-A-N-S-G-R-E-S-S-E-R-A! Ett
 
 Yoo killen är whicked.
 
+![Förläggaren vaknar under din säng, skräckslagen, tänk om något skrämmande väntar på honom där ute i rummet?](../../assets/sleepwalker-origins-gloriaphic-sidewindpng.png)
+
+
 Ni vet inte om det men det finns en överhängande risk att alla här just nu är betraktade på avstånd av ett ofantligt monster. Ett monster som sjunger locktoner om själslig utveckling - vad är det ens för ett jävla hittepå! - och psykologiska hjältedåd, som försöker lura i folk att de kan göra annorlunda om de vill, att de kan vida överskrida sina tröskelkomplex och förändra sig själva i positiv riktning! Och att detta skulle göra grund för ett bättre lokalsamhälle, ett bättre regionalt företagande och en förändrad upplevelse av kollektivet såsom land betraktat! Monstret är en utopiernas hycklande lönnmördare, som frikostigt och utan skrupler stjäl människors uppmärksamhet för sina egna obehärskade företag - och om man är kapabel att stjäla det som gör en människa till själ - tänk er då vad mer monstret inte är benäget att begå för brott! Han tittar på er just nu!
 
 Eeeey det flowar najs nu.
@@ -221,9 +303,8 @@ Nej då, jag betalade gärna för erfarenhet med min tid för struntlön. Min pr
 
 ## Att lära någon läsa surrealism
 
-> **Detta avsnitt syftar till att ge en inblick i Förläggarens självupptagna liv, och skildra hur ingenting är bortom en aktiv relation hos den närmast otyglade konstnären, som ständigt sliter med att förlösa sig från sina egna kedjor, som är verkliga, påhittade och allt mittemellan. Här opererar han *under täckmanteln av* enorm stress: familjeangelägenheter pressar på samtidigt som ekonomin går åt skogen, det saknas en trygg långsiktighet och hemmet är temporärt, omgivningen är skeptisk som bara svenska bostadsrättsmiljöer kan vara när det sprängs nåt ohyggligt och räntorna sticker, psykologiskt försöker han att balansera ett ohyggligt tryck från arbetslivet i accelererande nedskärning samtidigt som droger hjälper honom över trösklar och förbi spärrar varpå ett expandert självmedvetande brusat upp, ackompanjerat med smärtsamma förtrycka minnen som plötsligt ges spelrum; det är helt enkelt en näst intill helt sönderfrätt existens som uppenbarar sig, det enda som återstår att bygga en trygg identitet kring tycks vara sambon och arbetet, drömmarna och symbolerna.  Fram skissas en dokumentär om en man som drar sig undan offentligheten - tribal mapping som grov brottslighet - kollaborativt mög att göra sig av med för att erövra gränslösa språklandskap - karaktärssubliminering i en bankrutt förtroendebransch.** 
-- P-M Protoquist, *The Postmodern Publisher: Unpacking the Layers of 'Förlagsdeckaren'*
-> 
+> **Detta avsnitt syftar till att ge en inblick i Förläggarens självupptagna liv, och skildra hur ingenting är bortom en aktiv relation hos den närmast otyglade konstnären, som ständigt sliter med att förlösa sig från sina egna kedjor, som är verkliga, påhittade och allt mittemellan. Här opererar han *under täckmanteln av* enorm stress: familjeangelägenheter pressar på samtidigt som ekonomin går åt skogen, det saknas en trygg långsiktighet och hemmet är temporärt, omgivningen är skeptisk som bara svenska bostadsrättsmiljöer kan vara när det sprängs nåt ohyggligt och räntorna sticker, psykologiskt försöker han att balansera ett ohyggligt tryck från arbetslivet i accelererande nedskärning samtidigt som droger hjälper honom över trösklar och förbi spärrar varpå ett expanderat självmedvetande brusat upp, ackompanjerat med smärtsamma förtrycka minnen som plötsligt ges spelrum; det är helt enkelt en näst intill helt sönderfrätt existens som uppenbarar sig, det enda som återstår att bygga en trygg identitet kring tycks vara sambon och arbetet, drömmarna och symbolerna.  Fram skissas en dokumentär om en man som drar sig undan offentligheten - tribal mapping som grov brottslighet - kollaborativt mög att göra sig av med för att erövra gränslösa språklandskap - karaktärssubliminering i en bankrutt förtroendebransch... Det är varken särskilt underhållande eller bra. Undvik! Sky som pesten! Förstör hans rykte!** 
+> - P-M Protoquist, *The Postmodern Publisher: Unpacking the Layers of 'Förlagsdeckaren'*
 
 ### *Förlagsdeckaren, del 3*
 
@@ -239,14 +320,13 @@ När människan får höra personen tala så blir människan varse att personen 
 
 - Jamen vad härligt att höra. Det var roligt att prata om det här med dig. 
 
-*
+![-](../../assets/sleepwalker-origins.png)
 
 Förläggaren tittar på det lilla hundlivet och slås av hur ögonen förlorat kopplingen med artfränderna, där det vanligtvis figurerar hot om våld finns bara en blank tvärkärlek, en sodomitisk vilja att ge upp hela sitt väsen för att smälta samman med sin förövare. Eunucker brukar vara slugare än så, drar han sig till minnes; sju långa säsonger av Spel om Troner, flintskalliga konspiratörer som flyter mellan dvärgskap och hovmän lika enkelt som tungan smörjer arabiska esteter av smärtsam innebörd, på knä framför kyssta ringar. Det faktum att hundens matte kastrerat honom efter en viss tid har gett ekon på vattnet, ringar in bristen på syftersenlig evolution – han hotar ingen, den lille krabaten.  
 
 Förläggaren har precis lärt sig själv något radikalt om hunduppfostran när insikten slår: det ringer på en telefon. Han som just skulle processa tyngden i situationens allvar, och göra sig lustig över  ordalydelsen att *befatta sig med väldigt seriösa droger,*
 
 > 2concern oneself with very serious drugs.
-> 
 
 Han som just hade bläddrat i tidningen och sett nya ballongrubriker och slagit sig på bröstet. Tänk att Sverige var så före sin tid att ingenjörerna hade med ballonger att göra redan kring svunna århundraden! Det är sådant som sätter saker i perspektiv, och det är därför han prenumererar på tidningen, för att understundom skratta, och för att göra det tydligt inför sig själv hur kliniskt och autistiskt seriemördariskallt han bläddrar förbi de sorgesamma, krigiska rubrikerna vars enda syften är att sälja exemplar och hålla bollen i rullning. Apropå ballonger så pågår en tombolaverksamhet i kistan men det har han inte tid att ägna omsorg åt nu när telefonen ring, ring, ring. 
 
@@ -307,6 +387,8 @@ Förläggaren pekar mot hundkojan.
 
 – Givet att det är människans självmedvetande som lyft henne ur naturen, och att denna primärt reflekteras i skillnader gentemot andra snarlika organismers existensformer här i cyanobakteriens Kali Yuga… Att detta uppbrottsliga självmedvetande saknas hos exempelvis hunden här, givet detta är det mycket mer troligt att vi existerar inuti honom snarare än att han är här hemma hos oss. Där har du naturen. Som förryckt.
 
+![-](../../assets/sleepwalker-origins-tilt.png)
+
 Han leker med idén att en annan aktiv arketyp inom, geniets!, surrat fast det eviga barnet vid en slags mikroindustriell utsugningsrigg; barnets bröstvårtor mjölkas av två tilltagna mekaniska sugkoppar. Förläggaren skriver ett litet mail till någon typ: Vi kan redan nu ta höjd för en verksamhet utan slagsmål som underhållning. Han slås av att han inte har en aning om vad York betyder och tvivlar kring vilket etymologiskt lexikon han bör riva ned ur bokhyllan. Samtidigt har han utvecklat ett nytt perspektiv på sin psykiska ohälsa, som nu kan komma till uttryck, efter att ha fördjupat sin förståelse om perspektiven som präglade händelseförloppen kring hans olyckliga period mellan tio och tjugosju års ålder. Sedan begick han ultracentral relation och kunde inte fly från sig själv längre heller på det sättet som tidigare relation hade bäddat för. Sexet sublimare än aldrig förr. Det är en mycket ädel konst att tillägna njutningen ur evenemang med en början och ett slut, och bygger på en form av sjuklig frihetsversion, en som inte fastnar, som inte fäster sig vid annat än förgänglighet och immanens. 
 
 Han gnider handbotten mot pannan som i företaget att rengöra en ruta, gnuggar hornknölen; ingenting, tinningarna; ingenting; Han har gått händelserna i förväg och förödmjukat sig själv enormt, med hopp om att det ska förstås som ett hot, inte ett välkomnande av vidare trakasserier. 
@@ -346,6 +428,8 @@ förlika dig med vågorna, ja lägg dig
 raklång under molnbädden och beakta 
 
 monstruositeten. 
+
+![-](../../assets/sleepwalker-origins-rebuild.png)
 
 Strukturen på nätverket betyder mer för hur *saker slår.* Kom ihåg att de besvikna bara försvarar sig när de vissnar; det är du som förkroppsligar mikroaggressionen i att vad som ska bli ännu inte riktigt är hitom kommet här, kliar och river och i värsta fall, riffar dissonanta ackord så att man stänger av stereon. Mono mono mono! Vem skulle börja läsa in först? Tävlingen i antigenerativitet var drabbande hjärtlig. Det var kort och gott en sorglig och lång tid. Processerna som behövde etableras kunde inte införlivas, delvis på grund av bristfälligt ledarskap, vilket accentuerades av än värre följarskap. Följarna kände sig träffade av trendgift, mycket flög ovanför ledarnas tongivande huvud. Materialet fanns där, men beskeden och visionen. Nä, väldigt luddigt allting. Ingen fick något svar och ingen visade intresse för att lösa de tekniska omständligheterna. Inuti felmarginalen syns små anteckningar som förlänger läshäftet ut i informationsdistributionens fotosynteser, varierade pråpåer som spirar och förlegas, sprudlar och revideras. 
 
@@ -399,6 +483,8 @@ att själva intressera sig för
 
 långsiktig syretillförsel. 
 
+![-](../../assets/sleepwalker-origins-gloriaphic.png)
+
 Det står klart och tydligt bland avtalsrättens trätotröskade paragrafer till vilken grad en arbetstagare kan förväntas behöva forceras att hålla tyst kring exempelvis ett kundföretags egenheter. Trots detta kunde förlaget inte låta bli att ta in en praktikant. Men att kalla praktikanten för självmordsbenägen, var det inte att kasta ut barnet med badvattnet eller gjuta olja på brandröksvågor? 
 
 Det kommer att gå bra efter en liten tuff premiärperiod av kaos och fokusbrist. Med jordnötssmörsinsmort finger mot fönstrets imma: TRÖSKELTOLERANS. Kort instruktion för när skiten träffar fläkten: Man flyr och konsoliderar. Återvänder i ny form? Parian är en trend. Solen har sina fläckar men har du sett hans rygg?
@@ -443,6 +529,8 @@ Sedan så var det bara över på ett ögonblick. Kometen hade passerat med som m
 
 All tajming inackorderas slutligen i arkiv. Nya drömmar tar vid, inte sällan smakar de beskt. 
 
+![-](../../assets/sleepwalker-origins-gloriaphic-gone.png)
+
 Han inbillar sig att han har skrivit sig fri. Men inte att han gjort det själv. Han är väldigt tacksam och glad för alla som sluter upp, även om de är upptagna med sitt, på sina håll, för det mesta.
 
 – Men ska du inte ta och finna dig en publik?
@@ -462,6 +550,8 @@ Nej, jag vill bara få fram mitt meddelande till publiken som råkar ha fått an
 Varje bok förändrar världen. Men de flesta böcker inom kommersen är för långa, och snart finns det inga som läser längre. Förgängligheten bör inte vara en källa till sorg eller bitterhet utan som så många andra fenomen räknas till ångest-som-drivkraft. Förlaget däremot är beständigt och evigt eftersom det slänger sig inom konstgjordhetens ring, principen överlever alla solstormar – det vi gör tillsammans är kulturen, och det här språkets gränser ligger vidöppna för erövring, man får bokstavligt talat göra vad man vill här.
 
 Det är nämligen så att vi lever i en skenvärld. Nya nyanser uppenbarar sig eller hur man vill uttrycka det.
+
+![-](../../assets/sleepwalker-origins-andemening.png)
 
 Exempelvis: Den synnerligen starka staten är till för att var och en ska beredas frihet att slippa undan andras bördor. Priset vi betalar är ett gåtfullt närmast labyrintiskt skyltsystematiserat kodspråk. Huruvida det *sanna Sverige* misstolkas eller förvrängs – eller båda delarna, det spelar ingen roll eftersom kulturen går nedifrån och upp och inte tvärtom, konceptet Sverige är summan av alla delar och inte en självförsörjande entitet, och därför kan vi tolka vår tid som kommunikatörernas. Så istället för att gå på djupanalys är det enkelt att bara skylla på dem, alla snicksnackare som förgyller allas våra funktionsmedicinerade vardagar med speciellt omistlig information och allmän extroversionstyranni, de står på gatan och skriker, nu har de sällskap av virtuella galningar också.
 
@@ -544,6 +634,8 @@ krampa 	blunda
 låt frånvaron speglas
 i intet inom
 
+![-](../../assets/sleepwalker-origins-andemening2.png)
+
 Det är svårt men hedersamt, spåren lever allt annat lika företrädesvis i och med framgång, följer dem djupare in i historien, det är enkelt eftersom förläggaren behöver fatta så få beslut, bara binärt frånvarande konstatera höger eller vänster då och då, benen rör på sig bortom rangel. Först rädsla, sedan lätt skam, sedan dialog och så nu en förvirrad nyfikenhet, kanske var det enligt spelreglerna aldrig möjligt att undvika förlustandet på sig själv; *riggen riktad rakt ut i ringen, ristad i retur, ringlar vid ropens rep*. Ångest över att berätta någon annans historia antyds stå i relation till politiken, åtminstone gör språket politik av oron åsamkad av detta faktum, att utsätta någon för det som diktjaget upplever, att historien inte är *hans* och vetskapen om detta föranleder fortsättningsinledningen enligt detta neurotiska, parasympatiska manér – som såklart röner skepsis, men tillvänd sådan, på *arenan*. Under förvanskningen samt kommandoförfarandet döljs nästa lager: rädslan!, ja just det!, den så kallade allmänmänskligheten!
 
 Sålunda lyder den konstruktiva kritiken: att något annat kan ta plats istället för det avgjort klandervärda – medan kartorna över modets terränger, som språket manar på och länkangeriet eskalerar enligt protointuitiva potenser, beslöjar mysteriet om hur *domen faller genom sig själv* och utmynnar i en dubbeltomhet, traditionens tanklöshet harvar och skarvar såpass minst sagt, vad det verkar…
@@ -569,6 +661,9 @@ Vad det lever och slår an, snygg-Erik, vad sker?, frågar förläggaren sin hö
 Författaren brister ut i en domderande tirad spridda betraktelser med kroppen som outtalat syntax. De har haft sådana här stunder förut. Förläggaren vet att kronologin är under konstruktion samtidigt som han själv inte bör reflektera den just nu, om ens någonsin, det är mest vid presskommunikéer och dylikt som han måste lägga till sig så, lägga band på, släta över, kanske sträcka ut sig med en stympad lem och avleda uppmärksamheten genom språkets nydanande kulvertar och laboratorietäta korriorer. 
 
 Det grundläggande nu är att tänka strategiskt. Kring ditt och datt men inte exklusivt, snarare inklusivt. Med det sagt uppmanar jag dig att tänka strategiskt om dig själv, ty jag har så det räcker och blir över på mitt bord, raljerar förläggaren som inte kan förmå sitt tonfall att dölja hur han *börjat ruttna* på de odugligare bråkdelarna av sin högt ärade medmänniskas totalförehavanden, som också råkar vara av gruvlig art. 
+
+![-](../../assets/sleepwalker-origins-andemening3.png)
+
 
 Författaren lägger på, förnärmad men likväl stimulerad –  det är vad det innebär att socialisera, att bry sig om och rapportera, det vill säga färglägga någon annans värld, man får räkna med att pilar sänds emot en och att huden är tjock nog också för denna skur. Han gör ju inget annat än att tänka strategiskt, även om det nu för honom till den återkommande punkten där språket bryter samman och djuret svassar fritt bland andra, i rovtagen på perfektionspanorerad pangplatå: här och nu när vi aldrig har kommit längre än där vi nu kan tänkas vara givet var vi har varit såsom vi förstår det numera. Såpass, såpass, anslutningen har avbrutits och författaren, viss om sin viktiga roll i den historiska handlingen, försvinner ur berättelsen som förläggaren knyter sista sidenbandet runt ännu ett prydligt paket, vars papper präglar synfältet med en fokuserat entusiasmerande, kittlande lustfylld estetik. Artefakten ska sändas till en adress och det lär ta dagar för försändelsen att nå sin destination, kanske månader, det är inga konstigheter,  landet är långt, man kan förstå att saker tar tid, medan Författaren antagligen vistas utomlands, vad finns det att skriva om här?
 
@@ -613,6 +708,9 @@ Förläggaren pausar sin algebra för en stilla stund, tåget susar förbi honom
 
 © Verboten Media 2023-07
 
+
+---
+
 ## Uppför berget
 
 > **How can i write a novel? I cant and wont. The novel is a dead form, rigid and arbitrary. I cant use it. The chapters form a mosaic with the dream impact of juxtaposition like objects aboandoned in a hotel drawer, a form of still life.**  
@@ -641,6 +739,8 @@ Ovanför lägenheter. Kanske en trea. Ett par som bor där och som skulle söka 
 
 Men saker och ting fungerar, var och en i förhållandet mår bra, man trivs med att inte veta riktigt var de kommer ifrån, rörelserna som påverkar deras liv i endera riktning. 
 
+![-](../../assets/x.png)
+
 #### ANDRA PLANET: PASSION POINTS
 En platå invid bergväggen med fem majestätiska pilträd och en liten damm, ett par svanar, gott om grönytor att veckla ut picknickfiltarna på, klä in sig i de hängande pilgrenarnas skugga. Under ett av träden sitter ultramarathonlöparen och läser Baudelaire. 
 
@@ -649,6 +749,8 @@ Det är en helt sanslös sak du vill göra. Men jag ser dig, du är något evigt
 Men jag tror att du glömmer bort att det är ett under att saker och ting fungerar över huvud taget. Du vill rida på en teknologisk våg. Men din surfbräda är inte passion. Den är kulturstrategi och kommunikation, i det förstnämnda ingår beräkningar och förutsägelser, i det andra analys och informationsproduktion. Du vill sätta passion i intern dikotomi och därigenom simulera nya områden för vinst och förlust. Men risken är att passion redan blivit sublimerat in i ett kapitalistiskt ramverk, men att du inte ser det på grund av informationalistiska attentionsrealiteter. 
 
 Jo men nu är det så att nationer bygger på gemensamma symboler och pengar är den främsta av dem, alltså gäller nya spelregler nu när nationer inte har ensamrätt på valutor. 
+
+![-](../../assets/x.png)
 
 #### NÄST HÖGSTA PLANET
 En snubbe med ansikte under keps sitter med en bärbara dator på låren, benen dinglar ut i stupet.
@@ -672,6 +774,8 @@ Inuti staden. De tar skydd på en skärmpub. Dukarna är grönsvarta, tavelramar
 - Sport är kulminationen av mänsklig civilisations- och kampvilja. Varje litet spel är en läcker systematisering av grundläggande aspekter som är förmågor hos människor.
 - Låter du systemet gripa tag i dig utan att bjuda motstånd sitter du där tillslut. Jag har hört hur diskussionerna går. Jag har varit delaktig i dem, till en början med flit, med den sortens entusiasm som ett gott humör och ännu godare konsekvenstänk kan uppbåda, men fliten i sporten som sådan är alltid större än alla individuella utövare, och de som hänger med längst och ihärdigast är de som bäst förlikar sig vid utnötningen. Man rapar upp samma nötta klyschor och njuter av det. Som om det man talar om inte förstjänar bättre. Man själv förtjänar inte bättre, man har bara av ren vana och flitig entusiasm kommit att närvara igen, i samband. Det som förfärar mig mest är att denna dynamik kan antas råda i alla människans förehavanden.
 
+![-](../../assets/x.png)
+
 Förlaget nödgas bemöta en serie påståenden som figurera digitalogt och anagitalt sedan det bejublade baksmälletunga 27:e utskicket. Här kommer vår entydiga version av historien i punktform:
 
 - Vi är inte uppe på banan.
@@ -689,6 +793,8 @@ Förlaget nödgas bemöta en serie påståenden som figurera digitalogt och anag
 
 Berättelsen är ovidkommande, ett litet elektroniskt bländverk i ett fönster när gatlyktorna laggar efter. Innanför berättelserna vistas juicen, och bortanför dem finns det som verkligen berör oss; rena och skära människor. Symbolerna passerar genom berättelserna som berättelserna passerar genom människor: saker man minns på grund av formaten, inte på grund av innehållen. Så snart man drar sig till minnes någon slags handling har det som verkligen drabbade en försvunnit. Handlingen är för berättelsen vad sökmotoren är för internet: ett godtyckligt legerat sammalsurium som ger spår av det stora hela som betyder något för helt andra aktörer. Samtidigt är handlingsberättelsen grogrunden för all form av mänsklig exil. Eskapismen är varje rörelses moder, och desperationens bastard, ångestens broder. Du är en specialist, du ska försvinna in i ett ämne, så var försiktig med vilken specialism du väljer, du förstår väl att du bara har en chans och att det är mycket få som behärskar generalismen, inuti generalismen inbegrips maktkampernas studiodesign och diplomatins skyttegravar, vilket kan ta en beskedlig andel tid ifrån ett förehavande, men samtidigt består aktiviteterna av mycken väntan och mången tråkigheter, måhända, varvid det går att flika in specifika kontrahandlingar eller sidoquestorienterad metaagens. Syntax kommer senare, och det går att lägga till vilket man vill, men vilket man än väljer så förändras ingenting, det som ryms inuti satsen spänner sig ur den som talar i en båge ut över morgondagens förlikande med svunna andemeningar. Det är inte för att låta svulstig utan för att instruera som jag säger det. Det man säger kastar ljus. Det man läser kastar ljus. Det man konsumerar kastar ljus. Det man släcker kastar ljus.
 
+![-](../../assets/x.png)
+
 Var finns det sol, men är samtidigt svalare? Uppe på berget!
 
 - I stan finns skyltar som skiljer sig åt från de gammeldagsa på landsbygden. Skyltarna har blivit interaktiva och möter upp med ett digitalt gränssnitt. Stadne har blivit virtuell. En bil som kör förbi en skola kan bli varse sin hastighet och få tacksamhet slängd i ansiktet.
@@ -702,7 +808,7 @@ Den där killen bemästrar kod, förklarar Förläggaren för att ge Författare
 
 .
 
-[divider: sqrtx]
+![-](../../assets/x.png)
 
 Uttråkade aristokraters frenetiska resepökande berättigade reseapparaten som litterär form, och strax i historiebokens fritt flödande högerlutande radfall ska diverse textmonster smaska sina läppar: utövandet du erfar numer, förryckt ur offerskap och målmedvetet på förläggarens bekostnad; skuldsedeln rymmer påbud om chefsjälvvald panginitiation till aktiv hälsa och därav kroppshållning gentemot den snarlikt övermäktiga framtiden, näraliggande som en skugga under en säng, det sprakar från lysröret men förnimmelsen dränks av farkostflodens europavägar utanför rutan... Audiovisuella sverigebilden krackelerar under tyngd sammanlagd, övertalningsbenägenheten väck i och med att kontraretoriken skarpslipats på förspråklig membrannivå, logikens skrupelfria omdöme avfärdar medelst beprövade backend-maskineringar, fördolda tack vare självbevarsledriftsautismen. Metamimesismultituden mumlar: Får ej bli offer, ej försjunka i offerskap, icke hänfalla åt offermentalitet, får inte se mig själv eller ens framstå som offer...
 
@@ -710,7 +816,7 @@ Carl Jung blev utsatt för övergrepp under formativa år, och målade in sig i 
 
 [divider: sqrtx]
 
-[divider: sqrtx]
+![-](../../assets/x.png)
 
 Förläggarens sick-sackande lämnar stygn i mörkertal, retoriken som mönstrar sömmen... Han klär av sig igen och studsar mellan stenarna i svartnattvatten. Han litar inte på att det är stjärnor han ser, saknas helt enkelt ord, berörda sinnet levererar likt en ursinnig oxe, och torrlagda vet han att skopa upp vatten ur eggelsedjup för att slaska i nunan, det droppar från ögonhålorna som vore han en sexikon i det digitala självförverligandets stund.
 

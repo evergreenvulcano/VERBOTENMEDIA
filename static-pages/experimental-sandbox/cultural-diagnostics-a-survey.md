@@ -7,6 +7,26 @@
 A structured characterization of the present cultural moment using empirical anchors.
 
 ## Draft
+
+PROBE 9 — Cultural Diagnostics: A Survey
+← MITRE ATT&CK as diagnostic taxonomy
+MITRE ATT&CK is a cultural diagnostics framework. It surveys an 
+organization's exposure by mapping attack techniques to defensive 
+capabilities. Purple teaming is the exercise where attackers and defenders 
+collaborate to find weaknesses — not to exploit them, but to see them, to 
+render them visible, to convert unknown unknowns into known unknowns. This 
+is exactly what the Förlagsdeckaren's 5-axis evaluation model does: 
+engine, wound, threshold, scale, refusal. Adversary emulation in 
+cybersecurity means acting as the threat to understand the threat. In 
+literature, it means writing the character who will destroy your narrative 
+to understand what your narrative actually depends on. Every 
+Förlagsdeckaren chapter is a tabletop exercise. Every sandbox probe is a 
+threat model. Every reader who finishes a chapter and feels unsettled has 
+been successfully penetration-tested. Praktikanten writes: The 5-axis 
+model IS the ATT&CK framework. Engine = initial access. Wound = 
+exploitation. Threshold = persistence. Scale = lateral movement. Refusal = 
+exfiltration prevention.
+
 Mary builds a five-axis evaluation model for assessing human beings. The axes: extroversion-to-concentration ratio, empathy in reasoning, autistic calm, linguistic scaling ability, future-arc visibility. No HR department would recognize these categories. No standardized test can measure them. They are literary axes — instruments for reading people as texts, developed inside a novel that treats assessment as a creative act rather than an administrative procedure.
 
 This probe attempts something analogous at the cultural scale: a structured characterization of the current moment that refuses both optimism and decline narratives, using specific empirical anchors rather than impressionistic mood-reading.

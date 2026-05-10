@@ -7,6 +7,10 @@
 A long-running prototype treating attention as a cultural object across economics, politics, and aesthetics.
 
 ## Draft
+
+PROBE 10 — The Attention Audit
+← Attention capture through spoofed interfaces The spoofed login page captured attention by looking exactly like what the user expected to see. Zero percent algorithm — the Borderland principle — means the interface does not compete for attention. It simply IS the expected environment. insyder.app did not advertise itself. It did not push notifications. It did not deploy engagement metrics or A/B-tested call-to-action buttons. It presented a login form in the exact visual language the user had been trained to trust. This is the most efficient form of attention capture: not seduction, not distraction, but impersonation of the default. The attention audit must account not just for what pulls attention away, but for what sits so quietly in the expected slot that it is never questioned. The most dangerous interface is the one that looks exactly like the one you were looking for. Praktikanten  writes his final note: The best spoof is the one that does not need to be good. It only needs to be familiar.
+
 Borderland operates on noll procent algoritm — zero percent algorithm. No schedule is pushed. No recommendation engine curates your path. No notification system interrupts your attention to redirect it toward something the platform has calculated you are likely to engage with. You walk through the festival's physical space and encounter what you encounter. The experience is disorienting, demanding, and structurally unlike anything the digital environment permits.
 
 The Attention Audit takes this principle and applies it as a diagnostic method to daily life outside the festival. It treats attentional experience as an object of cultural study — not a wellness metric, not a productivity framework, not a self-help intervention, but a field observation of how attention actually behaves when it is simultaneously an economic resource, a political instrument, and an aesthetic problem.

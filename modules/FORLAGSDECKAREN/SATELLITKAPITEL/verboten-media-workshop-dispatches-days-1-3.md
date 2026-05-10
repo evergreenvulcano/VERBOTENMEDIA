@@ -27,8 +27,6 @@ Under tre dagar — måndag till onsdag — genomförde Verboten Medias Lektyrst
 
 *Text: Erika Sundqvist, vetenskapsjournalist · The Scientists Club, Sandträsk, Norrbotten*
 
-![Embedded image 1](assets/verboten-media-workshop-dispatches-days-1-3/image-01.png)
-
 *The Scientists Club i Sandträsk — Arthur Warner Cornforths stuga strax norr om polcirkeln. Foto: Arkiv*
 
 Jag hade inte förväntat mig att min resa till polcirkeln skulle börja med ett måttband. Men klockan 07:15 en måndag i april står jag i en gles tallskog utanför Sandträsk, en by i Norrbotten som knappt finns på kartan, med ett gammalt skogsmätningsinstrument i handen och tårarna frysande i ögonvrårna av kylan. Intill mig står Arthur "The Scientist" Warner Cornforth och blåser in i sina händer — inte av kyla, utan av otålighet.
@@ -139,8 +137,6 @@ Jag vill inte erkänna det, men det här var det mest intellektuellt generösa j
 
 *Text: Annika Freij, deltidsbibliotekarie och kulturskribent · Stadsbiblioteket, Göteborg*
 
-![Embedded image 2](assets/verboten-media-workshop-dispatches-days-1-3/image-02.png)
-
 *Stadsbiblioteket Göteborg — platsen för Marys workshop i det glasväggade mötesrummet på tredje våningen.*
 
 Det glasväggade mötesrummet på tredje våningen i Stadsbiblioteket Göteborg bokades under rubriken "Skrivarverkstad — utvärderingsmetodik, 6 timmar." Jag vet detta eftersom jag hjälpte till att boka det. Det är mitt jobb. Jag är deltidsbibliotekarie på Stadsbiblioteket sedan elva år, och jag skriver bibliotekets kulturnytt — en sida i det interna nyhetsbrevet, mest om bokcirklar och författarbesök. Jag har aldrig skrivit om något som det som hände i mötesrummet den här måndagen.
@@ -204,8 +200,6 @@ Mary lämnade biblioteket klockan 16:30. Hon tog med sig sin tunna bunt papper. 
 
 *Text: Lars-Erik Forssén, sjöfartsjournalist · Avkommissionerad Stena Line-färja, Malmö hamn*
 
-![Embedded image 3](assets/verboten-media-workshop-dispatches-days-1-3/image-03.png)
-
 *Den avkommissionerade färjan i Malmö hamn — numera ett flytande kulturhus och plats för Kapten Langlets workshop.*
 
 Jag har skrivit om fraktlogistik i femton år. Containerflöden. Bunkerprisutveckling. IMO-regelverk. Jag vet hur en hamn luktar — diesel, salt, rost — och jag vet hur en artikel om sjöfart ska struktureras: inledning med tonnagestatistik, mittparti med intervjucitat från rederiledning, avslutning med framtidsprognos. Jag har aldrig skrivit om litteratur. Jag har aldrig velat skriva om litteratur. Men det jag skriver nu — sittande på soldäck 7 på en avkommissionerad Stena Line-färja i Malmö hamn, med lukten av diesel och salt och rost precis som den ska vara — är den bästa artikeln jag har skrivit under mina femton år i branschen, och den handlar om en man med pipa som vägrar tända den.
@@ -250,8 +244,6 @@ Jag har skrivit om containerflöden i femton år. Jag kommer att fortsätta. Men
 ### Den ironiska pizzan
 
 *Text: Selma Öhman, frilans · Assistens Kirkegård → Pizzeria Napoli → Bar Nørrebro, Köpenhamn*
-
-![Embedded image 4](assets/verboten-media-workshop-dispatches-days-1-3/image-04.png)
 
 *Assistens Kirkegård — kvällens startpunkt vid Kierkegaards grav, där ironi förvandlades till råmaterial.*
 
@@ -303,8 +295,6 @@ Det var den viktigaste kvällen i mitt liv. Jag stryker fortfarande inte meninge
 ### Fyra sekunder
 
 *Text: David Rask, teknik-kulturskribent · Satellitlänk från ISS, deltagare i fem tidszoner*
-
-![Embedded image 5](assets/verboten-media-workshop-dispatches-days-1-3/image-05.png)
 
 *Utsikten från ISS Cupola — Novas arbetsplats och platsen varifrån workshoppen sändes.*
 
@@ -363,8 +353,6 @@ Länken bryts. Skärmen visar ISS-logotypen, sedan svart. Fjorton personer sitte
 
 *Text: Dr. Helena Kraus, litteraturvetare, Umeå universitet · The Scientists Club, Sandträsk, Norrbotten*
 
-![Embedded image 6](assets/verboten-media-workshop-dispatches-days-1-3/image-06.png)
-
 *The Scientists Club i Sandträsk — samma stuga som dag 1, men nu med Arthur borta och Klonen som värd.*
 
 Jag var inte här för att delta i en skrivarverkstad. Jag var här för att presentera ett paper — "Reproduktion och originalitet i samtida skandinavisk prosa" — vid den årliga konferensen för nordisk narratologi i Luleå. Konferensen avslutades på tisdag eftermiddag. På onsdag morgon fick jag ett meddelande från en kollega: "Det händer något i en stuga i Sandträsk. Du borde åka dit." Jag åkte dit.
@@ -420,8 +408,6 @@ Jag åkte tillbaka till Luleå samma kväll. Mitt paper om reproduktion i skandi
 
 *Text: F-fattaren (Författaren) · En rondell i Luleå → Kebabshop → Hamnen vid gryning*
 
-![Embedded image 7](assets/verboten-media-workshop-dispatches-days-1-3/image-07.png)
-
 *Luleå hamn vid gryningen — workshoppens slutpunkt, där alla texter landade.*
 
 Subjektet står i rondellen. Det är mörkt. Klockan är 02:14. Subjektet vet inte varför han är här, men hans kropp vet. Hans kropp har stått i rondeller förut. Hans kropp har blivit fotograferad i en rondell, publicerad i en lokaltidning, förväxlad med en rondellhund — de där konstverken som spontanplacerades i svenska rondeller 2006 och som blev en folkrörelse och sedan en fotnot och sedan ingenting. Subjektet är inte en rondellhund. Subjektet är en författare. Skillnaden är mindre än man tror.
@@ -474,8 +460,6 @@ Ingen frågade. Det behövdes inte. Texten frågade åt dem.
 ### Copywriterns begravning
 
 *Text: Karin Mellqvist, branschredaktör · Garaget, Malmö*
-
-![Embedded image 8](assets/verboten-media-workshop-dispatches-days-1-3/image-08.png)
 
 *Garaget i Malmö — den ombyggda industrilokalen där Fågelskrämman höll sin sista workshop.*
 

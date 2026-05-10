@@ -1,0 +1,70 @@
+# A/B-LÄSNING — ESSÄPROMPTTEST
+
+## A-version
+filename.file
+Prompt: 3-källorsprompten  
+Källor:
+1. `filename.file`
+2. `filename.file`
+3. `filename.file`
+
+## B-version
+filename.file
+Prompt: 4-källorsprompten  
+Källor:
+1. `filename.file`
+2. `filename.file`
+3. `filename.file`
+4. `filename.file`
+
+## Bedöm varje version efter följande:
+
+### 1. Essäistisk bärkraft
+- Har texten egen rörelse?
+- Blir den essä, eller bara syntesrapport?
+- Finns en inre nödvändighet?
+
+### 2. Röst- och modusärvning
+- Är auktoritetsmoduset från första texten produktivt ärvt?
+- Låter texten självständig?
+- Finns risk för imitation?
+
+### 3. Kunskapsomsättning
+- Blir informationsstoffet faktiskt begripligt som essäistisk kraft?
+- Bevaras saklig precision?
+- Används namn/begrepp som stöd eller som dekoration?
+
+### 4. Tankefigurlyftning
+- Lyfts transkriptets tankefigur fram utan att muntligheten blir slapp?
+- Får bilderna struktur?
+- Blir tankefiguren operativ, inte bara poetisk?
+
+### 5. Författarrollens tryck
+Gäller särskilt B-versionen:
+- Förändrar `Författarrollen som social funktion.txt` essäns grundsituation?
+- Blir författarrollen ett villkor, inte bara ett ämne?
+- Tillförs socialteknisk, etisk och randexistentiell skärpa?
+
+### 6. Risker
+- Var låter texten mest AI-generisk?
+- Var ligger den för nära källröst?
+- Var blir den för grandios?
+- Var krävs faktakontroll?
+- Var krävs författarbeslut?
+
+### 7. Starkaste passager
+Lista:
+- 3 passager från A som bör räddas
+- 3 passager från B som bör räddas
+- 3 passager som visar verklig skillnad mellan promptarna
+
+### 8. Slutdiagnos
+Välj en av följande:
+
+- A är starkare som essäbas.
+- B är starkare som essäbas.
+- A har bättre form, B har bättre problemtryck.
+- B har bättre form, A har bättre tankefigur.
+- B bör byggas ovanpå A.
+- A bör behållas som separat essä och B bli en annan essä.
+- Ingen av dem är publiceringskandidat, men båda ger råmaterial.

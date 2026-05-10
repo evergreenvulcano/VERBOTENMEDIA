@@ -7,6 +7,21 @@
 A structural investigation into future addressability under disrupted temporal assumptions.
 
 ## Draft
+
+PROBE 1 — Recursive Time Capsules
+← Persistent threat / temporal collapse
+The credential compromise did not happen at a single moment. The 
+vulnerability was structural, accumulated over years of linked accounts 
+and ignored warnings. The threat was a time capsule — planted in one 
+temporal layer, detonating in another. You link your Google account to 
+your Microsoft account in 2019. You ignore the security notification in 
+2021. You type your password into insyder.app in 2026. The detonation 
+happens in all three years simultaneously. The dossier engine's 
+Mornest/Midpulse/Nightfold rhythm is the same pattern: deposits made at 
+one frequency, withdrawals at another. Recursive. Non-linear. The capsule 
+and its contents exist in different times simultaneously. Praktikanten 
+writes on his paper: The breach is always already happening.
+
 On day fourteen of the 24-day children's book campaign, the publisher abdicated. Or pretended to. Or performed an abdication so thoroughly that the performance became indistinguishable from the act — which was, of course, the point. The entire event was a time capsule in real time: an interview designed to be read later by people who would not know whether it documented a real departure or a structural experiment in narrative permanence.
 
 This is the formal problem at the center of the Recursive Time Capsules probe: what happens to the time capsule form when the temporal assumptions it depends on have been dismantled by digital infrastructure?

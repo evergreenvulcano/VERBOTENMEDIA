@@ -7,6 +7,23 @@
 An evolving lexicon for naming transformations of selfhood in mediated environments.
 
 ## Draft
+
+PROBE 4 — Psychotechnical Subjectivity: Working Glossary
+← The analytical schema as cognitive apparatus
+The unfocus document's schema — id, sources, observation, interpretation, 
+uncertainty, policy_implication — is itself a psychotechnical vocabulary. 
+Each field is a cognitive station. A thought arrives as raw stimulus (id), 
+gets traced to its origins (sources), is described without judgment 
+(observation), is processed through existing frameworks (interpretation), 
+is weighed against what cannot be known (uncertainty), and is translated 
+into action (policy_implication). The HackerStory's analytical apparatus — 
+MITRE ATT&CK, purple teaming, AEV — produces the same vocabulary: 
+technical terms that, under enough pressure, become personality 
+descriptions. "Adversary emulation" is what Praktikanten does every 
+morning when he tries to think like Förläggaren. "Automated exposure 
+validation" is what the novel does to the reader. He writes: There is no 
+difference between a security framework and a personality test.
+
 The term techautist does not appear in any DSM. It is not a diagnosis. It is a cultural portrait — a figure sketched in the Verboten Media working documents to name a condition that the clinical vocabulary cannot reach: a human who possesses full emotional capacity but lacks real potens i det sociala because the social skills their generation developed were optimized for representationernas sociala arena rather than the friction-heavy, boredom-saturated, body-present encounters through which previous generations learned to extend emotion into the interpersonal field.
 
 This glossary does not aim to replace the clinical vocabulary. It aims to supplement it with terms that name what is happening to selfhood in technically mediated environments — terms drawn from the intersection of cognitive science, media theory, literary analysis, and lived experience in the specific historical moment of 2023–2026.

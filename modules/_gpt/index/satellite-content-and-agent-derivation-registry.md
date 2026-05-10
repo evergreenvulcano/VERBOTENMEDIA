@@ -28,7 +28,7 @@ The registry does not implement those derivations. It makes them legible while k
 
 ## 2. Stride artefacts
 
-- `source file`: `modules/_gpt/source-anchor/forlagsdeckaren-del-6-13/del-7/stride_understands.txt`. Provenance note: external duplicate supplied from `C:/Users/cooki/OneDrive/Desktop/verbmed-related/verboten traversal/unstable texture format/stride_understands.txt`.
+- `source file`: `modules/_gpt/source-anchor/forlagsdeckaren-source-constellation/heading-extraction-and-deployment/stride_understands.txt`. Provenance note: external duplicate supplied from `C:/Users/cooki/OneDrive/Desktop/verbmed-related/verboten traversal/unstable texture format/stride_understands.txt`.
 - `source status`: repo-native with external duplicate.
 - `content status`: captured derivation/context artifact containing sympathetic and adversarial reframing pressure; valuable as evidence of how a source can mutate under different editorial stances.
 - `latent agent/tool implied`: adversarial/sympathetic reframing agent.
@@ -42,7 +42,7 @@ The registry does not implement those derivations. It makes them legible while k
 
 ## 3. Metod: Tankefigur
 
-- `source file`: `modules/_gpt/source-anchor/forlagsdeckaren-del-6-13/del-13/Metod_ Tankefigur som ontologisk design av totalprojekt.docx`.
+- `source file`: `modules/_gpt/source-anchor/forlagsdeckaren-source-constellation/grounding-tankefigur-and-bifigure/Metod_ Tankefigur som ontologisk design av totalprojekt.docx`.
 - `source status`: repo-native binary/docx source; method specimen; not fully converted.
 - `content status`: method specimen and ontological design artifact; valuable as an example of layered project-thinking, membrane logic, and generative self-modeling.
 - `latent agent/tool implied`: ontology-design / layer-integrity agent.

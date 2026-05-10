@@ -7,6 +7,21 @@
 Structured phenomenological observations on daily life in technically saturated environments.
 
 ## Draft
+
+PROBE 3 — Mediated Existence Studies
+← Compromised infrastructure as existential condition
+Every action the user took after the breach was mediated through 
+potentially compromised infrastructure. They did not know which layer was 
+trustworthy. The medierad triple meaning applies: media-ted (transmitted 
+through channels that may or may not be loyal), medica-ted (the system 
+applying its own cure, antivirus as antibiotic, treating the symptoms 
+while the pathogen adapts), mediated (negotiated between hostile parties 
+who share a login page). The breach does not end when the password is 
+changed. It ends when you stop wondering whether your infrastructure is 
+performing for you or for someone else. Or it never ends. Praktikanten 
+circles the word medierad three times and draws arrows to three different 
+definitions. The arrows cross each other. He does not untangle them.
+
 "Det ser ut som att du tillber internet," Lillfrugan says — and in seven words she names the condition that this probe attempts to document.
 
 Mediated existence is not a theory. It is Tuesday morning. It is the act of reaching for your phone before your feet touch the floor. It is the specific muscular tension of composing a message you will delete before sending. It is the fourteen seconds spent looking at a photograph of someone you have not spoken to in three years — fourteen seconds that no platform can monetize because they produce no click, no scroll, no engagement signal, only a small private rearrangement of emotional furniture that leaves no trace in any database.

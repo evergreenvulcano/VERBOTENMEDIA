@@ -1,11 +1,18 @@
-# Förlagsdeckaren
+---
+title: "Verboten Media Workshop Dispatches – dag 1-3"
+date: "2026-04-07"
+summary: "A literary work examining independent publishing through documentary and fictional modes."
+type: "literary"
+status: "published"
+author: "Martin Nygren"
+layout: article
+note: A digital eqivalent to the backside of a book - with links to published material.
+Section: Writings
+Type: Literary
+Author: Förläggaren & Praktikanten
+---
 
-- **Section:** Writings
-- **Type:** Literary
-- **Year:** 2024
-
-## Summary
-A literary work examining independent publishing through documentary and fictional modes.
+## Baksidetext
 
 ## Draft
 
@@ -22,6 +29,9 @@ The cast orbits Förläggaren like satellites with their own gravitational field
 What makes Förlagsdeckaren a *literary* work rather than an industry memoir is that it treats publishing as a form of consciousness. The publisher does not merely select and distribute texts. The publisher *metabolizes reality through editorial decision-making*. Every choice — what to publish, what to reject, what to sequence, what to delay — is an act of ontological manipulation. The publisher decides what exists. This is either a sacred responsibility or a Satanic one, and the novel's refusal to resolve that question is its deepest structural commitment.
 
 ### Praktikantens arbetsnoteringar
+
 This card is a mirror facing a mirror facing a mirror. Förlagsdeckaren is a series about Verboten Media. Verboten Media published the novel Verboten — A Technosocial Novel. The novel is now being used to ground this card, which is about the series Förlagsdeckaren, which is about Verboten Media, which published the novel. The recursion is not a gimmick. It is the structural principle of the entire enterprise: every layer refers to every other layer, and no layer is the "real" one. This is what Verboten the organization, within the novel, calls "multiplicitetens anda" (the spirit of multiplicity, Chapter 8, pp. 73–78) — a Hegelian-surrealist commitment to operating at multiple levels simultaneously, where each level is both product and producer of the others.
+
 The novel's own three-thread structure — Mary, Dawkin, Arthur — provides a structural model for how a publishing platform can sustain multiple independent narrative threads. The threads do not merge into a unified plot. They converge at unexpected nodes (Borderland, the casino boat) and then diverge again. The convergence is temporary, charged, and irreversible: after the node, each thread carries traces of the others. This is not traditional narrative architecture. It is rhizomatic: "informationalism är en humanism" (informationalism is a humanism, Chapter 8). Förlagsdeckaren, as a series, operates the same way — each installment (Del 1 through Del 5, plus "Försäkringsmannen") is an independent thread that converges with the others only at certain structural nodes, then diverges, carrying new weight.
 
+### Länkar till publicerade delar

@@ -3,7 +3,7 @@ title: "Förlagsdeckaren — Del 2"
 date: 2023-06-25
 summary: "Del 2 av Förlagsdeckaren."
 type: literary
-status: draft
+status: published
 author: Martin Nygren
 mode: shortstory
 layout: article
@@ -47,17 +47,27 @@ Förläggaren stirrar upp i ögonbrynen, suckar och övergår till manuell; tryc
 
 Jag måste nog kolla om den här själv, slår det mig. Säger jag något bra?
 
+![I Sverige bastar man tillsammans i en bastu med eller utan kläder, det är en grundläggande princip att man får bestämma själv nu för tiden, vad man tycker och tänker om det.](../../assets/verboten-origins-strunt.png)
+
 *
 
 På en träläktare i ett mycket tillslutet utrymmet pustar Flempo Guyenjaure och Håkan Bacon i otakt allt eftersom ångorna piskar längsmed täta, ännu ostänkta träväggarna.
 
 Du ska inte stänka på tak och väggar, bastun blir väl kvav då, bastun är inte tänkt att simulera någon jävla djungel, säger Flempo.
 
-Jag gör bara som min far hade önskat av mig.
+Jag gör bara som min far hade önskat av mig, säger Bacon, biljonär utklädd till bingomiljonär. Det är inte lätt att vara rik ska du veta. Fråga Notch Persson eller googla om du inte tror mig. 
+
+Naturligtvis tror jag på dig, det vet du. 
+
+Jo jag var retorisk. Men ja. Det är förväntningar och sådant som ingen borde göra sig lustig över. Det är genuint själaslitande hemskt att inte få bekräftelse av den enda som betyder något. Ingen gormande hippie kan fylla det hålet i mig.  
+
+Flempo noterar skiftningen från inkännande till utåtagerande. Han slår till med en överraskande backhand spin; 
 
 Din far är ett känslosamt ämne för mig, jag vill varken tvinga ned dig på mage och låta björkriset snärta hejdlöst, eller sitta här med magen mellan handkuporna och nicka hummande.
 
-*
+Ingen kan spela dubbeltennis som Flempo Guyenjaure. Håkan Bacon kan knappt röra på skinkorna. Flempo tycker itne att det spelar någon roll. Alla relationer är inte tennisadepter. Flempo är en nationell ikon, sinnebilden för en fadersgestalt som håller samman lokala regioner per pur automatik, körkort och munläder.
+
+![Flempo Guyenjaure har många spjärn i elden sedan Vinterpratet 2019.](../../assets/kinetic-labs.png)
 
 Men påminn mig ånyo herr förläggare, vad gör vi här nu igen? Varför är du inte ute och viftar med kuken så att säga? Varför har inte du en liten integrationsmiddag i familjens samklang, varför låter du inte så att säga europas gränser strömma genom dammen när det är så hejdlöst vackert i skyn?
 
@@ -73,11 +83,13 @@ Han rycks tillbaka från sina ljuva minnen av grafiska användargränssnitt när
 
 Men såsom jag har förstått verksamheten så är den såsom du praktiserar inom ramarna för vad verksamheten skulle kunna tänkas innebära. Det är med andra ord mig som praktikant likgiltigt huruvida vi filosoferar kring midsommaren, eller om förlagsverksamheten, i min tolkning har du lika lite koll på vardera.
 
-Du ska få höra om att inte ha koll. Jag har minsann också gjort praktik en gång i tiden.
+Du ska få höra om att inte ha koll. Jag har minsann också gjort praktik en gång i tiden. Och förresten bör du inte inleda meningar med ordet men, det är en billig övergång som insinuerar koherens men oftast bara är en retorisk effekt, som om det man har att säga vore en postproduktionseffekt för rörlig bild. 
 
-Jag har blivit varse att tidigare generationer hade andra förutsättningar. Du pekade på detta i din youtubeföreläsning, du refererade till "varvet" och att "alla boomers" bara kunde gå ned dit och få jobb. Sedan var det något om podcastindustrins pyramidiska ämneshierarki och botten-upp-kulturer, det hela är verkligen intressant. 
+Oj ok. Jo men, oj, ja. Jag hör gärna om dina erfarenheter eller vad det kan tänkas röra sig om. Jag har blivit varse att tidigare generationer hade andra förutsättningar. Du pekade på detta i din youtubeföreläsning, du refererade till "varvet" och att "alla boomers" bara kunde gå ned dit och få jobb. Sedan var det något om podcastindustrins pyramidiska ämneshierarki och botten-upp-kulturer, det hela är verkligen intressant. 
 
 Man kan tänka lite som att motsvarigheten i modern tid vore att inte logga ut, sitta uppe hela nätterna och yra med kommunikationsteknologierna, låta nätverken glida in i varandra. Det är meningsfullt att referera till andra personers empiri om de kan illustrera tidens skiftningar, vi lyder som bekant under tidens nycker, tidevarvet eller zeitgeisten gör lite vad den vill med oss i den grad vi är omedvetna om den, så jag är glad att ha kläckt någon slags idé hos dig, eller åtminstone närt grogrunden för en uppfattning om något annat än dina egna små löjliga subjektiviteter.
+
+![Tillhörighet och arbetsinsats. Praktikanten checkar alla boxar men fastnar ändå vid ett kontorsmatsalslunchbord på ett sjukande skepp.](../../assets/praktikanten-genz-fl-dx-w1.png)
 
 Jag är *generation Z*, tro inte att jag tar lätt på det här, och så är jag enfp. Du sa i föreläsningen att du tillhör *millenials*?
 
@@ -94,6 +106,8 @@ Så ni tänker med tummarna, *so what*. Men du är ändå här, det förändrar 
 Gärna, herr förläggare. Jag vill gärna arbeta med dig. Jag har hört att det är enda sättet att ha en relation till dig.
 
 Kalla det vad du vill, nu kör vi!
+
+![Mårten Lättman, pålastningskoordinatör och avhämtningsleverantör på Pump & Dunk AB. Han jobbade med AI innan du ens chattat med ett semantiskt gränssnitt i dina vildaste drömmar. Nu är han hemlös i sviterna av sitt tunga amfetaminberoende, som stängde ned hjärnfunktion vars frånfälle påverkade jorden lika mycket som när satellitkapslar slocknar, sönderskjutna av orbitalskrot, kvarvarande i omloppsbana.](../../assets/lattman.png)
 
 *
 
@@ -115,6 +129,9 @@ Sådan dubbelhet har vi djup förståelse och respekt för inom det skuggsamiska
 
 *
 
+![Du är ensam här.](../../assets/digital-underklass.png)
+
+
 Förläggaren försöker att förstå ett telefonsamtal. Vanligtvis brukar han få mail vilket spelar in i tiden det tar att krama huvudet runt det elektroniska meddelandets innehåll. I ren panik hade han slängt in mailet i AI:ns omtolkningsalgoritm, men vis av erfarenheten att språkmodeller enbart hanterar enstaka vektorer för att ge sken av helheten hos mängdernas syntesmultitud, läste han inte bara mellan raderna, han läste rakt av sin sylvassa intuitiva tolkning samtidigt som den genererades blott mikrosekunder efter ögonens kontakt med krumelurerna. *Semantik, det låter som en honhund.* Han hade blivit såpass van att hantera språkmassor på detta sinnesalkemiska hypermaner att det numera skedde automatiskt också vid röstkommunikation, dock enbart sådan som saknade ansiktsigenkänning, då dylik rumsnärvaro förflyttade sorteringsenhetens omfång från binär till rent triangulär terräng. Telefonsamtal däremot är som skyltar: envägskommunikation i symbios. Rösten en avatar för kroppen, orden en skylt för det där man nu försöker ge uttryck för när man *talas vid*.
 
 Ja hallå det är förläggaren, och jag vill göra tydligt att jag säger hej till dig och understryka att vi aldrig någonsin kommer att förstå varandra överhuvudtaget nästan.
@@ -132,6 +149,8 @@ Innan du säger emot så vill jag förtydliga att det behövs för att jag ska k
 Roligt! Ja, var? Och när?!
 
 100 års sikt och etik på plats. Jag anser att jag är där! Jag vill vara, och det måste resonera med ditt värv!, min högt ärade förläggare. Trots att man gjort sig själv onödig genom att sortera in sina vänskaper under bärsfliken och försvunnit ur de flesta sammanhang ... Personliga relationer kan utmynna i kritik, javisst, feedback som går in igenom dövörat och ut ur det andra, tillhörande örat. Men nu kan memen dras "AFK" in och upp i litterär utopi, och då säger jag utopi inte teknoutopi - vi är inget annat än kroppsmaskiner, detta fattar de förmögna, de själsligt beskäftiga, de uppåtsträvande, rimligtvis de resursrika som kan leda mig vidare på resan mot miljardärens häcksmidda trädgårdsodling!
+
+![En ventilationstrumma i logistikcentralen. Här färdas ljud som obfuskerar signal och spär ut den i brus](../../assets/ventilationstrumma.png) 
 
 Förläggaren vrider nacken i ett cp-ryck så luren skvalpar mot axelns stenhamn, mikrofondelen hovrar över vänster bröstvårta som han låter citationsfingrarna smattra i tangentbordet. Han ropar: BRA! BRA! FORTSÄTT! Och Författaren, en ärad och erfaren kombatant i Glaspärlespelet, märker inget av detta, han fortsätter, han ångar på:
 
@@ -161,6 +180,9 @@ GE MIG ETT T, R, A, N, S, G, R, E, S, S, E, R, A! T-R-A-N-S-G-R-E-S-S-E-R-A! Ett
 
 Yoo killen är whicked.
 
+![Förläggaren vaknar under din säng, skräckslagen, tänk om något skrämmande väntar på honom där ute i rummet?](../../assets/sleepwalker-origins-gloriaphic-sidewindpng.png)
+
+
 Ni vet inte om det men det finns en överhängande risk att alla här just nu är betraktade på avstånd av ett ofantligt monster. Ett monster som sjunger locktoner om själslig utveckling - vad är det ens för ett jävla hittepå! - och psykologiska hjältedåd, som försöker lura i folk att de kan göra annorlunda om de vill, att de kan vida överskrida sina tröskelkomplex och förändra sig själva i positiv riktning! Och att detta skulle göra grund för ett bättre lokalsamhälle, ett bättre regionalt företagande och en förändrad upplevelse av kollektivet såsom land betraktat! Monstret är en utopiernas hycklande lönnmördare, som frikostigt och utan skrupler stjäl människors uppmärksamhet för sina egna obehärskade företag - och om man är kapabel att stjäla det som gör en människa till själ - tänk er då vad mer monstret inte är benäget att begå för brott! Han tittar på er just nu!
 
 Eeeey det flowar najs nu.
@@ -175,6 +197,6 @@ När jag gjorde praktik var det tabu att nämna det absurda i att bankerna skapa
 
 Det låter som att din praktik tog slut snart.
 
-Nej då, jag betalade gärna för erfarenhet med min tid för struntlön. Min praktik varade i fyra långa år. (Rättelse från mysteriet 2026: Sju år and going strong ...) Sedan hamnade jag i egenskap av andrasortering som förvaltare och grindväktare för en skitprodukt och på den vägen var det, jag har gjort praktik många fler gånger, till slut så fick det bli detta påhittade lek. Låt oss gå till bildäckgungan, jag kan snurra dig till stjärnstopp. 
+Nej då, jag betalade gärna för erfarenhet med min tid för struntlön. Min praktik varade i fyra långa år. Sedan hamnade jag i egenskap av andrasortering som förvaltare och grindväktare för en skitprodukt och på den vägen var det, jag har gjort praktik många fler gånger, till slut så fick det bli detta påhittade lek. Låt oss gå till bildäckgungan, jag kan snurra dig till stjärnstopp. 
 
 © Verboten Media 2023-06-25

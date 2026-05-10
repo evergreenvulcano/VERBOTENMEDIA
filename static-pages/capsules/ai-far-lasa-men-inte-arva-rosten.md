@@ -1,52 +1,58 @@
 ---
 title: AI får läsa, men inte ärva rösten
 date: 2026
-type: capsule
-summary: AI may assist with reading, sorting, status diagnosis, and producing capsules — but must not replace literary prose, authorial voice, or origin-bearing essayistic thought.
+type: manifest/policytext
+summary: AI får bistå med läsning, sortering, statusdiagnostik och kapselproduktion, men får inte ersätta skönlitterär prosa, författarröst eller ursprungsbärande essäistisk tanke.
 ---
 
-AI may participate in this work. The boundary is not about distrust. It is about function.
+"AI" får delta i detta arbete, i den mån dess operatör och juridiska part medger dess strikt metaforiska appropriering av de mänskliga kommunikativa metaforiska analogierna som härrör ord som "artificiell" och "intelligens". 
 
----
+Gränsen handlar inte om misstro - den handlar inte, den är ett passageklimat som implicerar ceremoni, ritual, värdeladdning, arbetsbörda, integritet och kollaborativa principer som förutom värdeskapande kreativ verksamhet också omsätts i explicit policy och direktiv. 
 
-## What AI may do
-
-**Read.** AI can move through large bodies of material, identify patterns, trace connections, and produce structured output from unstructured source.
-
-**Sort.** AI can assess status, classify material, and distinguish between what is ready for publication and what is not.
-
-**Diagnose.** AI can evaluate whether a text belongs in the repo, what stage it is at, and what publication function it serves.
-
-**Summarize process.** AI can produce accounts of how something was made, what sources were used, and what decisions were taken.
-
-**Make capsules.** AI can produce public-facing capsules that describe rules, provenance, status, or method — when those capsules do not claim to be literary prose.
+Den handlar om funktion. Övertygelsen om kunskapsekonomins existentiella nödsituation är empatiskt orienterad och instruktivt generös, intentionen hör till den öppna kunskapsspridningens och folkbildningens ärovördiga traditioner. 
 
 ---
 
-## What AI must not do
+## Vad "AI" får göra
 
-**Replace literary prose.** A novel, an essay, a shortstory, a fragment — these carry authorial origin. They are not capsules. They are not outputs. AI does not write them.
+Med "AI" avses här kostnadsbunden, tekniskt begränsad maskinell processering som används under mänskligt ansvar för specifika arbetsmoment.
 
-**Replace authorial voice.** The voice of a literary or essayistic work comes from its author. AI synthesis is not a substitute, even a partial one. The voice is not available for inheritance.
+**Läsa.** AI - sådan som uppfyller tekniskt materiella krav om kapacitet, begränsning och syfte i den mån man talar om en kostnadsbunden agens som utgångspunkt och slutstadie - kan röra sig genom stora materialkroppar, identifiera mönster, spåra förbindelser och producera strukturerade utdata ur ostrukturerad källa.
 
-**Replace origin-bearing thought.** An essay is not just an arrangement of claims. It is the trace of a thinking process with a specific origin. AI can assist the process. It cannot become the origin.
+**Sortera.** AI kan bedöma status, klassificera material och skilja mellan vad som är redo för publicering och vad som inte är det.
 
----
+**Diagnostisera.** AI kan utvärdera om en text hör hemma i repositoryt, vilket stadium den befinner sig i och vilken publiceringsfunktion den tjänar.
 
-## Distinguishing the kinds of text
+**Sammanfatta process.** AI kan producera redogörelser för hur något har gjorts, vilka källor som använts och vilka beslut som tagits.
 
-**Literary work** — not AI-permitted. Authorial origin required.
-
-**Essay** — not AI-permitted. Origin-bearing thought.
-
-**Capsule** — AI-permitted, with disclosure. Does not claim literary voice.
-
-**Log** — AI-permitted. Process record, not prose.
-
-**Diagnosis** — AI-permitted. Status assessment, not expression.
-
-**AI-mediated synthesis** — AI-permitted. Must be named as such.
+**Göra kapslar.** AI kan producera publiktillvända kapslar som beskriver regler, proveniens, status eller metod — när dessa kapslar inte gör anspråk på att vara skönlitterär prosa.
 
 ---
 
-This rule is not a restriction on ambition. It is a commitment to honesty about what a text is and where it came from.
+## Vad AI inte får göra
+
+**Ersätta skönlitterär prosa.** En roman, en essä, en novell, ett fragment — dessa bär författares verklighetsbundna ursprung i sin natur. De är inte kapslar. De är inte utdata. AI skriver dem inte.
+
+**Ersätta författarröst.** Rösten som kvalitativ storhet eller kreativ potens eller uttrycksmässig säregenart - oavsett om den framträder i ett skönlitterärt eller essäistiskt arbete - kommer från dess författare. Det inkluderar men är inte begränsat till rytm, tystnad, fraseringar, retoriska härledningar, associativa nodanspel och kategoriska kopplingar samt sammanbrott. AI-syntes är inte ett substitut, inte ens ett partiellt sådant. Rösten är inte tillgänglig för arv. Retoriska installationer kan dock garanteras passage genom membranen i den mån de härstammar ur röstbärande, ursprungliga tankefigurer. 
+
+**Ersätta ursprungsbärande tanke.** En essä är inte bara ett arrangemang av påståenden. Den är själva ledtråden som spårar en tankeprocess med ett specifikt ursprung - text som händelse, syntes, event, sår, spricka, möte, et cetera. Maskinell processering genom storspråksmodeller och artificiell associativ kommunikationsteknologi relaterade till nätverksnodaliserad processorkraft kan bistå processen. Men den kan tyvärr inte bli ursprunget.
+
+---
+
+## Att skilja texttyperna åt
+
+**Skönlitterärt arbete** — markerar mänsklig insats till för maskinen obegripliga nivåer av intensitet, kreativ potens och empatisk orientering. Författarinsatser av metakaraktären 'human-in-the-loop' föranleder texter av denna status - skönlitterärt arbete är texter skrivna av författare med mänskligt medvetande till sitt karaktärsunika ursprung, till sin lokalt specifika vidareutveckling, till sin potenslegitimerande status som publicerad.
+
+**Essä** — inte föremål för maskinell processering i vidare bemärkelse än vad som specificeras synteslistobjektet nedan. Formatkropp för ursprungsbärande tanke, föremål för iterativa dialektiska processer, subjekt för varierande perspektivförskjutnignar och retoriska angreppssätt.
+
+**Kapsel** — Maskinell processering tillåten, med redovisning. Gör inte anspråk på att emancipera ur skönlitterärt näraliggande skriftställande eller författarröst. Det betyder inte att materialet som processeras saknar mänsklig insats - tvärtom, hela projektet bygger på att ingenting i arkivet inte angår eller påverkar human-in-the-loop eller dennes omgivning. 
+
+**Logg** — Maskinell processering tillåten. Processprotokoll, inte prosa. Processen är kreativ till sin intention, till sitt ursprung, till sitt ändamål och till sin värdeladdning och bärkraft. 
+
+**Diagnostik** — Maskinell processering tillåten. Statusbedömning, uttrycksbärande som utvärderande semantisk laddning. Kritisk för en uppbygglig, levande semantik. Uthålligheten, hållbarheten och hanteringen står i direkt proportion till projektets kreativa potens. 
+
+**AI-medierad syntes** — Maskinell processering involverad i egenskap av en delprocess i en hybridintelligent kreativ process. Analogiska metaforer som ger deskriptiv form åt den maskinella protesens karaktär i utförande är **tankefigur**, **bollplank**, **väder**, **atmosfär**. Måste namnges som sådan.
+
+---
+
+Denna regel är lika mycket en begränsning av ambition som den är en utsaga om var tidsrummet börjar och tar slut. Den är ett åtagande om ärlighet kring vad en text är och varifrån den kommer. Det är en intentionsförklaring som överskrider all form av maskinell processeringsförmåga i termer av empatisk intention, kreativ karaktär och synkroniserande, orkestrerande potens. Som sådan är regeln alltid suverän gentemot dess subjekt: agenterna som utför arbete i det högteknologiska konstverket.
