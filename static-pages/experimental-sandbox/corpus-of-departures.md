@@ -7,6 +7,22 @@
 A corpus experiment on the textual residue of digital exits.
 
 ## Draft
+
+PROBE 6 — Corpus of Departures
+← Identity dissolution / digital exit
+The user's digital identity departed through the spoofed login page. An 
+involuntary exit — silent, irreversible, unmarked. The password typed into 
+insyder.app is now part of a corpus of departures: credentials that have 
+left their owners without saying goodbye. Every compromised password is a 
+small death. Every changed password is a small rebirth into a slightly 
+different identity — the same person, but with a new string of characters 
+standing between them and their data, a new prayer to a new god. The 
+departure was not announced. It was not reversible. It was not even 
+noticed until later. This is the most common form of digital exit: the one 
+you do not know happened. Praktikanten writes: The dead do not know they 
+are dead. The breached do not know they are breached. The difference is 
+one of protocol, not of phenomenology.
+
 The abdication interview was filed under Content > Writings, alongside everything else that was always already inside the novel. No reader was told it was fiction. No reader needed to be told. This is the formal structure of every digital departure: a text that does not announce its own genre, encountered by readers who must decide for themselves whether they are witnessing documentation or performance.
 
 This probe collects, categorizes, and analyzes the textual residue of digital exits as a genre — a recognizable literary form with its own conventions, its own rhetorical strategies, its own cultural symptomatology.

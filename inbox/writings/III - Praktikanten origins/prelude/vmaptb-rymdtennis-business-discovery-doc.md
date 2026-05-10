@@ -1,7 +1,7 @@
 ---
 title: "VMAPTB ? Rymdtennis Business Discovery Doc"
-status: internal
-type: satellite-chapter
+status: draft
+type: shortstory
 project: forlagsdeckaren
 source_file: "VMAPTB-Rymdtennis-Business-Discovery-Doc.md"
 normalized_from: md

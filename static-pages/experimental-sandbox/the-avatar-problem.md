@@ -7,6 +7,20 @@
 An investigation into platformed self-representation, personhood, and embodied identity.
 
 ## Draft
+
+PROBE 2 — The Avatar Problem
+← Credential theft / identity substitution
+insyder.app created a perfect avatar of Microsoft Edge. The user typed 
+their password into a mask wearing another mask's face. Credential theft 
+is avatar creation — someone else now has a version of you that can act in 
+your name. The password IS the avatar. When it is compromised, the avatar 
+walks without the body. In the novel, Clone's SHA2 memory removal is the 
+same operation: identity persisting after its referent has been deleted. 
+The avatar problem is not about fakeness. It is about the residual life of 
+authentication after the authenticator has been breached. Praktikanten 
+draws a stick figure with no face. Beside it, another stick figure with 
+two faces. He labels them both with the same name.
+
 "Du skola icke bli ett med din mask. Din mask ska bli ett med dig."
 
 The Verboten manifesto's commandment about masks contains, compressed into two sentences, the entire problem-space this probe investigates. The conventional anxiety about digital self-representation runs in one direction: we fear becoming our masks — fear that the curated, performed, strategically optimized version of ourselves will consume the "real" person underneath. The manifesto reverses the vector. The mask should become you. Not the dissolution of the real into the performed, but the absorption of performance into identity until the distinction ceases to function.

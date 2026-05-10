@@ -1,4 +1,19 @@
 ---
+title: "Förlagsdeckaren Del x: Lectures and Workshops"
+date: "2026-04-07"
+summary: "reporting from Verboten Media deep-culture cultural workshops."
+type: "analysis"
+status: "draft"
+author: "Martin Nygren"
+layout: shortstory
+recommendation: WIthold, withdraw or sustain mocumentaryness?
+---
+
+![Fellowes AutoMax 200C.](/../../.png)
+
+<!-- IMAGE PLACEHOLDER: lecture handout pinned beside a logistics-center worktable, with marked cards, workshop headings, and northbound map lines connecting Kiruna, Sandtr?sk, Lule?, and Borderland. -->
+
+---
 title: "Verboten Media Workshop Dispatches – Days 1-3"
 status: internal
 type: satellite-chapter
@@ -18,6 +33,8 @@ Nio reportage från tre dagar av skrivarverkstäder som vägrar lyda. Jävligt b
 *Sammanställt av Dispatch-redaktionen · Publicerat 13 april 2026*
 
 Under tre dagar — måndag till onsdag — genomförde Verboten Medias Lektyrstuga-serie nio skrivarverkstäder spridda från polcirkeln till rymdstationen, från Malmö hamn till Köpenhamns kyrkogårdar. Det som förenar dem är ett gemensamt credo: intressedriven elektronisk surrealism mitt i naturens uppmärksamhetsekonomi. Det förbjudna är det nödvändiga. Fiktionen infiltrerar verkligheten. Nio journalister — alla med olika format och röster — rapporterar från insidan.
+
+![Fellowes AutoMax 200C.](/../../.png)
 
 **DAG 1 — MÅNDAG**
 
@@ -71,6 +88,8 @@ Det räckte.
 
 | Faktaruta — Bonitetens hemlighet<br>Kategori<br>Data<br>Antal deltagare<br>9 (inkl. journalist)<br>Antal uppmätta tallar<br>27 (3 per deltagare)<br>Omgivande skogs bonitet<br>1,0–2,2 m³sk/ha/år<br>Genomsnittlig diameter i brösthöjd<br>21,4 cm<br>Battleship-matcher (Arthur, hela dagen)<br>8 spelade, 3 vunna, 5 förlorade<br>Stugans inköpspris (sent 1980-tal)<br>450 000 SEK<br>Lunch<br>Renskav med potatis (Maris Piper-typ, enligt värd) |
 | --- |
+
+![Fellowes AutoMax 200C.](/../../.png)
 
 **ARTIKEL 2 · TEKNIKBLOGG / SUBSTACK-ESSÄ**
 
@@ -130,6 +149,8 @@ Jag vill inte erkänna det, men det här var det mest intellektuellt generösa j
 
 | Faktaruta — Utgrävningen<br>Kategori<br>Data<br>Discord-serverns medlemmar<br>47 totalt, 14 aktiva deltagare<br>Djupaste lagret nått av samtliga<br>Lager 5 (tystnad)<br>Fotbollsspel diagrammerade<br>11 st.<br>Discord-glitchar (dokumenterade)<br>7 st., varav 3 med katt<br>Workshop-längd<br>3 timmar 12 minuter<br>Finska arkivet — detaljer avslöjade<br>Fragmentariska: 1 dokument, 1 temperatur, 1 djupangivelse<br>Katter observerade<br>Minst 1, möjligen 2 |
 | --- |
+
+![Fellowes AutoMax 200C.](/../../.png)
 
 **ARTIKEL 3 · BIBLIOTEKETS KULTURNYTT**
 
@@ -192,7 +213,7 @@ Mary lämnade biblioteket klockan 16:30. Hon tog med sig sin tunna bunt papper. 
 | Faktaruta — Utvärderingsmodellen<br>Kategori<br>Data<br>Mötesrum<br>Glasväggat, vån. 3, Stadsbiblioteket Göteborg<br>Bokning<br>6 timmar under rubriken "Skrivarverkstad — utvärderingsmetodik"<br>Anmälda / närvarande<br>12 / 14<br>Antal utvärderingskriterier designade (totalt)<br>87 (snitt 6,2 per deltagare)<br>Marys karriärhöjdpunkter (nämnda)<br>Tatueringsstudio, Bob Dylan, Zlatan<br>Kaffe serverat<br>2 kannor à 1,5 liter = 3 liter<br>Marys kaffeintag<br>0 dl<br>Wilmas tystnad (mätt)<br>11 sekunder |
 | --- |
 
-**DAG 2 — TISDAG**
+![Tisdag, dag 2.](/../../.png)
 
 **ARTIKEL 4 · SJÖFARTSTIDNINGEN**
 
@@ -238,6 +259,7 @@ Jag har skrivit om containerflöden i femton år. Jag kommer att fortsätta. Men
 
 | Faktaruta — Kursen och strömmen<br>Kategori<br>Data<br>Färjans specifikationer<br>Avkommissionerad Stena Line, 170 m, 24 000 BRT, kulturhus sedan 2024<br>Antal sjökortskoordinater använda<br>38 unika koordinater, Öresund<br>Grader roderförskjutning (totalt)<br>9° (fördelade på 4 manövrer: 2°, 1°, 3°, 3°)<br>Deltagare<br>11 (inkl. 6 gymnasieelever från Helsingborg)<br>Langlets piptändningsförsök<br>3 st. (0 lyckade)<br>Langlets kommentar om kidnappning vs. rökförbud<br>"Rökförbudet irriterar mig mer" |
 | --- |
+![Fellowes AutoMax 200C.](/../../.png)
 
 **ARTIKEL 5 · TVÅSPRÅKIG ZINE / KÖPENHAMNS UNDERJORDISKA KULTURPRESS**
 
@@ -289,6 +311,8 @@ Det var den viktigaste kvällen i mitt liv. Jag stryker fortfarande inte meninge
 
 | Faktaruta — Den ironiska pizzan<br>Kategori<br>Data<br>Grav besökt<br>Søren Kierkegaard, Assistens Kirkegård, Nørrebro<br>Pizzor döpta<br>11 st. + 1 avslutande ("Graven")<br>Drycker konsumerade (gruppen)<br>Ca 34 Tuborg, 7 glas vin, 3 kaffe<br>Uppriktiga tårar fällda<br>3 (Frederik, Astrid, en anonym)<br>Kierkegaardcitat felattribuerade<br>2 (ett tillskrivet Hegel, ett tillskrivet "nån dansk")<br>Bananer i Bongus ficka<br>1 (oäten hela kvällen)<br>Tyskt ord använt utan förklaring<br>"Wahrheit" |
 | --- |
+
+![Fellowes AutoMax 200C.](/../../.png)
 
 **ARTIKEL 6 · SPEKULATIV JOURNALISTIK / SKANDINAVISK TEKNIKKULTUR**
 
@@ -345,7 +369,8 @@ Länken bryts. Skärmen visar ISS-logotypen, sedan svart. Fjorton personer sitte
 | Faktaruta — Fyra sekunder<br>Kategori<br>Data<br>Satellitfördröjning (nominell)<br>4 sekunder<br>Maximal uppmätt fördröjning<br>11 sekunder (20:32 CET)<br>Deltagare<br>14 i 5 tidszoner (Stockholm, Reykjavik, Nairobi, Teheran, Tokyo)<br>ISS omloppshöjd under sessionen<br>~408 km<br>Svarta låda-metaforer genererade<br>23 unika formuleringar<br>Workshop-längd<br>2 timmar 4 minuter<br>Yukis sömntillstånd vid slut<br>"Jag tror att jag kan sova nu" |
 | --- |
 
-**DAG 3 — ONSDAG**
+
+![**DAG 3 — ONSDAG**](/../../.png)
 
 **ARTIKEL 7 · AKADEMISK KONFERENS / PAPER MED JOURNALISTKOMMENTAR**
 
@@ -402,6 +427,9 @@ Jag åkte tillbaka till Luleå samma kväll. Mitt paper om reproduktion i skandi
 | Faktaruta — Replikanten i stugan<br>Kategori<br>Data<br>Klonbeteendeavvikelser observerade<br>4 (skrattfördröjning, betoningsskift, Battleship-taktik, leende)<br>Texter replikerade<br>6 original → 6 kloner<br>Genomsnittlig mutationsfrekvens<br>3,8 mutationer per 1000 ord<br>Finska arkivdokumentets status<br>Delvis översatt, syfte okänt, datering: uppskattningsvis 1970-tal<br>Battleship-taktikskillnad<br>Klonen: diagonala öppningar. Arthur: horisontella svep.<br>Deltagare som kom som observatörer<br>1 (artikelns författare) |
 | --- |
 
+
+![Fellowes AutoMax 200C.](/../../.png)
+
 **ARTIKEL 8 · GONZO-REPORTAGE / UNDERGROUND**
 
 ### Rondellhunden som wallraffade sig själv
@@ -455,6 +483,8 @@ Ingen frågade. Det behövdes inte. Texten frågade åt dem.
 | Faktaruta — Rondellhunden som wallraffade sig själv<br>Kategori<br>Data<br>Rondellens diameter<br>Ca 12 meter (uppskattad)<br>Kebabbeställningar<br>5 kebab (3 med allt, 1 utan lök, 1 vegetarisk)<br>Diktafoninspelningar genererade<br>6 st., total längd ca 4 tim 20 min<br>Tidningar som tidigare täckt F-fattarens rondellaktiviteter<br>Norrbottens-Kuriren (1 artikel, 2023)<br>Soluppgång<br>05:07 lokal tid<br>Hassans kommentar<br>"Ni är skribenter?" — "Vi är subjekt." |
 | --- |
 
+
+![Fellowes AutoMax 200C.](/../../.png)
 **ARTIKEL 9 · REKLAMBRANCHENS FACKTIDSKRIFT**
 
 ### Copywriterns begravning
@@ -528,8 +558,21 @@ Den var inte en metafor. Den var en Fellowes AutoMax 200C. Och den gjorde sitt j
 
 ### Efterord
 
-Tre dagar. Nio workshops. Nio olika röster, nio olika format, nio olika platser — från polcirkeln till omloppsbana, från rondeller till dokumentförstörare. Verboten Medias Lektyrstuga-serie är inte en konferens. Det är inte ett retreat. Det är inte ens, i strikt mening, en skrivarverkstad. Det är något annat: en serie moduler — Tankefigurer, Spegelproxesser, SST-system — som samverkar med platser, kroppar och texter för att producera det som Verboten Media kallar jävligt bra litteratur i ett nytt format.
+Tre dagar. 
 
-Det förbjudna är det nödvändiga. Fiktionen infiltrerar verkligheten. Verkligheten infiltrerar tillbaka.
+Nio workshops. 
+
+Nio olika röster, nio olika format, nio olika platser — från polcirkeln till omloppsbana, från rondeller till dokumentförstörare. 
+
+Verboten Medias Lektyrstuga-serie är inte en konferens. Det är inte ett retreat. Det är inte ens, i strikt mening, en skrivarverkstad. 
+
+Det är något annat: en serie moduler — Tankefigurer, Spegelproxesser, SST-system — som samverkar med platser, kroppar och texter för att producera det som Verboten Media kallar jävligt bra litteratur i ett nytt format.
+
+Det förbjudna är det nödvändiga. 
+
+Fiktionen infiltrerar verkligheten. 
+
+Verkligheten infiltrerar tillbaka.
 
 © 2026 Verboten Media Workshop Dispatches. Alla texter är fiktiva. Alla karaktärer är påhittade. Alla pizzor är namngivna. Alla dokumentförstörare är verkliga.
+
