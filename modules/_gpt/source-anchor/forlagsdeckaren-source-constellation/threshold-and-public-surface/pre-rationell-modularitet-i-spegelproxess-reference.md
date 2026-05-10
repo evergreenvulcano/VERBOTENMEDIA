@@ -1,14 +1,14 @@
 # Pre-rationell Modularitet i Spegelproxess
 
-This is a local reference note for a source file supplied by the user but not successfully copied into this repo as a binary during this pass.
+This is a local reference note for the workshop-shell source identity.
 
 Original file name:
 
 - `Verboten Media Skrivworkshop Pre-rationell modularitet i spegelproxess.docx`
 
-Original external path:
+Historical external provenance:
 
-- `C:/Users/cooki/OneDrive/Documents/quarantine_sortera_MINPOOL/poetrypool/Verboten Media Skrivworkshop Pre-rationell modularitet i spegelproxess.docx`
+- recorded in `../legacy-provenance.md`
 
 User-supplied description:
 
@@ -16,7 +16,7 @@ User-supplied description:
 - no body text, no tables, no headers
 - only the filename and a blank page
 
-Normalization relevance for Del 6:
+Source-function relevance:
 
 - the title itself is the artefact
 - the workshop exists as a performative placeholder rather than as content

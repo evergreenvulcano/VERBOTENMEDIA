@@ -1,14 +1,14 @@
 # MELLANRUBRIKER — Verboten Media sensommaren 2024
 
-This is a local reference note for a source file supplied by the user but not successfully copied into this repo as a binary during this pass.
+This is a local reference note for the heading-map source identity.
 
 Original file name:
 
 - `MELLANRUBRIKER_ Verboten Media sensommaren 2024.docx`
 
-Original external path:
+Historical external provenance:
 
-- `C:/Users/cooki/OneDrive/Documents/quarantine_sortera_MINPOOL/poetrypool/MELLANRUBRIKER_ Verboten Media sensommaren 2024.docx`
+- recorded in `../legacy-provenance.md`
 
 User-supplied description:
 
@@ -24,12 +24,12 @@ Proof-of-concept essay units named by the user:
 - `Övergången från techautist till familjeman för 30-åriga memare`
 - `Författarrollen som "social" funktion`
 
-Normalization relevance for Del 7:
+Source-function relevance:
 
 - this is the source doctrine
 - the subheading is the unit of editorial condensation
 - sprawling thought material is cooked down into modular, reusable public-facing units
-- Del 7 should treat these headings as load-bearing rooms, not loose labels
+- the packet should treat these headings as load-bearing rooms, not loose labels
 
 Editorial implication:
 

@@ -16,59 +16,47 @@ Reason: This stream is a distinct continuous-run branch with its own recurring a
 Path: `generated-stream_merge-hackerstory-active-front-lineage.md`
 Origin: copilot.microsoft.com/tasks (merge_hackerstory active-front lineage)
 Status: active
-Reason: This stream is a separate active-front run branch with recurring Del 5/Grounding/Tankefigur ingest structure.
+Reason: This stream is a separate active-front run branch with recurring early Forlagsdeckaren/Grounding/Tankefigur ingest structure.
 
 ## Unassigned
 Path: `unassigned-fragments.md`
 Status: only if needed
 
-## forlagsdeckaren-del-6-source-packet
-Path: `forlagsdeckaren-del-6-13/del-6/README.md`
-Origin: user-supplied external source files and descriptions for Del 6 normalization
+## forlagsdeckaren-threshold-and-public-surface-source-packet
+Path: `forlagsdeckaren-source-constellation/threshold-and-public-surface/README.md`
+Origin: user-supplied external source files and descriptions for strategic threshold, public surface, ideation, and workshop-shell material
 Status: active
-Reason: This packet anchors the staged Del 6 text to named external artefacts: strategic letter, website source, ideation document, and workshop-shell placeholder.
+Reason: This packet anchors closed-registration language, website source, institutional ideation, and pre-rational modularity as access-denial and public-surface sources.
 
-## forlagsdeckaren-del-7-source-packet
-Path: `forlagsdeckaren-del-6-13/del-7/README.md`
-Origin: user-supplied external source files and descriptions for Del 7 normalization
+## forlagsdeckaren-heading-extraction-and-deployment-source-packet
+Path: `forlagsdeckaren-source-constellation/heading-extraction-and-deployment/README.md`
+Origin: user-supplied external source files and descriptions for heading doctrine, aphorism extraction, workflow schema, Stride deployment, and rubrikskelett logic
 Status: active
-Reason: This packet anchors the staged Del 7 text to the heading-map doctrine, aphorism-extraction workflow, Stride deployment schema, and the rubrikskelett concept.
+Reason: This packet anchors condensation-as-method: headings, extraction machinery, schema, deployment context, and reframing pressure.
 
-## forlagsdeckaren-del-8-source-packet
-Path: `forlagsdeckaren-del-6-13/del-8/README.md`
-Origin: user-supplied external source files and descriptions for Del 8 normalization
+## forlagsdeckaren-infrastructure-migration-and-shadow-copy-source-packet
+Path: `forlagsdeckaren-source-constellation/infrastructure-migration-and-shadow-copy/README.md`
+Origin: user-supplied source files and descriptions for migration, pre-migration artefact body, infrastructure theory, style, node, ritual, and shadow-copy material
 Status: active
-Reason: This packet anchors the staged Del 8 text to the pre-migration artefact body, the upstream dilledalle/Valkyrie document, and the embedded ritual/node/shadow-copy references that Del 8 metabolizes into fiction.
+Reason: This packet anchors migration-as-transubstantiation: artefact body, administrative substrate, file-system theory, ritual instruction, and shadow-copy architecture.
 
-## forlagsdeckaren-del-9-source-packet
-Path: `forlagsdeckaren-del-6-13/del-9/README.md`
-Origin: user-supplied screenshots and source descriptions for Del 9 normalization
+## forlagsdeckaren-archive-object-cartography-and-signals-source-packet
+Path: `forlagsdeckaren-source-constellation/archive-object-cartography-and-signals/README.md`
+Origin: user-supplied screenshots and source descriptions for withheld novel-object, mindmap, cult-edition, black-box, and signal material
 Status: active
-Reason: This packet anchors the staged Del 9 text to the withheld novel object, mindmap screenshots, and the embedded Kultupplagan / Svart låda / gong-gong structures that narrate the archive giving birth to its own artefact.
+Reason: This packet anchors object-status, archive birth, cartographic evidence, edition/event collapse, catastrophe container, and signal architecture.
 
-## forlagsdeckaren-del-10-source-packet
-Path: `forlagsdeckaren-del-6-13/del-10/README.md`
-Origin: user-supplied source file and source descriptions for Del 10 normalization
+## forlagsdeckaren-abdication-pipeline-and-surplus-source-packet
+Path: `forlagsdeckaren-source-constellation/abdication-pipeline-and-surplus/README.md`
+Origin: user-supplied source files and descriptions for exit interview, threshold draft, fax layers, campaign timing, surplus artefact, analytics, pipeline, dashboard, silent synapses, and reflex logic
 Status: active
-Reason: This packet anchors the staged Del 10 text to the standalone Swedish exit interview transcript plus the threshold-draft, fax, and campaign-timing layers that only exist in the gap between transcript and chapter retelling.
+Reason: This packet anchors publisher withdrawal, autonomous continuation, surplus publication, metric failure, return signals, and continuation as reflex.
 
-## forlagsdeckaren-del-11-source-packet
-Path: `forlagsdeckaren-del-6-13/del-11/README.md`
-Origin: user-supplied source file and source descriptions for Del 11 normalization
+## forlagsdeckaren-grounding-tankefigur-and-bifigure-source-packet
+Path: `forlagsdeckaren-source-constellation/grounding-tankefigur-and-bifigure/README.md`
+Origin: user-supplied source files and descriptions for grounding register, Tankefigur method, second Praktikanten body, post-it cartography, page trigger, and bifigure material
 Status: active
-Reason: This packet anchors the staged Del 11 text to the standalone twenty-fifth-child artefact plus the 25/24 anomaly, analytics stillness, return-fax, and conversion-log layers that make the chapter read as system-surplus rather than sequel only.
-
-## forlagsdeckaren-del-12-source-packet
-Path: `forlagsdeckaren-del-6-13/del-12/README.md`
-Origin: user-supplied source descriptions for Del 12 normalization
-Status: active
-Reason: This packet anchors the staged Del 12 text to an embedded-only reflex architecture: pipeline, auto-publish event, satellite dashboard, silent synapses, and reflex arc. No standalone source files are expected for this chapter.
-
-## forlagsdeckaren-del-13-source-packet
-Path: `forlagsdeckaren-del-6-13/del-13/README.md`
-Origin: user-supplied source files and source descriptions for Del 13 normalization
-Status: active
-Reason: This packet anchors the staged Del 13 text to the existing 20-card grounding register, the Tankefigur method documents, the parallel companion body `Den andra Praktikanten`, and the embedded post-it/page-203/bifigur structure that splits the grounder in two.
+Reason: This packet anchors grounding as method event, metadata as ritual surface, physical cartography, bifigure logic, and character invariance across agent/body variation.
 
 ## copilot-runs-0501-0506-source-packet
 Path: `copilot-runs-0501-0506/README.md`
