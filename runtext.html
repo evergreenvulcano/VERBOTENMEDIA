@@ -263,12 +263,50 @@
           .trim();
       }
 
+      function splitHard(text, limit) {
+        var out = [];
+        var active = '';
+
+        text.split(/\s+/).forEach(function (word) {
+          if (word.length > limit) {
+            if (active) {
+              out.push(active);
+              active = '';
+            }
+            for (var i = 0; i < word.length; i += limit) {
+              out.push(word.slice(i, i + limit));
+            }
+            return;
+          }
+
+          var next = active ? active + ' ' + word : word;
+          if (active && next.length > limit) {
+            out.push(active);
+            active = word;
+          } else {
+            active = next;
+          }
+        });
+
+        if (active) out.push(active);
+        return out;
+      }
+
       function splitLong(part) {
         if (part.length <= partLimit) return [part];
         var sentences = part.match(/[^.!?]+[.!?]+|[^.!?]+$/g) || [part];
         var out = [];
         var active = '';
         sentences.forEach(function (sentence) {
+          sentence = sentence.trim();
+          if (sentence.length > partLimit) {
+            if (active) {
+              out.push(active);
+              active = '';
+            }
+            splitHard(sentence, partLimit).forEach(function (piece) { out.push(piece); });
+            return;
+          }
           var next = active ? active + ' ' + sentence.trim() : sentence.trim();
           if (active && next.length > partLimit) {
             out.push(active);
