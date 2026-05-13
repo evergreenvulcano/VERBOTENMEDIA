@@ -1,58 +1,61 @@
 # Chambers #01 — Salvaged Working File
 
-Status: cleaned salvage from an overgrown chamber prototype  
+Status: corrected salvage from overgrown chamber prototype  
 Source field: NotebookLM surrealist vault, 50 sources  
-Use status: working method + current result, not canon  
-Next move: use this file, not the chat, as the handoff surface
+Use status: run artifact / working method, not canon  
+Project status: not project-owned  
+Next use: either deep research handoff, or a new chamber probe using the original General Chamber Probe plus stop rule
 
-## 0. What this is
+## 0. What happened
 
-This file preserves the usable value from the Chambers #01 mess.
+The original General Chamber Probe worked.
 
-The original run overproduced prompts, commentary, and meta-instructions. The useful result is simpler:
+The failure was not the probe. The failure was the missing stop / handoff rule after the first useful chamber outputs.
 
-A large source field was probed.
-The chamber repeatedly found the same pressure-structure.
-That structure became a provisional node.
-The node was normalized.
-The normalized node proved capable of supporting document/artifact forms.
-Those forms resolved into an apparatus cycle.
-That cycle can now feed deep research.
-
-No more chamber runs are needed on this source field before research.
-
-## 1. The reusable operation
-
-Use this operation when a large external source field might later support a book, document, dossier, manual, catalogue, bulletin, or shelf-object inside a story world.
-
-Pipeline:
+The run kept moving through extra phases:
 
 ```text
-large source field
-→ chamber extraction
-→ convergence / normalization / apparatus findings
-→ deep research brief
-→ real-world sourcing and verification
-→ book-object dossier candidate
-→ later fictional canalization
+capsules
+→ convergence
+→ node
+→ normalization
+→ artifact-fitness
+→ apparatus
+→ meta-discussion
 ```
 
-The chamber does not create the book-object.
-The chamber produces orientation.
+That created useful material, but also too much procedural residue.
 
-Deep research does not prove the chamber right.
-Deep research sources, corrects, complicates, and verifies.
+This file preserves only the usable result and the corrected future rule.
 
-The book-object dossier is not fiction yet.
-It is the first source-backed candidate for later fictional use.
+## 1. Correct rule for future chambers
 
-Fictional canalization happens last.
+Use the original **General Chamber Probe** as the base instrument.
 
-## 2. What the chamber found in this run
+Add this terminal rule:
 
-### Source-field result
+```md
+After the capsule output, stop.
 
-The surrealism / BRS / inadmissible-research field produced a stable chamber-derived construct:
+Only add:
+1. repeated attractor, if obvious
+2. provisional source-field node, if earned
+3. deep research handoff, if useful
+
+Do not proceed into convergence, normalization, apparatus testing, canalization, or follow-up command generation unless explicitly asked.
+```
+
+Short name:
+
+```text
+General Chamber Probe + Stop / Handoff Rule
+```
+
+## 2. Current result from Chambers #01
+
+The surrealism / BRS / inadmissible-research source field produced one usable source-field result.
+
+### Provisional analytic construct
 
 **Diagonal Epistemology**
 
@@ -68,13 +71,11 @@ inadmissible material
 → altered knowledge-form
 ```
 
-### Stabilized apparatus
-
-The node resolved into an apparatus model:
+### Apparatus model
 
 **Laboratory of the Inadmissible**
 
-Again: this is a working analytic name, not a project-owned historical claim.
+This is a working apparatus model, not a canon term and not project-owned.
 
 ### Apparatus cycle
 
@@ -89,7 +90,7 @@ Meaning:
 - Collective Testing: procedures, games, or shared constraints test the material socially.
 - Public Mediation: findings circulate through bulletin, journal, dossier, report, or institutional residue.
 
-## 3. Strong document forms
+## 3. Strong document forms found
 
 The chamber found four strong forms and one unstable temptation.
 
@@ -130,32 +131,29 @@ The whole apparatus fails if its outputs become:
 
 The source field must remain external until research verifies what can travel.
 
-## 5. Stop condition for this run
+## 5. Stop condition for this source field
 
 Stop chamber extraction here.
 
-This run has already reached:
+This source field has already produced enough chamber value for one cycle.
+
+Next serious move:
 
 ```text
-capsules
-→ convergence node
-→ normalization
-→ artifact-fitness
-→ apparatus cycle
+deep research handoff
+→ real-world sourcing and verification
+→ book-object dossier candidate
+→ later fictional canalization
 ```
 
-Do not keep probing the same source field tonight unless the purpose is play, not method.
+Do not keep probing the same source field unless the purpose is play, not method.
 
-For method, the next serious step is deep research.
-
-## 6. Deep research handoff
+## 6. Deep research handoff for Chambers #01
 
 Use the chamber findings as orientation, not proof.
 
-Research task:
-
 ```md
-Use the chamber findings from Chambers #01 as an orientation map for real-world sourcing and verification.
+Use the Chambers #01 findings as an orientation map for real-world sourcing and verification.
 
 Do not prove the chamber right.
 Do not fictionalize.
@@ -181,37 +179,32 @@ Output:
 - bibliography
 ```
 
-## 7. If you want to probe another node tonight
+## 7. Prompt to use for a new chamber
 
-Do not repeat the whole ten-run chain.
+Use the original General Chamber Probe.
 
-Use this shorter chamber command:
+Append this stop / handoff rule:
 
 ```md
-Run Chamber Extraction on this source field.
+After the capsule output, stop.
 
-Served question:
-What pressure in this source field could later support a document, dossier, book-object, manual, catalogue, bulletin, or institutional artifact without turning the source into lore?
+Only add:
+1. repeated attractor, if obvious
+2. provisional source-field node, if earned
+3. deep research handoff, if useful
 
-Output:
-1. maximum 3 pressure capsules
-2. repeated attractors if visible
-3. one provisional source-field node if earned
-4. misuse boundaries
-5. deep research handoff if the node is strong
-
-Stop after the handoff.
-Do not normalize, apparatus-test, or canalize unless explicitly asked.
+Do not proceed into convergence, normalization, apparatus testing, canalization, or follow-up command generation unless explicitly asked.
 ```
+
+No replacement prompt is needed.
 
 ## 8. Practical handling
 
-Keep this cleaned file as the working surface.
+This file is a run artifact.
 
-The original long Chambers #01 file can remain as raw evidence, but should not be used as the operational prompt.
+It is not canon.
+It is not public text.
+It is not a protocol file yet.
+It should not replace the original General Chamber Probe.
 
-Recommended split:
-
-- Keep raw file: evidence / archive only.
-- Use this file: working method and current result.
-- Next action: either run deep research from section 6, or start a fresh short probe from section 7.
+Its only job is to preserve the result of Chambers #01 and correct the future usage rule.
