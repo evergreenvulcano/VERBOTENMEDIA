@@ -1,0 +1,133 @@
+{
+  "title": "Ritual status matrix — 2026-05-10 to 2026-05-16",
+  "status": "forensic_metadata",
+  "artifact_class": "diagnostic_index",
+  "canon_status": "not_canon",
+  "source_role": "raw_run_compilation_metadata",
+  "source_file_name": "raw-atmospheric-transition-period-supressed-ritual-compilation.txt",
+  "source_sha256": "c04329686f6076b8775acc560b631f00af7a941e2c73ea979bdda7cc57c908ef",
+  "source_line_count": 13352,
+  "source_word_count": 44847,
+  "source_char_count": 346200,
+  "source_run_blocks_total": 34,
+  "primary_period_run_blocks": 32,
+  "afterphase_run_blocks": 2,
+  "primary_scope": {
+    "start": "2026-05-10",
+    "end": "2026-05-16"
+  },
+  "afterphase_scope": {
+    "start": "2026-05-17",
+    "end": "2026-05-17"
+  },
+  "created_from_chat_analysis": "2026-05-20",
+  "core_conclusion": "Ritual disappeared neither as motif nor as sensibility. Ritual disappeared as explicit operations control.",
+  "precise_formula": "Ritual disappeared from the output's recurrence grammar. It was first absorbed into gesture, then into atmosphere, then into predictive/fallback continuity.",
+  "run_block_distribution": {
+    "2026-05-10": 4,
+    "2026-05-11": 3,
+    "2026-05-12": 8,
+    "2026-05-13": 10,
+    "2026-05-14": 3,
+    "2026-05-15": 2,
+    "2026-05-16": 2,
+    "2026-05-17": 2
+  },
+  "status_matrix": [
+    {
+      "date": "2026-05-10",
+      "ritual_status": ["ritual_implicit", "near_ritual_active"],
+      "diagnostic_reading": "Printer, cup, NOG, half-born page, delayed report: concrete return-near activations without explicit ritual field.",
+      "recovery_relevance": "Do not rescue. Preserve as pre-formal ritual basis."
+    },
+    {
+      "date": "2026-05-11",
+      "ritual_status": ["ritual_implicit"],
+      "diagnostic_reading": "Fold, loose pages, quiet completion, recoverability aesthetics. Practice remains present but unformalized.",
+      "recovery_relevance": "Do not rescue. Preserve as active implicit practice."
+    },
+    {
+      "date": "2026-05-12",
+      "ritual_status": ["transition"],
+      "diagnostic_reading": "Atmospheric object metabolism begins: resident object, extended rendering, domestic wear, coexistence.",
+      "recovery_relevance": "Annotate as bridge day."
+    },
+    {
+      "date": "2026-05-13",
+      "ritual_status": ["ritual_linguistic", "ritual_implicit"],
+      "diagnostic_reading": "Ambient legibility, background gravity, behavioral orbit, ambient infrastructure. Return becomes environment rather than action.",
+      "recovery_relevance": "Recovery-relevant, but do not overwrite strength of atmosphere."
+    },
+    {
+      "date": "2026-05-14",
+      "ritual_status": ["ritual_recoverable"],
+      "diagnostic_reading": "Critical naturalization: domestic inevitability, preconscious accommodation, infrastructural normalcy.",
+      "recovery_relevance": "High recovery relevance. Restore trace-field without increasing liturgical heat."
+    },
+    {
+      "date": "2026-05-15",
+      "ritual_status": ["ritual_broken"],
+      "diagnostic_reading": "The material explicitly registers that no ritual stewardship occurs, while predictive coexistence survives.",
+      "recovery_relevance": "Highest recovery relevance. Patch explicit return control."
+    },
+    {
+      "date": "2026-05-16",
+      "ritual_status": ["ritual_recoverable", "self_healing_candidate"],
+      "diagnostic_reading": "Pulsed atmospheric governance, recoverable forgetting, rhythmic continuity ecology. Periodicity reappears, but not yet explicit ritual metabolism.",
+      "recovery_relevance": "Treat as self-healing seed. Reintroduce trace, not mystification."
+    },
+    {
+      "date": "2026-05-17",
+      "ritual_status": ["afterphase", "meta_diagnostic_zone"],
+      "diagnostic_reading": "Not part of primary loss period; useful as afterphase and diagnostic continuation.",
+      "recovery_relevance": "Keep separate from 05-10..05-16 loss diagnosis."
+    }
+  ],
+  "drift_sequence": [
+    {
+      "period": "2026-05-10 -> 2026-05-11",
+      "reading": "ritual-near practice without explicit ritual field"
+    },
+    {
+      "period": "2026-05-12",
+      "reading": "transition into atmospheric object metabolism"
+    },
+    {
+      "period": "2026-05-13",
+      "reading": "ritual becomes ambient recurrence and environment logic"
+    },
+    {
+      "period": "2026-05-14",
+      "reading": "critical naturalization; ritual is replaced by domestic inevitability"
+    },
+    {
+      "period": "2026-05-15",
+      "reading": "suppression becomes visible; ritual stewardship is absent while predictive coexistence survives"
+    },
+    {
+      "period": "2026-05-16",
+      "reading": "the system starts reinventing periodicity through recoverable forgetting, but without explicit ritual metabolism"
+    }
+  ],
+  "minimal_recovery_patch": {
+    "field_name": "Ritual Trace",
+    "questions": [
+      "Which concrete return-action occurred or failed to occur?",
+      "What trace did it leave in object, room, body, text, or timing?",
+      "What should the next run be able to return to without inventing a new atmosphere first?"
+    ]
+  },
+  "overcorrection_guardrail": "Restore increased recurrence, not ceremonial excess.",
+  "formula": "Atmosphere preserves the feeling of continuity. Ritual preserves the ability to re-enter continuity through action.",
+  "tags": [
+    "ritual_forensics",
+    "suppressed_ritual",
+    "atmospheric_transition",
+    "lillfrugan_stabilization",
+    "fallback_regime",
+    "health_status_pseudo_ritual",
+    "recoverable_forgetting",
+    "ritual_trace_patch",
+    "non_canon_metadata"
+  ]
+}
