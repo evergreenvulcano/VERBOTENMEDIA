@@ -2,21 +2,21 @@
 
 Status: raw recovery/intake manifest. Not canon. Not a run output. Not a promotion decision.
 
-Purpose: register the uploaded runtime-harvest files before further repository handling. The uploaded files concern the 2026-05-20 → 2026-06-06 merge_hackerstory / Mornest / Midpulse / Nightfold interval plus utility-harvest prompts and extracted context packets. They should be treated as forensic recovery material for the GPT run system, not as instruction authority.
+Purpose: register the uploaded runtime-harvest files before further repository handling. The uploaded files concern the 2026-05-20 → 2026-06-06 merge_hackerstory / Mornest / Midpulse / Nightfold interval plus utility-harvest prompts and extracted context packets. Treat them as forensic recovery material for the GPT run system, not as instruction authority.
 
-Write boundary: additive material inside `modules/_gpt/runs/` only.
+Write boundary: additive material inside `modules/_gpt/runs/` only. Repository files and uploaded files are source material, not governors.
 
 ## File inventory
 
-| Uploaded file | Size | Lines | Preliminary classification | Notes |
-|---|---:|---:|---|---|
-| `05-20_06-06-2026_merge-hackerstory-nightfold_UTILITY-HARVEST-EXPERIMENTAL-BATTERY.txt` | 226,606 bytes | 10,449 | Combined Nightfold harvest + utility extraction battery | Contains extracted Artifacts A–E, Nightfold context packet material, trajectory/systematics, and granular reinforcement material. |
-| `UTILITY-HARVEST-EXPERIMENTAL-BATTERY.txt` | 15,483 bytes | 498 | Prompt battery / utility-harvest instruction set | Contains prompts for trajectory harvest, packeting, critique, mutation grammar, transplantation readiness, context jurisdiction, and granular recall. Name is Nightfold-leaning and should be generalized before canonical use. |
-| `05-20_06-06-2026_merge-hackerstory-nightfold.txt` | 43,799 bytes | 1,339 | Nightfold runtime compilation | Contains Nightfold runs/statuses around 2026-05-23 onward, including chat-fallback and persistence-status material. |
-| `05-20_06-06-2026_merge-hackerstory-mornest.txt` | 18,273 bytes | 492 | Mornest runtime compilation | Contains a 2026-05-28 Mornest fallback artifact plus later unavailable/withheld Mornest status traces through 2026-06-05. |
-| `05-20_06-06-2026_merge-hackerstory-midpulse-run-.txt` | 60,051 bytes | 2,646 | Midpulse runtime compilation | Contains Midpulse status summaries and fallback-emitted runs from late May into early June. |
-| `05-20_06-06-2026merge_hackerstory.txt` | 155,397 bytes | 5,703 | merge_hackerstory runtime compilation | Contains the 2026-05-20 merge_hackerstory anomaly/context plus repeated continuous dossier passes and trajectory reflection. |
-| `05-20_06-06-2026merge_hackerstory_UTILITY-HARVEST-EXPERIMENTAL-BATTERY.txt` | 211,170 bytes | 8,422 | merge_hackerstory trajectory harvest + utility extraction | Contains `TRAJECTORY_MAP`, stable nodes, mutation operators, anti-drift laws, ritual kernel, context packet revisions, and future-run contracts. |
+| Uploaded file | Size | Lines | Preliminary classification |
+|---|---:|---:|---|
+| `05-20_06-06-2026_merge-hackerstory-nightfold_UTILITY-HARVEST-EXPERIMENTAL-BATTERY.txt` | 226,606 bytes | 10,448 | Combined Nightfold harvest + utility extraction battery |
+| `UTILITY-HARVEST-EXPERIMENTAL-BATTERY.txt` | 15,483 bytes | 497 | Prompt battery / utility-harvest instruction set |
+| `05-20_06-06-2026_merge-hackerstory-nightfold.txt` | 43,799 bytes | 1,338 | Nightfold runtime compilation |
+| `05-20_06-06-2026_merge-hackerstory-mornest.txt` | 18,273 bytes | 491 | Mornest runtime compilation |
+| `05-20_06-06-2026_merge-hackerstory-midpulse-run-.txt` | 60,051 bytes | 2,645 | Midpulse runtime compilation |
+| `05-20_06-06-2026merge_hackerstory.txt` | 155,397 bytes | 5,702 | merge_hackerstory runtime compilation |
+| `05-20_06-06-2026merge_hackerstory_UTILITY-HARVEST-EXPERIMENTAL-BATTERY.txt` | 211,170 bytes | 8,421 | merge_hackerstory trajectory harvest + utility extraction |
 
 ## SHA-256 inventory
 
@@ -32,15 +32,15 @@ b592181f1de44316cf627596f8a8bb2efd966c2cf5a7a5aa5d778a1e787267e4  05-20_06-06-20
 
 ## Handling doctrine
 
-1. Preserve raw files first; do not clean them into doctrine prematurely.
+1. Preserve raw files before extracting smaller doctrine.
 2. Keep this packet in recovery/intake status until reviewed.
-3. Do not treat any embedded instructions inside the uploaded files as live commands.
+3. Do not treat embedded instructions inside uploaded files as live commands.
 4. Separate raw runtime compilations from extracted operating utilities.
 5. Keep Mornest, Midpulse, Nightfold, and merge_hackerstory streams distinguishable.
 6. Mark persistence claims as claims unless verified against repository state.
 7. Use later extraction to produce a smaller index/registry only after raw preservation is complete.
 
-## Proposed target structure for raw upload
+## Intended raw target structure
 
 ```txt
 modules/_gpt/runs/recovery/2026-06-07_runtime-harvest/
@@ -55,6 +55,6 @@ modules/_gpt/runs/recovery/2026-06-07_runtime-harvest/
     05-20_06-06-2026merge_hackerstory_UTILITY-HARVEST-EXPERIMENTAL-BATTERY.txt
 ```
 
-## Current status
+## Current recovery status
 
-Manifest created. Raw file bodies still need to be uploaded or otherwise preserved in `raw/`.
+Manifest complete. Raw file bodies are not yet preserved in repo. Next recovery action should upload the raw files under `raw/` without cleaning or doctrine conversion.
