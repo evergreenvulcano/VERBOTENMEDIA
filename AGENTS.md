@@ -46,6 +46,36 @@ Do not collapse these states together. Source, staging, proposal, public content
 - Do not assume a publishing task authorizes renderer, script, or app changes.
 - When a new Writing is published, the markdown file and its `writings.html` card entry must stay aligned under the v1 publishing standard.
 
+
+## Usability-pass mandate
+
+When the live user explicitly authorizes a usability or public-surface build pass, agents may make concrete, scoped changes outside `modules/_gpt/` on the targeted public/static/rebuild surfaces. This does not weaken the protection model:
+
+- Read broadly before changing.
+- Write narrowly to the surfaces the task actually targets.
+- Keep source, staging, proposal, public content, and operational memory distinct.
+- Public-readable is not the same as public-ready. Use status labels instead of pretending GitHub-visible material is hidden.
+- Do not bulkimport Drive, XPRMNT-ZN originals, bankett packages, protected material, contamination zones, or raw source dumps.
+- Do not rewrite creative prose unless the live task explicitly asks for prose editing.
+- If deleting, parking, or moving material in the current tree, document the decision in `_rebuild/REMOVED_OR_PARKED_FOR_USABILITY.md` or a narrower task log.
+
+## Human-in-the-loop activation
+
+Major usability passes must produce both:
+
+1. a machine packet: files, diffs, pathlists, status registers, docs, implementation, or contracts; and
+2. an operator activation brief: `_rebuild/OPERATOR_DECISION_BRIEF.md`, written for Martin as a decision surface with no more than five real decisions, consequences, recommendations, postponed questions, and a short copy/paste prompt for continued discussion.
+
+An audit-only handoff is not sufficient when the live task asks for a build pass.
+
+## XPRMNT-ZN sluice discipline
+
+Future XPRMNT-ZN work must use `_rebuild/XPRMNT_ZN_REPO_SLUICE.md` as the default movement model. The repo is a sluice, not a bulkimport target. Prefer status cards, safe pointers, index entries, static renders, and public candidates with explicit metadata over importing originals. Praktikanten and Wise Consultant already exist as active bodies; do not reinvent them, and do not expand their public representation without repo-grounding and parallel Förlagsdeckaren thinking.
+
+## Bankett and underhållningsmode constraints
+
+Banketter must not be generated, excerpted, or imported without explicit paste/review, provenance, public-readiness, and static-render decision. The first named candidate is astrologi/radio-banketten, status `pending paste/review`. Underhållningsmode must remain external text-as-interface for Förlagsdeckaren as literary working body; do not turn it into a chatbot, personalized content feed, CTA funnel, or generic entertainment gimmick without explicit instruction.
+
 ## Linked specs
 
 - `docs/markdown-publishing-standard-v1.md`: canonical public markdown contract for Writings rendered through `page.html`.
