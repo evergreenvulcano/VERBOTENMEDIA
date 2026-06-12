@@ -35,6 +35,7 @@ lectures-workshops.html     Public offerings
 root *.html                 Public site shell and static pages
 css/style.css               Site design system
 js/main.js                  Minimal static rendering/navigation behavior
+utility_prompts/            Public utility/quest layer for routing external material through editorial operations
 static-pages/writings/      Public-ready or published writings surfaced by writings.html
 static-pages/experimental-sandbox/  Public-readable experimental markdown surfaces
 static-pages/xprmnt-zn/     Safe representational layer and sluice register templates for XPRMNT-ZN afterimages/status notes
@@ -78,6 +79,12 @@ Drive and local external workspaces may contain originals, XPRMNT-ZN material, b
 - Repo work should clarify status and surface boundaries rather than importing everything.
 
 Contact: [`contact.html`](contact.html).
+
+## Use the machine
+
+This repo can also be used as an editorial capacity battery: plug in material, choose a voice shield, choose an operation, choose a modulator, and get a playable v0 back.
+
+Start with [`utility_prompts/00_NORTHSTAR_CAPACITY_BATTERY_AND_QUEST_LAYER.md`](utility_prompts/00_NORTHSTAR_CAPACITY_BATTERY_AND_QUEST_LAYER.md). Utility prompts are the repo's public interface toward other people's material, not generic helper snippets. The first utility quest is [`UQ_PERIODICAL_MACHINE__material_to_issue_v0.md`](utility_prompts/UQ_PERIODICAL_MACHINE__material_to_issue_v0.md): give the machine a material cluster and ask for a possible periodical issue v0.
 
 ## Local preview
 
