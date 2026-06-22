@@ -1,6 +1,6 @@
 # Approved publication pass
 
-Date: 2026-06-23  
+Date: 2026-06-23
 Branch: `codex/hackerstory-html-refactor-line`
 
 ## Approved and implemented
