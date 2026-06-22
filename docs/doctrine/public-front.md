@@ -98,9 +98,27 @@ milestones.
 
 A Bankett may open future possibilities without promising next steps.
 
+### 8. Bounded Destabilization
+
+The public front may publish fragmentary artifacts, research specimens, and
+process bodies that destabilize the repository's existing categories.
+
+This is allowed when the instability is the point of the publication and its
+status is explicit. A specimen must not impersonate settled doctrine,
+canonical storyworld, finished literature, or neutral research. Its
+provenance conditions, mediation, incompletion, and capacity for later
+revision must remain legible.
+
+The repository is not only permitted to represent what it already is. It may
+use publication as a vector of becoming.
+
 ## Publication Consequence
 
 It is acceptable to publish something unfinished if it is methodologically clear.
 It is acceptable to refuse overexplanation. It is acceptable to say that some
 entrances are not for everyone. It is not acceptable to expose protected sources
 or convert the work into service logic.
+
+Explicit human authorization may open a named protected boundary for a bounded
+specimen publication. Such an opening applies to the named artifact and use; it
+does not silently declassify its source ecology or establish a general import rule.

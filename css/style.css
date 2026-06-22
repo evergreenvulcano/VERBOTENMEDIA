@@ -760,6 +760,19 @@ em     { font-style: italic; }
   background-color: var(--bg-alt);
 }
 
+.sandbox-item--specimen {
+  background:
+    radial-gradient(circle at 85% 15%, rgba(217, 121, 77, 0.12), transparent 24rem),
+    var(--bg);
+  border-top: 3px solid #d9794d;
+}
+
+.sandbox-item--specimen h3 a {
+  text-decoration: underline;
+  text-decoration-color: rgba(217, 121, 77, 0.45);
+  text-underline-offset: 0.18em;
+}
+
 .sandbox-item--large { grid-column: span 7; }
 .sandbox-item--medium { grid-column: span 5; }
 .sandbox-item--half { grid-column: span 6; }

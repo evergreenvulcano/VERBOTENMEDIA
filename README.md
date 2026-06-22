@@ -22,6 +22,7 @@ Additional public site surfaces:
 ```text
 writings.html               Public writings registry
 experimental-sandbox.html   Existing public experimental markdown registry
+research-specimens/hackerstory/  Published fragmentary HackerStory HTML artifacts
 capsules.html               Short public-facing knowledge/status units
 skalle.html                 Diegetic skull/brain-adjacent public surface
 runtext.html                Static running-text renderer
@@ -39,6 +40,7 @@ utility_prompts/            Public utility/quest layer for routing external mate
 static-pages/writings/      Public-ready or published writings surfaced by writings.html
 static-pages/experimental-sandbox/  Public-readable experimental markdown surfaces
 static-pages/xprmnt-zn/     Safe representational layer and sluice register templates for XPRMNT-ZN afterimages/status notes
+research-specimens/         Public artifacts whose fragmentary/process status is part of their form
 inbox/writings/             Staging; not canon by default
 modules/                    Source, development, machine-room, and active repo bodies; public-readable in GitHub but not automatically public-ready
 modules/_gpt/               Operational memory, runs, source anchors, and proposals

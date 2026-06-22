@@ -14,6 +14,8 @@ This file is intentionally referential. It defines the repo surfaces, the defaul
 ## Repo map
 
 - Root HTML, CSS, and JS files are the public site shell and renderer surfaces.
+- `research-specimens/` contains deliberately published process artifacts whose
+  fragmentary or unstable status is part of their public form.
 - `static-pages/writings/` and `static-pages/experimental-sandbox/` are public markdown content surfaces.
 - `writings.html` is the manual public registry for Writings cards.
 - `inbox/writings/` is staging for converted or normalized candidates. It is not canon by default.
@@ -31,7 +33,10 @@ This file is intentionally referential. It defines the repo surfaces, the defaul
 2. Staging: normalized conversion candidates are staged in `inbox/writings/`.
 3. Proposal: patch-ready outward candidates may be staged in `modules/_gpt/proposals/`.
 4. Public content: canonical public markdown lives in `static-pages/`, with Writings surfaced through `writings.html`.
-5. Operational memory: `_gpt/index/` and `_gpt/runs/` record maps, runs, and process state. They are not public content.
+5. Public specimens: selected process artifacts may live in `research-specimens/`
+   when explicit publication authorization preserves their non-canonical,
+   revisable, research status.
+6. Operational memory: `_gpt/index/` and `_gpt/runs/` record maps, runs, and process state. They are not public content.
 
 Do not collapse these states together. Source, staging, proposal, public content, and operational memory are distinct surfaces with different readiness and authority.
 
