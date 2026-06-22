@@ -1,12 +1,10 @@
 ---
 title: "AI får läsa, men inte ärva rösten"
 date: "2026-06-12"
-type: "public-nerve capsule"
-status: "ready / needs human review"
+type: "analysis"
+status: "published"
 layout: article
-review_required: true
 summary: "En operativ gräns mellan AI som läs-, sorterings- och diagnosverktyg och AI som otillåten röstärvare."
-source_note: "Prepared from public nerve / capsules integration v0 dispatch; human review required before treating as final publication."
 ---
 
 # AI får läsa, men inte ärva rösten

@@ -1,87 +1,83 @@
-# XPRMNT-ZN Public Representation
+# XPRMNT-ZN Public Passage
 
-Status: public-readable representational layer; not a bulk import; not an originals mirror.
+Status: publicerad experimentell passage; not a bulk import; not an originals mirror.
 
-This directory gives XPRMNT-ZN a safe repo/site afterimage. It does not claim to contain the zone itself. It may point to public-ready traces, reviewed status notes, and contracts that help humans and agents understand how to approach experimental material without importing it.
+This directory gives XPRMNT-ZN a public repo/site passage. It does not claim
+to contain the whole zone. It carries selected figures, ceremonies, method
+objects, research specimens, and contracts without importing every source body.
 
 ## Boundary
 
 Allowed here:
 
-- status notes
-- public-ready afterimages
-- pointers to already public pages
+- public research specimens
+- public figures and method figures
+- published ceremonies
+- playable method objects
+- status and provenance notes
 - explanations of what is represented and what is not imported
-- future index entries for reviewed XPRMNT-ZN surfaces
-- pointer notes that clearly do not activate new public functions
 
 Not allowed here by default:
 
-- Drive originals
-- contamination-zone material
-- protected/private material
-- raw source dumps
-- bankett packages that have not been reviewed
-- astrologi/radio-bankett render before source review
-- rewritten literary prose pretending to be source
+- credentials or private personal information
+- material with unclear rights
+- Drive originals without a named public use
+- raw source dumps presented without form
 - Praktikanten as guide, bot, mascot, or onboarding persona
-- Wise Consultant as public feature, bot, or service
+- Wise Consultant as public feature, bot, assistant, reviewer, or service
 
 ## Reading Order
 
-1. `../../docs/doctrine/xprmnt-zn-membrane.md`
-2. `README.md`
-3. `banketter.md`
-4. `SLUICE_REGISTER_TEMPLATE.md`
-5. `praktikanten.md`
-6. `wise-consultant.md`
+1. [`xprmnt-zn.html`](../../xprmnt-zn.html)
+2. [`HackerStory research specimens`](../../research-specimens/hackerstory/index.html)
+3. [`praktikanten.md`](praktikanten.md)
+4. [`wise-consultant.md`](wise-consultant.md)
+5. [`banketter.md`](banketter.md)
+6. [`Playable utilities`](../../utility_prompts/xprmnt_zn/README.md)
+7. [`SLUICE_REGISTER_TEMPLATE.md`](SLUICE_REGISTER_TEMPLATE.md)
+8. [`XPRMNT-ZN membrane doctrine`](../../docs/doctrine/xprmnt-zn-membrane.md)
 
-The last two files are pointer/status notes only. They exist so agents do not invent or over-promote those bodies while making XPRMNT-ZN readable.
-
-## Material Cards
+## Material Bodies
 
 ### Praktikanten
 
-Status: public-readable / intern-nära / requires further review for fuller representation.
+Status: publicerad arbetskropp / offentlig passagefigur.
 
-Praktikanten can be approached here as a documented literary phenomenon, not as guide, bot, mascot, or service. The pointer note protects the distinction between public presence and public function.
-
-Link: [`praktikanten.md`](praktikanten.md)
+Praktikanten is presented as literary figure, runtime, book body, and
+documented passage between work and fiction. The figure is not a service.
 
 ### Wise Consultant
 
-Status: public-readable / intern-nära / requires further review.
+Status: offentlig metodfigur / icke-interaktiv.
 
-Wise Consultant is visible as an existing consultant/thought-figure body, but is not activated here as a public feature or reviewer. The safe form is pointer language and status, not a speaking service.
-
-Link: [`wise-consultant.md`](wise-consultant.md)
+Wise Consultant is a consultative reading figure that formalizes pressure
+between voice, work, organization, and decision. It does not speak to the
+public as a service.
 
 ### Banketter
 
-Status: public-readable / requires source review before render.
+Status: publicerad ceremoniell tidslogik.
 
-Banketter can become ceremonial afterimages and chronological renders after source, provenance, boundary, and public-readiness review. This note explains the receiver structure without rendering any bankett.
+The first published ceremony is `Bankett för en radiostjärna utan zodiak`.
 
-Link: [`banketter.md`](banketter.md)
+### HackerStory
 
-### XPRMNT-ZN Sluice
+Status: publicerade fragmentariska forskningsspecimen.
 
-Status: public-readable / operational template / not populated catalogue.
+Three dossier bodies expose generative process, mutation, source traces, and
+contradictory classification without claiming canon or completion.
 
-The sluice template gives reviewed material a way to move toward repo visibility without turning the repo into an inbox or originals mirror. It is for status, source boundary, allowed use, forbidden use, and next decision.
+### Playable utilities
 
-Link: [`SLUICE_REGISTER_TEMPLATE.md`](SLUICE_REGISTER_TEMPLATE.md)
+Status: publicerade metodobjekt / experimentella utilities / icke-default.
 
-### XPRMNT-ZN Membrane
-
-Status: public-readable / doctrine pointer.
-
-The membrane note is the clearest repo-side explanation of XPRMNT-ZN as filter and status layer rather than product, service, or content dump.
-
-Link: [`../../docs/doctrine/xprmnt-zn-membrane.md`](../../docs/doctrine/xprmnt-zn-membrane.md)
+GRINDÖDE, EFTERHANDSBETT, and BOTFÖRBUDET are public text interfaces. Their
+publication does not make them automatic behavior.
 
 ## Use Language
 
-If material is in GitHub HEAD, call it public-readable. If it is not ready for site, citation, or onboarding, call it public-readable-but-not-public-ready, source engine, machine room, staging, review layer, active repo body, or private-custody candidate.
+Describe the kind of public object that exists: specimen, figure, ceremony,
+method object, source engine, machine room, or archive body. Do not use
+status language merely to repeat anxiety about public existence.
 
-Use membrane language before gateway language. XPRMNT-ZN filters what can pass.
+XPRMNT-ZN filters what passes, but it does not deny its own publicity.

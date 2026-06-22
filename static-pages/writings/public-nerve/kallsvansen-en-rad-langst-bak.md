@@ -1,12 +1,10 @@
 ---
 title: "Källsvansen: en rad längst bak"
 date: "2026-06-12"
-type: "public-nerve capsule"
-status: "ready / needs human review"
+type: "analysis"
+status: "published"
 layout: article
-review_required: true
 summary: "En konkret provenance-princip för publika arbetsytor: härkomst utan akademisk maskerad."
-source_note: "Prepared from public nerve / capsules integration v0 dispatch; human review required before treating as final publication."
 ---
 
 # Källsvansen: en rad längst bak

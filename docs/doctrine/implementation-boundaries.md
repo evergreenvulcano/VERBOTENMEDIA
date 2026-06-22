@@ -50,11 +50,13 @@ branch flows, automations, intake systems, or response protocols in the first PR
 
 If a contact address is unavoidable, use `verbotenmedia@protonmail.com`.
 
-### No Storyworld-Protected Exposure
+### Concrete publication exceptions only
 
-Del 1, `aphorism_source`, origin material, BYN/LEGION/SORL, Praktikanten philosophy,
-and protected source anchors must not be published, quoted, teased, or summarized
-as public context.
+The leading public branch is publication-presumptive. Do not expose private or
+personal data, credentials, local machine paths, unclear-rights material, or
+material explicitly withheld by Martin. Do not infer a publication ban from an
+older source-layer label when the artifact is intentionally present in the
+leading public branch.
 
 ### No Product/Portfolio/Site-Builder Aesthetic
 

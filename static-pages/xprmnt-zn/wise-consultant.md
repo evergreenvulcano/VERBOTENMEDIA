@@ -1,18 +1,67 @@
-# Wise Consultant — Pointer Note
+# Wise Consultant
 
-Status: existing consultant/thought-figure body; pointer only; not activated as a public function here.
+Status: offentlig metodfigur / icke-interaktiv
 
-Wise Consultant is visible in repo source, especially as a consultant/thought-figure body in `modules/method-thought-figure`. This note exists so XPRMNT-ZN or Norrotiv work does not accidentally introduce it as a new public feature, bot, assistant, or service.
+Yta: XPRMNT-ZN / Norrotiv-adjacent
 
-## Safe Presentation
+Ej: bot, assistent, konsulttjänst, publik reviewer, chattfunktion
 
-- Treat Wise Consultant as an existing read-only / derivative / consultative body.
-- Use pointer language: represented by status, not imported as a public figure package.
-- Any fuller representation requires repo-grounding and parallel Förlagsdeckaren thinking.
+Wise Consultant är en konsultativ läsfigur inom Verboten Media-ekologin.
+Figuren visar hur ett material kan läsas från sidan: inte som service, råd
+eller automatiserad bedömning, utan som formaliserad friktion mellan röst,
+verk, organisation och beslut.
 
-## Not Allowed By Default
+I verket fungerar Wise Consultant som en utsidesapparat. När förlagshuset,
+redaktionen eller en figur som Flempo behöver utsättas för en annan sorts
+läsning, uppstår konsultativ läsning. Materialet lyfts inte ut ur världen, men
+behandlas som om det redan hade organisatorisk konsekvens.
 
-- Do not import external consultant workspace files.
-- Do not publish private mail, Drive paths, or proof-of-concept packets.
-- Do not let Wise Consultant speak as repo-native authority without explicit review.
-- Do not implement Wise Consultant as a public feature, bot, assistant, reviewer, or service.
+## Vad konsultativ läsning gör
+
+Konsultativ läsning översätter inte material till rekommendation. Den:
+
+1. identifierar vilken sorts tryck materialet redan utövar
+2. formaliserar trycket utan att låta det bli tjänstespråk
+3. återför läsningen till verket som statusfråga: vad är detta, vem får tala
+   genom det, och vilken yta får bära det offentligt?
+
+## Förhållande till Norrotiv
+
+Norrotiv tar emot frågor, idétest, samarbetsförslag och externa anslag. Wise
+Consultant är inte Norrotivs tjänsteerbjudande, men fungerar som metodfigur för
+hur Norrotiv kan läsa innan något routas vidare mot Verboten Media,
+publicering, värld eller kanon.
+
+## Förhållande till XPRMNT-ZN
+
+XPRMNT-ZN är behållaren för Wise Consultant som publik efterbild. Här visas
+figuren som statusbunden metod utan att hela källkroppen importeras och utan
+att läsaren erbjuds interaktion.
+
+## Förhållande till Förlagsdeckaren
+
+I Förlagsdeckaren öppnar Wise Consultant en utsideslinje mot förlagshuset.
+Figuren gör det möjligt att läsa redaktionell auktoritet, abdikation, ansvar
+och formaliseringspanik utan att omedelbart lösa dem i intrig eller tjänst.
+
+## Representativa metodobjekt
+
+### RÖSTKLIPP → PROMEMORIA
+
+Wise Consultant-formen består av rå röstnärvaro och institutionell
+destillation. RÖSTKLIPP bär plats, rytm, kropp, fordon, väder och muntlig
+kollision. PROMEMORIA bär beslutston, formell precision och organisatorisk
+konsekvens.
+
+### Prospect Review / konsultativ gränsläsning
+
+Prospect review läser ett möjligt material, en möjlig figur eller en möjlig
+publik yta innan den blir produkt. Syftet är inte att sälja objektet, utan att
+avgöra om det har status nog att representeras.
+
+## Gräns
+
+Wise Consultant talar inte med publiken. Figuren marknadsförs inte som
+konsulttjänst, bär inte huvudnavigation och aktiveras inte som chattfunktion.
+Den finns som kort metodfigur under XPRMNT-ZN och som kontextuell länk från
+Norrotiv.

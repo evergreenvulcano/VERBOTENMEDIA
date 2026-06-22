@@ -1232,7 +1232,22 @@ em     { font-style: italic; }
 
 .footer-links {
   display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
   gap: var(--space-md);
+  min-width: 0;
+}
+
+@media (max-width: 760px) {
+  .site-footer {
+    align-items: flex-start;
+  }
+
+  .footer-links {
+    justify-content: flex-start;
+    gap: var(--space-sm) var(--space-md);
+    width: 100%;
+  }
 }
 
 .footer-links a {

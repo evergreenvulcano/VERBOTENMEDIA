@@ -1,15 +1,17 @@
 ---
-title: "Writings index"
+title: "Writings — läsvägar"
 date: "2026-06-12"
-summary: "Reader-facing order for selected writings already present in the repo."
+summary: "Kuraterade vägar genom den publicerade textkroppen utan dubbla registerkort."
 type: "index"
-status: "public-readable"
+status: "published"
 layout: article
 ---
 
-# Writings index
+# Writings — läsvägar
 
-This index is a reader map for texts already present in `static-pages/writings/`. It does not promote every file to doctrine, canon, or final publication status. It makes a first coherent reading path visible.
+Detta är en läsarkarta över texter som redan är publicerade i Writings. En text
+har ett synligt registerkort; den kan därefter ingå i flera läsvägar utan att
+dubbleras i registret.
 
 ## First Reading Path: Förlagsdeckaren Surface
 
@@ -33,8 +35,30 @@ Read these first if you are entering the literary body through the public site.
 6. [Förlagsdeckaren - Praktikanten (Outro)](forlagsdeckaren-praktikanten-outro.md)  
    The return movement: webhook, grounding, and the second Praktikanten.
 
-## Wider Writings Already Present
+## Praktikanten
 
-The wider folder also contains short stories, analysis, lexicon material, workshop dispatches, and fragments. They are readable, but not all were organized into this first reading path.
+1. [Förlagsdeckaren — Praktikanten (intro)](forlagsdeckaren-praktikanten-intro.md)
+2. [Förlagsdeckaren: Registreringen har stängt](forlagsdeckaren-del-6-registreringen-har-stangt.md)
+3. [Förlagsdeckaren - Praktikanten (Outro)](forlagsdeckaren-praktikanten-outro.md)
+4. [Praktikanten som offentlig passagefigur](../xprmnt-zn/praktikanten.md)
 
-See [PARKED.md](PARKED.md) for candidates deliberately left for later batches.
+## Essäer, analyser och lexikon
+
+- [The Wound, the Attractor, and the Controlled Abandonment](the-wound-the-attractor-and-the-controlled-abandonment.md)
+- [Lex: funkonaturalism](lex-funkonaturalism.md)
+- [Klangbotten Snippets](klangbotten-snippets.md)
+
+## Satelliter och noveller
+
+- [Abdikering under bordet](abdikering-under-bordet.md)
+- [Dawkin Danielson — Burning Man, Black Rock City](dawkin-danielson-burning-man-black-rock-city.md)
+- [VMAPTB Mail Flempo Jens](vmaptb-mail-flempo-jens.md)
+- [Verboten Media Workshop Dispatches — dag 1–3](forlagsdeckaren-lectures-and-workshops.md)
+
+## Offentliga nervtexter
+
+- [Källsvansen: en rad längst bak](public-nerve/kallsvansen-en-rad-langst-bak.md)
+- [AI får läsa, men inte ärva rösten](public-nerve/ai-far-lasa-men-inte-arva-rosten.md)
+- [Besökaren som lät rätt](public-nerve/besokaren-som-lat-ratt.md)
+
+Läsvägarna är redaktionella förslag, inte mognadsgrader.

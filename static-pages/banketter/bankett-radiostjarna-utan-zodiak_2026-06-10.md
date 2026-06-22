@@ -1,7 +1,7 @@
 ---
 title: "Bankett för en radiostjärna utan zodiak"
 date: "2026-06-10"
-status: "first-render-candidate"
+status: "published"
 surface: "banketter"
 relates_to:
   - "XPRMNT-ZN"
@@ -10,7 +10,7 @@ relates_to:
   - "mönsternotis"
 render_type: "ceremonial-static"
 source_status: "bankett-/ceremonipaket; ej ursprungligt publiceringsbeslut"
-public_readiness: "requires final human review before merge"
+public_readiness: "published; revisable ceremonial time marker"
 provenance: "Reviderad från bankett-/ceremonipaket 2026-06-10."
 boundary: "Skyddade, privata eller för interna referenser ska inte följa med till public render."
 ---
@@ -146,15 +146,15 @@ Bara markera att detta har hänt.
 
 ## Statusnot
 
-Detta är en first-render-candidate för Banketter-ytan. Texten ska inte behandlas som bloggpost, release note, changelog eller progress report. Den markerar ett XPRMNT-ZN-läge efter review och kan installeras statiskt först efter mänsklig granskning.
+Detta är en publicerad ceremoni på Banketter-ytan. Texten ska inte behandlas som bloggpost, release note, changelog eller progress report. Den markerar ett XPRMNT-ZN-läge och kan revideras när den ceremoniella tidsformen kräver det.
 
 ## Provenance
 
-Bygger på bankett-/ceremonipaketet `Radiostjärna utan zodiak`, daterat 2026-06-10. Ursprungspaketet var uttryckligen inte repo-ändring eller publiceringsbeslut. Denna version är en reviderad public-render-kandidat.
+Bygger på bankett-/ceremonipaketet `Radiostjärna utan zodiak`, daterat 2026-06-10. Den publicerade versionen är en reviderad statisk ceremoni.
 
-## Public-readiness
+## Offentlig form
 
-Kandidaten är public-ready först efter slutlig kontroll av ton, internmetod, skyddade referenser och XPRMNT-ZN-placering. Texten ska kunna läsas av extern mottagare som ceremoniell tidsmarkör utan att kräva full intern Drive- eller repo-förståelse.
+Texten är publicerad som reviderbar tidsmarkör. Den kan läsas utan full intern Drive- eller repo-förståelse och gör inte anspråk på att vara XPRMNT-ZN:s slutliga doktrin.
 
 ## Boundary
 

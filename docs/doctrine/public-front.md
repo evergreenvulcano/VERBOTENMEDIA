@@ -70,10 +70,13 @@ enough for the work to remain its own.
 The reader may read method, Banketter, and experiment. Reading is not consumption.
 The reader becomes witness, not customer or user.
 
-### 2. Exposure Without Source Exposure
+### 2. Exposure With Concrete Exceptions
 
-The apparatus may be public. The sources are not. XPRMNT-ZN may be public. Del 1
-and source anchors remain protected.
+The apparatus and selected source-bearing artifacts may be public. Presence in
+the leading public branch establishes a publication presumption. A source body
+remains withheld only when a concrete exception is named: private or personal
+data, credentials, local machine paths, unclear rights, or explicit human
+withholding.
 
 ### 3. Synthesis Without Reduction
 
@@ -116,9 +119,10 @@ use publication as a vector of becoming.
 
 It is acceptable to publish something unfinished if it is methodologically clear.
 It is acceptable to refuse overexplanation. It is acceptable to say that some
-entrances are not for everyone. It is not acceptable to expose protected sources
-or convert the work into service logic.
+entrances are not for everyone. It is not acceptable to expose material covered
+by a concrete exception or convert the work into service logic.
 
-Explicit human authorization may open a named protected boundary for a bounded
-specimen publication. Such an opening applies to the named artifact and use; it
-does not silently declassify its source ecology or establish a general import rule.
+Explicit human authorization may open a named boundary for a bounded specimen
+publication. The leading public branch now carries a general publication
+presumption; future exceptions must be named rather than inferred from older
+status anxiety.

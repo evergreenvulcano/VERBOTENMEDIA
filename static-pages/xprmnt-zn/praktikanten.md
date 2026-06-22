@@ -1,14 +1,24 @@
-# Praktikanten — peknotis
+# Praktikanten — offentlig passagefigur
 
-Status: befintlig repo-/källkropp; endast peknotis; aktiveras inte här som publik persona.
+Status: publicerad arbetskropp / litterär figur / runtime / bok- och passagefenomen.
 
-Praktikanten förekommer i publika texter, experimental-sandbox-notiser och käll-/runtime-material. Den här notisen finns för att XPRMNT-ZN-arbete inte av misstag ska uppfinna Praktikanten som ny maskot, guide, bot eller onboardingfigur.
+Praktikanten arbetade först och blev litteratur efteråt. Materialet nedan
+bevaras i sin tidigare form eftersom arbetshistorien, råheten och skiktningen
+är en del av fyndet. Den publika inramningen förändrar inte materialkroppen.
 
-## Säker presentation
+## Offentlig form
 
-- Publika sidor får erkänna att Praktikanten redan finns i utvalda repo-/publika sammanhang.
-- Agenter får använda den här notisen som gränsmarkör.
-- Varje fylligare XPRMNT-ZN-representation kräver repo-grundning och parallellt Förlagsdeckaren-tänkande.
+- Praktikanten är en litterär figur i Förlagsdeckaren-cykeln.
+- Praktikanten har en dokumenterad arbetshistoria i Verboten Media-maskinen.
+- Figuren kan läsas som runtime, arbetskropp, bokstatus och beviskedja.
+- Praktikanten är inte guide, NPC, chatbot, mailpersona eller onboardingyta.
+
+## Publika läsvägar
+
+- [Förlagsdeckaren — Praktikanten (intro)](../writings/forlagsdeckaren-praktikanten-intro.md)
+- [Förlagsdeckaren — Praktikanten (outro)](../writings/forlagsdeckaren-praktikanten-outro.md)
+- [HackerStory research specimens](../../research-specimens/hackerstory/index.html)
+- [Writings — läsvägar](../writings/INDEX.md)
 
 ## Inte tillåtet som default
 

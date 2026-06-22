@@ -1,36 +1,30 @@
-# Banketter — XPRMNT-ZN Relation
+# Banketter — XPRMNT-ZN-relation
 
-Status: public-readable bankett logic; no bankett package imported or rendered in this pass.
+Status: publicerad ceremoniell tidslogik.
 
-Banketter may become static pages that narrate the status of modules, figures, or project periods. They function as ceremonial afterimages and chronological renders, not raw archive dumps, progress reports, product updates, or public roadmaps.
+Banketter är statiska ceremonier som gör arbetsperioder offentliga utan att
+förvandla dem till arkivdump, progressrapport, produktuppdatering eller roadmap.
 
-## Render Sequence
+## Publicerad bankett
 
-A bankett can be represented as a public page only after:
+### Bankett för en radiostjärna utan zodiak
 
-1. source text exists in the authorized working context
-2. human/GPT review is complete
-3. provenance is recorded
-4. protected/source boundaries are checked
-5. public-readiness is decided
-6. static render is explicitly chosen
+- datum: 2026-06-10
+- status: publicerad ceremoni / reviderbar tidsmarkör
+- relation: XPRMNT-ZN / radio / astrologi utan zodiak / mönsternotis
+- läsning: [öppna banketten](../banketter/bankett-radiostjarna-utan-zodiak_2026-06-10.md)
 
-## Known Candidates
+Banketten markerar att XPRMNT-ZN har börjat kunna bära offentlig tid. Den är
+inte en slutlig programförklaring och inte en statusrapport.
+
+## Framtida ceremonier
+
+Fler banketter kan publiceras när en faktisk textkropp och dess proveniens
+finns. Publiceringspresumtionen innebär att ofärdighet inte i sig blockerar
+formen; privata uppgifter, oklara rättigheter och konkreta skyddsgränser gör det.
 
 ### Efterhandsmaskinen
 
-- status: public-bound in principle
-- boundary note: this is the bankett celebrating Efterhandsmaskinen, explicitly not erotiska satelliter
-- render state: not rendered here
-- next requirement: locate and review the actual source text before any static page is created
-
-### Astrologi och radiokanal
-
-- status: public-bound in principle
-- boundary note: bankett about astrologi and the radiokanal
-- render state: not rendered here
-- next requirement: locate and review the actual source text before any static page is created
-
-## Non-Render Rule
-
-Do not summarize, excerpt, or ceremonially inflate a candidate before the source has been reviewed. The bankett surface is a receiver for reviewed ceremonial time, not a generator of startup-style updates.
+Efterhandsmaskinen är en möjlig framtida ceremoni. Den publiceras först när den
+faktiska textkroppen finns i repot eller i ett uttryckligen auktoriserat
+arbetsunderlag.

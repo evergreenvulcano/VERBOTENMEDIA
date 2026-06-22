@@ -11,10 +11,10 @@ Public entrances:
 - [`index.html`](index.html) — landing page and primary routes.
 - [`martin.html`](martin.html) — Martin Nygren as authorial person.
 - [`verboten-media.html`](verboten-media.html) — Verboten Media as publishing body / literary machine / entertainment apparatus.
-- [`norrotiv.html`](norrotiv.html) — public-readable and usable but deliberately unfinished interaction surface for ideas, bounded proposals, PRs, and collaborator traffic.
-- [`xprmnt-zn.html`](xprmnt-zn.html) — XPRMNT-ZN public afterimage and repo sluice; represented stepwise here, not bulkimported here.
+- [`norrotiv.html`](norrotiv.html) — living and revisable public interaction body for ideas, bounded proposals, PRs, and collaborator traffic.
+- [`xprmnt-zn.html`](xprmnt-zn.html) — public experimental passage for specimens, method figures, ceremonies, utilities, and boundary work.
 - [`underhallningsmode.html`](underhallningsmode.html) — static external text-as-interface for Förlagsdeckaren; entertainment, not content.
-- [`banketter.html`](banketter.html) — receiver structure for future chronological/status renderings; first candidate waits for paste/review.
+- [`banketter.html`](banketter.html) — published ceremonial time markers, beginning with *Bankett för en radiostjärna utan zodiak*.
 - [`contact.html`](contact.html) / [`contribute.html`](contribute.html) — routing for publishing inquiries, Norrotiv ideas, repo questions, and bounded PRs.
 
 Additional public site surfaces:
@@ -26,8 +26,8 @@ research-specimens/hackerstory/  Published fragmentary HackerStory HTML artifact
 capsules.html               Short public-facing knowledge/status units
 skalle.html                 Diegetic skull/brain-adjacent public surface
 runtext.html                Static running-text renderer
-associated-projects.html    Linked initiatives
-lectures-workshops.html     Public offerings
+associated-projects.html    Neutral public relation map
+lectures-workshops.html     Public archive of inquiry formats and material
 ```
 
 ## Repo surfaces
@@ -39,34 +39,45 @@ js/main.js                  Minimal static rendering/navigation behavior
 utility_prompts/            Public utility/quest layer for routing external material through editorial operations
 static-pages/writings/      Public-ready or published writings surfaced by writings.html
 static-pages/experimental-sandbox/  Public-readable experimental markdown surfaces
-static-pages/xprmnt-zn/     Safe representational layer and sluice register templates for XPRMNT-ZN afterimages/status notes
+static-pages/xprmnt-zn/     Public figures, ceremonies, passage notes, and sluice templates for XPRMNT-ZN
 research-specimens/         Public artifacts whose fragmentary/process status is part of their form
 inbox/writings/             Staging; not canon by default
-modules/                    Source, development, machine-room, and active repo bodies; public-readable in GitHub but not automatically public-ready
+modules/                    Public source, development, machine-room, and active repo bodies; not every file needs a promoted HTML entrance
 modules/_gpt/               Operational memory, runs, source anchors, and proposals
 _rebuild/                   Current rebuild diagnostics, syscall contracts, and operator decision surfaces
 docs/                       Editorial, publishing, orientation, and method contracts
 apps/research-ops/          Private operational tooling / sidecar app context
 ```
 
-## Status language
+## Publication presumption
 
-Placement first: material in a public GitHub repo is public-readable.
+Material in the leading public branch is presumed publishable. Publication can
+mean literary work, fragment, research specimen, method object, ceremony,
+process artifact, public working body, or archival remainder.
 
-Status second: public-readable is not the same as public-ready. Use labels such as:
+Concrete exceptions are private or personal data, credentials, local machine
+paths, unclear rights, explicitly withheld material, and legacy public copy
+that contradicts current doctrine.
 
-- `public-ready`
-- `public-readable-but-not-public-ready`
+Use status to name the kind of public object:
+
+- `published`
+- `research specimen`
+- `public method figure`
+- `living and revisable`
+- `ceremony`
+- `process artifact`
 - `source engine`
 - `machine room`
-- `staging`
 - `legacy`
 - `active repo body`
 - `private-custody candidate`
 - `protected`
 - `non-import`
 
-Use last: distinguish reading, citing, rendering, moving, publishing, prompt-feeding, summarizing, and transforming.
+Do not use status merely to repeat anxiety about public existence. Continue to
+distinguish reading, citing, rendering, moving, publishing, prompt-feeding,
+summarizing, and transforming.
 
 ## Drive / external custody
 

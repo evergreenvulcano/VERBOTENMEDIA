@@ -19,7 +19,9 @@ This file is intentionally referential. It defines the repo surfaces, the defaul
 - `static-pages/writings/` and `static-pages/experimental-sandbox/` are public markdown content surfaces.
 - `writings.html` is the manual public registry for Writings cards.
 - `inbox/writings/` is staging for converted or normalized candidates. It is not canon by default.
-- `modules/` is source and development space. It may contain meaningful anchors, but it is not publish-ready by default.
+- `modules/` is public source, development, and machine-room space. Its files
+  need not receive promoted HTML entrances, but presence in the leading public
+  branch is not itself a publication defect.
 - `modules/_DUJAG/` is a separate developmental semantic-runtime package. It may be read for semantic/runtime discipline, but it must not be collapsed into `modules/_gpt/`, treated as public content, or reorganized without explicit instruction.
 - `modules/_gpt/index/` is operational memory and durable orientation.
 - `modules/_gpt/runs/` is dated operational output.
@@ -40,11 +42,28 @@ This file is intentionally referential. It defines the repo surfaces, the defaul
 
 Do not collapse these states together. Source, staging, proposal, public content, and operational memory are distinct surfaces with different readiness and authority.
 
+## Publication presumption
+
+Material in the leading public branch is presumed publishable unless a concrete
+exception applies: private or personal data, credentials, local machine paths,
+unclear rights, explicitly withheld material, or legacy public copy that
+contradicts current doctrine.
+
+Publication does not imply canonization. Public objects may be literary works,
+fragments, research specimens, method objects, ceremonies, process artifacts,
+public working bodies, or archival remainders.
+
+When older HTML is uncertain or doctrine-conflicting, prefer simple reversible
+neutralization: remove false claims and placeholder calls to action, retain
+working relations, and route to the current public bodies.
+
 ## Mutation permissions
 
 - Read broadly across the repository before changing anything.
 - Write narrowly, and only in the surface the task actually targets.
-- Do not treat `modules/` as publish-ready by default.
+- Treat material in the leading public branch as publishable unless a concrete
+  exception in the publication-presumption section applies. `modules/` may
+  remain machine-room or source-layer material rather than promoted HTML.
 - Do not treat `inbox/writings/` as canonical public content until it has been intentionally reviewed and promoted.
 - Do not let anything in `modules/_gpt/` auto-promote itself into canon or widen write permissions.
 - Do not rewrite creative prose during conversion or promotion unless the live task explicitly asks for that.

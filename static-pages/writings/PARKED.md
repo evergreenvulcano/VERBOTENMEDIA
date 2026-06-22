@@ -1,17 +1,19 @@
 ---
-title: "Parked writings candidates"
+title: "Writings — övrig kartografi"
 date: "2026-06-12"
-summary: "Readable writings material left outside night material batch 01."
+summary: "En historisk kartografi över texter som tidigare stod utanför den första läsvägen."
 type: "index"
-status: "public-readable"
+status: "published"
 layout: article
 ---
 
-# Parked Writings Candidates
+# Writings — övrig kartografi
 
-These files are already present in the repo, but were not fully organized in night material batch 01. They are parked to keep this pass focused on one coherent Förlagsdeckaren entry path.
+Detta dokument bevarar den äldre sorteringen som redaktionell historik. Texterna
+är inte parkerade från offentligheten. De ingår i den publicerade korpusen och
+kan ordnas om genom läsvägar utan att deras status ifrågasätts.
 
-## Parked For Sequence Work
+## Tidigare väntande på sekvensarbete
 
 - `forlagsdeckaren-del-1.md`
 - `forlagsdeckaren-del-2.md`
@@ -21,26 +23,27 @@ These files are already present in the repo, but were not fully organized in nig
 - `shortstory-vm-5.md`
 - `shortstory-vm-6.md`
 
-Reason: these need a clearer chronological / publication sequence pass rather than being mixed into the first entrance path.
+Historisk not: dessa behövde en tydligare kronologisk läsväg.
 
-## Parked For Satellite Work
+## Tidigare väntande på satellitkartografi
 
 - `abdikering-under-bordet.md`
 - `dawkin-danielson-burning-man-black-rock-city.md`
 - `vmaptb-mail-flempo-jens.md`
 - `forlagsdeckaren-lectures-and-workshops.md`
 
-Reason: strong readable texts, but each needs a small card and relation note so it does not appear as an orphaned satellite.
+Historisk not: dessa behövde tydligare relationer till huvudkroppen.
 
-## Parked For Analysis / Fragment Work
+## Tidigare väntande på analys-/fragmentväg
 
 - `the-wound-the-attractor-and-the-controlled-abandonment.md`
 - `lex-funkonaturalism.md`
 - `klangbotten-snippets.md`
 - `modules/writings/declaration-of-intent.md`
 
-Reason: useful context, but they should be grouped as analysis/lexicon/fragments instead of being forced into the literary reading path.
+Historisk not: dessa behövde grupperas som analys, lexikon och fragment.
 
-## Parked Rule
+## Nuvarande regel
 
-Do not solve parking by dumping everything into `writings.html`. Next batch should choose one lane and finish it.
+Allt behöver inte ligga i samma läsväg. Men öppen korpus ska inte beskrivas som
+ett väntrum. Registret visar varje text en gång; läsvägarna skapar sammanhang.
