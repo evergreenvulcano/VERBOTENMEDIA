@@ -59,6 +59,19 @@ Prospect review läser ett möjligt material, en möjlig figur eller en möjlig
 publik yta innan den blir produkt. Syftet är inte att sälja objektet, utan att
 avgöra om det har status nog att representeras.
 
+## Publicerat metodobjekt
+
+[Rundanläggningen — J.S / Wise Consultant](../writings/rundanlaggningen-js-wise-consultant.md)
+är en gemensam webb- och appbeställning i två röster. J.S öppnar ärendet och
+Wise Consultant formaliserar det till produktprincip, rundmodell,
+acceptanskriterier och avgränsad första fas. Texten publiceras som artikel och
+beställningskropp, inte som implementeringsmandat eller aktiverad tjänst.
+
+[Ställ ut processen som verk](../writings/stall-ut-processen-som-verk.md)
+är systerbeställningen för en publik processanläggning. Den skiljer mellan att
+gestalta process och att dumpa råmaterial, och formaliserar rum, rundor,
+metodobjekt, statusgränser och ett snävt MVP.
+
 ## Gräns
 
 Wise Consultant talar inte med publiken. Figuren marknadsförs inte som
