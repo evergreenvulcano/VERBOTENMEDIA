@@ -17,19 +17,6 @@ marknadsfigur; hela Spräck-maskinen som huvudprodukt.
 Minsta säkra nästa handling: använda detta som första brief till
 designer/utvecklare eller Codex, inte som publik copy.
 
-Jag kunde öppna `therundalab.com` som “The Runda Lab”, men sidan gav ingen
-extraherbar text via verktyget. Jag använder den därför som referenspunkt genom
-URL:n och din instruktion, inte som detaljläsning av sajtens faktiska innehåll.
-([Runda Lab](https://therundalab.com/)) Drive-underlaget stödjer däremot
-formen: Wise Consultant tar röstklipp från J.S och formaliserar dem till
-funkonaturalistiska styrelsepromemorium, med systemet som böjer sig för
-materialets logik snarare än tvärtom. J.S-spåret är dessutom tydligt kopplat
-till Spräck Industries, operativa iterationer och mottagarpositionen J.S.
-
-Här är beställningen.
-
-[Läs systerbeställningen: Ställ ut processen som verk](stall-ut-processen-som-verk.md).
-
 ---
 
 # GEMENSAM WEBB- OCH APPBESTÄLLNING
