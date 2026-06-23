@@ -46,6 +46,7 @@ Read these first if you are entering the literary body through the public site.
 
 - [Rundanläggningen — J.S / Wise Consultant](rundanlaggningen-js-wise-consultant.md)
 - [Ställ ut processen som verk](stall-ut-processen-som-verk.md)
+- [Tvärflygeln — brukstid, utfall och två uppstartsdesigner](tvarflygeln-brukstid-utfall-och-tva-uppstartsdesigner.md)
 - [The Wound, the Attractor, and the Controlled Abandonment](the-wound-the-attractor-and-the-controlled-abandonment.md)
 - [Lex: funkonaturalism](lex-funkonaturalism.md)
 - [Klangbotten Snippets](klangbotten-snippets.md)
