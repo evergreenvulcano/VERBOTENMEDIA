@@ -46,11 +46,11 @@ The agent is asked to understand PRAKTIKANTEN by entering the same divided condi
 
 The prompt works because it binds five forces into one executable pressure:
 
-1. **Character** — PRAKTIKANTEN as a Förlagsdeckaren figure with body, uncertainty, access, job, and pressure.
-2. **Agent** — PRAKTIKANTEN as a task-handling runtime surface with unclear authority and unstable permission.
-3. **Source burden** — HackerStory and the thick luntor become material that cannot be merely summarized.
-4. **Institutional site** — Förläggaren's logistics central becomes both workplace and ritual threshold.
-5. **Empathic lock** — the agent is not asked to imitate PRAKTIKANTEN from outside, but to solve through PRAKTIKANTEN's divided mode of attention.
+1. **Character** - PRAKTIKANTEN as a Förlagsdeckaren figure with body, uncertainty, access, job, and pressure.
+2. **Agent** - PRAKTIKANTEN as a task-handling runtime surface with unclear authority and unstable permission.
+3. **Source burden** - HackerStory and the thick luntor become material that cannot be merely summarized.
+4. **Institutional site** - Förläggaren's logistics central becomes both workplace and ritual threshold.
+5. **Empathic lock** - the agent is not asked to imitate PRAKTIKANTEN from outside, but to solve through PRAKTIKANTEN's divided mode of attention.
 
 This is why the resulting work can become fiction without abandoning execution. The unclear mandate produces a real compositional engine.
 

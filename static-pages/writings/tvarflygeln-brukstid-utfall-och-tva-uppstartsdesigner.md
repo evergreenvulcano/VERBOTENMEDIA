@@ -1,5 +1,5 @@
 ---
-title: "Tvärflygeln — brukstid, utfall och två uppstartsdesigner"
+title: "Tvärflygeln - brukstid, utfall och två uppstartsdesigner"
 date: "2026-06-23"
 summary: "Ett reviewbart uppstartspaket för en statusburen exekveringspassage och ett externt Editorial Flow Cycle Toolkit."
 type: "analysis"
@@ -9,7 +9,7 @@ source_status: "Arbetsdokument publicerat som komplett metodartikel efter explic
 boundary: "Publiceringen installerar inte Tvärflygeln, skapar inget nytt repo och ändrar inga interna materialstatusar."
 ---
 
-# TVÄRFLYGELN — BRUKSTID, UTFALL OCH TVÅ UPPSTARTSDESIGNER
+# TVÄRFLYGELN - BRUKSTID, UTFALL OCH TVÅ UPPSTARTSDESIGNER
 
 Datum: 2026-06-23  
 Status: reviewbart uppstartspaket / inte installation / inte flytt / inte publiceringsmandat  
@@ -101,20 +101,20 @@ En cykel som håller materialet kvar i fragmentkropp kan vara mer korrekt än en
 
 Varje station bör kunna returnera tydliga statusutfall:
 
-- PRODUCED — en ny lane-output har skapats.
-- FRAGMENT_BODY_READY — fragmentkroppen bär vidare test.
-- REVIEW_HOLD — review stoppar fortsatt generering.
-- REVIEW_RETURN — materialet skickas tillbaka till lane med konkret fråga.
-- BLUEPRINT_EXTRACTED — motor extraherad, source-DNA spärrat.
-- CHAPTER_TEST_READY — kapiteltest kan köras.
-- EDITORIAL_BODY_FORMED — redaktionell bärkropp behövs och kan skapas.
-- PUBLICBOUND_CANDIDATE — möjlig offentlig situation finns, men ej publicering.
-- PUBLICBOUND_HOLD — offentlig potential finns men hålls.
-- REPO_SURFACE_PROPOSAL — repo-yta kan designas, men inte byggas utan mandat.
-- REPO_READY — repo-yta är explicit godkänd för implementering.
-- REINJECTION_CARD — lärdom återförd som stil-, metod- eller apparatusmaterial.
-- NO_EVENT — ingen vidare rörelse krävs.
-- STOP — cykeln avbryts av skydds-, status- eller integritetsregel.
+- PRODUCED - en ny lane-output har skapats.
+- FRAGMENT_BODY_READY - fragmentkroppen bär vidare test.
+- REVIEW_HOLD - review stoppar fortsatt generering.
+- REVIEW_RETURN - materialet skickas tillbaka till lane med konkret fråga.
+- BLUEPRINT_EXTRACTED - motor extraherad, source-DNA spärrat.
+- CHAPTER_TEST_READY - kapiteltest kan köras.
+- EDITORIAL_BODY_FORMED - redaktionell bärkropp behövs och kan skapas.
+- PUBLICBOUND_CANDIDATE - möjlig offentlig situation finns, men ej publicering.
+- PUBLICBOUND_HOLD - offentlig potential finns men hålls.
+- REPO_SURFACE_PROPOSAL - repo-yta kan designas, men inte byggas utan mandat.
+- REPO_READY - repo-yta är explicit godkänd för implementering.
+- REINJECTION_CARD - lärdom återförd som stil-, metod- eller apparatusmaterial.
+- NO_EVENT - ingen vidare rörelse krävs.
+- STOP - cykeln avbryts av skydds-, status- eller integritetsregel.
 
 ### 2.4 Cykelns form
 
@@ -142,7 +142,7 @@ Stationer:
 
 ---
 
-# A. ADDITIONELL UPPSTARTSDESIGN — FILESYSTEM-SPECIFIK
+# A. ADDITIONELL UPPSTARTSDESIGN - FILESYSTEM-SPECIFIK
 
 ## A0. Namn
 
@@ -426,7 +426,7 @@ Godkänd testutgång:
 
 ---
 
-# B. ADDITIONELL UPPSTARTSDESIGN — NYTT REPO UTAN INTERNA REFERENSER
+# B. ADDITIONELL UPPSTARTSDESIGN - NYTT REPO UTAN INTERNA REFERENSER
 
 ## B0. Syfte
 

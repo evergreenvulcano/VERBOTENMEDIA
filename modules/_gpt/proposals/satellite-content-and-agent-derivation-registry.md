@@ -14,7 +14,7 @@ The repository already contains a class of files that are easy to misread. They 
 
 That reading is too weak.
 
-Many of these satellite files are doing at least two jobs at once. They are content in their own right — worth reading, worth preserving, sometimes load-bearing as style or conceptual atmosphere. At the same time, they are latent derivation sources for future agents, tools, review surfaces, prompt modifiers, or diagnostic contracts. They are not only about something. They also imply ways of operating on something.
+Many of these satellite files are doing at least two jobs at once. They are content in their own right - worth reading, worth preserving, sometimes load-bearing as style or conceptual atmosphere. At the same time, they are latent derivation sources for future agents, tools, review surfaces, prompt modifiers, or diagnostic contracts. They are not only about something. They also imply ways of operating on something.
 
 The failure mode is predictable. If the system sees them only as content, it misses the operational architectures hiding inside them. If the system sees them only as latent tools, it strips them of aesthetic and conceptual status and turns them into raw utility feedstock. Both misreadings are damaging.
 

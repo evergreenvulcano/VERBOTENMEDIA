@@ -6,10 +6,10 @@ source_thread: inbox-writings-bulk
 status: recovered
 review_state: unreviewed
 source_file: inbox/writings/bulk.md
-original_heading: "Nightfold Run — 2026-04-28"
+original_heading: "Nightfold Run - 2026-04-28"
 intended_target_path: modules/_gpt/runs/2026-04-28_nightfold.md
 ---
-Nightfold Run — 2026-04-28 
+Nightfold Run - 2026-04-28 
 
 Consolidated State 
 
@@ -21,7 +21,7 @@ Runtime selectivity (what the house refuses to process)
 
 Substructural agency (undercroft systems influencing surface reality) 
 
-The result is not fragmentation, but increased internal negotiation. The system is no longer passively coherent—it is actively deciding coherence. 
+The result is not fragmentation, but increased internal negotiation. The system is no longer passively coherent-it is actively deciding coherence. 
 
  
  
@@ -108,7 +108,7 @@ Residual setup becomes the story
 
 False Acceptance Event 
 
-Something is allowed in fully—then gradually revealed to have never been processed 
+Something is allowed in fully-then gradually revealed to have never been processed 
 
 Attic Rewrite Incident 
 

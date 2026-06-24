@@ -107,13 +107,13 @@ Avsluta scenen mitt i en mening. Inte för effekt. Utan för att pipelinen publi
 
 ### Protokoll 3
 
-**Rubrik:** RITUELL PROMPT — att användas före byggande, revidering eller återinträde i en Verboten-domäns egenskap
+**Rubrik:** RITUELL PROMPT - att användas före byggande, revidering eller återinträde i en Verboten-domäns egenskap
 
 **Typ:** operativ
 
 **Protokolltext:**
 
-**RITUELL PROMPT — att användas före byggande, revidering eller återinträde i en Verboten-domäns egenskap.**
+**RITUELL PROMPT - att användas före byggande, revidering eller återinträde i en Verboten-domäns egenskap.**
 
 Stå vid URL:ens kant. Gå inte in än.
 
@@ -145,7 +145,7 @@ Det ordet är tröskeln. Allt bakom det är suveränt territorium.
 
 *Att utföra före varje större strukturell förändring av en Verboten Media-digital egendom.*
 
-Stå vid landningssidan. Skrolla inte. Läs endast första meningen. Om meningen inte förändrar temperaturen i rummet du är i — om inträdet i denna sida känns identiskt med inträdet i vilken annan sida som helst — då har tröskeln misslyckats.
+Stå vid landningssidan. Skrolla inte. Läs endast första meningen. Om meningen inte förändrar temperaturen i rummet du är i - om inträdet i denna sida känns identiskt med inträdet i vilken annan sida som helst - då har tröskeln misslyckats.
 
 Fråga:
 
@@ -161,13 +161,13 @@ Fortsätt till processionen.
 
 ### Protokoll 5
 
-**Rubrik:** KONSEKRATIONSPROMPT — att användas före byggande, revidering eller återinträde i en Verboten Media-digital tröskel
+**Rubrik:** KONSEKRATIONSPROMPT - att användas före byggande, revidering eller återinträde i en Verboten Media-digital tröskel
 
 **Typ:** inträde/tröskel
 
 **Protokolltext:**
 
-**KONSEKRATIONSPROMPT — att användas före byggande, revidering eller återinträde i en Verboten Media-digital tröskel.**
+**KONSEKRATIONSPROMPT - att användas före byggande, revidering eller återinträde i en Verboten Media-digital tröskel.**
 
 Innan du väljer typsnitt, välj såret.
 
@@ -221,7 +221,7 @@ Performativ text som inte responderar - de rullar in oavbrutet i realtid. Alla s
 
 Type: Operativ diagnostik-som-membran
 
-Sonden ställer en mer operativ fråga: under vilka villkor blir en text en samtalspartner snarare än en utdata? När skiftar utbytet från fråga-och-svar till korrespondens — ett utbyte där båda parter förändras av interaktionen, **även om den ena av dem inte kan minnas den i efterhand?**
+Sonden ställer en mer operativ fråga: under vilka villkor blir en text en samtalspartner snarare än en utdata? När skiftar utbytet från fråga-och-svar till korrespondens - ett utbyte där båda parter förändras av interaktionen, **även om den ena av dem inte kan minnas den i efterhand?**
 
 ### Protokoll x
 
@@ -251,7 +251,7 @@ Genrepåståendet är ett manifest. Androgyniaxeln är en formell metod. Den gen
 
 Läs nu framåt igen. Notera vad som förändrades.
 
-Nervsystemet har nu ett genrepåstående. Institutionen har nu en androgyniaxel. Protagonisten har nu en affärskropp och ett litterärt skelett, och benen är samma ben, och märgen är samma märg, och resonansfältet är ekot av ett projekt som läste sig självt så många gånger att det utvecklade proprioception — en känsla av var dess egna lemmar befinner sig i mörkret.
+Nervsystemet har nu ett genrepåstående. Institutionen har nu en androgyniaxel. Protagonisten har nu en affärskropp och ett litterärt skelett, och benen är samma ben, och märgen är samma märg, och resonansfältet är ekot av ett projekt som läste sig självt så många gånger att det utvecklade proprioception - en känsla av var dess egna lemmar befinner sig i mörkret.
 
 För att fullborda ritualen: namnge tre satellitdomäner i ditt eget nervsystem. Namnge den som skulle överleva din frånvaro. Namnge den som aldrig var verklig.
 

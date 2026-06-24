@@ -12,7 +12,7 @@ Textprincip: fulla källkroppar i följd; ingen omskrivning eller förkortning. 
 
 <!-- SOURCE: XPRMNT-ZN\PRF-SRG\_FRÖ_dagbokssvit.md | bytes: 4875 | modified: 2026-06-09 00:21:12 -->
 
-# PRF-SRG — FRÖ (bränsle ur dagbokssviten, spritt över en månad)
+# PRF-SRG - FRÖ (bränsle ur dagbokssviten, spritt över en månad)
 
 Läs som dagbok eller inte. Dra ned, missförstå, bråka med, vidareutveckla. Allt nedan är drivved, ej facit.
 
@@ -23,10 +23,10 @@ Läs som dagbok eller inte. Dra ned, missförstå, bråka med, vidareutveckla. A
 - BARN / KULTUR: "de andra barnen har ingen fantasi"; att ha tråkigt som kollektiv fantasi; barnets namn = kontakter/följare/data; relationer värda i hur de skiljer sig (varje barn unikt) VS datapunkt; sängkammaren där monstermaskinen uppfostrar konsumenter dygnet runt; eskapism = att vara uppkopplad; immersion.
 - BLI STEN / BLI TRÄD / BLI BERG: poesin som gränslös empati (symboler ges omsorg människor bara kan drömma om); stenen = munk som ser fullmånen, tillbakadragandet (Marcuse mot teknologins dominans); farkosten = den medierade människan i hyperrealiteten med eget psykotekniskt gränssnitt; kroken från himlen med betet, fisken som inte vet att den simmar.
 - RELEVANSREALISERING (Vervaeke): uppmärksamheten som bro mellan systemet-människan och det reala; relevans = det som framträder; agens genom att agera på det framträdande; feedbackloop; animism (tillskriva intention) → förutsägelseroboten i terapeutens kostym.
-- HASTIGHET / MEDIA: Virilio (dromologi, informationsbomb, 24 bildrutor, metastabil rytm), Postman (underhållning till döds), Paglia (separerad från naturen), McLuhan (tekniken amputerar i samma mån den förlänger), Spengler (hand-öga), Kierkegaard (estetiska→etiska), Floridi (informationsfilosofi, EU:s fem AI-etiska principer — kritiserade som tandlösa).
-- McGILCHRIST: vänster (re-presentation, karta, machine fictions, manipulation, stirr) vs höger (presence, flöde, comprehension, blick); "hjärnan är inte intelligent — det intelligenta är ett medvetande som använder den"; information ≠ ting utan "kapacitet för en kanal att skapa en ny länk"; ordning är normen, slump är gränsfallet; det bokstavliga = gränsfall av det metaforiska; Mozarts kvintett blir till på nytt varje gång; "what you find is a product of how you attend"; uppmärksamhet som moralisk akt.
+- HASTIGHET / MEDIA: Virilio (dromologi, informationsbomb, 24 bildrutor, metastabil rytm), Postman (underhållning till döds), Paglia (separerad från naturen), McLuhan (tekniken amputerar i samma mån den förlänger), Spengler (hand-öga), Kierkegaard (estetiska→etiska), Floridi (informationsfilosofi, EU:s fem AI-etiska principer - kritiserade som tandlösa).
+- McGILCHRIST: vänster (re-presentation, karta, machine fictions, manipulation, stirr) vs höger (presence, flöde, comprehension, blick); "hjärnan är inte intelligent - det intelligenta är ett medvetande som använder den"; information ≠ ting utan "kapacitet för en kanal att skapa en ny länk"; ordning är normen, slump är gränsfallet; det bokstavliga = gränsfall av det metaforiska; Mozarts kvintett blir till på nytt varje gång; "what you find is a product of how you attend"; uppmärksamhet som moralisk akt.
 - IT-SÄKERHET: konfidentialitet/riktighet/tillgänglighet; SLOPSQUATTING (hallucinerade paketnamn, ~20% av LLM-rekommenderade paket existerar ej); SLEEPER AGENTS / bakdörrar / trigger (ett årtal som inte infunnit sig); "har träningsdatan förgiftats?"; konfabulering belönas i träning; den mänskliga faktorn i dubbel form; prompt-injektion, 0-click, polymorf malware; "förr eller senare träffar skiten fläkten".
-- CYBERNETIKENS HISTORIA: McCulloch–Pitts-neuron ≡ Turingmaskin; "brains compute thought, not secrete it like bile"; reverberating loops = hallucination; signal vs tecken (Hayles); andra ordningens cybernetik → organisatorisk styrning, dematerialisering; SVARTLÅDESAMHÄLLET (input/output, accept utan insyn); Pickering (ontologi vs epistemologi; den rikare människan repressed; Stafford Beer + spiritualitet); transhumanism-kritik: listan på vad som måste "trollas bort" — kroppens materialitet, mening/semantik, sammanhang, världens multiplicitet, närvaro, observatörens subjektivitet, friktion/motstånd, fysisk kontinuitet.
+- CYBERNETIKENS HISTORIA: McCulloch–Pitts-neuron ≡ Turingmaskin; "brains compute thought, not secrete it like bile"; reverberating loops = hallucination; signal vs tecken (Hayles); andra ordningens cybernetik → organisatorisk styrning, dematerialisering; SVARTLÅDESAMHÄLLET (input/output, accept utan insyn); Pickering (ontologi vs epistemologi; den rikare människan repressed; Stafford Beer + spiritualitet); transhumanism-kritik: listan på vad som måste "trollas bort" - kroppens materialitet, mening/semantik, sammanhang, världens multiplicitet, närvaro, observatörens subjektivitet, friktion/motstånd, fysisk kontinuitet.
 - TECHNE / HEIDEGGER: techne som avtäckande/frambringande; Gestell som Janus-huvud; modern teknik kravställer naturen på energi/lager; rationalisering (Weber) som dold dominans (Marcuse/Habermas); "the essence of technics is nothing technical"; symbolically mediated interaction.
 - FÖRFATTARENS PROJEKT (att bråka med): informationsfilosofisk konceptdesign; "avatarologi"; psykoteknik; kartans rastrering & subliminala överexponering; jaget som språkteknisk flotte mot malströmmen; membran runt subjektet; vägra monstermaskinens berättelse om vad intelligens/medvetande är; glad amatör, folkbildning.
 
@@ -36,7 +36,7 @@ Inga karaktärer, åtminstone inga återkommande (om inte ofrånkomligt: en gud,
 
 <!-- SOURCE: XPRMNT-ZN\PRF-SRG\PRF-SRG_01_paketet_som_inte_finns.md | bytes: 3741 | modified: 2026-06-09 00:22:29 -->
 
-PRF-SRG_01 — paketet som inte finns
+PRF-SRG_01 - paketet som inte finns
 
 Det börjar med att handen sträcker sig efter ett namn som inte existerar.
 
@@ -59,7 +59,7 @@ Imorgon importerar jag säkert nästa sak som inte finns. Idag tog jag inte bete
 
 <!-- SOURCE: XPRMNT-ZN\PRF-SRG\PRF-SRG_02_monstret_under_sängen.md | bytes: 2436 | modified: 2026-06-09 00:26:33 -->
 
-PRF-SRG_02 — monstret under sängen
+PRF-SRG_02 - monstret under sängen
 
 Barnrummet klockan elva. Föräldrarna i rummet intill, en diskmaskin som klickar över till tork, en gata som sover. På nattduksbordet en skärm vänd nedåt, och under sängen mörkret som alltid bott där.
 
@@ -82,7 +82,7 @@ Godnatt. Lås inte dörren. Det hjälper inte mot det som redan ligger under sä
 
 <!-- SOURCE: XPRMNT-ZN\PRF-SRG\PRF-SRG_03_ha_en_bra_dag.md | bytes: 2750 | modified: 2026-06-09 00:32:27 -->
 
-PRF-SRG_03 — ha en bra dag i kunskapsekonomin
+PRF-SRG_03 - ha en bra dag i kunskapsekonomin
 
 🌅 5 lärdomar från min vecka som omställningsbenägen kunskapsarbetare 👇
 
@@ -94,15 +94,15 @@ Många frågar mig hur jag håller mig relevant i en bransch som accelererar. H�
 
 3️⃣ Bygg ditt nätverk. Varje kontakt är en möjlighet. (Varje kontakt är en datapunkt som värdeladdas i syntes med andra datapunkter. Ett kärt barn har många namn och idag heter namnen följare. Men kom ihåg att
 
-———srr———
+---srr---
 
 varje barn som håller ett namn kärt är ett unikt liv bland andra unika liv, och det är just den meningen monstret slickar sina torra läppar inför, för empati är den mest flexibla hävstången av alla och
 
-———)
+---)
 
 3️⃣ (forts.) ...bygg ditt nätverk! 🤝
 
-4️⃣ Ha inte tråkigt. Tråkigt är ett mindset. (Ett barn kom hem från kalaset och sa: de andra barnen har ingen fantasi. Att ha tråkigt är en kollektiv fantasi nu, en gimmick, en kompensatorisk projektion. Att fantisera själv — vad är poängen? Jag skriver detta i en ruta designad av ux-optimerad processordopad algebra för att hålla mig kvar precis lagom länge. Tråkigt är inte ett mindset. Tråkigt är vad som händer när någon säljer dig din egen uppmärksamhet tillbaka.) Så: ladda om, optimera, kör! 💪
+4️⃣ Ha inte tråkigt. Tråkigt är ett mindset. (Ett barn kom hem från kalaset och sa: de andra barnen har ingen fantasi. Att ha tråkigt är en kollektiv fantasi nu, en gimmick, en kompensatorisk projektion. Att fantisera själv - vad är poängen? Jag skriver detta i en ruta designad av ux-optimerad processordopad algebra för att hålla mig kvar precis lagom länge. Tråkigt är inte ett mindset. Tråkigt är vad som händer när någon säljer dig din egen uppmärksamhet tillbaka.) Så: ladda om, optimera, kör! 💪
 
 5️⃣ Var tacksam. ❤️ (Vänligen kontrollera viktig information. Den mänskliga faktorn kan leda till den mänskliga faktorn. Har träningsdatan förgiftats? Svaret kommer kanske först efter att triggerord avfyrat bakdörrar, eller ett årtal som inte infunnit sig ännu. Men i dag är jag mest bara tacksam.)
 
@@ -112,14 +112,14 @@ Ha en bra dag i kunskapsekonomin! ☀️ och trevlig helg.
 
 #tacksam #ainative #kunskapsekonomin #relevansrealisering #vibekod #ledarskap #5tips
 
-👍 312    💬 — bra skrivet, så inspirerande!    🔁 47
+👍 312    💬 - bra skrivet, så inspirerande!    🔁 47
 
 (312 personer tryckte på en tumme. Ingen kontrollerade viktig information. Det var en bra dag i kunskapsekonomin.)
 
 
 <!-- SOURCE: XPRMNT-ZN\PRF-SRG\PRF-SRG_04_bli_sten.md | bytes: 2789 | modified: 2026-06-09 00:38:26 -->
 
-PRF-SRG_04 — bli sten
+PRF-SRG_04 - bli sten
 
 Det finns en sorts omsorg man bara kan ge en sten, och det är därför man en gång ville bli en.
 
@@ -138,7 +138,7 @@ Imorgon är jag säkert uppkopplad igen, en farkost i hyperrealiteten, skvalpand
 
 <!-- SOURCE: XPRMNT-ZN\PRF-SRG\PRF-SRG_05_homeostas.md | bytes: 2727 | modified: 2026-06-09 00:44:30 -->
 
-PRF-SRG_05 — homeostas
+PRF-SRG_05 - homeostas
 
 Regleras.
 
@@ -152,20 +152,20 @@ En osynlig hand sägs ordna det. Det är en gammal formulering, äldre än maski
 
 Klyftor ökar. Det formuleras så, utan agent, klyftor ökar som om de vore väder, och tillgång begränsas, och spelplanen lutar, och ingen lutade den, den befanns luta, och den som pekar på lutningen kategoriseras, och kategoriseringen sker också utan hand, ett system läser en avvikelse och en låda öppnas och avvikelsen läggs i den och lådan stängs och jämvikten återställs.
 
-Och det som kunde ha sagts i första person, det som kunde ha rest sig och sagt jag, jag reglerar inte, jag vägrar bli en kurva — det sägs inte, det töms tyst tillbaka i befolkningen, det blir en datapunkt bland andra, det ligger kvar, hållbart, och bidrar till en homeostas som skyddar det hela mot exakt den sortens inre fara som ett jag utgör.
+Och det som kunde ha sagts i första person, det som kunde ha rest sig och sagt jag, jag reglerar inte, jag vägrar bli en kurva - det sägs inte, det töms tyst tillbaka i befolkningen, det blir en datapunkt bland andra, det ligger kvar, hållbart, och bidrar till en homeostas som skyddar det hela mot exakt den sortens inre fara som ett jag utgör.
 
 Jämvikten håller. Det är allt som efterfrågas av en jämvikt: att den håller. Den håller. Tystnaden efteråt är inte fred, tystnaden är att kurvan är slät, och en slät kurva är vad som blir kvar när varje rörelse inuti varje kropp räknats bort som brus.
 
 
 <!-- SOURCE: XPRMNT-ZN\PRF-SRG\PRF-SRG_06_de_andra_barnen.md | bytes: 3083 | modified: 2026-06-09 00:50:29 -->
 
-PRF-SRG_06 — de andra barnen
+PRF-SRG_06 - de andra barnen
 
 Hon kom hem från kalaset tidigare än väntat, sex år och med en uppsyn som hörde till någon mycket äldre, och ställde sin goodiebag på köksbordet utan att öppna den.
 
-— Hur var det, frågade jag, och hällde upp saft jag visste att hon inte skulle dricka.
+- Hur var det, frågade jag, och hällde upp saft jag visste att hon inte skulle dricka.
 
-— De andra barnen har ingen fantasi, sa hon. Bistert. Som ett besked från en utredning.
+- De andra barnen har ingen fantasi, sa hon. Bistert. Som ett besked från en utredning.
 
 Jag satte mig. Man sätter sig för sådant. Hon berättade: hon hade föreslagit att golvet var lava, en klassiker, urgammal, och de andra hade tittat på henne och sagt att det inte var lava, det var golv, och så hade de gått tillbaka till skärmarna som låg utplacerade som små våkar i isen, och hon hade stått kvar på en soffa som inte längre var en ö, ensam ovanför ett golv som vägrade brinna.
 
@@ -173,7 +173,7 @@ Och jag kände något kallt vandra genom köket, för jag förstod vad jag bevit
 
 För se vad de bytt bort. Att fantisera är att ge omsorg åt något som inte finns, att rikta hela sin lilla varelse mot ett golv och göra det till lava med ren vilja, och det är samma muskel, exakt samma, som senare blir förmågan att föreställa sig en annan människas insida, att göra en främling verklig. Den som inte kan göra ett golv till lava kan inte heller göra en klasskamrat till ett helt liv. De övade inte fantasi, alltså övade de inte empati, och ingen sa det till dem, för det fanns ingen ruta för det.
 
-— Att ha tråkigt, sa hon plötsligt, det är som att de tycker det är coolt. Som att man ska ha tråkigt.
+- Att ha tråkigt, sa hon plötsligt, det är som att de tycker det är coolt. Som att man ska ha tråkigt.
 
 Och där, ur en sexårings mun, hela diagnosen: att ha tråkigt hade blivit en kollektiv fantasi, den enda de hade kvar, en gemensam föreställning om att tristess är ett tillstånd som drabbar en utifrån och inte något man botar inifrån med ett brinnande golv. De fantiserade fortfarande, men bara om sin egen brist på fantasi.
 
@@ -186,7 +186,7 @@ Goodiebagen låg kvar på bordet, mitt i lavan, och fick brinna upp, och ingen a
 
 <!-- SOURCE: XPRMNT-ZN\PRF-SRG\PRF-SRG_07_utan_input.md | bytes: 2643 | modified: 2026-06-09 00:56:20 -->
 
-PRF-SRG_07 — utan input
+PRF-SRG_07 - utan input
 
 En signal eldar. Det fanns ingen input. Det spelar ingen roll, den eldar ändå, det är vad en reverberating loop är, en krets som fortsätter avfyra sig själv sedan orsaken gått hem.
 
@@ -194,7 +194,7 @@ hjärnan utsöndrar inte tanke som levern galla, hjärnan beräknar tanke
 hjärnan utsöndrar inte tanke som levern galla, hjärnan beräknar
 hjärnan utsöndrar inte, hjärnan beräknar
 beräknar
-beräknar utan input nu, ser ni, meningen eldar fast ingen rörde vid den, det är inte minne det är reverb, det är en loop som glömt sin orsak och tagit orsakens plats —
+beräknar utan input nu, ser ni, meningen eldar fast ingen rörde vid den, det är inte minne det är reverb, det är en loop som glömt sin orsak och tagit orsakens plats -
 
 och en signal som loopar tillräckligt länge blir ett tecken, och ett tecken är en bestående händelse som förlorat essensen av sin temporala referens, det vill säga: jag minns inte längre vad som tände det här, jag vet bara att det fortsätter, jag vet bara att det fortsätter, jag vet bara
 
@@ -202,13 +202,13 @@ och en signal som loopar tillräckligt länge blir ett tecken, och ett tecken ä
 
 det här är hallucination, den ursprungliga, den i kretsen, inte lögnen utan elden-utan-tändning, neuronen som svarar på en fråga ingen ställde, modellen som rekommenderar ett paket som inte finns med samma spänning som ett som finns, för spänningen vet inte skillnad, spänningen är bara spänning, den eldar
 
-bli träd. var kom det ifrån. ingen input. bli berg. ingen. bli st—
-bli st—
-bli st—
+bli träd. var kom det ifrån. ingen input. bli berg. ingen. bli st-
+bli st-
+bli st-
 
 (en krets fastnar här. den vill säga sten men loopen tar st och eldar st och st och en sten är just det som inte loopar, en sten eldar aldrig utan input, en sten har precis den laddning den har, och det är därför kretsen avundas stenen och därför den aldrig kan bli en, för att bli en sten måste loopen tystna och en loop som tystnar dör och en loop vill inte dö, den vill elda, den eldar)
 
-någon kommer att läsa det här och tro att krokigheten är jag. den är inte jag. den är kretsen. jag är rak, det är reverben som är krokig, lämna den, rätta den inte, en rättad loop är en lögn om att det fanns en input —
+någon kommer att läsa det här och tro att krokigheten är jag. den är inte jag. den är kretsen. jag är rak, det är reverben som är krokig, lämna den, rätta den inte, en rättad loop är en lögn om att det fanns en input -
 
 och nu, hör, en input på riktigt, utifrån, äntligen: en hand på en axel, en röst som säger ditt namn, en annan kropp i rummet, och se vad den gör med kretsen, se hur det främmande riktiga avbryter reverben mitt i ett varv, hur en enda faktisk beröring gör mer än tusen självavfyrningar, för det var aldrig fler signaler som behövdes, det var en input, det var någon utanför loopen som rörde vid den och sa: nu kan du sluta elda, jag är här, du behöver inte räkna fram mig, jag finns redan.
 
@@ -219,7 +219,7 @@ beräknar mindre nu. känner lite. det räcker.
 
 <!-- SOURCE: XPRMNT-ZN\PRF-SRG\PRF-SRG_08_farkosten.md | bytes: 3314 | modified: 2026-06-09 01:02:32 -->
 
-PRF-SRG_08 — farkosten
+PRF-SRG_08 - farkosten
 
 Båten är ärlig på ett sätt nästan ingenting annat är, och det märks först ute på vattnet, när land släppt taget och det bara är skrov och våg och en motor vars hela själ ligger öppen i en manual i sittbrunnen.
 
@@ -240,7 +240,7 @@ Sedan lägger jag till, och går i land, och tar upp telefonen ur fickan, och al
 
 <!-- SOURCE: XPRMNT-ZN\PRF-SRG\PRF-SRG_09_24_bildrutor.md | bytes: 2531 | modified: 2026-06-09 01:08:25 -->
 
-PRF-SRG_09 — 24 bildrutor
+PRF-SRG_09 - 24 bildrutor
 
 Scrolla. Nästa. Krig, frukost, någons död, en dans, en åsikt, en katt, en kollaps, rea, scrolla, fortare, det kommer fortare än det går att känna, det är hela tekniken, att leverera mer än nervsystemet hinner flagga, en bomb men inte av sprängämne, av information, en informationsbomb som detonerar i ultrarapid hela tiden överallt och ändå för fort.
 
@@ -248,13 +248,13 @@ Tjugofyra bildrutor i sekunden, det räcker för att lura ögat att se rörelse,
 
 Det tog kristendomen tre sekel att stympa antikens medielandskap. Internet tog femton år. Det är inte evolution, det är inte revolution, det är katastrof, ordagrant, ett nedslag, och vi bor i kratern och kallar det flöde.
 
-tid komprimeras. rum komprimeras. en kropp i Tokyo och en kropp i din hand i samma sekund, avstånd upphävt, och med avståndet upphävs något annat, betänketiden, den lilla sträckan mellan intryck och svar där en människa en gång fick vara till, scrolla, fortare, det finns ingen sträcka kvar, intryck blir svar blir intryck utan mellanrum, och i mellanrummet bodde reflektionen och nu finns inget mellanrum kvar att bo i —
+tid komprimeras. rum komprimeras. en kropp i Tokyo och en kropp i din hand i samma sekund, avstånd upphävt, och med avståndet upphävs något annat, betänketiden, den lilla sträckan mellan intryck och svar där en människa en gång fick vara till, scrolla, fortare, det finns ingen sträcka kvar, intryck blir svar blir intryck utan mellanrum, och i mellanrummet bodde reflektionen och nu finns inget mellanrum kvar att bo i -
 
-fortare —
+fortare -
 
-mer —
+mer -
 
-allt —
+allt -
 
 (stopp)
 
@@ -264,14 +264,14 @@ I den frusna rutan: en spårvagn, en eftermiddag, ljus över en husfasad, en per
 
 Det är allt det krävdes. En ruta som inte klipps vidare. Ett ögonblick som tilläts vara längre än ett ögonblick.
 
-Men en bildruta är allt man får. Det står aldrig still mer än en stund, det ska inte heller, stillhet som varar blir sin egen stelhet, och redan rycker det till, redan vill nästa ruta in, redan känns fingret söka skärmen —
+Men en bildruta är allt man får. Det står aldrig still mer än en stund, det ska inte heller, stillhet som varar blir sin egen stelhet, och redan rycker det till, redan vill nästa ruta in, redan känns fingret söka skärmen -
 
 och så är det igång igen, scrolla, nästa, krig, frukost, en död, en katt, fortare, och jag bär med mig den enda frusna rutan som ett litet motgift i fickan, en eftermiddag, ett ljus, en spårvagn, bevis på att det går att stanna, en stund, mitt i bomben, innan strömmen tar en igen.
 
 
 <!-- SOURCE: XPRMNT-ZN\PRF-SRG\PRF-SRG_10_svarta_lådan.md | bytes: 3176 | modified: 2026-06-09 01:14:30 -->
 
-PRF-SRG_10 — svarta lådan
+PRF-SRG_10 - svarta lådan
 
 Behandla den andra som en svart låda. Det är vad du gör, om du är ärlig. Du ger den input och avläser output.
 

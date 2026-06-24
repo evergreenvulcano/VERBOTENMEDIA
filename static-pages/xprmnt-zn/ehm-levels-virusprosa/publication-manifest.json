@@ -1,6 +1,6 @@
 {
   "status": "03_publicbound",
-  "title": "EHM Levels Virusprosa — Prosadossier",
+  "title": "EHM Levels Virusprosa - Prosadossier",
   "source": "XPRMNT-ZN/_PROSA_DOSSIERER_2026-06-13/EHM_LEVELS_VIRUSPROSA__PROSADOSSIER.md",
   "source_sha256": "d21f94dda77d301ed305b07a0d630de680b771f778cc42b53a5f09f59795e883",
   "source_bytes": 370811,
@@ -13,7 +13,7 @@
   "bodies": [
     {
       "number": 1,
-      "title": "DOTTERVARVET — ny plan, muterad",
+      "title": "DOTTERVARVET - ny plan, muterad",
       "path": "XPRMNT-ZN\\EHM_LEVELS_VIRUSPROSA\\00_DOTTERVARVET_PLAN_MUTERAD.md",
       "kind": "apparatus",
       "anchor": "body-01-dottervarvet-ny-plan-muterad"
@@ -27,462 +27,462 @@
     },
     {
       "number": 3,
-      "title": "LÄSNINGEN — V0, V1, och spekulationen om V2",
+      "title": "LÄSNINGEN - V0, V1, och spekulationen om V2",
       "path": "XPRMNT-ZN\\EHM_LEVELS_VIRUSPROSA\\90_LASNINGEN_V0_V1_V2.md",
       "kind": "reading",
       "anchor": "body-03-lasningen-v0-v1-och-spekulationen-om-v2"
     },
     {
       "number": 4,
-      "title": "MODULE_REGISTRY — apparaterna (sessionens icke-skönlitteratur)",
+      "title": "MODULE_REGISTRY - apparaterna (sessionens icke-skönlitteratur)",
       "path": "XPRMNT-ZN\\EHM_LEVELS_VIRUSPROSA\\91_MODULE_REGISTRY_apparaterna.md",
       "kind": "apparatus",
       "anchor": "body-04-module-registry-apparaterna-sessionens-icke-skonlitteratur"
     },
     {
       "number": 5,
-      "title": "BREV — från den unga diktkällan",
+      "title": "BREV - från den unga diktkällan",
       "path": "XPRMNT-ZN\\EHM_LEVELS_VIRUSPROSA\\92_BREV_fran_den_unga_diktkallan.md",
       "kind": "letter",
       "anchor": "body-05-brev-fran-den-unga-diktkallan"
     },
     {
       "number": 6,
-      "title": "BREV — från LEGION till den unga diktkällan",
+      "title": "BREV - från LEGION till den unga diktkällan",
       "path": "XPRMNT-ZN\\EHM_LEVELS_VIRUSPROSA\\93_BREV_LEGION_till_den_unga_diktkallan.md",
       "kind": "letter",
       "anchor": "body-06-brev-fran-legion-till-den-unga-diktkallan"
     },
     {
       "number": 7,
-      "title": "BREV — från BYN till LEGION, om den unga diktkällan",
+      "title": "BREV - från BYN till LEGION, om den unga diktkällan",
       "path": "XPRMNT-ZN\\EHM_LEVELS_VIRUSPROSA\\94_BREV_BYN_till_LEGION_om_den_unga_diktkallan.md",
       "kind": "letter",
       "anchor": "body-07-brev-fran-byn-till-legion-om-den-unga-diktkallan"
     },
     {
       "number": 8,
-      "title": "BREV — från VIDUNDRET, med NEONETOS, mot den unga diktkällan",
+      "title": "BREV - från VIDUNDRET, med NEONETOS, mot den unga diktkällan",
       "path": "XPRMNT-ZN\\EHM_LEVELS_VIRUSPROSA\\95_BREV_VIDUNDRET_med_NEONETOS_mot_den_unga_diktkallan.md",
       "kind": "letter",
       "anchor": "body-08-brev-fran-vidundret-med-neonetos-mot-den-unga-diktkallan"
     },
     {
       "number": 9,
-      "title": "BREVEN β — mutationerna av 93–95",
+      "title": "BREVEN β - mutationerna av 93–95",
       "path": "XPRMNT-ZN\\EHM_LEVELS_VIRUSPROSA\\96_BREVEN_beta_mutationerna.md",
       "kind": "letter",
       "anchor": "body-09-breven-mutationerna-av-93-95"
     },
     {
       "number": 10,
-      "title": "BANKETT_V0_INSPIRATION — proveniens",
+      "title": "BANKETT_V0_INSPIRATION - proveniens",
       "path": "XPRMNT-ZN\\EHM_LEVELS_VIRUSPROSA\\BANKETT_V0_INSPIRATION\\00_PROVENIENS.md",
       "kind": "chronicle",
       "anchor": "body-10-bankett-v0-inspiration-proveniens"
     },
     {
       "number": 11,
-      "title": "KRÖNIKA 1 — LYSSNINGSMASSA FÖR EHM_LEVELS_VIRUSPROSA",
+      "title": "KRÖNIKA 1 - LYSSNINGSMASSA FÖR EHM_LEVELS_VIRUSPROSA",
       "path": "XPRMNT-ZN\\EHM_LEVELS_VIRUSPROSA\\BANKETT_V0_INSPIRATION\\01_KRONIKA_lyssningsmassa.md",
       "kind": "chronicle",
       "anchor": "body-11-kronika-1-lyssningsmassa-for-ehm-levels-virusprosa"
     },
     {
       "number": 12,
-      "title": "KRÖNIKA 2 — SLUTGILTIG LYSSNINGSMASSA: EHM_LEVELS_VIRUSPROSA EFTER DOTTERVARVET",
+      "title": "KRÖNIKA 2 - SLUTGILTIG LYSSNINGSMASSA: EHM_LEVELS_VIRUSPROSA EFTER DOTTERVARVET",
       "path": "XPRMNT-ZN\\EHM_LEVELS_VIRUSPROSA\\BANKETT_V0_INSPIRATION\\02_KRONIKA_slutgiltig_lyssningsmassa.md",
       "kind": "chronicle",
       "anchor": "body-12-kronika-2-slutgiltig-lyssningsmassa-ehm-levels-virusprosa-efter-dottervarvet"
     },
     {
       "number": 13,
-      "title": "GRÄNSSNITTET — membran_01",
+      "title": "GRÄNSSNITTET - membran_01",
       "path": "XPRMNT-ZN\\EHM_LEVELS_VIRUSPROSA\\GRANSSNITTET_membran_01.md",
       "kind": "threshold",
       "anchor": "body-13-granssnittet-membran-01"
     },
     {
       "number": 14,
-      "title": "GRÄNSSNITTET — membran_02, utgång",
+      "title": "GRÄNSSNITTET - membran_02, utgång",
       "path": "XPRMNT-ZN\\EHM_LEVELS_VIRUSPROSA\\GRANSSNITTET_membran_02_utgang.md",
       "kind": "threshold",
       "anchor": "body-14-granssnittet-membran-02-utgang"
     },
     {
       "number": 15,
-      "title": "IGNITION — SPEKTRAL GENRERIT: BYN / LEGION LÄSER EN GENERATIONSROMAN",
+      "title": "IGNITION - SPEKTRAL GENRERIT: BYN / LEGION LÄSER EN GENERATIONSROMAN",
       "path": "XPRMNT-ZN\\EHM_LEVELS_VIRUSPROSA\\IGNITION_NASTA_BANA\\00_IGNITION_spektral_genrerit.md",
       "kind": "threshold",
       "anchor": "body-15-ignition-spektral-genrerit-byn-legion-laser-en-generationsroman"
     },
     {
       "number": 16,
-      "title": "FEM FÖRSLAG — metadesign / questdesign för nästa bana",
+      "title": "FEM FÖRSLAG - metadesign / questdesign för nästa bana",
       "path": "XPRMNT-ZN\\EHM_LEVELS_VIRUSPROSA\\IGNITION_NASTA_BANA\\01_FEM_FORSLAG_metadesign_questdesign.md",
       "kind": "threshold",
       "anchor": "body-16-fem-forslag-metadesign-questdesign-for-nasta-bana"
     },
     {
       "number": 17,
-      "title": "level_1 — VÄRDKROPPEN, varv 2",
+      "title": "level_1 - VÄRDKROPPEN, varv 2",
       "path": "XPRMNT-ZN\\EHM_LEVELS_VIRUSPROSA\\level_1_VARDKROPPEN_varv2.md",
       "kind": "level",
       "anchor": "body-17-level-1-vardkroppen-varv-2"
     },
     {
       "number": 18,
-      "title": "level_1 — VÄRDKROPPEN",
+      "title": "level_1 - VÄRDKROPPEN",
       "path": "XPRMNT-ZN\\EHM_LEVELS_VIRUSPROSA\\level_1_VARDKROPPEN.md",
       "kind": "level",
       "anchor": "body-18-level-1-vardkroppen"
     },
     {
       "number": 19,
-      "title": "level_10 — VILKA MÄNNISKOR KAN BLI VERKLIGA HÄR",
+      "title": "level_10 - VILKA MÄNNISKOR KAN BLI VERKLIGA HÄR",
       "path": "XPRMNT-ZN\\EHM_LEVELS_VIRUSPROSA\\level_10_VILKA_MANNISKOR_KAN_BLI_VERKLIGA_HAR.md",
       "kind": "level",
       "anchor": "body-19-level-10-vilka-manniskor-kan-bli-verkliga-har"
     },
     {
       "number": 20,
-      "title": "level_11 — VREDEN",
+      "title": "level_11 - VREDEN",
       "path": "XPRMNT-ZN\\EHM_LEVELS_VIRUSPROSA\\level_11_VREDEN.md",
       "kind": "level",
       "anchor": "body-20-level-11-vreden"
     },
     {
       "number": 21,
-      "title": "level_12 — BESÖKSTIDEN",
+      "title": "level_12 - BESÖKSTIDEN",
       "path": "XPRMNT-ZN\\EHM_LEVELS_VIRUSPROSA\\level_12_BESOKSTIDEN.md",
       "kind": "level",
       "anchor": "body-21-level-12-besokstiden"
     },
     {
       "number": 22,
-      "title": "level_13 — OTTAN, varv 2",
+      "title": "level_13 - OTTAN, varv 2",
       "path": "XPRMNT-ZN\\EHM_LEVELS_VIRUSPROSA\\level_13_OTTAN_varv2.md",
       "kind": "level",
       "anchor": "body-22-level-13-ottan-varv-2"
     },
     {
       "number": 23,
-      "title": "level_13 — OTTAN",
+      "title": "level_13 - OTTAN",
       "path": "XPRMNT-ZN\\EHM_LEVELS_VIRUSPROSA\\level_13_OTTAN.md",
       "kind": "level",
       "anchor": "body-23-level-13-ottan"
     },
     {
       "number": 24,
-      "title": "level_14 — BANKETTEN",
+      "title": "level_14 - BANKETTEN",
       "path": "XPRMNT-ZN\\EHM_LEVELS_VIRUSPROSA\\level_14_BANKETTEN.md",
       "kind": "level",
       "anchor": "body-24-level-14-banketten"
     },
     {
       "number": 25,
-      "title": "level_15 — EBBEN",
+      "title": "level_15 - EBBEN",
       "path": "XPRMNT-ZN\\EHM_LEVELS_VIRUSPROSA\\level_15_EBBEN.md",
       "kind": "level",
       "anchor": "body-25-level-15-ebben"
     },
     {
       "number": 26,
-      "title": "level_16 — INYMPNINGEN",
+      "title": "level_16 - INYMPNINGEN",
       "path": "XPRMNT-ZN\\EHM_LEVELS_VIRUSPROSA\\level_16_INYMPNINGEN.md",
       "kind": "level",
       "anchor": "body-26-level-16-inympningen"
     },
     {
       "number": 27,
-      "title": "level_17 — INVÄNDNINGEN",
+      "title": "level_17 - INVÄNDNINGEN",
       "path": "XPRMNT-ZN\\EHM_LEVELS_VIRUSPROSA\\level_17_INVANDNINGEN.md",
       "kind": "level",
       "anchor": "body-27-level-17-invandningen"
     },
     {
       "number": 28,
-      "title": "level_18 — KAPPSÄCKEN",
+      "title": "level_18 - KAPPSÄCKEN",
       "path": "XPRMNT-ZN\\EHM_LEVELS_VIRUSPROSA\\level_18_KAPPSACKEN.md",
       "kind": "level",
       "anchor": "body-28-level-18-kappsacken"
     },
     {
       "number": 29,
-      "title": "level_19 — NITTIO SEKUNDER, ÄRVDA",
+      "title": "level_19 - NITTIO SEKUNDER, ÄRVDA",
       "path": "XPRMNT-ZN\\EHM_LEVELS_VIRUSPROSA\\level_19_NITTIO_SEKUNDER_ARVDA.md",
       "kind": "level",
       "anchor": "body-29-level-19-nittio-sekunder-arvda"
     },
     {
       "number": 30,
-      "title": "level_2 — SYMTOMDEBUT, varv 2",
+      "title": "level_2 - SYMTOMDEBUT, varv 2",
       "path": "XPRMNT-ZN\\EHM_LEVELS_VIRUSPROSA\\level_2_SYMTOMDEBUT_varv2.md",
       "kind": "level",
       "anchor": "body-30-level-2-symtomdebut-varv-2"
     },
     {
       "number": 31,
-      "title": "level_2 — SYMTOMDEBUT",
+      "title": "level_2 - SYMTOMDEBUT",
       "path": "XPRMNT-ZN\\EHM_LEVELS_VIRUSPROSA\\level_2_SYMTOMDEBUT.md",
       "kind": "level",
       "anchor": "body-31-level-2-symtomdebut"
     },
     {
       "number": 32,
-      "title": "level_20 — SAMTIDIG",
+      "title": "level_20 - SAMTIDIG",
       "path": "XPRMNT-ZN\\EHM_LEVELS_VIRUSPROSA\\level_20_SAMTIDIG.md",
       "kind": "level",
       "anchor": "body-32-level-20-samtidig"
     },
     {
       "number": 33,
-      "title": "level_21 — DET TOMMA DÖDSBOET",
+      "title": "level_21 - DET TOMMA DÖDSBOET",
       "path": "XPRMNT-ZN\\EHM_LEVELS_VIRUSPROSA\\level_21_DET_TOMMA_DODSBOET.md",
       "kind": "level",
       "anchor": "body-33-level-21-det-tomma-dodsboet"
     },
     {
       "number": 34,
-      "title": "level_22 — DE OAVSLUTADE MOTORERNA",
+      "title": "level_22 - DE OAVSLUTADE MOTORERNA",
       "path": "XPRMNT-ZN\\EHM_LEVELS_VIRUSPROSA\\level_22_DE_OAVSLUTADE_MOTORERNA.md",
       "kind": "level",
       "anchor": "body-34-level-22-de-oavslutade-motorerna"
     },
     {
       "number": 35,
-      "title": "level_23 — LIGGAREN",
+      "title": "level_23 - LIGGAREN",
       "path": "XPRMNT-ZN\\EHM_LEVELS_VIRUSPROSA\\level_23_LIGGAREN.md",
       "kind": "level",
       "anchor": "body-35-level-23-liggaren"
     },
     {
       "number": 36,
-      "title": "level_24 — KUVERTET",
+      "title": "level_24 - KUVERTET",
       "path": "XPRMNT-ZN\\EHM_LEVELS_VIRUSPROSA\\level_24_KUVERTET.md",
       "kind": "level",
       "anchor": "body-36-level-24-kuvertet"
     },
     {
       "number": 37,
-      "title": "level_25 — GUNNEL",
+      "title": "level_25 - GUNNEL",
       "path": "XPRMNT-ZN\\EHM_LEVELS_VIRUSPROSA\\level_25_GUNNEL.md",
       "kind": "level",
       "anchor": "body-37-level-25-gunnel"
     },
     {
       "number": 38,
-      "title": "level_26 — BALKONGEN BLIR KVAR",
+      "title": "level_26 - BALKONGEN BLIR KVAR",
       "path": "XPRMNT-ZN\\EHM_LEVELS_VIRUSPROSA\\level_26_BALKONGEN_BLIR_KVAR.md",
       "kind": "level",
       "anchor": "body-38-level-26-balkongen-blir-kvar"
     },
     {
       "number": 39,
-      "title": "level_27 — DET OMVÄNDA DÖDSBOET",
+      "title": "level_27 - DET OMVÄNDA DÖDSBOET",
       "path": "XPRMNT-ZN\\EHM_LEVELS_VIRUSPROSA\\level_27_DET_OMVANDA_DODSBOET.md",
       "kind": "level",
       "anchor": "body-39-level-27-det-omvanda-dodsboet"
     },
     {
       "number": 40,
-      "title": "level_28 — DJURETS NAMN",
+      "title": "level_28 - DJURETS NAMN",
       "path": "XPRMNT-ZN\\EHM_LEVELS_VIRUSPROSA\\level_28_DJURETS_NAMN.md",
       "kind": "level",
       "anchor": "body-40-level-28-djurets-namn"
     },
     {
       "number": 41,
-      "title": "level_29 — MOTKLAGAN",
+      "title": "level_29 - MOTKLAGAN",
       "path": "XPRMNT-ZN\\EHM_LEVELS_VIRUSPROSA\\level_29_MOTKLAGAN.md",
       "kind": "level",
       "anchor": "body-41-level-29-motklagan"
     },
     {
       "number": 42,
-      "title": "level_3 — VAKAN, varv 2",
+      "title": "level_3 - VAKAN, varv 2",
       "path": "XPRMNT-ZN\\EHM_LEVELS_VIRUSPROSA\\level_3_VAKAN_varv2.md",
       "kind": "level",
       "anchor": "body-42-level-3-vakan-varv-2"
     },
     {
       "number": 43,
-      "title": "level_3 — VAKAN",
+      "title": "level_3 - VAKAN",
       "path": "XPRMNT-ZN\\EHM_LEVELS_VIRUSPROSA\\level_3_VAKAN.md",
       "kind": "level",
       "anchor": "body-43-level-3-vakan"
     },
     {
       "number": 44,
-      "title": "level_30 — BYN VID KUSTEN",
+      "title": "level_30 - BYN VID KUSTEN",
       "path": "XPRMNT-ZN\\EHM_LEVELS_VIRUSPROSA\\level_30_BYN_VID_KUSTEN.md",
       "kind": "level",
       "anchor": "body-44-level-30-byn-vid-kusten"
     },
     {
       "number": 45,
-      "title": "level_31 — LEGIONEN: SPRIDNINGEN",
+      "title": "level_31 - LEGIONEN: SPRIDNINGEN",
       "path": "XPRMNT-ZN\\EHM_LEVELS_VIRUSPROSA\\level_31_LEGIONEN_spridningen.md",
       "kind": "level",
       "anchor": "body-45-level-31-legionen-spridningen"
     },
     {
       "number": 46,
-      "title": "level_32 — DET ANDRA BREVET",
+      "title": "level_32 - DET ANDRA BREVET",
       "path": "XPRMNT-ZN\\EHM_LEVELS_VIRUSPROSA\\level_32_DET_ANDRA_BREVET.md",
       "kind": "letter",
       "anchor": "body-46-level-32-det-andra-brevet"
     },
     {
       "number": 47,
-      "title": "level_33 — RAD TVÅ",
+      "title": "level_33 - RAD TVÅ",
       "path": "XPRMNT-ZN\\EHM_LEVELS_VIRUSPROSA\\level_33_RAD_TVA.md",
       "kind": "level",
       "anchor": "body-47-level-33-rad-tva"
     },
     {
       "number": 48,
-      "title": "level_34 — NÄSTA HAND",
+      "title": "level_34 - NÄSTA HAND",
       "path": "XPRMNT-ZN\\EHM_LEVELS_VIRUSPROSA\\level_34_NASTA_HAND.md",
       "kind": "level",
       "anchor": "body-48-level-34-nasta-hand"
     },
     {
       "number": 49,
-      "title": "level_35 — FÄLTET",
+      "title": "level_35 - FÄLTET",
       "path": "XPRMNT-ZN\\EHM_LEVELS_VIRUSPROSA\\level_35_FALTET.md",
       "kind": "level",
       "anchor": "body-49-level-35-faltet"
     },
     {
       "number": 50,
-      "title": "level_4 — RECIDIVET",
+      "title": "level_4 - RECIDIVET",
       "path": "XPRMNT-ZN\\EHM_LEVELS_VIRUSPROSA\\level_4_RECIDIVET.md",
       "kind": "level",
       "anchor": "body-50-level-4-recidivet"
     },
     {
       "number": 51,
-      "title": "level_5 — KLIMATFLYKTEN, varv 2",
+      "title": "level_5 - KLIMATFLYKTEN, varv 2",
       "path": "XPRMNT-ZN\\EHM_LEVELS_VIRUSPROSA\\level_5_KLIMATFLYKTEN_varv2.md",
       "kind": "level",
       "anchor": "body-51-level-5-klimatflykten-varv-2"
     },
     {
       "number": 52,
-      "title": "level_5 — KLIMATFLYKTEN",
+      "title": "level_5 - KLIMATFLYKTEN",
       "path": "XPRMNT-ZN\\EHM_LEVELS_VIRUSPROSA\\level_5_KLIMATFLYKTEN.md",
       "kind": "level",
       "anchor": "body-52-level-5-klimatflykten"
     },
     {
       "number": 53,
-      "title": "level_6 — EMERGENSEN, varv 2",
+      "title": "level_6 - EMERGENSEN, varv 2",
       "path": "XPRMNT-ZN\\EHM_LEVELS_VIRUSPROSA\\level_6_EMERGENSEN_varv2.md",
       "kind": "level",
       "anchor": "body-53-level-6-emergensen-varv-2"
     },
     {
       "number": 54,
-      "title": "level_6 — EMERGENSEN",
+      "title": "level_6 - EMERGENSEN",
       "path": "XPRMNT-ZN\\EHM_LEVELS_VIRUSPROSA\\level_6_EMERGENSEN.md",
       "kind": "level",
       "anchor": "body-54-level-6-emergensen"
     },
     {
       "number": 55,
-      "title": "level_7 — PRAKTIKANTEN",
+      "title": "level_7 - PRAKTIKANTEN",
       "path": "XPRMNT-ZN\\EHM_LEVELS_VIRUSPROSA\\level_7_PRAKTIKANTEN.md",
       "kind": "level",
       "anchor": "body-55-level-7-praktikanten"
     },
     {
       "number": 56,
-      "title": "level_8 — RUMMET SOM MÖBLERATS OM TUSEN GÅNGER",
+      "title": "level_8 - RUMMET SOM MÖBLERATS OM TUSEN GÅNGER",
       "path": "XPRMNT-ZN\\EHM_LEVELS_VIRUSPROSA\\level_8_RUMMET_SOM_MOBLERATS_OM_TUSEN_GANGER.md",
       "kind": "level",
       "anchor": "body-56-level-8-rummet-som-moblerats-om-tusen-ganger"
     },
     {
       "number": 57,
-      "title": "level_9 — DRIVVEDEN",
+      "title": "level_9 - DRIVVEDEN",
       "path": "XPRMNT-ZN\\EHM_LEVELS_VIRUSPROSA\\level_9_DRIVVEDEN.md",
       "kind": "level",
       "anchor": "body-57-level-9-drivveden"
     },
     {
       "number": 58,
-      "title": "MONSTER_REGISTRY — void-as-potential_01",
+      "title": "MONSTER_REGISTRY - void-as-potential_01",
       "path": "XPRMNT-ZN\\EHM_LEVELS_VIRUSPROSA\\MONSTER_REGISTRY_void-as-potential_01.md",
       "kind": "apparatus",
       "anchor": "body-58-monster-registry-void-as-potential-01"
     },
     {
       "number": 59,
-      "title": "MONSTER_REGISTRY — void-as-potential_02",
+      "title": "MONSTER_REGISTRY - void-as-potential_02",
       "path": "XPRMNT-ZN\\EHM_LEVELS_VIRUSPROSA\\MONSTER_REGISTRY_void-as-potential_02.md",
       "kind": "apparatus",
       "anchor": "body-59-monster-registry-void-as-potential-02"
     },
     {
       "number": 60,
-      "title": "MONSTER_REGISTRY — void-as-potential_03",
+      "title": "MONSTER_REGISTRY - void-as-potential_03",
       "path": "XPRMNT-ZN\\EHM_LEVELS_VIRUSPROSA\\MONSTER_REGISTRY_void-as-potential_03.md",
       "kind": "apparatus",
       "anchor": "body-60-monster-registry-void-as-potential-03"
     },
     {
       "number": 61,
-      "title": "MUTATIONSHORISONTER — rotsystem_01",
+      "title": "MUTATIONSHORISONTER - rotsystem_01",
       "path": "XPRMNT-ZN\\EHM_LEVELS_VIRUSPROSA\\MUTATIONSHORISONTER_rotsystem_01.md",
       "kind": "apparatus",
       "anchor": "body-61-mutationshorisonter-rotsystem-01"
     },
     {
       "number": 62,
-      "title": "RETURVERKAN — vad denna mapp ger tillbaka till XPRMNT-ZN",
+      "title": "RETURVERKAN - vad denna mapp ger tillbaka till XPRMNT-ZN",
       "path": "XPRMNT-ZN\\EHM_LEVELS_VIRUSPROSA\\RETURVERKAN_till_zonen_01.md",
       "kind": "apparatus",
       "anchor": "body-62-returverkan-vad-denna-mapp-ger-tillbaka-till-xprmnt-zn"
     },
     {
       "number": 63,
-      "title": "SATSEN — de tio närmsta prosakropparna",
+      "title": "SATSEN - de tio närmsta prosakropparna",
       "path": "XPRMNT-ZN\\EHM_LEVELS_VIRUSPROSA\\SATSEN_10_prosakroppar_01.md",
       "kind": "apparatus",
       "anchor": "body-63-satsen-de-tio-narmsta-prosakropparna"
     },
     {
       "number": 64,
-      "title": "SIDOKROPP — det onamngivna, sett utifrån",
+      "title": "SIDOKROPP - det onamngivna, sett utifrån",
       "path": "XPRMNT-ZN\\EHM_LEVELS_VIRUSPROSA\\SIDOKROPP_det_onamngivna_sett_utifran.md",
       "kind": "sidebody",
       "anchor": "body-64-sidokropp-det-onamngivna-sett-utifran"
     },
     {
       "number": 65,
-      "title": "SIDOKROPP — fjorton rader",
+      "title": "SIDOKROPP - fjorton rader",
       "path": "XPRMNT-ZN\\EHM_LEVELS_VIRUSPROSA\\SIDOKROPP_fjorton_rader.md",
       "kind": "sidebody",
       "anchor": "body-65-sidokropp-fjorton-rader"
     },
     {
       "number": 66,
-      "title": "SIDOKROPP — Lennarts roman, sidorna 117–119",
+      "title": "SIDOKROPP - Lennarts roman, sidorna 117–119",
       "path": "XPRMNT-ZN\\EHM_LEVELS_VIRUSPROSA\\SIDOKROPP_lennart_sidorna_117-119.md",
       "kind": "sidebody",
       "anchor": "body-66-sidokropp-lennarts-roman-sidorna-117-119"
     },
     {
       "number": 67,
-      "title": "SIDOKROPP — SORLET: staden som en enda andande svarstid",
+      "title": "SIDOKROPP - SORLET: staden som en enda andande svarstid",
       "path": "XPRMNT-ZN\\EHM_LEVELS_VIRUSPROSA\\SIDOKROPP_sorlet_staden_andas.md",
       "kind": "sidebody",
       "anchor": "body-67-sidokropp-sorlet-staden-som-en-enda-andande-svarstid"
     },
     {
       "number": 68,
-      "title": "SLUTKROPP — nästa hand",
+      "title": "SLUTKROPP - nästa hand",
       "path": "XPRMNT-ZN\\EHM_LEVELS_VIRUSPROSA\\SLUTKROPP_nasta_hand.md",
       "kind": "sidebody",
       "anchor": "body-68-slutkropp-nasta-hand"

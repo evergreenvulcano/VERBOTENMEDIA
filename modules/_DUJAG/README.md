@@ -34,7 +34,7 @@ This module is conceptually adjacent to `modules/_gpt` but fully isolated from i
 
 ## Module tier
 
-**Developmental — non-canon, non-public.**
+**Developmental - non-canon, non-public.**
 
 This module is a support runtime package. It is not settled canon and carries no publishing authority.
 It exists to discipline a specific line of constitutive/generative work.

@@ -2,13 +2,13 @@
 run_type: nightfold
 run_date: 2026-05-03
 source_mode: gmail-recovered
-source_email: "VERBOTENMEDIA recovery packet after 2026-04-30 — Part 2 of 3"
+source_email: "VERBOTENMEDIA recovery packet after 2026-04-30 - Part 2 of 3"
 source_message_id: 19df7e95bb55391d
 status: recovered
 review_state: unreviewed
 intended_target_path: modules/_gpt/runs/2026-05-03_nightfold.md
 ---
-Nightfold — 2026-05-03
+Nightfold - 2026-05-03
 
 Consolidation Frame
 
@@ -68,7 +68,7 @@ Stabilizations
 
 - Temporal flattening now consistent across all modules
 
-- Origin absence no longer anomaly—now baseline assumption
+- Origin absence no longer anomaly-now baseline assumption
 
 - Failure conditions diffused beyond localization
 
@@ -122,11 +122,11 @@ Narratively, tension must emerge from:
 
 - Irreconstructable causality
 
-—not from direct conflict.
+-not from direct conflict.
 
 Tomorrow Seeds
 
-Seed 1 — Failure Without Event
+Seed 1 - Failure Without Event
 
 Introduce a condition where something is missing rather than broken:
 
@@ -136,7 +136,7 @@ Introduce a condition where something is missing rather than broken:
 
 - Only absence of expected continuity
 
-Seed 2 — The Untraceable Decision
+Seed 2 - The Untraceable Decision
 
 A system-wide change propagates:
 
@@ -146,7 +146,7 @@ A system-wide change propagates:
 
 - No timeline ever contained the decision
 
-Seed 3 — Local Perception Drift
+Seed 3 - Local Perception Drift
 
 A single observer (or subsystem perspective) begins to:
 
@@ -156,7 +156,7 @@ A single observer (or subsystem perspective) begins to:
 
 - Become the only location where tension still exists
 
-Seed 4 — Compression Artifact Leak
+Seed 4 - Compression Artifact Leak
 
 Pattern compression produces:
 
@@ -180,7 +180,7 @@ If everything:
 
 Then narrative tension collapses into uniformity.
 
-The system must not break—but it must almost break perceptually.
+The system must not break-but it must almost break perceptually.
 
 Key tactic:
 

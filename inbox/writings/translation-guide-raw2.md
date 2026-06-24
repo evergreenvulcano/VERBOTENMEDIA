@@ -1,12 +1,12 @@
-Okej, jag har tagit fram en forskningsplan för rapporten om **svensk översättning av engelsk teknisk funkonaturalistisk prosa** med titeln *Praktikanten — en hackerberättelse*. Planen bygger på de fem diagnostiska axlarna (Motor, Sår, Tröskel, Skala, Vägran) och kommer att analysera källfilerna som researchobjekt för att utveckla en ordlista och stilguide som bevarar forensiska beslutsbatterier, teknisk komplexitet och narrativ spänning.
+Okej, jag har tagit fram en forskningsplan för rapporten om **svensk översättning av engelsk teknisk funkonaturalistisk prosa** med titeln *Praktikanten - en hackerberättelse*. Planen bygger på de fem diagnostiska axlarna (Motor, Sår, Tröskel, Skala, Vägran) och kommer att analysera källfilerna som researchobjekt för att utveckla en ordlista och stilguide som bevarar forensiska beslutsbatterier, teknisk komplexitet och narrativ spänning.
 
-# Svensk översättning av engelsk teknisk funkonaturalistisk prosa: En fallstudie av 'Praktikanten — en hackerberättelse' med diagnostiska axlar som metodramverk
+# Svensk översättning av engelsk teknisk funkonaturalistisk prosa: En fallstudie av 'Praktikanten - en hackerberättelse' med diagnostiska axlar som metodramverk
 
 ---
 
 ## Inledning
 
-Att översätta engelsk teknisk funkonaturalistisk prosa till svenska är en komplex och mångfacetterad process som kräver både språklig och teknisk expertis. Denna rapport analyserar översättningsstrategier för verket 'Praktikanten — en hackerberättelse' med utgångspunkt i de fem diagnostiska axlarna: Motor, Sår, Tröskel, Skala och Vägran. Rapporten undersöker hur översättningen kan skapa ytterligare värde genom att bevara forensiska beslutsbatterier, teknisk komplexitet och narrativ spänning. Vidare presenteras en detaljerad ordlista och stilguide, utformad med hänsyn till originalets längd och genre. Rapporten bygger på ett brett urval av källor och följer en strukturerad disposition med tabeller och fördjupande analys.
+Att översätta engelsk teknisk funkonaturalistisk prosa till svenska är en komplex och mångfacetterad process som kräver både språklig och teknisk expertis. Denna rapport analyserar översättningsstrategier för verket 'Praktikanten - en hackerberättelse' med utgångspunkt i de fem diagnostiska axlarna: Motor, Sår, Tröskel, Skala och Vägran. Rapporten undersöker hur översättningen kan skapa ytterligare värde genom att bevara forensiska beslutsbatterier, teknisk komplexitet och narrativ spänning. Vidare presenteras en detaljerad ordlista och stilguide, utformad med hänsyn till originalets längd och genre. Rapporten bygger på ett brett urval av källor och följer en strukturerad disposition med tabeller och fördjupande analys.
 
 ---
 
@@ -42,7 +42,7 @@ För att forskningsdata och översättningar ska vara återanvändbara krävs at
 
 ## Diagnostiska axlar som metodologiskt ramverk
 
-De fem diagnostiska axlarna — Motor, Sår, Tröskel, Skala och Vägran — används som analytiskt ramverk för att systematiskt undersöka översättningsstrategier och deras effekter på textens funktion och värde.
+De fem diagnostiska axlarna - Motor, Sår, Tröskel, Skala och Vägran - används som analytiskt ramverk för att systematiskt undersöka översättningsstrategier och deras effekter på textens funktion och värde.
 
 ### Motor
 
@@ -54,7 +54,7 @@ De fem diagnostiska axlarna — Motor, Sår, Tröskel, Skala och Vägran — anv
 
 ### Tröskel
 
-**Tröskel** avser de övergångar där berättelsen eller tekniken passerar från ett tillstånd till ett annat — exempelvis när en praktikant blir hacker, eller när ett system komprometteras. Översättningen bör markera dessa trösklar tydligt, både genom terminologi och stilistiska val, för att läsaren ska uppleva förändringen lika starkt som i originalet  [5](https://onedrive.live.com/personal/4d7a98cf59646c06/_layouts/15/doc.aspx?resid=a89be99e-7ffa-4e2e-ad56-e0867a5ef589&cid=4d7a98cf59646c06)  [6](https://www.diva-portal.org/smash/get/diva2:1089054/FULLTEXT01.pdf).
+**Tröskel** avser de övergångar där berättelsen eller tekniken passerar från ett tillstånd till ett annat - exempelvis när en praktikant blir hacker, eller när ett system komprometteras. Översättningen bör markera dessa trösklar tydligt, både genom terminologi och stilistiska val, för att läsaren ska uppleva förändringen lika starkt som i originalet  [5](https://onedrive.live.com/personal/4d7a98cf59646c06/_layouts/15/doc.aspx?resid=a89be99e-7ffa-4e2e-ad56-e0867a5ef589&cid=4d7a98cf59646c06)  [6](https://www.diva-portal.org/smash/get/diva2:1089054/FULLTEXT01.pdf).
 
 ### Skala
 
@@ -62,7 +62,7 @@ De fem diagnostiska axlarna — Motor, Sår, Tröskel, Skala och Vägran — anv
 
 ### Vägran
 
-**Vägran** är de punkter där texten motstår enkla lösningar eller vägrar ge entydiga svar — till exempel när tekniska eller etiska dilemman lämnas öppna. Översättningen bör respektera denna öppenhet och undvika att förenkla eller förtydliga där originalet är tvetydigt  [5](https://onedrive.live.com/personal/4d7a98cf59646c06/_layouts/15/doc.aspx?resid=a89be99e-7ffa-4e2e-ad56-e0867a5ef589&cid=4d7a98cf59646c06)  [6](https://www.diva-portal.org/smash/get/diva2:1089054/FULLTEXT01.pdf).
+**Vägran** är de punkter där texten motstår enkla lösningar eller vägrar ge entydiga svar - till exempel när tekniska eller etiska dilemman lämnas öppna. Översättningen bör respektera denna öppenhet och undvika att förenkla eller förtydliga där originalet är tvetydigt  [5](https://onedrive.live.com/personal/4d7a98cf59646c06/_layouts/15/doc.aspx?resid=a89be99e-7ffa-4e2e-ad56-e0867a5ef589&cid=4d7a98cf59646c06)  [6](https://www.diva-portal.org/smash/get/diva2:1089054/FULLTEXT01.pdf).
 
 ---
 
@@ -176,7 +176,7 @@ En stilguide är ett centralt verktyg för att säkerställa enhetlighet och kva
 
 ### Originalets omfattning
 
-Funkonaturalistisk prosa, särskilt i teknisk fiction, kan variera kraftigt i längd — från kortare noveller till romaner på flera hundra sidor  [5](https://onedrive.live.com/personal/4d7a98cf59646c06/_layouts/15/doc.aspx?resid=a89be99e-7ffa-4e2e-ad56-e0867a5ef589&cid=4d7a98cf59646c06)  [6](https://www.diva-portal.org/smash/get/diva2:1089054/FULLTEXT01.pdf). Originalets längd påverkar både omfattningen av ordlistan och detaljnivån i stilguiden.
+Funkonaturalistisk prosa, särskilt i teknisk fiction, kan variera kraftigt i längd - från kortare noveller till romaner på flera hundra sidor  [5](https://onedrive.live.com/personal/4d7a98cf59646c06/_layouts/15/doc.aspx?resid=a89be99e-7ffa-4e2e-ad56-e0867a5ef589&cid=4d7a98cf59646c06)  [6](https://www.diva-portal.org/smash/get/diva2:1089054/FULLTEXT01.pdf). Originalets längd påverkar både omfattningen av ordlistan och detaljnivån i stilguiden.
 
 ### Konsekvenser för ordlista och stilguide
 
@@ -294,7 +294,7 @@ Bevarandet av forensisk integritet innebär att all teknisk och narrativ informa
 
 ## Slutsatser
 
-Svensk översättning av engelsk teknisk funkonaturalistisk prosa, exemplifierad av 'Praktikanten — en hackerberättelse', kräver en metodisk och systematisk ansats där de fem diagnostiska axlarna används som analytiskt ramverk. Genom att bevara forensiska beslutsbatterier, teknisk komplexitet och narrativ spänning kan översättningen skapa ytterligare värde och säkerställa att både tekniska och litterära kvaliteter bibehålls. En detaljerad ordlista och stilguide är avgörande för att uppnå konsekvens och kvalitet, särskilt i längre och mer komplexa texter. Rättsliga, etiska och tekniska aspekter måste hanteras med största noggrannhet, och användning av moderna verktyg och arbetsflöden är en förutsättning för framgång. Kvalitetskriterier och utvärderingsmetoder, såsom TRIX-analys och tvåspråkig granskning, säkerställer att översättningen uppfyller både språkliga och tekniska krav. Slutligen är det översättarens ansvar att balansera precision, kreativitet och etisk integritet i varje steg av processen.
+Svensk översättning av engelsk teknisk funkonaturalistisk prosa, exemplifierad av 'Praktikanten - en hackerberättelse', kräver en metodisk och systematisk ansats där de fem diagnostiska axlarna används som analytiskt ramverk. Genom att bevara forensiska beslutsbatterier, teknisk komplexitet och narrativ spänning kan översättningen skapa ytterligare värde och säkerställa att både tekniska och litterära kvaliteter bibehålls. En detaljerad ordlista och stilguide är avgörande för att uppnå konsekvens och kvalitet, särskilt i längre och mer komplexa texter. Rättsliga, etiska och tekniska aspekter måste hanteras med största noggrannhet, och användning av moderna verktyg och arbetsflöden är en förutsättning för framgång. Kvalitetskriterier och utvärderingsmetoder, såsom TRIX-analys och tvåspråkig granskning, säkerställer att översättningen uppfyller både språkliga och tekniska krav. Slutligen är det översättarens ansvar att balansera precision, kreativitet och etisk integritet i varje steg av processen.
 
 ---
 

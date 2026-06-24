@@ -1,4 +1,4 @@
-﻿# SPRÅKKROPPSPROFIL OCH REGISTERRENDERING
+# SPRÅKKROPPSPROFIL OCH REGISTERRENDERING
 ## Authenticity Rendering Protocol for Swedish Authorial Material
 
 ## Purpose
@@ -95,7 +95,7 @@ Do not skip the audit log.
 
 ---
 
-# STAGE 1 — SPRÅKKROPPSPROFIL
+# STAGE 1 - SPRÅKKROPPSPROFIL
 
 Read Authority Material A.
 
@@ -208,7 +208,7 @@ Examples:
 
 ---
 
-# STAGE 2 — RENDERINGSREGLER
+# STAGE 2 - RENDERINGSREGLER
 
 Create a controlled rendering rule-set.
 
@@ -295,7 +295,7 @@ Examples:
 
 ---
 
-# STAGE 3 — REGISTERRENDERED VERSION
+# STAGE 3 - REGISTERRENDERED VERSION
 
 Now render Target Material B into a Swedish text aligned with the authority profile.
 
@@ -337,7 +337,7 @@ Then explain why.
 
 ---
 
-# STAGE 4 — AUDIT LOG
+# STAGE 4 - AUDIT LOG
 
 After the rendered version, produce an audit log.
 

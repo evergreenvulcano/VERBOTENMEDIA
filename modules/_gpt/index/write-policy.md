@@ -39,28 +39,28 @@ Non-examples:
 
 ## Writable zones
 
-### Zone A — routine write zone
+### Zone A - routine write zone
 `modules/_gpt/runs/`
 
 Allowed for scheduled and interactive work.
 Default behavior: additive only.
 No destructive edits unless explicitly requested.
 
-### Zone B — structural write zone
+### Zone B - structural write zone
 `modules/_gpt/index/`
 
 Allowed for manifests, registries, and durable maps.
 Default behavior: additive or clearly scoped update.
 No broad rewrites without explicit instruction.
 
-### Zone C — staged outward-facing zone
+### Zone C - staged outward-facing zone
 `modules/_gpt/proposals/`
 
 Allowed for patch-ready drafts.
 These are candidate artifacts only.
 Nothing here becomes canon automatically.
 
-### Zone D — protected canon zone
+### Zone D - protected canon zone
 Everything outside `modules/_gpt/`
 
 Not writable by default.

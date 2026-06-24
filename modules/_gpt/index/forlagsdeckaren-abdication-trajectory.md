@@ -129,7 +129,7 @@ That transition is Lillfrugan's reason.
 
 ## Current project trajectory, 16-27 April 2026
 
-### Phase 1 — website as reading environment
+### Phase 1 - website as reading environment
 
 The repo first moved from static presentation toward a reading system. The site gained markdown viewing, card-to-markdown routing, article rendering, decorative identity layers, and a novel-focused shortstory template surface. This phase established the public platform as a place where prose can be read as product, not just announced.
 
@@ -137,7 +137,7 @@ Operational meaning: the website becomes threshold.
 
 Story meaning: the site can host the novel's self-publication logic.
 
-### Phase 2 — markdown publishing standard and inbox staging
+### Phase 2 - markdown publishing standard and inbox staging
 
 The next phase created the v1 markdown standard, the inbox layer, conversion-integrity rules, and the first promotion path. This prevented agents from treating conversion as permission to rewrite creative text.
 
@@ -145,7 +145,7 @@ Operational meaning: the repo learns to stage material without corrupting it.
 
 Story meaning: the publishing house develops a membrane. Not all text becomes public immediately. Some text waits, is mapped, and carries unresolved status.
 
-### Phase 3 — Förlagsdeckaren text-first publication
+### Phase 3 - Förlagsdeckaren text-first publication
 
 Förlagsdeckaren entered the site and repo as a baseline, then split drafts, then inbox candidates. The split was not merely editorial. It made the novel modular enough for publication while preserving unresolved problems.
 
@@ -153,7 +153,7 @@ Operational meaning: Förlagsdeckaren becomes publishable without pretending to 
 
 Story meaning: the novel begins behaving like its own publishing system.
 
-### Phase 4 — GPT as repo-native run system
+### Phase 4 - GPT as repo-native run system
 
 `modules/_gpt` became a real membrane with write policy, fallback logic, source manifest, agent prompt, and run spec. The agentic layer stopped being just chat memory and became a repo-persisted operating surface.
 
@@ -161,7 +161,7 @@ Operational meaning: runs become auditable.
 
 Story meaning: the dossier becomes part of the publishing apparatus.
 
-### Phase 5 — Del 6-13 as abdication suite
+### Phase 5 - Del 6-13 as abdication suite
 
 The new Förlagsdeckaren mass was mapped into Del 6-13. Del 10 became the hinge: abdication as publicational act. Del 11 became surplus: the twenty-fifth child. Del 12 became procedural proof: repetition without hand. Del 13 became grounding: reading as continuation.
 
@@ -169,7 +169,7 @@ Operational meaning: source material is no longer only staged; it is architected
 
 Story meaning: the publisher leaves and the system keeps producing meaning.
 
-### Phase 6 — atlas, SAGA, fork, and Lillfrugan
+### Phase 6 - atlas, SAGA, fork, and Lillfrugan
 
 The run system then ingested atlas logic, SAGA blueprint pressure, and parallel-fork signals. This produced a higher-order problem: the novel is now surrounded by competing maps of itself.
 
@@ -342,31 +342,31 @@ Useful output shape:
 
 ## Open risks
 
-### Risk 1 — Lillfrugan flattened into care
+### Risk 1 - Lillfrugan flattened into care
 
 The care layer is important, but if care becomes her entire function, the story loses the reason she matters after abdication.
 
 Correction: treat care as a perception technology.
 
-### Risk 2 — Praktikanten over-inherits the center
+### Risk 2 - Praktikanten over-inherits the center
 
 Praktikanten is strong and mobile. But if the intern simply inherits Förläggaren's center, the abdication becomes generational succession rather than structural opening.
 
 Correction: Praktikanten may inherit operational movement, not the whole view.
 
-### Risk 3 — autonomous pipeline becomes the protagonist
+### Risk 3 - autonomous pipeline becomes the protagonist
 
 The pipeline is protagonist-like in Del 12, but if it becomes the only protagonist, the story collapses into system allegory.
 
 Correction: let the pipeline generate events; let Lillfrugan and Praktikanten create readable consequence.
 
-### Risk 4 — Del 10 reduced to plot point
+### Risk 4 - Del 10 reduced to plot point
 
 Del 10 is not just where Förläggaren leaves. It is where publishing becomes silence, where absence becomes production, and where the missing Lillfrugan question is protected.
 
 Correction: treat Del 10 as architectural hinge.
 
-### Risk 5 — overmapping kills the pressure
+### Risk 5 - overmapping kills the pressure
 
 The repo now contains atlas, SAGA, dossier, source packets, material maps, run specs, and character sheets. That is useful. It is also dangerous.
 

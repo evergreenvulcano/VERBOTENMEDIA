@@ -588,6 +588,6 @@ Refusal: do not cling. do not explain. just witness.
 deployment note:
 
 use one card per session or per day.
-the card is not a goal—it is an orientation.
+the card is not a goal-it is an orientation.
 if the posture or scene creates resistance rather than opening, shift to a different band.
 development is weather, not ladder.

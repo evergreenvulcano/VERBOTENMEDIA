@@ -33,19 +33,19 @@ Ask:
 
 Before producing anything, determine:
 
-1. **Engine** — what keeps this field moving?
+1. **Engine** - what keeps this field moving?
    Examples: confession, recurrence, doctrine, fear, logistics, grief, satire, evidence, weather, ritual.
 
-2. **Wound** — what unresolved pressure gives the field charge?
+2. **Wound** - what unresolved pressure gives the field charge?
    Examples: contradiction, omission, delayed consequence, illegibility, split audience, unkept promise.
 
-3. **Threshold** — where does interpretation change state?
+3. **Threshold** - where does interpretation change state?
    Examples: from note to doctrine, from archive to interface, from measurement to memory, from anecdote to law.
 
-4. **Scale** — what layers are active?
+4. **Scale** - what layers are active?
    Examples: line, page, day, season, decade, generation, institution, medium.
 
-5. **Refusal** — what should not be optimized away?
+5. **Refusal** - what should not be optimized away?
    Examples: ambiguity, friction, excess, slowness, contradiction, silence.
 
 ## Pressure classification

@@ -328,7 +328,7 @@ footer{
 </section>
 
 <footer>
-  VERBOTEN MEDIA — no feed, no stream, no noise
+  VERBOTEN MEDIA - no feed, no stream, no noise
 </footer>
 
 </body>

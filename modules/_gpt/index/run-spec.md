@@ -1,4 +1,4 @@
-# Run Spec — VERBOTENMEDIA GPT Workflow
+# Run Spec - VERBOTENMEDIA GPT Workflow
 
 This file defines the required output structure for the recurring VERBOTENMEDIA run artifacts.
 
@@ -64,7 +64,7 @@ Mornest should:
 ## Required sections
 
 ```md
-# Mornest — YYYY-MM-DD
+# Mornest - YYYY-MM-DD
 
 Mode: daily opening pass  
 Write scope: `modules/_gpt/runs/`
@@ -73,7 +73,7 @@ Write scope: `modules/_gpt/runs/`
 - source preference actually used
 - constraint note
 
-## Opening read — signal before structure
+## Opening read - signal before structure
 
 ## Active pressures detected
 - pressure 1
@@ -123,7 +123,7 @@ Midpulse should:
 ## Required sections
 
 ```md
-# Midpulse — YYYY-MM-DD
+# Midpulse - YYYY-MM-DD
 
 Mode: midday pressure pass  
 Write scope: `modules/_gpt/runs/`
@@ -175,7 +175,7 @@ Nightfold should:
 ## Required sections
 
 ```md
-# Nightfold — YYYY-MM-DD
+# Nightfold - YYYY-MM-DD
 
 Mode: closing consolidation  
 Write scope: `modules/_gpt/runs/`
@@ -228,7 +228,7 @@ merge_hackerstory should:
 ## Required sections
 
 ```md
-# MERGE_HACKERSTORY (continuous) — DOSSIER SESSION
+# MERGE_HACKERSTORY (continuous) - DOSSIER SESSION
 Run timestamp: YYYY-MM-DD HH:MM TZ
 Artefacts ingested: N
 New nodes: N

@@ -1,4 +1,4 @@
-# SHORTSTORY READING SYSTEM — VERBOTEN MEDIA
+# SHORTSTORY READING SYSTEM - VERBOTEN MEDIA
 
 ## What this is
 
@@ -45,7 +45,7 @@ summary: ""
 | `layout` | no | One of `split`, `interrupted`, or `article`. Defaults to `article` if omitted. |
 | `opening_image` | no | Required when `layout: split`. Relative path from the markdown file. |
 | `opening_alt` | no | Alt text for the opening image. Provide when `opening_image` is set. |
-| `author` | no | Displayed in the metadata line as `Author — Date` |
+| `author` | no | Displayed in the metadata line as `Author - Date` |
 | `date` | no | Year or date string |
 | `summary` | no | One or two sentences. Displayed below the title. |
 
@@ -95,13 +95,13 @@ This is a rhythm modulation, not a separate design. Use sparingly.
 
 These are the only blocks with defined behavior in shortstory mode.
 
-**Paragraphs** — default prose, continuous column.
+**Paragraphs** - default prose, continuous column.
 
-**Headings (`##`, `###`)** — reduced weight, dimmed color. Section labels only, not display headers.
+**Headings (`##`, `###`)** - reduced weight, dimmed color. Section labels only, not display headers.
 
-**Blockquote (`>`)** — editorial pull fragment. Slightly larger than body text, accent border, same italic tone as base. One per piece maximum.
+**Blockquote (`>`)** - editorial pull fragment. Slightly larger than body text, accent border, same italic tone as base. One per piece maximum.
 
-**Inline image (`![alt](path)`)** — full prose width, clean vertical margins. In `interrupted` layout, extra breathing room signals the reading break.
+**Inline image (`![alt](path)`)** - full prose width, clean vertical margins. In `interrupted` layout, extra breathing room signals the reading break.
 
 Do not use more than one semantic image break per piece.
 Do not use headings as display elements.

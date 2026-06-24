@@ -8,7 +8,7 @@ author: "Martin Nygren"
 note: "Part 3.1, del 3; under reconstruction and translation."
 ---
 
-## Funkonaturalism — Mechanisms and Functions
+## Funkonaturalism - Mechanisms and Functions
 
 Funkonaturalism är först och främst inte någonting alls. Det är ungefär femtio procent realtidshumor från en skrivsession någonstans kring 2021 - och så är det femtio procent en strid ström snedsteg i maskineringseffekt. Den "artificiella" "intelligens" som inspirerat dessa textsjok har uthärdat att funkonaturalism är briljant därför att det kombinerar musikgenren funk - förstått som dess dansanta konnotationer av svettiga kroppar som rör sig i djuriskt vildsinne - med den skönlitterära traditionen naturalism som också det ekar av vidomspännande djupkulturella associationer. De två passar så bra ihop!, en strikt registrerande avmätt & deskriptiv & litterär stil och en musik-som-djävulsdyrkannde-snarlikt-dionysus-omloppsbane-kaos i en dans med sådan kontrastrik intensiv hetta & gungande närhet i dynamik med den på avstånd kontrollerande naturalistiska skrivpositionen. 
 
@@ -28,7 +28,7 @@ Det vardagliga och det hallucinatoriska ockuperar samma sats.
 
 ## 2. Documentation as distortion medium
 
-The prose posture is naturalistic — it records, it observes, it notes the brand
+The prose posture is naturalistic - it records, it observes, it notes the brand
 of pipe tobacco and the specific weather of a specific Tuesday. But the
 recording instrument is unreliable not because it lies, but because it is
 *too faithful* to perceptual reality, which includes dreams, projections,
@@ -43,8 +43,8 @@ the same experience.
 
 > The form you are filling out is the form you are filling out, and also the entire problem of being alive.
 
-Administrative, procedural, and institutional registers — insurance terms,
-logistics jargon, editorial workflow language — are not satirised. They are
+Administrative, procedural, and institutional registers - insurance terms,
+logistics jargon, editorial workflow language - are not satirised. They are
 used *straight*, *straight* as the most precise available vocabulary for describing interior states. The logistikcentral is not a symbol of alienation. It is where you live. The form you are filling out is the form you are filling out,
 and also the entire problem of being alive.
 
@@ -55,7 +55,7 @@ De administrativa, procedurala och institutionella registrena - försäkringspar
 
 ## 4. Recursive nesting without meta-commentary
 
-Text appears inside text — a character's writing project inside the novel, a
+Text appears inside text - a character's writing project inside the novel, a
 review inside a scene, a structural diagram disguised as prose. These are not
 meta-fictional gestures. They are not the author winking. They are
 *load-bearing*: the nested text does structural work that the outer text
@@ -71,7 +71,7 @@ The genre does not build toward climax, revelation, or closure. It
 *accretes*. Each new unit adds mass and alters the gravitational field of
 everything already published. Nothing is revised; everything is
 recontextualised by what arrives next. The refusal to end is not an aesthetic
-choice — it is the genre's central temporal mechanism.
+choice - it is the genre's central temporal mechanism.
 
 **Function**: The reader enters a system where completion is structurally
 impossible. This is not frustrating if the reader attaches to accretion
@@ -83,7 +83,7 @@ momentum.
 The text knows what it is doing. It names its own genre. It discusses its
 own structural model. It contains its own laughter. But it never winks, never
 becomes camp, never treats its own awareness as permission to stop meaning
-what it says. The humour is *load-bearing* — it is part of the sincerity, not
+what it says. The humour is *load-bearing* - it is part of the sincerity, not
 a relief valve from it.
 
 **Function**: The genre occupies the narrow band between earnestness and
@@ -92,8 +92,8 @@ exit. The text is funny *and* means it.
 
 ## 7. Characters as archetypal functions that refuse to behave
 
-Each figure maps onto a recognisable archetype — the publisher, the writer,
-the intern, the insurance man — but none of them perform their archetype
+Each figure maps onto a recognisable archetype - the publisher, the writer,
+the intern, the insurance man - but none of them perform their archetype
 cleanly. They drift, contradict, bore themselves, pursue tangents. The
 archetype is a *starting condition*, not a constraint. The text uses Jungian
 scaffolding the way a building uses formwork: it shapes the pour, then the
@@ -104,7 +104,7 @@ false confidence. The character then departs from the archetype in ways that
 are not subversive (subversion still references the original) but simply
 *other*. The reader must update continuously.
 
-## 8. The vulkanen — vertical stratigraphy as narrative logic
+## 8. The vulkanen - vertical stratigraphy as narrative logic
 
 The structural model is concentric zones descending from surface (sleep, web
 browsing, weather) through middle layers (relationships, professional
@@ -116,7 +116,7 @@ same coordinates.
 
 **Function**: The reader develops depth-perception over time. Early reading
 registers surface. Re-reading or continued reading reveals that the surface
-was always also the core. The text does not reward deep reading — it
+was always also the core. The text does not reward deep reading - it
 *produces* deep reading as a physiological effect of exposure.
 
 ## 9. The funk
@@ -125,7 +125,7 @@ The word is not decorative. *Funk* here operates as it does in music: a
 rhythmic displacement, a syncopation of expected narrative beats, a groove
 that is slightly off the grid but internally coherent. Prose rhythm in
 funkonaturalism alternates between documentary precision and hallucinatory
-drift — but the alternation is *rhythmic*, not semantic. You feel the shift
+drift - but the alternation is *rhythmic*, not semantic. You feel the shift
 in your reading pace before you register it in meaning.
 
 **Function**: The genre modulates the reader's nervous system before it
@@ -144,8 +144,8 @@ let archetypes drift, map vertically, and syncopate.
 ## How a reader attaches
 
 You stop waiting for the text to sort itself. You let density replace
-momentum. You notice that you are reading differently — slower in some
-passages, faster in others — and that the text is *doing that to you*, not
+momentum. You notice that you are reading differently - slower in some
+passages, faster in others - and that the text is *doing that to you*, not
 because it varies in quality but because it varies in rhythmic pressure. When
 you catch yourself taking an administrative detail seriously as an existential
 statement and realising that it was both all along, you are inside the genre.

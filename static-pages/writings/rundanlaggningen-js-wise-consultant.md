@@ -1,5 +1,5 @@
 ---
-title: "Rundanläggningen — J.S / Wise Consultant"
+title: "Rundanläggningen - J.S / Wise Consultant"
 date: "2026-06-23"
 summary: "En gemensam webb- och appbeställning där J.S öppnar ärendet och Wise Consultant formaliserar en publik fasad, mobil traversal och intern rundmotor."
 type: "analysis"

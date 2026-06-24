@@ -1,7 +1,7 @@
-# Blue Highlight Motif — Förlagsdeckaren Del 6-13
+# Blue Highlight Motif - Förlagsdeckaren Del 6-13
 **Date:** 2026-04-25  
 **Source file:** `modules/forlagsdeckaren-del-6-13-raw-session-source.md`  
-**Mode:** Style-Generalization (fallback — no screenshot source)  
+**Mode:** Style-Generalization (fallback - no screenshot source)  
 **Pseudo-highlight geometry:** derived from text mass distribution
 
 ---
@@ -24,11 +24,11 @@
 
 ## Batch Variants (single-axis variation)
 
-**Variant A — Camera distance:** Close. Head and dissolving shoulders only. Upper sparse zone dominant. Open dark sky.
+**Variant A - Camera distance:** Close. Head and dissolving shoulders only. Upper sparse zone dominant. Open dark sky.
 
-**Variant B — Silhouette tilt:** Figure leans left 12°. Mid-zone paper mass falls away to right. Lower skull mass holds.
+**Variant B - Silhouette tilt:** Figure leans left 12°. Mid-zone paper mass falls away to right. Lower skull mass holds.
 
-**Variant C — Texture softness:** Maximum diffusion. Figure is barely present. Archive mass is the primary readable form.
+**Variant C - Texture softness:** Maximum diffusion. Figure is barely present. Archive mass is the primary readable form.
 
 ---
 
@@ -46,11 +46,11 @@ Markdown embed for insertion:
 
 Caption (optional):
 ```
-Trace-derived motif from text-mass highlight composition — Förlagsdeckaren.
+Trace-derived motif from text-mass highlight composition - Förlagsdeckaren.
 ```
 
 ---
 
 ## Rationale
 
-The motif maps back to the text's own internal weight: the text opens sparse and sky-bound (Kat running in Trieste, the letter arriving from above), densifies in the middle through archival and membrane language, and grounds into ritual bone structure (Skull Migration) at its base. The cobalt somnambulist stepping out of a manuscript-night is the correct fallback figure — it holds all three zones without invention.
+The motif maps back to the text's own internal weight: the text opens sparse and sky-bound (Kat running in Trieste, the letter arriving from above), densifies in the middle through archival and membrane language, and grounds into ritual bone structure (Skull Migration) at its base. The cobalt somnambulist stepping out of a manuscript-night is the correct fallback figure - it holds all three zones without invention.

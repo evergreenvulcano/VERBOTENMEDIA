@@ -1,4 +1,4 @@
-# Operator decision brief — HackerStory research specimens
+# Operator decision brief - HackerStory research specimens
 
 Date: 2026-06-22
 Branch: `codex/hackerstory-html-refactor-line`

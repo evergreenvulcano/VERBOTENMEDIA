@@ -1,4 +1,4 @@
-# Usability diagnosis — public surfaces / XPRMNT pass
+# Usability diagnosis - public surfaces / XPRMNT pass
 
 Date: 2026-06-10  
 Branch: `repo-usability-public-surfaces-xprmnt-pass`

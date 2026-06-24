@@ -11,7 +11,7 @@ mode: field-note
 
 ## Artifact-Level Inference Control in a Pre-LLM Creative System
 
-**Svensk undertitel:** En idiot med en dator försökte bara få sitt material att överleva — och råkade bygga kammare, triggers, ledgers och hot pools innan han visste vad något av det hette.
+**Svensk undertitel:** En idiot med en dator försökte bara få sitt material att överleva - och råkade bygga kammare, triggers, ledgers och hot pools innan han visste vad något av det hette.
 
 ---
 

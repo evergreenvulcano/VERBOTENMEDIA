@@ -2,7 +2,7 @@
 
 ## Source
 
-- Source name: "Förlagsdeckaren — Agent Instruction Sheets.docx"
+- Source name: "Förlagsdeckaren - Agent Instruction Sheets.docx"
 - Source type: docx
 - Derived file: `source-packet/agent-instruction-sheets.md`
 - Status: admitted as runtime source packet, not canon/public copy

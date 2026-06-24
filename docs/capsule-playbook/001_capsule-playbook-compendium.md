@@ -1,4 +1,4 @@
-﻿# CAPSULE PLAYBOOK COMPENDIUM
+# CAPSULE PLAYBOOK COMPENDIUM
 ## VERBOTENMEDIA / TEXTFLOW MODE
 
 Detta dokument innehåller spelbara arbetsgångar för att förvandla källmaterial till publika kunskapskapslar utan att röra stark prosa, imitera författarröst eller göra hela projektet till explainer.
@@ -50,7 +50,7 @@ En dålig körning gör allt till allt.
 
 ---
 
-# PLAYBOOK 1 — STARK ESSÄISTISK TEXTKROPP
+# PLAYBOOK 1 - STARK ESSÄISTISK TEXTKROPP
 
 ## När används den?
 
@@ -101,7 +101,7 @@ Börja inte med härkomst om textens status ännu är oklar.
 
 ---
 
-# PLAYBOOK 2 — FRAGMENTKLUSTER
+# PLAYBOOK 2 - FRAGMENTKLUSTER
 
 ## När används den?
 
@@ -145,7 +145,7 @@ Låt inte agenten fylla luckor.
 
 ---
 
-# PLAYBOOK 3 — ORIGINS / BEVIS / PRE-LLM-MATERIAL
+# PLAYBOOK 3 - ORIGINS / BEVIS / PRE-LLM-MATERIAL
 
 ## När används den?
 
@@ -188,7 +188,7 @@ Påstå inte originalitet om materialet bara visar tidig förekomst.
 
 ---
 
-# PLAYBOOK 4 — AI-PROCESS / AGENTARBETE
+# PLAYBOOK 4 - AI-PROCESS / AGENTARBETE
 
 ## När används den?
 
@@ -230,7 +230,7 @@ Publicera inte AI-genererad text som om den vore röstbärande verk.
 
 ---
 
-# PLAYBOOK 5 — PUBLICERINGSKANDIDAT
+# PLAYBOOK 5 - PUBLICERINGSKANDIDAT
 
 ## När används den?
 
@@ -272,7 +272,7 @@ Gör inte publiceringsbeslutet större än nödvändigt.
 
 ---
 
-# PLAYBOOK 6 — FARLIGT RÖSTBÄRANDE MATERIAL
+# PLAYBOOK 6 - FARLIGT RÖSTBÄRANDE MATERIAL
 
 ## När används den?
 
@@ -313,7 +313,7 @@ Ingen härkomstkapsel om härkomsten inte är central.
 
 ---
 
-# PLAYBOOK 7 — VISUELLT / ARTEFAKTISKT MATERIAL
+# PLAYBOOK 7 - VISUELLT / ARTEFAKTISKT MATERIAL
 
 ## När används den?
 
@@ -357,7 +357,7 @@ Publicera inte utan status om artefakten kan misstolkas som verklig dokumentatio
 
 ---
 
-# PLAYBOOK 8 — REPO TEXTFLOW MODE
+# PLAYBOOK 8 - REPO TEXTFLOW MODE
 
 ## När används den?
 
@@ -414,7 +414,7 @@ Ingen agentrapport som blir repo-fil utan status.
 
 ---
 
-# PLAYBOOK 9 — SUBSTACK DISPATCH
+# PLAYBOOK 9 - SUBSTACK DISPATCH
 
 ## När används den?
 
@@ -469,7 +469,7 @@ Gör inte varje utskick till manifest.
 
 ---
 
-# PLAYBOOK 10 — KÄLLFAMILJ / SOURCE-FAMILY DISCOVERY
+# PLAYBOOK 10 - KÄLLFAMILJ / SOURCE-FAMILY DISCOVERY
 
 ## När används den?
 
@@ -528,7 +528,7 @@ Inte i projektets önskade karta.
 
 ---
 
-# PLAYBOOK 11 — NEGATIV POETIK / REGELUTVINNING
+# PLAYBOOK 11 - NEGATIV POETIK / REGELUTVINNING
 
 ## När används den?
 
@@ -578,7 +578,7 @@ Regeln ska öppna metod, inte skapa blockering.
 
 ---
 
-# PLAYBOOK 12 — METODFRAGMENT / CITATFÄLT
+# PLAYBOOK 12 - METODFRAGMENT / CITATFÄLT
 
 ## När används den?
 
@@ -628,7 +628,7 @@ Att extrahera meningar som behöver sin omgivning.
 
 ---
 
-# PLAYBOOK 13 — KAPSEL FRÅN FÄRDIG ESSÄ
+# PLAYBOOK 13 - KAPSEL FRÅN FÄRDIG ESSÄ
 
 ## När används den?
 
@@ -667,7 +667,7 @@ Kapseln ska orientera, inte ersätta.
 
 ---
 
-# PLAYBOOK 14 — MATERIAL SOM KÄNNS STORT MEN OTYDLIGT
+# PLAYBOOK 14 - MATERIAL SOM KÄNNS STORT MEN OTYDLIGT
 
 ## När används den?
 
@@ -713,7 +713,7 @@ Ingen totalförklaring.
 
 ---
 
-# PLAYBOOK 15 — SNABB TESTKÖRNING
+# PLAYBOOK 15 - SNABB TESTKÖRNING
 
 ## När används den?
 

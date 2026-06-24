@@ -1,4 +1,4 @@
-# Nightfold — 2026-04-20
+# Nightfold - 2026-04-20
 
 Mode: closing consolidation  
 Write scope: `modules/_gpt/runs/`

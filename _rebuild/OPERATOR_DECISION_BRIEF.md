@@ -1,4 +1,4 @@
-# Operator decision brief — public surfaces / XPRMNT pass
+# Operator decision brief - public surfaces / XPRMNT pass
 
 Date: 2026-06-10  
 Branch: `repo-usability-public-surfaces-xprmnt-pass`

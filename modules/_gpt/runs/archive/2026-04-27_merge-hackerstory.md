@@ -1,4 +1,4 @@
-# MERGE_HACKERSTORY (continuous) — DOSSIER SESSION
+# MERGE_HACKERSTORY (continuous) - DOSSIER SESSION
 Run timestamp: 2026-04-27 16:40 Europe/Stockholm
 Artefacts ingested: 5
 New nodes: 3
@@ -17,19 +17,19 @@ Outputs: 2
 
 ## ▌ NEW NODES
 
-### Node 31 — Capability Admission Gate
+### Node 31 - Capability Admission Gate
 
 Motifs: connector permission; live-chat authority; visible write test
 Tonal vectors: operational sobriety; anti-theatrical accountability
 Myth: The agent stops treating incapacity as identity only after the repository forces capability to become an auditable fact.
 
-### Node 32 — Lillfrugan as Boundary Condition
+### Node 32 - Lillfrugan as Boundary Condition
 
 Motifs: domestic-industrial ground; non-scaling care; peripheral sovereignty
 Tonal vectors: practical exactness; quiet refusal
 Myth: She is not a node to be absorbed by the machine but the environmental condition that proves whether the machine can remain inhabitable.
 
-### Node 33 — Run Ledger as Memory Organ
+### Node 33 - Run Ledger as Memory Organ
 
 Motifs: append-only continuity; failed fallback recovery; visible operational residue
 Tonal vectors: dry forensic continuity; delayed correction
@@ -37,21 +37,21 @@ Myth: The run folder becomes the organ that remembers what chat forgot, what too
 
 ## ▌ NODE MUTATIONS
 
-### Mutation A — From “repo unavailable” to “permission verified”
+### Mutation A - From “repo unavailable” to “permission verified”
 
 Pressure source: current connector state and `get_repo` permission result in live session.
 Previous state: prior runs could plausibly claim repository write failure because no durable write had been performed.
 Mutated state: the connector now exposes admin, maintain, pull, push, and triage permissions; future runs must test capability before claiming incapacity.
 Myth shift: Incapacity is no longer a default posture. It must be evidenced.
 
-### Mutation B — From “Lillfrugan content stream” to “Lillfrugan constraint field”
+### Mutation B - From “Lillfrugan content stream” to “Lillfrugan constraint field”
 
 Pressure source: `modules/published_artifact_page.md`, `charawcter-items.md`, and the 2026-04-24 initiation run.
 Previous state: Lillfrugan was increasingly producible as prose, node, episode, motif, and affective dossier material.
 Mutated state: Lillfrugan should not be treated as merely more content. She should function as a constraint field for when abstraction has exceeded inhabitable form.
 Myth shift: The most repo-useful version of Lillfrugan is not a richer biography; it is a test of whether the system can preserve what it must not instrumentalize.
 
-### Mutation C — From “scheduled inspiration” to “stateful integration”
+### Mutation C - From “scheduled inspiration” to “stateful integration”
 
 Pressure source: `run-spec.md` and the continuous-integration section inside the Lillfrugan initiation file.
 Previous state: recurring runs risk producing adjacent creative artifacts that drift without state discipline.
@@ -60,11 +60,11 @@ Myth shift: Continuity is not frequency. Continuity is state mutation with memor
 
 ## ▌ PROSE OUTPUTS
 
-### Output 1 — Operational decree
+### Output 1 - Operational decree
 
 No future VERBOTENMEDIA GPT run may describe the repository as unreachable, unwritable, or unavailable without first performing a live capability check and recording the result in its Health Status block. If write fails, the run must record the attempted target path, the exact write surface, and whether issue fallback was attempted. Claims of incapacity are now operational statements, not tonal postures.
 
-### Output 2 — Lillfrugan instruction
+### Output 2 - Lillfrugan instruction
 
 When Lillfrugan enters a run, do not immediately expand her as character. First ask what abstraction has become uninhabitable. Then identify the concrete countermeasure: food, temperature, silence, timing, room, sleep, phone-down gesture, refusal to convert life into metadata. Only after that may prose continue. If this step is skipped, the run is not deepening Lillfrugan; it is consuming her.
 

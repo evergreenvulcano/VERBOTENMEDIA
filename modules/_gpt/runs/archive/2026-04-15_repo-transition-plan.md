@@ -1,4 +1,4 @@
-# 2026-04-15 — repo transition plan
+# 2026-04-15 - repo transition plan
 
 ## Purpose
 
@@ -14,19 +14,19 @@ Uploaded chat files should be treated as temporary intake, fallback reference, o
 
 ## Source hierarchy
 
-### Tier 1 — canonical repo-native sources
+### Tier 1 - canonical repo-native sources
 These should be preferred whenever they exist in meaningful markdown or text form inside the repository.
 
 Current example:
 - `modules/boomer-publishing-house.md`
 
-### Tier 2 — uploaded chat files
+### Tier 2 - uploaded chat files
 These remain useful when:
 - no repo-native equivalent exists yet
 - a file has richer formatting or marginalia that has not been migrated
 - the uploaded file is needed to verify or compare against the repo-native form
 
-### Tier 3 — derived GPT surfaces
+### Tier 3 - derived GPT surfaces
 These are never primary sources.
 They are maps, logs, and proposals built from Tier 1 and Tier 2.
 

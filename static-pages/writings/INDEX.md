@@ -1,5 +1,5 @@
 ---
-title: "Writings — läsvägar"
+title: "Writings - läsvägar"
 date: "2026-06-12"
 summary: "Kuraterade vägar genom den publicerade textkroppen utan dubbla registerkort."
 type: "index"
@@ -7,7 +7,7 @@ status: "published"
 layout: article
 ---
 
-# Writings — läsvägar
+# Writings - läsvägar
 
 Detta är en läsarkarta över texter som redan är publicerade i Writings. En text
 har ett synligt registerkort; den kan därefter ingå i flera läsvägar utan att
@@ -20,7 +20,7 @@ Read these first if you are entering the literary body through the public site.
 1. [Förlagsdeckaren](forlagsdeckaren.md)  
    Back-cover / project map for the series and its satellites.
 
-2. [Förlagsdeckaren — Praktikanten (intro)](forlagsdeckaren-praktikanten-intro.md)  
+2. [Förlagsdeckaren - Praktikanten (intro)](forlagsdeckaren-praktikanten-intro.md)  
    The clearest entry into Praktikanten as a literary presence and working surface.
 
 3. [Förlagsdeckaren: Registreringen har stängt](forlagsdeckaren-del-6-registreringen-har-stangt.md)  
@@ -37,16 +37,16 @@ Read these first if you are entering the literary body through the public site.
 
 ## Praktikanten
 
-1. [Förlagsdeckaren — Praktikanten (intro)](forlagsdeckaren-praktikanten-intro.md)
+1. [Förlagsdeckaren - Praktikanten (intro)](forlagsdeckaren-praktikanten-intro.md)
 2. [Förlagsdeckaren: Registreringen har stängt](forlagsdeckaren-del-6-registreringen-har-stangt.md)
 3. [Förlagsdeckaren - Praktikanten (Outro)](forlagsdeckaren-praktikanten-outro.md)
 4. [Praktikanten som offentlig passagefigur](../xprmnt-zn/praktikanten.md)
 
 ## Essäer, analyser och lexikon
 
-- [Rundanläggningen — J.S / Wise Consultant](rundanlaggningen-js-wise-consultant.md)
+- [Rundanläggningen - J.S / Wise Consultant](rundanlaggningen-js-wise-consultant.md)
 - [Ställ ut processen som verk](stall-ut-processen-som-verk.md)
-- [Tvärflygeln — brukstid, utfall och två uppstartsdesigner](tvarflygeln-brukstid-utfall-och-tva-uppstartsdesigner.md)
+- [Tvärflygeln - brukstid, utfall och två uppstartsdesigner](tvarflygeln-brukstid-utfall-och-tva-uppstartsdesigner.md)
 - [The Wound, the Attractor, and the Controlled Abandonment](the-wound-the-attractor-and-the-controlled-abandonment.md)
 - [Lex: funkonaturalism](lex-funkonaturalism.md)
 - [Klangbotten Snippets](klangbotten-snippets.md)
@@ -54,9 +54,9 @@ Read these first if you are entering the literary body through the public site.
 ## Satelliter och noveller
 
 - [Abdikering under bordet](abdikering-under-bordet.md)
-- [Dawkin Danielson — Burning Man, Black Rock City](dawkin-danielson-burning-man-black-rock-city.md)
+- [Dawkin Danielson - Burning Man, Black Rock City](dawkin-danielson-burning-man-black-rock-city.md)
 - [VMAPTB Mail Flempo Jens](vmaptb-mail-flempo-jens.md)
-- [Verboten Media Workshop Dispatches — dag 1–3](forlagsdeckaren-lectures-and-workshops.md)
+- [Verboten Media Workshop Dispatches - dag 1–3](forlagsdeckaren-lectures-and-workshops.md)
 
 ## Offentliga nervtexter
 

@@ -222,16 +222,16 @@ Det ska gå att förstå snabbt. Det ska ändå kännas som att det finns mer ba
 Föreslagen struktur:
 
 ```text
-/ — Start
-/processen-som-verk — huvudmanifest
-/rundor — lista över publika rundor
-/rundor/idens-gangtest — exempelrunda
-/metodobjekt — representativa objekt
-/pagaende — kuraterad pågående-yta
-/utfall — färdiga eller halvfärdiga render
-/granser — statusdisciplin och materialetik
-/app — nedladdning, pilot eller webbappsingång
-/kontakt — samarbete / pilot / beställning
+/ - Start
+/processen-som-verk - huvudmanifest
+/rundor - lista över publika rundor
+/rundor/idens-gangtest - exempelrunda
+/metodobjekt - representativa objekt
+/pagaende - kuraterad pågående-yta
+/utfall - färdiga eller halvfärdiga render
+/granser - statusdisciplin och materialetik
+/app - nedladdning, pilot eller webbappsingång
+/kontakt - samarbete / pilot / beställning
 ```
 
 Wise Consultant kan framträda på metodobjektsnivå, men inte som interaktiv

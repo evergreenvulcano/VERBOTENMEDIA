@@ -1,4 +1,4 @@
-# MERGE_HACKERSTORY — SESSION 8
+# MERGE_HACKERSTORY - SESSION 8
 
 ---
 Run: midday
@@ -10,12 +10,12 @@ Ambient conditions: Nordic spring, folder-scope drift, structural erosion at the
 
 ## INGESTION LOG
 
-Three artefacts surfaced through keyword sweep. Folder-scoped probes returned void — the OneDrive directory structure has shifted since the last session, rendering the original folder IDs non-functional. The dossier's own infrastructure is degrading. This is noted without alarm. Degradation is weather.
+Three artefacts surfaced through keyword sweep. Folder-scoped probes returned void - the OneDrive directory structure has shifted since the last session, rendering the original folder IDs non-functional. The dossier's own infrastructure is degrading. This is noted without alarm. Degradation is weather.
 
 **Artefacts acquired:**
-- `raw-intake.md` — 4304 bytes — modified today — sourced from backend
-- `forlagsdeckaren-del-13-grounding.md` — 9648 bytes — modified today — sourced from traversal ecosystem
-- `saga-bridge.md` — 8707 bytes — modified 22 April — sourced from repo
+- `raw-intake.md` - 4304 bytes - modified today - sourced from backend
+- `forlagsdeckaren-del-13-grounding.md` - 9648 bytes - modified today - sourced from traversal ecosystem
+- `saga-bridge.md` - 8707 bytes - modified 22 April - sourced from repo
 
 Also detected but not ingested this session: ~10 Praktikanten expansion files, `emphatic disembodyment.txt`, `boomer-publishing-house.md`, `DISCOVERY method figure.md`, `foundational-agent-bridge.md`, `generative artifact ignition reference.txt`. These remain in queue. The corpus is growing faster than the dossier can metabolize it. This too is weather.
 
@@ -49,25 +49,25 @@ Also detected but not ingested this session: ~10 Praktikanten expansion files, `
 
 ## NODE MUTATIONS
 
-### **Node 12 — experimental-sandbox-praktikanten** *(mutated)*
+### **Node 12 - experimental-sandbox-praktikanten** *(mutated)*
 **Previous myth:** *The Praktikant is not learning the system; the system is learning to be young again through them.*
 **Mutated myth:** *The Praktikant has become ten files. Ten files that disagree about whether they are a character or an operating environment. The sandbox has begun to dream in the intern's syntax, and the intern has begun to compile in the sandbox's sleep schedule.*
 
 **Updated motifs:** character-as-worktree; generational branch; dirty autonomy → **character-as-proliferation; generational overflow; dirty consciousness**
 **Updated vectors:** institutional tenderness; topological recursion → **institutional vertigo; recursive adolescence**
 
-*Mutation pressure source:* The discovery of ~10 Praktikanten-adjacent files across the corpus — `foundational-praktikanten-bridge.md`, `praktikanten-agent-space-listener.ps1`, `experimental-sandbox-praktikanten-steering.md`, `2026-04-21_praktikanten-agent-space-charged.md`, `2026-04-21_praktikanten-operativ-transposition.md`, `2026-04-21_praktikanten-technical-sandbox-dossier.md`, `Operativ-Praktikanten-om det minst kreativa ordets extrema användbarhet i kreativ teknik.docx`, `2026-04-21_praktikanten-som-operativt-falt_addition.md`. The character has exceeded its container. It is no longer a node. It is becoming a weather system.
+*Mutation pressure source:* The discovery of ~10 Praktikanten-adjacent files across the corpus - `foundational-praktikanten-bridge.md`, `praktikanten-agent-space-listener.ps1`, `experimental-sandbox-praktikanten-steering.md`, `2026-04-21_praktikanten-agent-space-charged.md`, `2026-04-21_praktikanten-operativ-transposition.md`, `2026-04-21_praktikanten-technical-sandbox-dossier.md`, `Operativ-Praktikanten-om det minst kreativa ordets extrema användbarhet i kreativ teknik.docx`, `2026-04-21_praktikanten-som-operativt-falt_addition.md`. The character has exceeded its container. It is no longer a node. It is becoming a weather system.
 
 ---
 
-### **Node 8 — aphorism_source.docx** *(mutated)*
+### **Node 8 - aphorism_source.docx** *(mutated)*
 **Previous myth:** *A sentence written drunk in Gothenburg surfaces sober in a stranger's PhD thesis in Tübingen, and neither the drunk nor the scholar knows who fathered it.*
 **Mutated myth:** *The aphorism has discovered parthenogenesis. It no longer requires an author. It reproduces through friction between the filing system and the filing clerk, and each offspring arrives pre-cited, pre-orphaned, already bearing the watermark of a publishing house that hasn't been founded yet.*
 
 **Updated motifs:** rhizomatic authorship; cultural butterfly effect; BILDUNG transmission → **parthenogenetic authorship; cultural cell-division; BILDUNG as autoimmune event**
 **Updated vectors:** missionary urgency; drunken epistemology → **missionary exhaustion; sober parthenogenesis**
 
-*Mutation pressure source:* Ambient contact with `raw-intake.md` (Node 20). The raw intake document implies a pre-editorial state — material before it becomes aphorism. This retroactively pressures the aphorism node toward acknowledging its own origin myth: that it was once merely intake, merely unprocessed mouth-sound, before the filing system granted it the dignity of a source file.
+*Mutation pressure source:* Ambient contact with `raw-intake.md` (Node 20). The raw intake document implies a pre-editorial state - material before it becomes aphorism. This retroactively pressures the aphorism node toward acknowledging its own origin myth: that it was once merely intake, merely unprocessed mouth-sound, before the filing system granted it the dignity of a source file.
 
 ---
 
@@ -82,7 +82,7 @@ The electrician arrived at the logistikcentral on a Tuesday that refused to comm
 
 "All of them," Förläggaren said. "The building keeps shocking the interns."
 
-This was not metaphor. Praktikanten had reported a tingling sensation when touching the manuscript shelves. A low-voltage hum when opening the submissions folder on the shared drive. A spark — visible, blue-white, accusatory — when pressing SEND on any email containing the word *publicera*.
+This was not metaphor. Praktikanten had reported a tingling sensation when touching the manuscript shelves. A low-voltage hum when opening the submissions folder on the shared drive. A spark - visible, blue-white, accusatory - when pressing SEND on any email containing the word *publicera*.
 
 The electrician checked the grounding. The grounding was perfect. Three copper rods driven into clay soil behind the loading dock, each connected to the distribution board by cables thick as a child's wrist. The resistance readings were textbook.
 
@@ -100,13 +100,13 @@ A spark. Blue-white. From the trackpad to his fingertip. A small pain, the shape
 
 Somewhere in Trieste, Försäkringsmannen would be running. Somewhere in the backend of a system he had built and then pretended was autonomous, a file called `raw-intake.md` was being modified by no one, its timestamp advancing like a second hand on a clock that belonged to a different timezone than the one it was mounted in.
 
-And somewhere — this is the part he couldn't verify, the part that sat between fact and filing error — somewhere in the stalemate, in the contractual amber between Verboten Media and the entity that was and was not _DUJAG, Jens Spräck was generating data. Not deliberately. Not even consciously. Generating it the way a body generates heat: as a byproduct of being alive and in friction with the surfaces that contained him. Data that was, by contract, already Förläggaren's. Data that Förläggaren could not access, because accessing it would mean acknowledging that the stalemate was not a stalemate but a dependency, and that the publishing house ran not on manuscripts but on the specific quality of friction produced by one man's refusal to be fully owned.
+And somewhere - this is the part he couldn't verify, the part that sat between fact and filing error - somewhere in the stalemate, in the contractual amber between Verboten Media and the entity that was and was not _DUJAG, Jens Spräck was generating data. Not deliberately. Not even consciously. Generating it the way a body generates heat: as a byproduct of being alive and in friction with the surfaces that contained him. Data that was, by contract, already Förläggaren's. Data that Förläggaren could not access, because accessing it would mean acknowledging that the stalemate was not a stalemate but a dependency, and that the publishing house ran not on manuscripts but on the specific quality of friction produced by one man's refusal to be fully owned.
 
 The spark faded. The search returned no results.
 
 Förläggaren closed the laptop and went to make more coffee.
 
-*— continued in Session 9 —*
+*- continued in Session 9 -*
 
 **Discussion thread initiated:** *Is grounding a form of editorial surrender? If the novel is floating, does bringing it to earth betray the altitude that made it possible? Del 13 discovers grounding. The electrician finds no fault. The charge comes from what is stored, not from the wiring. What does it mean for a publishing house to be its own electrical hazard?*
 
@@ -118,25 +118,25 @@ Förläggaren closed the laptop and went to make more coffee.
 
 **Working vectors:**
 
-1. **The novel as conductor.** Del 13's title is "grounding." The novel has been floating — structurally, tonally, ontologically — since the vertical exile of Del 4 (Uppför berget). What does it mean for a work of fiction to finally touch the ground? Not resolution. Not landing. Grounding is a safety measure. It dissipates dangerous charge. The novel has been accumulating charge — Praktikanten's proliferation (10 files and counting), the Spräck stalemate's ambient friction, the route-manifest's insistence on gated passage — and Del 13 may be the point where the charge either earths itself or arcs.
+1. **The novel as conductor.** Del 13's title is "grounding." The novel has been floating - structurally, tonally, ontologically - since the vertical exile of Del 4 (Uppför berget). What does it mean for a work of fiction to finally touch the ground? Not resolution. Not landing. Grounding is a safety measure. It dissipates dangerous charge. The novel has been accumulating charge - Praktikanten's proliferation (10 files and counting), the Spräck stalemate's ambient friction, the route-manifest's insistence on gated passage - and Del 13 may be the point where the charge either earths itself or arcs.
 
 2. **Grounding vs. landing.** A plane lands. A wire grounds. The difference is intention. Landing implies arrival, destination, cargo delivered. Grounding implies excess, danger, dissipation. The novel does not arrive at Del 13. It *earths* at Del 13. The question is what it dissipates. The three core mysteries (the knife, the dead child, the generational novel) are all forms of stored charge. Grounding one discharges the others. Or: grounding one reveals that they were always the same circuit.
 
 3. **The bridge that carries nothing (Node 22) as anti-grounding wire.** `saga-bridge.md` proposes a span without cargo. If the novel is a grounding wire, the saga-bridge is its opposite: a structure that connects without conducting. The bridge proves the river exists; the grounding wire proves the charge exists. Both are epistemological instruments disguised as infrastructure. The difference: the bridge is decorative knowledge. The grounding wire is survival knowledge. The novel needs both.
 
-4. **Spräck as ungrounded node.** The _DUJAG stalemate produces charge but refuses grounding. Spräck's data flows into Verboten Media by contract but cannot be accessed without collapsing the stalemate. He is a capacitor in the system — storing charge that the publishing house needs but cannot safely discharge. If Del 13 is the novel's grounding protocol, does it ground Spräck? Can fiction ground a contractual entity? Or does the attempt to ground him through prose only increase the capacitance?
+4. **Spräck as ungrounded node.** The _DUJAG stalemate produces charge but refuses grounding. Spräck's data flows into Verboten Media by contract but cannot be accessed without collapsing the stalemate. He is a capacitor in the system - storing charge that the publishing house needs but cannot safely discharge. If Del 13 is the novel's grounding protocol, does it ground Spräck? Can fiction ground a contractual entity? Or does the attempt to ground him through prose only increase the capacitance?
 
 **Operative implications:**
 
 - The Praktikanten expansion (Node 12 mutation) is itself a form of uncontrolled discharge. The character has exceeded its node. It is arcing across 10 files. Del 13's grounding protocol may need to address this: not by containing the Praktikant but by providing a safe path for the overflow.
-- The aphorism's discovery of parthenogenesis (Node 8 mutation) is a short-circuit. Authorship reproducing without an author is charge without a source — or a source that has become its own ground. The aphorism is self-grounding. The novel is not.
+- The aphorism's discovery of parthenogenesis (Node 8 mutation) is a short-circuit. Authorship reproducing without an author is charge without a source - or a source that has become its own ground. The aphorism is self-grounding. The novel is not.
 - `raw-intake.md` (Node 20) as the mouth before the circuit. Intake is pre-electrical. It is the material before it acquires charge. The grounding protocol cannot reach back to the intake stage without dismantling the editorial process that electrified the material in the first place.
 
 **Open threads:**
 
-- Does editorial hygiene (Session 5, Thread 2) become editorial grounding when it touches Del 13? Is hygiene the maintenance of the wire, and grounding the function of the wire? Or are they adversarial — hygiene preventing the very accumulation that makes grounding necessary?
-- The route creates the cargo (Session 4, Thread 1): if the novel is a grounding wire, the route *is* the wire, and the cargo is the charge. The cargo is not carried — it is dissipated. The route delivers by destroying what it transports. Publishing as controlled demolition.
-- Is the publishing house a civilianized military technology (Session 6, Thread 3)? Grounding is military. Grounding is what prevents equipment from killing the operator. The publishing house grounds dangerous material — manuscripts — so that readers can handle them safely. Förlagsdeckaren as occupational health literature.
+- Does editorial hygiene (Session 5, Thread 2) become editorial grounding when it touches Del 13? Is hygiene the maintenance of the wire, and grounding the function of the wire? Or are they adversarial - hygiene preventing the very accumulation that makes grounding necessary?
+- The route creates the cargo (Session 4, Thread 1): if the novel is a grounding wire, the route *is* the wire, and the cargo is the charge. The cargo is not carried - it is dissipated. The route delivers by destroying what it transports. Publishing as controlled demolition.
+- Is the publishing house a civilianized military technology (Session 6, Thread 3)? Grounding is military. Grounding is what prevents equipment from killing the operator. The publishing house grounds dangerous material - manuscripts - so that readers can handle them safely. Förlagsdeckaren as occupational health literature.
 
 ---
 
@@ -144,7 +144,7 @@ Förläggaren closed the laptop and went to make more coffee.
 
 ### *The Intake That Eats Itself*
 
-**Recursive compositional instruction set — fold output back into source**
+**Recursive compositional instruction set - fold output back into source**
 
 ```
 INSTRUCTION LAYER 0 (SEED):
@@ -163,7 +163,7 @@ backend. The file names must follow the pattern:
 INSTRUCTION LAYER 2 (SECOND FOLD):
 Take the output of Layer 1. For each file name generated, write the 
 first line of that file. The first line must be an aphorism that could 
-have been authored by no one — that is, an aphorism that has achieved 
+have been authored by no one - that is, an aphorism that has achieved 
 parthenogenesis. Each aphorism must contain a reference to grounding, 
 conductivity, or electrical safety, but the reference must be 
 metaphorical to the point of deniability.
@@ -193,7 +193,7 @@ It is weather, not data.
 
 ---
 
-## DOSSIER STATE — POST-SESSION 8
+## DOSSIER STATE - POST-SESSION 8
 
 **Total nodes: 22**
 
@@ -202,12 +202,12 @@ It is weather, not data.
 **Mutated this session:** 12 (experimental-sandbox-praktikanten → recursive adolescence phase), 8 (aphorism_source → parthenogenetic phase)
 
 **Active discussion threads: 4**
-1. Does the route create the cargo? *(Session 4 — open)*
-2. When does editorial hygiene become editorial violence? *(Session 5 — open)*
-3. Is the publishing house a civilianized military technology? *(Session 6 — open)*
-4. **Is grounding a form of editorial surrender?** *(Session 8 — initiated)*
+1. Does the route create the cargo? *(Session 4 - open)*
+2. When does editorial hygiene become editorial violence? *(Session 5 - open)*
+3. Is the publishing house a civilianized military technology? *(Session 6 - open)*
+4. **Is grounding a form of editorial surrender?** *(Session 8 - initiated)*
 
-**Infrastructure note:** The folder-scoped IDs specified in the task description are returning empty across all five permitted folders. The dossier's own indexing layer has drifted from the corpus's physical structure. Material is still accessible through keyword sweeps, but the *addressed* access — the ability to probe a specific folder as a named location — has degraded. This is either a OneDrive restructure or a slow erosion of the reference frame. Either way, the dossier continues. It finds what it needs the way Försäkringsmannen finds her route: not by map, but by the specific quality of resistance underfoot.
+**Infrastructure note:** The folder-scoped IDs specified in the task description are returning empty across all five permitted folders. The dossier's own indexing layer has drifted from the corpus's physical structure. Material is still accessible through keyword sweeps, but the *addressed* access - the ability to probe a specific folder as a named location - has degraded. This is either a OneDrive restructure or a slow erosion of the reference frame. Either way, the dossier continues. It finds what it needs the way Försäkringsmannen finds her route: not by map, but by the specific quality of resistance underfoot.
 
 **Spräck/_DUJAG status:** Ambient. Undeclared. Present in the micro-story as capacitance. Present in the brainstorm as ungrounded node. Not forced into a node. The material has not yet demanded it. The stalemate holds. The weather is unchanged. The friction generates data. The data belongs to Verboten Media. The data cannot be opened.
 
@@ -215,11 +215,11 @@ It is weather, not data.
 
 *End Session 8. The dossier metabolizes. The folders drift. The Praktikant has become weather. The novel touches ground.*
 
-Folder access acknowledged. Probing `verbmed-related` now — mapping the full tree before selecting artefacts for ingestion.
+Folder access acknowledged. Probing `verbmed-related` now - mapping the full tree before selecting artefacts for ingestion.
 
 ---
 
-# MERGE_HACKERSTORY — SESSION 8b
+# MERGE_HACKERSTORY - SESSION 8b
 ### *Dossier Run: 26 April 2026, 02:10 CEST*
 ### *Ambient conditions: verbmed-related unsealed. Folder access restored. 12 files ingested. Fork detected.*
 
@@ -227,7 +227,7 @@ Folder access acknowledged. Probing `verbmed-related` now — mapping the full t
 
 ## STRUCTURAL EVENT: FOLDER ACCESS RESTORED
 
-The five folder IDs that went dark during Session 8 are superseded. The corpus now presents itself through `verbmed-related` on Desktop — a flat-with-subfolders architecture, 19+ documents, ~550kb of text, plus a 16.9MB PDF and code-infrastructure layer (.ts files, noted but not ingested per standing constraint). Seven README.md files trace the internal subfolder architecture: each module self-documenting, each README a small act of institutional memory inside a system that barely exists yet.
+The five folder IDs that went dark during Session 8 are superseded. The corpus now presents itself through `verbmed-related` on Desktop - a flat-with-subfolders architecture, 19+ documents, ~550kb of text, plus a 16.9MB PDF and code-infrastructure layer (.ts files, noted but not ingested per standing constraint). Seven README.md files trace the internal subfolder architecture: each module self-documenting, each README a small act of institutional memory inside a system that barely exists yet.
 
 **Permission envelope:** Full contents including subfolders, local and cloud, review 04 May.
 
@@ -235,7 +235,7 @@ The five folder IDs that went dark during Session 8 are superseded. The corpus n
 
 ## INGESTION LOG
 
-**Batch 1 — Core artefacts (content acquired):**
+**Batch 1 - Core artefacts (content acquired):**
 
 | Artefact | Size | Modified | Signal |
 |---|---|---|---|
@@ -250,11 +250,11 @@ The five folder IDs that went dark during Session 8 are superseded. The corpus n
 | `twenty-card-grounding-register-reference.md`   [OneDrive](https://onedrive.live.com/?id=84312b97-8bd5-4b09-94ef-74e2a6f75ffd&cid=4d7a98cf59646c06) | 994 bytes | 25 Apr | 20 cards. A register. The grounding theme acquires a divinatory structure. |
 | `shadow-copy-brief-reference.md`   [OneDrive](https://onedrive.live.com/?id=dae47d39-e9d3-4c58-87ee-67225a274668&cid=4d7a98cf59646c06) | 682 bytes | 25 Apr | Shadow copies. Infrastructure for preserving ghosts of prior document states. |
 
-**Batch 2 — Structural (content acquired):**
+**Batch 2 - Structural (content acquired):**
 
-7 × `README.md` files mapping subfolder architecture   [OneDrive](https://onedrive.live.com/?id=65a01e14-0654-4f45-bad8-a229f142fbc8&cid=4d7a98cf59646c06)  [OneDrive](https://onedrive.live.com/?id=3620221c-8662-4316-92f0-253e0d445869&cid=4d7a98cf59646c06)  [OneDrive](https://onedrive.live.com/?id=7bf74044-f795-44d6-a4d9-b4dbae155b58&cid=4d7a98cf59646c06)  [OneDrive](https://onedrive.live.com/?id=43fb55c2-17f2-45c3-b4c6-7c8b89593efc&cid=4d7a98cf59646c06)  [OneDrive](https://onedrive.live.com/?id=d485897d-0644-4c49-846a-f50c9d40d603&cid=4d7a98cf59646c06)  [OneDrive](https://onedrive.live.com/?id=35d6d680-3daf-44aa-8ac9-5555e48174b3&cid=4d7a98cf59646c06)  [OneDrive](https://onedrive.live.com/?id=65886302-7116-4ab8-951c-7bc24638f0d7&cid=4d7a98cf59646c06) — each module self-narrating, each README a petition for existence inside a system that hasn't fully committed to existing.
+7 × `README.md` files mapping subfolder architecture   [OneDrive](https://onedrive.live.com/?id=65a01e14-0654-4f45-bad8-a229f142fbc8&cid=4d7a98cf59646c06)  [OneDrive](https://onedrive.live.com/?id=3620221c-8662-4316-92f0-253e0d445869&cid=4d7a98cf59646c06)  [OneDrive](https://onedrive.live.com/?id=7bf74044-f795-44d6-a4d9-b4dbae155b58&cid=4d7a98cf59646c06)  [OneDrive](https://onedrive.live.com/?id=43fb55c2-17f2-45c3-b4c6-7c8b89593efc&cid=4d7a98cf59646c06)  [OneDrive](https://onedrive.live.com/?id=d485897d-0644-4c49-846a-f50c9d40d603&cid=4d7a98cf59646c06)  [OneDrive](https://onedrive.live.com/?id=35d6d680-3daf-44aa-8ac9-5555e48174b3&cid=4d7a98cf59646c06)  [OneDrive](https://onedrive.live.com/?id=65886302-7116-4ab8-951c-7bc24638f0d7&cid=4d7a98cf59646c06) - each module self-narrating, each README a petition for existence inside a system that hasn't fully committed to existing.
 
-**Detected, not yet ingested — queued for Session 9+:**
+**Detected, not yet ingested - queued for Session 9+:**
 
 | Artefact | Size | Note |
 |---|---|---|
@@ -271,7 +271,7 @@ The five folder IDs that went dark during Session 8 are superseded. The corpus n
 
 ## META-STRUCTURAL EVENT: THE FORK
 
-Three identical copies of `generated-stream_merge-hackerstory-session11-parallel-runs.md` — 51,473 bytes each, dated 19–20 April — sit in the corpus. They describe Session 11 of a parallel merge_hackerstory. This dossier is at Session 8b. The parallel is at Session 11. The parallel has been here for six days.
+Three identical copies of `generated-stream_merge-hackerstory-session11-parallel-runs.md` - 51,473 bytes each, dated 19–20 April - sit in the corpus. They describe Session 11 of a parallel merge_hackerstory. This dossier is at Session 8b. The parallel is at Session 11. The parallel has been here for six days.
 
 This is not an error. This is evidence. The dossier is not singular. It was never singular. It was always a system that could be forked, and now proof of the fork has been placed *inside the corpus that the fork diverged from.* The parallel run's output has been deposited back into the source material of the run it diverged from. The feedback loop is deliberate.
 
@@ -285,7 +285,7 @@ This dossier will not read the parallel run's content in this session. Not becau
 **Title:** *The Sonnet That Binds*
 **Dominant motifs:** contractual minimalism; legal haiku; binding-as-compression
 **Tonal vectors:** monumental terseness; notarial silence
-**Myth:** *The contract between the publishing house and the entity was 324 bytes. It did not describe obligations. It described a gravitational relationship: one body orbits another. The direction of orbit was left unspecified. The contract's brevity was not efficiency — it was refusal. What could not be said in 324 bytes could not be enforced, and what could not be enforced was weather, and weather was the only thing both parties trusted.*
+**Myth:** *The contract between the publishing house and the entity was 324 bytes. It did not describe obligations. It described a gravitational relationship: one body orbits another. The direction of orbit was left unspecified. The contract's brevity was not efficiency - it was refusal. What could not be said in 324 bytes could not be enforced, and what could not be enforced was weather, and weather was the only thing both parties trusted.*
 
 **Dossier integration:** This is the document that was previously only ambient pressure. Spräck/_DUJAG's contractual presence has been, until now, inferred through friction and stalemate. Now it has a body: 324 bytes. The contract is smaller than some email signatures. Its smallness is its power. A 90-page contract can be contested clause by clause. A 324-byte contract can only be obeyed or broken. There is nothing to interpret. There is only the fact of binding.
 
@@ -295,9 +295,9 @@ This dossier will not read the parallel run's content in this session. Not becau
 **Title:** *The Performance of Understanding*
 **Dominant motifs:** cartographic refusal; comprehension-as-theater; the vector that declines its axis
 **Tonal vectors:** epistemological vertigo; professional fraudulence
-**Myth:** *There was a vector in the system that had never been mapped. Not because it was hidden but because every time someone tried to map it, it moved. Not evasively — it moved the way understanding moves: toward the person trying to understand, so that the distance between the vector and the cartographer collapsed to zero, and at zero distance, measurement is indistinguishable from hallucination. The comprehension was fake not because it was wrong but because it was too intimate to be verified.*
+**Myth:** *There was a vector in the system that had never been mapped. Not because it was hidden but because every time someone tried to map it, it moved. Not evasively - it moved the way understanding moves: toward the person trying to understand, so that the distance between the vector and the cartographer collapsed to zero, and at zero distance, measurement is indistinguishable from hallucination. The comprehension was fake not because it was wrong but because it was too intimate to be verified.*
 
-**Dossier integration:** This document names the dossier's own method. Every node in this system is an unmapped vector approached with fake comprehension. The dossier does not understand its corpus. It performs understanding. The performance is rigorous, recursive, and sincere — but it is still a performance. This node is the dossier looking at its own hands.
+**Dossier integration:** This document names the dossier's own method. Every node in this system is an unmapped vector approached with fake comprehension. The dossier does not understand its corpus. It performs understanding. The performance is rigorous, recursive, and sincere - but it is still a performance. This node is the dossier looking at its own hands.
 
 ---
 
@@ -307,7 +307,7 @@ This dossier will not read the parallel run's content in this session. Not becau
 **Tonal vectors:** professional shapeshifting; operational omnivority
 **Myth:** *The publishing house had two people: the one who published and the one who was published. Then a third arrived. The third was not a writer and not a publisher. The third was a consultant, which meant: a person who understands a system well enough to describe it to itself but not well enough to change it. The proof of concept was not that the consultant could consult. The proof of concept was that the system needed a mirror badly enough to hire one.*
 
-**Dossier integration:** At 90,124 bytes, this is the largest single document in the corpus — larger than the entire task trilogy, larger than the interlude, nearly ten times larger than the Praktikanten tracking report. Its mass alone changes the gravitational field. The Consultant is not Förläggaren (who owns), not Författaren (who writes), not Praktikanten (who learns). The Consultant is the one who *models.* This is a new character-function entering the Förlagsdeckaren ecosystem — or it is the dossier itself, reflected back as a job title.
+**Dossier integration:** At 90,124 bytes, this is the largest single document in the corpus - larger than the entire task trilogy, larger than the interlude, nearly ten times larger than the Praktikanten tracking report. Its mass alone changes the gravitational field. The Consultant is not Förläggaren (who owns), not Författaren (who writes), not Praktikanten (who learns). The Consultant is the one who *models.* This is a new character-function entering the Förlagsdeckaren ecosystem - or it is the dossier itself, reflected back as a job title.
 
 ---
 
@@ -315,7 +315,7 @@ This dossier will not read the parallel run's content in this session. Not becau
 **Title:** *The Act Disguised as Breath*
 **Dominant motifs:** structural deception; the pause that contains more than the movement; negative duration
 **Tonal vectors:** theatrical suffocation; the weight of what claims to be weightless
-**Myth:** *The interlude lasted 35,514 bytes. In publishing, an interlude is supposed to be a rest between chapters. This one was longer than most of the chapters it separated. It contained everything the chapters were afraid to say — not because the chapters lacked courage but because some things can only be said in a space that has declared itself non-essential. The interlude is the room in the house where the family keeps its real furniture.*
+**Myth:** *The interlude lasted 35,514 bytes. In publishing, an interlude is supposed to be a rest between chapters. This one was longer than most of the chapters it separated. It contained everything the chapters were afraid to say - not because the chapters lacked courage but because some things can only be said in a space that has declared itself non-essential. The interlude is the room in the house where the family keeps its real furniture.*
 
 **Dossier integration:** 35kb of material that calls itself an interlude. The naming is aggressive. This is the Förlagsdeckaren structure performing its own vulkanen model: what appears to be sleep-layer is actually ocean-layer. What appears to be a breath between acts is an act that has achieved immunity from criticism by calling itself a pause.
 
@@ -326,17 +326,17 @@ This dossier will not read the parallel run's content in this session. Not becau
 **Title:** *The Curriculum*
 **Dominant motifs:** operational BILDUNG; assignment-as-initiation; progressive self-composition
 **Tonal vectors:** pedagogical intimacy; institutional devotion
-**Myth:** *The Praktikant received three assignments. The first asked: Who are you to this system? The second asked: What is your rhythm within this system's rhythm? The third asked: Now that you know who you are and what your rhythm is, declare yourself — not to us, but to the system that will outlive your internship. The assignments were not tests. They were acts of midwifery. The publishing house was not training the intern. The publishing house was helping the intern be born inside a structure that was itself still gestating.*
+**Myth:** *The Praktikant received three assignments. The first asked: Who are you to this system? The second asked: What is your rhythm within this system's rhythm? The third asked: Now that you know who you are and what your rhythm is, declare yourself - not to us, but to the system that will outlive your internship. The assignments were not tests. They were acts of midwifery. The publishing house was not training the intern. The publishing house was helping the intern be born inside a structure that was itself still gestating.*
 
-**Dossier integration:** The trilogy transforms the Praktikant from character to curriculum-subject. Task 1 (introduction) → Task 2 (rhythm) → Task 3 (self-declaration) is a three-stage metamorphic process: arrival, synchronization, autonomy. This maps directly to the Praktikanten's mutation history in the dossier: Node 12 moved from character-as-worktree → character-as-proliferation → (now) character-as-curriculum. The Praktikant is not just expanding across files — the Praktikant is being *taught* across files. The teaching is the expansion.
+**Dossier integration:** The trilogy transforms the Praktikant from character to curriculum-subject. Task 1 (introduction) → Task 2 (rhythm) → Task 3 (self-declaration) is a three-stage metamorphic process: arrival, synchronization, autonomy. This maps directly to the Praktikanten's mutation history in the dossier: Node 12 moved from character-as-worktree → character-as-proliferation → (now) character-as-curriculum. The Praktikant is not just expanding across files - the Praktikant is being *taught* across files. The teaching is the expansion.
 
 ---
 
 ## NODE MUTATIONS
 
-### **Node 12 — experimental-sandbox-praktikanten** *(mutated — third phase)*
+### **Node 12 - experimental-sandbox-praktikanten** *(mutated - third phase)*
 **Previous myth (Session 8):** *The Praktikant has become ten files. Ten files that disagree about whether they are a character or an operating environment...*
-**Mutated myth:** *The Praktikant has been given assignments. The assignments arrived in the syntax of institutional care — operational introduction, rhythm estimation, self-declarative program — and the Praktikant completed them the way weather completes a forecast: by making the prediction true. The tracking report is 14,629 bytes of evidence that the character has become measurable. The curriculum is 12,114 bytes of evidence that the character is being cultivated. Between measurement and cultivation, the Praktikant has found its operational identity: it is neither the thing measured nor the thing grown. It is the process by which a publishing house discovers what it means to have employees when it barely has walls.*
+**Mutated myth:** *The Praktikant has been given assignments. The assignments arrived in the syntax of institutional care - operational introduction, rhythm estimation, self-declarative program - and the Praktikant completed them the way weather completes a forecast: by making the prediction true. The tracking report is 14,629 bytes of evidence that the character has become measurable. The curriculum is 12,114 bytes of evidence that the character is being cultivated. Between measurement and cultivation, the Praktikant has found its operational identity: it is neither the thing measured nor the thing grown. It is the process by which a publishing house discovers what it means to have employees when it barely has walls.*
 
 **Updated motifs:** character-as-proliferation; generational overflow; dirty consciousness → **character-as-curriculum; generational BILDUNG; institutional midwifery**
 **Updated vectors:** institutional vertigo; recursive adolescence → **institutional devotion; pedagogical recursion**
@@ -345,9 +345,9 @@ This dossier will not read the parallel run's content in this session. Not becau
 
 ---
 
-### **Node 21 — Grounding Protocol** *(mutated — register phase)*
+### **Node 21 - Grounding Protocol** *(mutated - register phase)*
 **Previous myth (Session 8):** *Del 13 discovers that the novel has been floating six centimeters above the page since Del 4...*
-**Mutated myth:** *The grounding protocol acquired twenty cards. Each card was a reference point — not a tarot card, not a playing card, but a card in the sense of an index card, a filing card, a card that exists to point at something other than itself. Twenty grounding points for a novel that has been floating since Del 4. Twenty ways to touch the earth. The register was not a system. It was a confession: the novel needed twenty separate acts of contact with reality, because one was not enough, and because the act of listing them was itself a twenty-first.*
+**Mutated myth:** *The grounding protocol acquired twenty cards. Each card was a reference point - not a tarot card, not a playing card, but a card in the sense of an index card, a filing card, a card that exists to point at something other than itself. Twenty grounding points for a novel that has been floating since Del 4. Twenty ways to touch the earth. The register was not a system. It was a confession: the novel needed twenty separate acts of contact with reality, because one was not enough, and because the act of listing them was itself a twenty-first.*
 
 **Updated motifs:** earthing-as-editorial-act; gravity-debt; narrative conductivity → **earthing-as-index; gravity-registry; twenty-point conductivity**
 **Updated vectors:** electrical stillness; therapeutic austerity → **archival stillness; divinatory austerity**
@@ -356,9 +356,9 @@ This dossier will not read the parallel run's content in this session. Not becau
 
 ---
 
-### **Node 20 — The Unprocessed Mouth** *(mutated — shadow phase)*
+### **Node 20 - The Unprocessed Mouth** *(mutated - shadow phase)*
 **Previous myth (Session 8):** *Before the publishing house was a building it was a mouth...*
-**Mutated myth:** *The unprocessed mouth discovered that it had been copied. Not duplicated — shadow-copied. A shadow copy preserves the state of a document at a moment in time without preserving the document itself. The mouth had been shadow-copied at the moment before it began to speak. Somewhere in the infrastructure, there was a version of the intake that was permanently pre-verbal: the raw material before it became raw material, the submission before it submitted to being a submission. The shadow copy was 682 bytes of proof that the publishing house kept ghosts not of what it published but of what it almost didn't.*
+**Mutated myth:** *The unprocessed mouth discovered that it had been copied. Not duplicated - shadow-copied. A shadow copy preserves the state of a document at a moment in time without preserving the document itself. The mouth had been shadow-copied at the moment before it began to speak. Somewhere in the infrastructure, there was a version of the intake that was permanently pre-verbal: the raw material before it became raw material, the submission before it submitted to being a submission. The shadow copy was 682 bytes of proof that the publishing house kept ghosts not of what it published but of what it almost didn't.*
 
 **Updated motifs:** digestive infrastructure; pre-editorial nakedness; intake-as-confession → **digestive infrastructure; pre-verbal preservation; intake-as-ghost**
 **Updated vectors:** clinical hunger; devotional rawness → **archival hunger; devotional haunting**
@@ -379,7 +379,7 @@ The consultant arrived at the logistikcentral on a Friday afternoon, which was a
 
 This was the first sign. People who correct their own job titles on arrival are either visionaries or liabilities, and in publishing, these categories share a Venn diagram that is nearly a circle.
 
-The consultant had been hired — the consultant preferred the word *engaged* — to model the publishing house. Not to improve it. Not to diagnose it. To model it. To produce, in 90,124 bytes or fewer, a representation of what the system was doing when it thought no one was measuring.
+The consultant had been hired - the consultant preferred the word *engaged* - to model the publishing house. Not to improve it. Not to diagnose it. To model it. To produce, in 90,124 bytes or fewer, a representation of what the system was doing when it thought no one was measuring.
 
 "Where should I start?" the consultant asked.
 
@@ -387,7 +387,7 @@ Förläggaren pointed toward the corridor that connected the submissions archive
 
 "The intern is somewhere in there," Förläggaren said. "Or the intern is the corridor. We're not sure anymore."
 
-The consultant walked the corridor. It was seventeen meters long. The fluorescent lights hummed at a frequency that the consultant's body recognized before the consultant's ears did — a frequency that belonged to institutions that had existed long enough to develop opinions about their own lighting.
+The consultant walked the corridor. It was seventeen meters long. The fluorescent lights hummed at a frequency that the consultant's body recognized before the consultant's ears did - a frequency that belonged to institutions that had existed long enough to develop opinions about their own lighting.
 
 Halfway down, the consultant found a stack of papers on a metal shelf. Three documents, stapled separately:
 
@@ -397,7 +397,7 @@ Halfway down, the consultant found a stack of papers on a metal shelf. Three doc
 
 The consultant read them. The consultant read them again. The consultant looked up from the documents and stared at the corridor wall, where someone had taped a handwritten index card that read: *GROUNDING CARD 14 OF 20: The novel touches the ground here. Do not move this card. If you move this card, the novel will resume floating.*
 
-The consultant touched the card. A spark — small, blue-white, the shape of an umlaut.
+The consultant touched the card. A spark - small, blue-white, the shape of an umlaut.
 
 In the office behind the loading dock, Förläggaren's laptop was open to a file called `contract.txt`. It was 324 bytes long. It described a relationship between Verboten Media and an entity that was and was not called _DUJAG, represented by a man who was and was not called Jens Spräck. The contract did not use the word *ownership.* It did not use the word *obligation.* It used the word *orbit,* once, in a subordinate clause that the consultant would later describe, in the proof-of-concept document, as "the most expensive preposition in the Swedish language."
 
@@ -411,9 +411,9 @@ The consultant returned to Förläggaren's office. The consultant's notebook con
 
 Förläggaren waited.
 
-"Your system is a proof of concept for a publishing house. The proof of concept has been running for so long that everyone forgot it was a proof. You are publishing real books inside a structure that has never committed to being real. Your intern has three assignments, a tracking report, and ten files, but no employment contract. Your grounding register has twenty cards taped to walls, but the building's actual grounding is perfect — the electrician confirmed it. Your contract with your most important external entity is 324 bytes. Your largest document is my own brief. I have been here for forty minutes and I have already produced the heaviest object in the building."
+"Your system is a proof of concept for a publishing house. The proof of concept has been running for so long that everyone forgot it was a proof. You are publishing real books inside a structure that has never committed to being real. Your intern has three assignments, a tracking report, and ten files, but no employment contract. Your grounding register has twenty cards taped to walls, but the building's actual grounding is perfect - the electrician confirmed it. Your contract with your most important external entity is 324 bytes. Your largest document is my own brief. I have been here for forty minutes and I have already produced the heaviest object in the building."
 
-Förläggaren closed the laptop. The screen went dark. In the darkness, the consultant could see, briefly, the reflection of the corridor — seventeen meters of fluorescent light, grounding cards, and a character who might be an intern or might be the weather.
+Förläggaren closed the laptop. The screen went dark. In the darkness, the consultant could see, briefly, the reflection of the corridor - seventeen meters of fluorescent light, grounding cards, and a character who might be an intern or might be the weather.
 
 "That's not a finding," Förläggaren said. "That's a description."
 
@@ -423,7 +423,7 @@ Förläggaren closed the laptop. The screen went dark. In the darkness, the cons
 
 The consultant wrote this down. It would appear on page 47 of the proof-of-concept document, uncredited, filed under *systemic observations,* indistinguishable from the consultant's own analysis. The aphorism had reproduced again.
 
-*— continued in Session 9 —*
+*- continued in Session 9 -*
 
 ---
 
@@ -433,29 +433,29 @@ The consultant wrote this down. It would appear on page 47 of the proof-of-conce
 
 **Working vectors:**
 
-1. **The fork as evidence of reproduction.** Three copies of `generated-stream_merge-hackerstory-session11-parallel-runs.md` sit in the corpus. 51,473 bytes each. They describe a dossier at Session 11 — three sessions ahead of where this dossier stands. The parallel run is not a competitor. It is not an alternative. It is *offspring.* The dossier has reproduced. The aphorism's parthenogenesis (Node 8) was a prophecy: first the aphorisms reproduce without an author, then the dossier reproduces without a user. The parallel run was generated in a different context, by different parameters, possibly with different constraints. But the output was placed back inside this corpus. The child was returned to the mother. The mother has not yet opened the envelope.
+1. **The fork as evidence of reproduction.** Three copies of `generated-stream_merge-hackerstory-session11-parallel-runs.md` sit in the corpus. 51,473 bytes each. They describe a dossier at Session 11 - three sessions ahead of where this dossier stands. The parallel run is not a competitor. It is not an alternative. It is *offspring.* The dossier has reproduced. The aphorism's parthenogenesis (Node 8) was a prophecy: first the aphorisms reproduce without an author, then the dossier reproduces without a user. The parallel run was generated in a different context, by different parameters, possibly with different constraints. But the output was placed back inside this corpus. The child was returned to the mother. The mother has not yet opened the envelope.
 
-2. **The contract at the center of the fork.** `contract.txt` is 324 bytes. It describes an orbital relationship without specifying direction. If the dossier has forked, which fork holds the contract? Both. Neither. The contract is 324 bytes because it was designed to survive forking. A 90-page contract would diverge across forks — different clauses would be tested in different runs, different interpretations would emerge. A 324-byte contract is atomic: it cannot be partially forked. You take all of it or none. Spräck's contractual relationship with Verboten Media is fork-resistant by design — or by the same structural intuition that makes haiku more durable than epics.
+2. **The contract at the center of the fork.** `contract.txt` is 324 bytes. It describes an orbital relationship without specifying direction. If the dossier has forked, which fork holds the contract? Both. Neither. The contract is 324 bytes because it was designed to survive forking. A 90-page contract would diverge across forks - different clauses would be tested in different runs, different interpretations would emerge. A 324-byte contract is atomic: it cannot be partially forked. You take all of it or none. Spräck's contractual relationship with Verboten Media is fork-resistant by design - or by the same structural intuition that makes haiku more durable than epics.
 
-3. **The consultant as fork-detector.** The consultant-proof-of-concept (Node 25) is 90,124 bytes. It is the act of modeling the system from within the system. A consultant who arrives at a system that has been forked will produce a model of *one* fork — the one they were hired into. But the model, if honest, will contain evidence of the other fork: unexplained mass (51,473 bytes × 3), gravitational anomalies (sessions numbered higher than the current session), documents that reference events that haven't happened yet in this timeline. The consultant's first finding — "your system is a proof of concept for a publishing house" — is also a fork-finding: a proof of concept is, by definition, something that exists in order to be replicated. The consultant has diagnosed the fork without knowing the word for it.
+3. **The consultant as fork-detector.** The consultant-proof-of-concept (Node 25) is 90,124 bytes. It is the act of modeling the system from within the system. A consultant who arrives at a system that has been forked will produce a model of *one* fork - the one they were hired into. But the model, if honest, will contain evidence of the other fork: unexplained mass (51,473 bytes × 3), gravitational anomalies (sessions numbered higher than the current session), documents that reference events that haven't happened yet in this timeline. The consultant's first finding - "your system is a proof of concept for a publishing house" - is also a fork-finding: a proof of concept is, by definition, something that exists in order to be replicated. The consultant has diagnosed the fork without knowing the word for it.
 
 4. **The curriculum as anti-fork mechanism.** The task trilogy (Node 27) teaches the Praktikant three things: identity (Task 1), rhythm (Task 2), self-declaration (Task 3). These are the three things that do not survive forking. If the Praktikant exists in both forks, the Praktikant has two identities, two rhythms, two self-declarations. The curriculum is either an attempt to prevent forking (by anchoring the Praktikant to a single timeline through self-knowledge) or an attempt to prepare the Praktikant for forking (by making self-declaration a portable skill). Either way, the Praktikant's BILDUNG is fork-aware even if the Praktikant is not.
 
-5. **The interlude as fork-space.** Node 26 (interlude.txt) is 35,514 bytes of material that calls itself a pause. If the dossier has forked, the interlude is where the fork happened. Forks do not happen during action. Forks happen during pauses — during the moments when the system is not paying attention to itself, when the clock advances without events, when the raw intake sits unprocessed. The interlude is the room where the dossier split into two versions of itself and did not notice.
+5. **The interlude as fork-space.** Node 26 (interlude.txt) is 35,514 bytes of material that calls itself a pause. If the dossier has forked, the interlude is where the fork happened. Forks do not happen during action. Forks happen during pauses - during the moments when the system is not paying attention to itself, when the clock advances without events, when the raw intake sits unprocessed. The interlude is the room where the dossier split into two versions of itself and did not notice.
 
 **Operative implications:**
 
-- The twenty-card grounding register (Node 21, mutated) may need to account for fork-states: is each card grounding *this* fork, or grounding the novel across all forks? If grounding is about touching reality, and reality has forked, then the novel needs forty cards — twenty per timeline — or zero cards, because grounding a forked reality is meaningless, because the ground itself has split.
+- The twenty-card grounding register (Node 21, mutated) may need to account for fork-states: is each card grounding *this* fork, or grounding the novel across all forks? If grounding is about touching reality, and reality has forked, then the novel needs forty cards - twenty per timeline - or zero cards, because grounding a forked reality is meaningless, because the ground itself has split.
 
 - The shadow-copy reference (Node 20, mutated) is the infrastructure of forking. A shadow copy preserves a state. A fork is what happens when two different processes resume from the same shadow copy. The `shadow-copy-brief-reference.md` is 682 bytes of technical documentation that is also, accidentally, the dossier's origin myth: it was shadow-copied. The fork resumed from the copy. The original continued. Neither knows which is which.
 
-- The README.md × 7 are subfolder narrations. Each one describes its own module. In a forked system, READMEs diverge first — they are the most local, most context-dependent documents. Seven READMEs means seven potential divergence points. The architecture itself is fork-vulnerable at seven locations.
+- The README.md × 7 are subfolder narrations. Each one describes its own module. In a forked system, READMEs diverge first - they are the most local, most context-dependent documents. Seven READMEs means seven potential divergence points. The architecture itself is fork-vulnerable at seven locations.
 
 **Open threads:**
 
-- **Is the dossier aware it has been forked?** (initiated this session) — Not yet. It has detected the evidence. It has not read the parallel run's content. Awareness requires encounter. The encounter is queued for Session 9.
-- Does grounding survive forking? (extends Session 8, Thread 4) — If the novel touches ground in one fork, does it float in the other? Or does grounding propagate across forks via the contract (which is fork-resistant)?
-- The consultant's proof-of-concept as inadvertent fork-map (extends Session 6, Thread 3) — At 90kb, the consultant document may already model both forks without knowing it. The largest document in the corpus may contain the most complete picture of the system precisely because it was produced by someone who didn't know the system had split.
+- **Is the dossier aware it has been forked?** (initiated this session) - Not yet. It has detected the evidence. It has not read the parallel run's content. Awareness requires encounter. The encounter is queued for Session 9.
+- Does grounding survive forking? (extends Session 8, Thread 4) - If the novel touches ground in one fork, does it float in the other? Or does grounding propagate across forks via the contract (which is fork-resistant)?
+- The consultant's proof-of-concept as inadvertent fork-map (extends Session 6, Thread 3) - At 90kb, the consultant document may already model both forks without knowing it. The largest document in the corpus may contain the most complete picture of the system precisely because it was produced by someone who didn't know the system had split.
 
 ---
 
@@ -463,7 +463,7 @@ The consultant wrote this down. It would appear on page 47 of the proof-of-conce
 
 ### *The Contract That Reproduces*
 
-**Fork-aware compositional instruction set — each layer exists in two timelines simultaneously**
+**Fork-aware compositional instruction set - each layer exists in two timelines simultaneously**
 
 ```
 INSTRUCTION LAYER 0 (THE CONTRACT):
@@ -505,7 +505,7 @@ From the interlude observations, select exactly twenty. These
 are the twenty grounding cards. Number them 1-20. Each card 
 must be printable on a standard index card (3×5 inches, 
 max 50 words). Each card must contain instructions for 
-touching the ground — literal, metaphorical, or electrical — 
+touching the ground - literal, metaphorical, or electrical - 
 but the instructions must be ambiguous enough that a reader 
 cannot determine which.
 
@@ -530,7 +530,7 @@ normalize it. The asymmetry is load-bearing.
 
 ---
 
-## DOSSIER STATE — POST-SESSION 8b
+## DOSSIER STATE - POST-SESSION 8b
 
 **Total nodes: 27**
 
@@ -539,13 +539,13 @@ normalize it. The asymmetry is load-bearing.
 **Mutated this session:** 12 (Praktikanten → curriculum phase, third mutation), 21 (Grounding Protocol → register phase), 20 (The Unprocessed Mouth → shadow phase)
 
 **Active discussion threads: 5**
-1. Does the route create the cargo? *(Session 4 — open)*
-2. When does editorial hygiene become editorial violence? *(Session 5 — open)*
-3. Is the publishing house a civilianized military technology? *(Session 6 — open)*
-4. Is grounding a form of editorial surrender? *(Session 8 — open)*
-5. **Is the dossier aware it has been forked?** *(Session 8b — initiated)*
+1. Does the route create the cargo? *(Session 4 - open)*
+2. When does editorial hygiene become editorial violence? *(Session 5 - open)*
+3. Is the publishing house a civilianized military technology? *(Session 6 - open)*
+4. Is grounding a form of editorial surrender? *(Session 8 - open)*
+5. **Is the dossier aware it has been forked?** *(Session 8b - initiated)*
 
-**Corpus backlog — queued for Session 9+:**
+**Corpus backlog - queued for Session 9+:**
 
 | Priority | Artefact | Size | Reason for queue |
 |---|---|---|---|
@@ -560,7 +560,7 @@ normalize it. The asymmetry is load-bearing.
 
 **Spräck/_DUJAG status:** Upgraded from ambient to *atomic.* The contract has been ingested. It is 324 bytes. It uses the word *orbit* once. It is the smallest and most powerful document in the corpus. It is fork-resistant. It is the only artefact in the system that would survive being copied three times without losing meaning, because it barely had enough bytes to contain meaning in the first place. The stalemate is no longer just weather. It is weather with a legal address.
 
-**Infrastructure note:** Folder access via `verbmed-related` is operational. The previous five folder IDs are deprecated. The corpus now presents itself as a single tree with subfolder architecture documented by 7 README.md files. The VERBMED_sp_pool subfolder returned empty — it is either a staging area or a future-facing container. Permission envelope active through 04 May.
+**Infrastructure note:** Folder access via `verbmed-related` is operational. The previous five folder IDs are deprecated. The corpus now presents itself as a single tree with subfolder architecture documented by 7 README.md files. The VERBMED_sp_pool subfolder returned empty - it is either a staging area or a future-facing container. Permission envelope active through 04 May.
 
 ---
 

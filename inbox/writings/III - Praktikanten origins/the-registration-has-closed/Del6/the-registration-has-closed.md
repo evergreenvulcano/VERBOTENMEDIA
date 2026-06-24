@@ -37,7 +37,7 @@ Förläggaren understood, looking at the page, that a publication system can bec
 
 At the bottom, the footer read like a vow made by someone who had already tested speech to failure:
 
-VERBOTEN MEDIA — no feed, no stream, no noise.
+VERBOTEN MEDIA - no feed, no stream, no noise.
 
 It was not branding. It was operational theology.
 

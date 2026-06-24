@@ -1,4 +1,4 @@
-# Banketter — XPRMNT-ZN-relation
+# Banketter - XPRMNT-ZN-relation
 
 Status: publicerad ceremoniell tidslogik.
 

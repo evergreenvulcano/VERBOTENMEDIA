@@ -56,12 +56,12 @@ Preferred optional fields:
 
 ## Status ladder
 
-1. **Known external body** — known to exist outside or across repo/Drive, not imported.
-2. **Repo-grounded pointer** — repo can safely point to public-readable traces or status notes.
-3. **Sluice candidate** — entry exists in the register, but is not public-ready.
-4. **Public-readable representation** — a safe note/card/index exists in GitHub.
-5. **Public candidate** — reviewed enough to become a static public page with provenance.
-6. **Public-ready render** — approved for site rendering.
+1. **Known external body** - known to exist outside or across repo/Drive, not imported.
+2. **Repo-grounded pointer** - repo can safely point to public-readable traces or status notes.
+3. **Sluice candidate** - entry exists in the register, but is not public-ready.
+4. **Public-readable representation** - a safe note/card/index exists in GitHub.
+5. **Public candidate** - reviewed enough to become a static public page with provenance.
+6. **Public-ready render** - approved for site rendering.
 
 Skipping steps requires explicit human decision.
 

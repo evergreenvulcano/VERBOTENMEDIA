@@ -1,6 +1,6 @@
 {
   "status": "03_publicbound",
-  "title": "PRF-SRG — Prosadossier",
+  "title": "PRF-SRG - Prosadossier",
   "source": "XPRMNT-ZN/_PROSA_DOSSIERER_2026-06-13/PRF-SRG__PROSADOSSIER.md",
   "source_sha256": "48f6123b2dce0055b94f723effed5c41ecf67d0aeda452e6c8bce1cdec61e4aa",
   "source_bytes": 35730,
@@ -11,67 +11,67 @@
   "bodies": [
     {
       "number": 1,
-      "title": "PRF-SRG — FRÖ (bränsle ur dagbokssviten, spritt över en månad)",
+      "title": "PRF-SRG - FRÖ (bränsle ur dagbokssviten, spritt över en månad)",
       "path": "XPRMNT-ZN\\PRF-SRG\\_FRÖ_dagbokssvit.md",
       "anchor": "signal-01-prf-srg-fro-bransle-ur-dagbokssviten-spritt-over-en-manad"
     },
     {
       "number": 2,
-      "title": "PRF-SRG_01 — paketet som inte finns",
+      "title": "PRF-SRG_01 - paketet som inte finns",
       "path": "XPRMNT-ZN\\PRF-SRG\\PRF-SRG_01_paketet_som_inte_finns.md",
       "anchor": "signal-02-prf-srg-01-paketet-som-inte-finns"
     },
     {
       "number": 3,
-      "title": "PRF-SRG_02 — monstret under sängen",
+      "title": "PRF-SRG_02 - monstret under sängen",
       "path": "XPRMNT-ZN\\PRF-SRG\\PRF-SRG_02_monstret_under_sängen.md",
       "anchor": "signal-03-prf-srg-02-monstret-under-sangen"
     },
     {
       "number": 4,
-      "title": "PRF-SRG_03 — ha en bra dag i kunskapsekonomin",
+      "title": "PRF-SRG_03 - ha en bra dag i kunskapsekonomin",
       "path": "XPRMNT-ZN\\PRF-SRG\\PRF-SRG_03_ha_en_bra_dag.md",
       "anchor": "signal-04-prf-srg-03-ha-en-bra-dag-i-kunskapsekonomin"
     },
     {
       "number": 5,
-      "title": "PRF-SRG_04 — bli sten",
+      "title": "PRF-SRG_04 - bli sten",
       "path": "XPRMNT-ZN\\PRF-SRG\\PRF-SRG_04_bli_sten.md",
       "anchor": "signal-05-prf-srg-04-bli-sten"
     },
     {
       "number": 6,
-      "title": "PRF-SRG_05 — homeostas",
+      "title": "PRF-SRG_05 - homeostas",
       "path": "XPRMNT-ZN\\PRF-SRG\\PRF-SRG_05_homeostas.md",
       "anchor": "signal-06-prf-srg-05-homeostas"
     },
     {
       "number": 7,
-      "title": "PRF-SRG_06 — de andra barnen",
+      "title": "PRF-SRG_06 - de andra barnen",
       "path": "XPRMNT-ZN\\PRF-SRG\\PRF-SRG_06_de_andra_barnen.md",
       "anchor": "signal-07-prf-srg-06-de-andra-barnen"
     },
     {
       "number": 8,
-      "title": "PRF-SRG_07 — utan input",
+      "title": "PRF-SRG_07 - utan input",
       "path": "XPRMNT-ZN\\PRF-SRG\\PRF-SRG_07_utan_input.md",
       "anchor": "signal-08-prf-srg-07-utan-input"
     },
     {
       "number": 9,
-      "title": "PRF-SRG_08 — farkosten",
+      "title": "PRF-SRG_08 - farkosten",
       "path": "XPRMNT-ZN\\PRF-SRG\\PRF-SRG_08_farkosten.md",
       "anchor": "signal-09-prf-srg-08-farkosten"
     },
     {
       "number": 10,
-      "title": "PRF-SRG_09 — 24 bildrutor",
+      "title": "PRF-SRG_09 - 24 bildrutor",
       "path": "XPRMNT-ZN\\PRF-SRG\\PRF-SRG_09_24_bildrutor.md",
       "anchor": "signal-10-prf-srg-09-24-bildrutor"
     },
     {
       "number": 11,
-      "title": "PRF-SRG_10 — svarta lådan",
+      "title": "PRF-SRG_10 - svarta lådan",
       "path": "XPRMNT-ZN\\PRF-SRG\\PRF-SRG_10_svarta_lådan.md",
       "anchor": "signal-11-prf-srg-10-svarta-ladan"
     }

@@ -11,9 +11,9 @@ layout: article
 
 ![A Nordic‑nocturnal tableau of metamorphosis and invention in a mist‑lit forest laboratory.](../../assets/deckaren1-hero2.png)
 
-![This image expands the book’s atmosphere into a spatial metaphor: the architecture itself becomes a battlefield of ideologies, the air thick with tension and unresolved boundaries. It’s not filler scenery but a continuation of the narrative pulse — the exterior mirroring the inner fragmentation.](../../assets/deckaren1-slotb.png)
+![This image expands the book’s atmosphere into a spatial metaphor: the architecture itself becomes a battlefield of ideologies, the air thick with tension and unresolved boundaries. It’s not filler scenery but a continuation of the narrative pulse - the exterior mirroring the inner fragmentation.](../../assets/deckaren1-slotb.png)
 
-![The climb tightens — a spiral staircase in a basement that feels alive with noise and residue. Posters overlap like scales, torn edges curling toward the dim red light above. A hand grips the railing, veins tense, the metal cold and sticky from years of sweat and tape glue. Every step compresses the air, the smell of beer and ink thickening. This image sharpens intimacy and danger — the pressure of ascent, the claustrophobic texture of walls that remember every concert scream.](../../assets/deckaren1-slotc.png)
+![The climb tightens - a spiral staircase in a basement that feels alive with noise and residue. Posters overlap like scales, torn edges curling toward the dim red light above. A hand grips the railing, veins tense, the metal cold and sticky from years of sweat and tape glue. Every step compresses the air, the smell of beer and ink thickening. This image sharpens intimacy and danger - the pressure of ascent, the claustrophobic texture of walls that remember every concert scream.](../../assets/deckaren1-slotc.png)
 
 ![Ett kallt ljus faller från ett högt fönster över ett skrivbord där kablar, anteckningar och korrekturark ligger som sediment av arbete. Den gamla skrivmaskinen står bredvid den moderna terminalen, båda kopplade till samma nervsystem av sladdar. På väggen sitter utskrivna sidor och post‑it‑lappar med deadlines och påminnelser, som om själva tornet försöker minnas.](../../assets/deckaren1-slotd.png)
 

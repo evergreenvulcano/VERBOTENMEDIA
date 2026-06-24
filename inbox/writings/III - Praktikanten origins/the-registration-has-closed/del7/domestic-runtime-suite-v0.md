@@ -33,7 +33,7 @@ Source pressure: verified domestic-runtime material from `2026-04-28_merge-hacke
    When the room refuses to speak, the house writes with smell, warmth, crease, condensation, ash, and the movement of chairs.
 
 4. Every arrival is a guest.
-   Unnamed things — commits, slips, envelopes, drafts, unclaimed evenings — are treated as visitors until the house makes them kin, source, burden, or ash.
+   Unnamed things - commits, slips, envelopes, drafts, unclaimed evenings - are treated as visitors until the house makes them kin, source, burden, or ash.
 
 5. Provenance is not always a prerequisite for care.
    But care without provenance creates debt.
@@ -252,39 +252,39 @@ Finished page:
 
 This is not a floor plan. It is a map of insistences.
 
-Curtain — pressure: ambiguity.
+Curtain - pressure: ambiguity.
 Imperative: invent a reason.
 The Curtain makes polite lies feel like care.
 
-Pantry — pressure: accumulation.
+Pantry - pressure: accumulation.
 Imperative: forget authorship.
 The Pantry hoards until ideas smell like other people.
 
-Stove — pressure: heat.
+Stove - pressure: heat.
 Imperative: make it edible or char it.
 The Stove forces language into texture.
 
-Crawlspace — pressure: listening.
+Crawlspace - pressure: listening.
 Imperative: answer the echo.
 The Crawlspace returns half-voices as accusations.
 
-Table — pressure: relation.
+Table - pressure: relation.
 Imperative: turn small gestures into binding acts.
 The Table makes place settings into promises.
 
-Window — pressure: exposure.
+Window - pressure: exposure.
 Imperative: mistake intimacy for clarity.
 The Window fogs and betrays.
 
-Ash Drawer — pressure: elegy.
+Ash Drawer - pressure: elegy.
 Imperative: remember what you burned.
 The Drawer keeps theatrical grief.
 
-Doorframe Without Wall — pressure: invitation without containment.
+Doorframe Without Wall - pressure: invitation without containment.
 Imperative: enter what cannot hold you.
 The Doorframe proves threshold before architecture.
 
-Ceiling Weight Index — pressure: invisible load.
+Ceiling Weight Index - pressure: invisible load.
 Imperative: look up too late.
 The Ceiling records what no one has said.
 
@@ -372,7 +372,7 @@ A private note for partial disclosure. It is handwritten and left where the prop
 
 Text:
 
-“Your piece ‘{title}’ rests on the Window-Sill; we keep it fogged — still curious.”
+“Your piece ‘{title}’ rests on the Window-Sill; we keep it fogged - still curious.”
 
 No signature. Only a small stamped window.
 

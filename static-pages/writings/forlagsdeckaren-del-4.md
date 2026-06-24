@@ -1,5 +1,5 @@
 ---
-title: "Förlagsdeckaren — Del 4"
+title: "Förlagsdeckaren - Del 4"
 date: 2023-09-11
 summary: "Del 4 av Förlagsdeckaren."
 type: literary
@@ -55,7 +55,7 @@ En människa har lätt att finna sig sjuk i dag. Det måste ha att göra med pla
 
 Det där sättet att tänka på yrken, det är orättvist att bara låta hälsomänniskorna lida för något som tycks ligga inneboende i alla yrken, nämligen hur de tar över enskilda personer som därigenom kommer att förändra världen omkring dem.
 
-—- HÖGSTA PLANET 
+-- HÖGSTA PLANET 
 De går uppför trappan, genom molnen, till bergets topp som är stort och jämnt som om någon huggit av det och byggt parkeringsplats. Men istället en glassbar, ett vinkraftverk, och en tennisbana. 
 
 - Jag vill att texterna griper tag om läsaren som en äldre kusin greppar tag om den yngres handleder och vänder dem mot ansiktet, och frågar varför slår du dig själv varför slår du dig själv?

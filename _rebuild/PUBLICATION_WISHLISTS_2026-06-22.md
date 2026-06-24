@@ -408,5 +408,5 @@ Nästa publiceringspass är klart när:
 > XPRMNT-ZN kvalitativa offentliga former. Rensa Writings. Neutralisera gammal
 > HTML som krockar med doktrinen. Sluta använda statusord som uttrycker oro när
 > materialet redan är offentligt och bärande. Publicering får vara fragment,
-> specimen, metod, ceremoni och pågående form — den behöver inte vänta på
+> specimen, metod, ceremoni och pågående form - den behöver inte vänta på
 > föreställningen om slutgiltighet.

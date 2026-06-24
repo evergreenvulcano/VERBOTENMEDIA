@@ -1,4 +1,4 @@
-# MELLANRUBRIKER — Verboten Media sensommaren 2024
+# MELLANRUBRIKER - Verboten Media sensommaren 2024
 
 This is a local reference note for the heading-map source identity.
 
@@ -14,7 +14,7 @@ User-supplied description:
 
 - title: `Verboten Media sensommaren 2024 presenterar: Produktionens rubriksmappning`
 - the same file also covers the references `MELLANRUBRIKER` and `sensommarens-rubriksmappning`
-- method declaration: `SST — Single Source Topic-inspirerat`
+- method declaration: `SST - Single Source Topic-inspirerat`
 - editorial directive: `Uppmärksamma när ett begrepp förtjänar sin egna artikel.`
 - stated purpose includes memetic restoration and the Petson & Findus figure
 

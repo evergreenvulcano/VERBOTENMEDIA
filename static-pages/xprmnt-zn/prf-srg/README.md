@@ -1,4 +1,4 @@
-# PRF-SRG — Prosadossier
+# PRF-SRG - Prosadossier
 
 Full `03_publicbound` static surface for the PRF-SRG suite.
 

@@ -21,17 +21,17 @@ Future standalone parts will be added here in order.
 ## Förlagsdeckaren publication sequence
 
 1. [Förlagsdeckaren](writings/forlagsdeckaren.md)
-2. [Förlagsdeckaren — Del 1](writings/forlagsdeckaren-del-1.md)
-3. [Förlagsdeckaren — Del 2](writings/forlagsdeckaren-del-2.md)
-4. [Förlagsdeckaren — Del 3](writings/forlagsdeckaren-del-3.md)
-5. [Förlagsdeckaren — Del 4](writings/forlagsdeckaren-del-4.md)
+2. [Förlagsdeckaren - Del 1](writings/forlagsdeckaren-del-1.md)
+3. [Förlagsdeckaren - Del 2](writings/forlagsdeckaren-del-2.md)
+4. [Förlagsdeckaren - Del 3](writings/forlagsdeckaren-del-3.md)
+5. [Förlagsdeckaren - Del 4](writings/forlagsdeckaren-del-4.md)
 6. [Förlagsdeckaren: Registreringen har stängt](writings/forlagsdeckaren-del-6-registreringen-har-stangt.md)
 7. [En stigande tidvåg lyfter alla båtar](writings/shortstory-vm-4.md)
 8. [Tystnad som publiceringsform](writings/shortstory-vm-5.md)
 9. [Borderland](writings/shortstory-vm-6.md)
 10. [VMAPTB Mail Flempo Jens](writings/vmaptb-mail-flempo-jens.md)
 11. [DAWKIN DANIELSON – Burning Man, Black Rock City](writings/dawkin-danielson-burning-man-black-rock-city.md)
-12. [Förlagsdeckaren — Praktikanten (intro)](writings/forlagsdeckaren-praktikanten-intro.md)
+12. [Förlagsdeckaren - Praktikanten (intro)](writings/forlagsdeckaren-praktikanten-intro.md)
 13. [Abdikering under bordet](writings/abdikering-under-bordet.md)
 14. [Verboten Media Workshop Dispatches – dag 1-3](writings/forlagsdeckaren-lectures-and-workshops.md)
 15. [Tystnad som publiceringsform](writings/tystnad-som-publiceringsform.md)
@@ -72,7 +72,7 @@ Förläggaren understood, looking at the page, that a publication system can bec
 
 At the bottom, the footer read like a vow made by someone who had already tested speech to failure:
 
-VERBOTEN MEDIA — no feed, no stream, no noise.
+VERBOTEN MEDIA - no feed, no stream, no noise.
 
 It was not branding. It was operational theology.
 

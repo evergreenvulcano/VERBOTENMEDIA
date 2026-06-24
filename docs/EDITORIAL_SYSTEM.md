@@ -1,4 +1,4 @@
-# EDITORIAL SYSTEM — VERBOTEN MEDIA
+# EDITORIAL SYSTEM - VERBOTEN MEDIA
 
 ## Purpose
 This document defines the standing editorial logic of the site so that drafting, normalization, and publication can remain coherent without repeated instruction.

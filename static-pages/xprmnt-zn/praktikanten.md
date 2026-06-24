@@ -1,4 +1,4 @@
-# Praktikanten — offentlig passagefigur
+# Praktikanten - offentlig passagefigur
 
 Status: publicerad arbetskropp / litterär figur / runtime / bok- och passagefenomen.
 
@@ -15,10 +15,10 @@ bevaras i sin tidigare form eftersom arbetshistorien, råheten och skiktningen
 
 ## Publika läsvägar
 
-- [Förlagsdeckaren — Praktikanten (intro)](../writings/forlagsdeckaren-praktikanten-intro.md)
-- [Förlagsdeckaren — Praktikanten (outro)](../writings/forlagsdeckaren-praktikanten-outro.md)
+- [Förlagsdeckaren - Praktikanten (intro)](../writings/forlagsdeckaren-praktikanten-intro.md)
+- [Förlagsdeckaren - Praktikanten (outro)](../writings/forlagsdeckaren-praktikanten-outro.md)
 - [HackerStory research specimens](../../research-specimens/hackerstory/index.html)
-- [Writings — läsvägar](../writings/INDEX.md)
+- [Writings - läsvägar](../writings/INDEX.md)
 
 ## Inte tillåtet som default
 
@@ -27,7 +27,7 @@ bevaras i sin tidigare form eftersom arbetshistorien, råheten och skiktningen
 - Gör inte Praktikanten till guide, NPC, chatbot, mailpersona eller onboardingyta.
 - Skriv inte om befintlig prosa för att göra figuren lättare att förklara.
 
-## Rå notis — publik närvaro utan förvaltning
+## Rå notis - publik närvaro utan förvaltning
 
 user> Okej. Så detta innebär att Praktikanten kan ges publik närvaro utan att jag måste lista ut hur allt ska förvaltas.
 
@@ -71,7 +71,7 @@ En hänvisning till bok-/kronologifenomenet: Praktikanten arbetade först och bl
 
 Det betyder också att First PR inte behöver “lösa Praktikanten”. Den kan bara göra plats för Praktikanten som ett skyddat, redan belagt fenomen. Senare kan en statisk Praktikanten-sida byggas utan att öppna för drift eller förvaltning.
 
-## Rå lyssningspassage — arbetsdokumentets status
+## Rå lyssningspassage - arbetsdokumentets status
 
 Ja. Nu har jag läst själva arbetsdokumentet. Det är mycket starkare än sammanfattningen antydde. Här är ett lyssningsurval, klippt så att du kan låta det läsas upp som en sammanhängande statuspassage snarare än som tabell/inventering.
 

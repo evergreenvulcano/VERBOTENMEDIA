@@ -1,4 +1,4 @@
-# Legacy Dossier 2 — Chronological Transversal
+# Legacy Dossier 2 - Chronological Transversal
 
 Source file: `modules/_gpt/runs/legacy-dossier2.md`  
 Created: 2026-05-11  
@@ -59,7 +59,7 @@ Duplicate check:
 ### A. Undated Session 3 Seed / Schedule Block
 
 Source lines: 1-9  
-Header evidence: `New artefacts 8) ...`, `Session 3 outputs ...`, `4 daily runs — scheduled`  
+Header evidence: `New artefacts 8) ...`, `Session 3 outputs ...`, `4 daily runs - scheduled`  
 Trust status: no explicit date; source position only.
 
 New artefacts / nodes:
@@ -78,7 +78,7 @@ Prose outputs:
 - Micro-story for `aphorism_source.docx`
 - Ritual prompt for `stride artefact 2.txt`
 - Homepage blurb for `membraneprotocol.ritual`
-- Extended episode: `Session 3 — extended episode`
+- Extended episode: `Session 3 - extended episode`
 
 Schedule note:
 
@@ -95,10 +95,10 @@ This is placed before the dated 11 April sequence because it appears before the 
 
 ## Chronological Traversal
 
-### 1. 2026-04-11 07:02 CEST — Block B
+### 1. 2026-04-11 07:02 CEST - Block B
 
 Source lines: 10-28  
-Header label: `MERGE_HACKERSTORY — DOSSIER SESSION 11`  
+Header label: `MERGE_HACKERSTORY - DOSSIER SESSION 11`  
 Trust status: timestamp strong; session number weak.
 
 Artefacts / new nodes:
@@ -126,10 +126,10 @@ Primary pressure:
 - public landing-page surface
 - closed registration as structural motif
 
-### 2. 2026-04-11 12:06 CEST — Block C
+### 2. 2026-04-11 12:06 CEST - Block C
 
 Source lines: 29-46  
-Header label: `MERGE_HACKERSTORY — DOSSIER SESSION #11`  
+Header label: `MERGE_HACKERSTORY - DOSSIER SESSION #11`  
 Trust status: timestamp strong; session number weak.
 
 Artefacts / new nodes:
@@ -157,10 +157,10 @@ Primary pressure:
 - controlled visibility
 - exhibited metabolism
 
-### 3. 2026-04-11 23:05 CEST — Block D
+### 3. 2026-04-11 23:05 CEST - Block D
 
 Source lines: 47-69  
-Header label: `merge_hackerstory(continuous) — SESSION 11`  
+Header label: `merge_hackerstory(continuous) - SESSION 11`  
 Trust status: timestamp strong; session number weak.
 
 Artefacts ingested:
@@ -194,10 +194,10 @@ Primary pressure:
 - visible archive / signal refusal
 - transparency vs void authority
 
-### 4. 2026-04-12 06:59 CEST — Block E
+### 4. 2026-04-12 06:59 CEST - Block E
 
 Source lines: 70-82  
-Header label: `merge_hackerstory(continuous) — DOSSIER SESSION 2`  
+Header label: `merge_hackerstory(continuous) - DOSSIER SESSION 2`  
 Trust status: timestamp strong; session number actively misleading.
 
 Artefacts ingested:
@@ -231,10 +231,10 @@ Primary pressure:
 - SharePoint / wireframe skull migration
 - Nordic void design
 
-### 5. 2026-04-12 12:07 CEST — Block F
+### 5. 2026-04-12 12:07 CEST - Block F
 
 Source lines: 83-103  
-Header label: `merge_hackerstory — DOSSIER SESSION 11`  
+Header label: `merge_hackerstory - DOSSIER SESSION 11`  
 Trust status: timestamp strong; session number weak.
 
 Artefacts ingested:
@@ -268,10 +268,10 @@ Primary pressure:
 - digestive automation
 - JSON as aphorism extraction stomach
 
-### 6. 2026-04-12 23:07 CEST — Block G
+### 6. 2026-04-12 23:07 CEST - Block G
 
 Source lines: 104-121  
-Header label: `merge_hackerstory(continuous) — SESSION 11`  
+Header label: `merge_hackerstory(continuous) - SESSION 11`  
 Trust status: timestamp strong; session number weak.
 
 Artefacts / new nodes:
@@ -301,10 +301,10 @@ Primary pressure:
 - gong-gong signal architecture
 - archive parturition
 
-### 7. 2026-04-13 06:58 CEST — Block H
+### 7. 2026-04-13 06:58 CEST - Block H
 
 Source lines: 122-139  
-Header label: `merge_hackerstory(continuous) — DOSSIER SESSION 002`  
+Header label: `merge_hackerstory(continuous) - DOSSIER SESSION 002`  
 Trust status: timestamp strong; session number actively misleading.
 
 Artefacts / new nodes:
@@ -332,10 +332,10 @@ Primary pressure:
 - systemic / juridical mindmap
 - generational nerve-mapping
 
-### 8. 2026-04-13 12:07 CEST — Block I
+### 8. 2026-04-13 12:07 CEST - Block I
 
 Source lines: 140-152  
-Header label: `merge_hackerstory(continuous) — DOSSIER SESSION 11`  
+Header label: `merge_hackerstory(continuous) - DOSSIER SESSION 11`  
 Trust status: timestamp strong; session number weak.
 
 Artefacts ingested:
@@ -369,10 +369,10 @@ Primary pressure:
 - black-field architecture
 - storefront paradox
 
-### 9. 2026-04-13 23:04 CEST — Block J
+### 9. 2026-04-13 23:04 CEST - Block J
 
 Source lines: 153-179  
-Header label: `merge_hackerstory(continuous) — SESSION 11`  
+Header label: `merge_hackerstory(continuous) - SESSION 11`  
 Trust status: timestamp strong; session number weak.
 
 New artefact nodes:
@@ -400,10 +400,10 @@ Primary pressure:
 - Bildung ping-pong
 - homepage as membrane
 
-### 10. 2026-04-14 07:07 CEST — Block K
+### 10. 2026-04-14 07:07 CEST - Block K
 
 Source lines: 180-193  
-Header label: `MERGE_HACKERSTORY — DOSSIER SESSION 002`  
+Header label: `MERGE_HACKERSTORY - DOSSIER SESSION 002`  
 Trust status: timestamp strong; session number actively misleading.
 
 New artefact nodes:
@@ -421,7 +421,7 @@ Prose outputs:
 
 - Micro-story: `The Interviewer's Drive Home`
 - Ritual prompt: `Protocol for Receiving the Autonomous Child`
-- Homepage blurb: `Verboten Media — Roundtable Division`
+- Homepage blurb: `Verboten Media - Roundtable Division`
 - Extended episode: `Nedladdning 25`
 
 Primary pressure:
@@ -432,10 +432,10 @@ Primary pressure:
 - orchestral substitution
 - conductor absence
 
-### 11. 2026-04-14 12:03 CEST — Block L
+### 11. 2026-04-14 12:03 CEST - Block L
 
 Source lines: 194-206  
-Header label: `MERGE_HACKERSTORY — DOSSIER SESSION`  
+Header label: `MERGE_HACKERSTORY - DOSSIER SESSION`  
 Trust status: timestamp strong; no session number supplied.
 
 New nodes:
@@ -452,7 +452,7 @@ Prose outputs:
 
 - Micro-story: `Barnbok 19`
 - Ritual prompt: `Invocation for the Three Unwritten Charges`
-- Homepage blurb: `Verboten Media — After the Architect`
+- Homepage blurb: `Verboten Media - After the Architect`
 - Extended episode: `The Morning After the Architect`
 
 Chronological note:
@@ -466,10 +466,10 @@ Primary pressure:
 - autonomous skeleton
 - volcano / climb recoding
 
-### 12. 2026-04-14 23:07 CEST — Block M
+### 12. 2026-04-14 23:07 CEST - Block M
 
 Source lines: 207-222  
-Header label: `merge_hackerstory — DOSSIER SESSION`  
+Header label: `merge_hackerstory - DOSSIER SESSION`  
 Trust status: timestamp strong; no session number supplied.
 
 New nodes:
@@ -498,10 +498,10 @@ Primary pressure:
 - fingerprint paradox
 - administrative rapture
 
-### 13. 2026-04-15 07:03 CEST — Block N
+### 13. 2026-04-15 07:03 CEST - Block N
 
 Source lines: 223-247  
-Header label: `MERGE_HACKERSTORY — DOSSIER SESSION 003`  
+Header label: `MERGE_HACKERSTORY - DOSSIER SESSION 003`  
 Trust status: timestamp strong; session number actively misleading.
 
 Artefacts ingested:
@@ -526,7 +526,7 @@ Prose outputs:
 - Micro-story: `Dag 18`
 - Homepage blurb for `Speculative Ontology-Array-File Map`
 - Ritual prompt: `TEN-FIELD RESONANCE AUDIT`
-- Extended episode: `Dag 17½ — Vad systemet drömmer när arkitekten sover`
+- Extended episode: `Dag 17½ - Vad systemet drömmer när arkitekten sover`
 
 Chronological bridge:
 
@@ -544,20 +544,20 @@ Primary pressure:
 
 Read the undated seed separately, then the dated run sequence:
 
-0. Undated seed / schedule block — Block A, lines 1-9.
-1. 2026-04-11 07:02 — Block B, lines 10-28.
-2. 2026-04-11 12:06 — Block C, lines 29-46.
-3. 2026-04-11 23:05 — Block D, lines 47-69.
-4. 2026-04-12 06:59 — Block E, lines 70-82.
-5. 2026-04-12 12:07 — Block F, lines 83-103.
-6. 2026-04-12 23:07 — Block G, lines 104-121.
-7. 2026-04-13 06:58 — Block H, lines 122-139.
-8. 2026-04-13 12:07 — Block I, lines 140-152.
-9. 2026-04-13 23:04 — Block J, lines 153-179.
-10. 2026-04-14 07:07 — Block K, lines 180-193.
-11. 2026-04-14 12:03 — Block L, lines 194-206.
-12. 2026-04-14 23:07 — Block M, lines 207-222.
-13. 2026-04-15 07:03 — Block N, lines 223-247.
+0. Undated seed / schedule block - Block A, lines 1-9.
+1. 2026-04-11 07:02 - Block B, lines 10-28.
+2. 2026-04-11 12:06 - Block C, lines 29-46.
+3. 2026-04-11 23:05 - Block D, lines 47-69.
+4. 2026-04-12 06:59 - Block E, lines 70-82.
+5. 2026-04-12 12:07 - Block F, lines 83-103.
+6. 2026-04-12 23:07 - Block G, lines 104-121.
+7. 2026-04-13 06:58 - Block H, lines 122-139.
+8. 2026-04-13 12:07 - Block I, lines 140-152.
+9. 2026-04-13 23:04 - Block J, lines 153-179.
+10. 2026-04-14 07:07 - Block K, lines 180-193.
+11. 2026-04-14 12:03 - Block L, lines 194-206.
+12. 2026-04-14 23:07 - Block M, lines 207-222.
+13. 2026-04-15 07:03 - Block N, lines 223-247.
 
 Then continue into:
 

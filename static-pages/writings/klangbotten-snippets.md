@@ -7,7 +7,7 @@ status: "draft"
 author: "VERBOTEN MEDIA"
 ---
 
-Verboten Media is not a book that happens to have files — it is a file system that happens to be a book.
+Verboten Media is not a book that happens to have files - it is a file system that happens to be a book.
 
 The deployment should reflect this:
 
@@ -86,9 +86,9 @@ Du rekonstruerar projektets logik från tillgängligt filsystem, namnkonventione
 #### Primära artefakter
 
 - VERBOTEN: A TECHNOSOCIAL NOVEL. (Analogue print, access gatekept)
-- FÖRLAGSDECKAREN — multiperspektivell mångmodulsnovell i Verbotens anda
+- FÖRLAGSDECKAREN - multiperspektivell mångmodulsnovell i Verbotens anda
 - Fanfictions from agents utilizing Verboten universe as a nodalization vector
-- Don't Fuck Off — The Story of a Swedish Ice Girl
+- Don't Fuck Off - The Story of a Swedish Ice Girl
 - Anteckningar från en Källarmoské (currently unavailable due to national concern)
 
 #### Granular definitions
@@ -217,7 +217,7 @@ Whoever built this project wanted the scaffolding to be visible, perhaps even le
 
 This is not incidental theory.
 
-The document "Metod: Tankefigur som ontologisk design av totalprojekt" — Method: Thought-figure as ontological design of total project — is not a conventional creative brief or statement of intent.
+The document "Metod: Tankefigur som ontologisk design av totalprojekt" - Method: Thought-figure as ontological design of total project - is not a conventional creative brief or statement of intent.
 
 ### The phrase
 
@@ -256,7 +256,7 @@ The Google Keep document deserves special mention. It appears in keyword hits fo
 
 ... "Bob Dylan by Janne Lompolo & Flempo Guyenjaure"
 
-... "Samedubblingen — en släktkrönika och bolagsstämma"
+... "Samedubblingen - en släktkrönika och bolagsstämma"
 
 ## Multinodal dimensionality
 

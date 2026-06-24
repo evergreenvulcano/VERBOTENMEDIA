@@ -1,4 +1,4 @@
-# All Runs Dossier — Chronological Transversal
+# All Runs Dossier - Chronological Transversal
 
 Source file: `modules/_gpt/runs/2026-05-11_all-runs-dossier.md`  
 Created: 2026-05-11  

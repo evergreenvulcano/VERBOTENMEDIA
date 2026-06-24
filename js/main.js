@@ -1,5 +1,5 @@
 /* ============================================================
-   VERBOTEN MEDIA — main.js
+   VERBOTEN MEDIA - main.js
    Minimal, focused JavaScript
    ============================================================ */
 
@@ -8,7 +8,7 @@
 
   /* --- Rotating lines on the landing page ----------------- */
   const rotatingLines = [
-    'LIFE DESIGN — OR LACK THEREOF',
+    'LIFE DESIGN - OR LACK THEREOF',
     'LOKALT OCH GLOBALT GENOM TEKNISKA UNIVERSALER',
     'PERSONHOOD AS PERFORMATIVE INTEGRITY',
     'ALL NUMBERS END',

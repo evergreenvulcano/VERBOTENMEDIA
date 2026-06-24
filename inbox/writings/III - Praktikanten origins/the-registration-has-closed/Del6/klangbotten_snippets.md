@@ -1,4 +1,4 @@
-Verboten Media is not a book that happens to have files — it is a file system that happens to be a book. 
+Verboten Media is not a book that happens to have files - it is a file system that happens to be a book. 
 The deployment should reflect this:
 The architecture of the site IS the architecture of the work.
 
@@ -82,7 +82,7 @@ quote The cast is sparse but structurally loaded. endquote
 Supporting figures include
 -- Praktikanten (the intern, a defined yet modularily independent and therefor powerful component in any relational device)
 -- Erik ('Författaren' in the Dubbeldeckare, however the real world bridge has become unclear in terms of sanity and structurally sound, e.g trutuful or deceptive polarity, ìn terms of: what has been written?)
--- Dawkin Danielson (satellite) (appears across the highest number of chapter files and is the most plausible candidate for protagonist or author-figure — possibly both, in the tradition of auto-fictional constructions where the writer becomes a character inside the machine they have built.)
+-- Dawkin Danielson (satellite) (appears across the highest number of chapter files and is the most plausible candidate for protagonist or author-figure - possibly both, in the tradition of auto-fictional constructions where the writer becomes a character inside the machine they have built.)
 "C:\Users\cooki\OneDrive\Desktop\verbmed-futureseeds\DAWKIN DANIELSON – En medicinsk resa.docx"
 "C:\Users\cooki\OneDrive\Desktop\verbmed-futureseeds\DAWKIN DANIELSON – Burning Man, Black Rock City.docx"
 #### Andra narratorer...
@@ -148,7 +148,7 @@ This is not incidental theory.
 
 # Method as Architecture
 The document "Metod: Tankefigur som ontologisk design av totalprojekt" 
-— Method: Thought-figure as ontological design of total project — 
+- Method: Thought-figure as ontological design of total project - 
 is not a conventional creative brief or statement of intent. 
 
 ## The phrase 
@@ -173,13 +173,13 @@ Orbiting the central novel are several legacy works - a body of work to large to
 - "lost tapes 27" (modified as recently as March 2026, suggesting active development), 
 - "Fågelskrämman" (The Scarecrow),
 - "Hypnos 1" (two versions, late 2025), and the early legacy file
-- "R.I.P.24" from 2010 — possibly the oldest surviving artifact of whatever impulse eventually became Verboten Media understood as a postdualistic dividuality hub for cross-domain agentic intertwination. 
+- "R.I.P.24" from 2010 - possibly the oldest surviving artifact of whatever impulse eventually became Verboten Media understood as a postdualistic dividuality hub for cross-domain agentic intertwination. 
 
 ## Subsequence 
 These Satellite Works may be spin-offs, études, or parallel investigations; they share keyword DNA with the main corpus but appear to maintain independent textual identities.
 
 ### Scratchpad
-The Google Keep document deserves special mention. It appears in keyword hits for every search term tested. It functions as the project's central nervous system: a scratchpad, an idea hub, a cross-referencing engine. It is the informal twin of the [REDACTED] — where the [REDACTED] is the canonical text, the Keep document is the canonical thought-space. 
+The Google Keep document deserves special mention. It appears in keyword hits for every search term tested. It functions as the project's central nervous system: a scratchpad, an idea hub, a cross-referencing engine. It is the informal twin of the [REDACTED] - where the [REDACTED] is the canonical text, the Keep document is the canonical thought-space. 
 
 #### Honorable mentions...
 ... "De långa skuggornas natt".

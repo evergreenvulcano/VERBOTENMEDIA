@@ -1,5 +1,5 @@
 ---
-title: "Writings — övrig kartografi"
+title: "Writings - övrig kartografi"
 date: "2026-06-12"
 summary: "En historisk kartografi över texter som tidigare stod utanför den första läsvägen."
 type: "index"
@@ -7,7 +7,7 @@ status: "published"
 layout: article
 ---
 
-# Writings — övrig kartografi
+# Writings - övrig kartografi
 
 Detta dokument bevarar den äldre sorteringen som redaktionell historik. Texterna
 är inte parkerade från offentligheten. De ingår i den publicerade korpusen och

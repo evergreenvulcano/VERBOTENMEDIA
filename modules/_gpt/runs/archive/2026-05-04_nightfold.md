@@ -2,14 +2,14 @@
 run_type: nightfold
 run_date: 2026-05-04
 source_mode: gmail-recovered
-source_email: "VERBOTENMEDIA recovery packet after 2026-04-30 — Part 3 of 3"
+source_email: "VERBOTENMEDIA recovery packet after 2026-04-30 - Part 3 of 3"
 source_message_id: 19df80079ce8e3a7
 status: recovered
 review_state: unreviewed
 intended_target_path: modules/_gpt/runs/2026-05-04_nightfold.md
 uncertain_items_excluded: true
 ---
-Nightfold — 2026-05-04
+Nightfold - 2026-05-04
 
 Consolidation Frame
 

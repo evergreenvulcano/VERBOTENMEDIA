@@ -9,7 +9,7 @@
 
 ## Temporary decomposition aid
 
-- File: `THE_TOTAL_EVENT — Grounding & Constraints (p03t) - polished.docx`
+- File: `THE_TOTAL_EVENT - Grounding & Constraints (p03t) - polished.docx`
 - Status: temporary reference only
 - Repo rule: do not preserve as full source-packet artifact
 - Use: may inform derived operating files, but must not be committed as redundant polished source

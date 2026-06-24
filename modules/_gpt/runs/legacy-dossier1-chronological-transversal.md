@@ -1,4 +1,4 @@
-# Legacy Dossier 1 — Chronological Transversal
+# Legacy Dossier 1 - Chronological Transversal
 
 Source file: `modules/_gpt/runs/legacy-dossier1.md`  
 Created: 2026-05-11  
@@ -50,10 +50,10 @@ Duplicate check for blocks G/H/I:
 
 ## Chronological Traversal
 
-### 1. 2026-04-15 12:01 CEST — Block A
+### 1. 2026-04-15 12:01 CEST - Block A
 
 Source lines: 1-134  
-Header label: `MERGE_HACKERSTORY — DOSSIER SESSION 11`  
+Header label: `MERGE_HACKERSTORY - DOSSIER SESSION 11`  
 Trust status: timestamp strong; session number weak.
 
 Artefacts / new nodes:
@@ -71,7 +71,7 @@ Prose outputs:
 
 - Micro-story: `Dag 18`
 - Ritual prompt: `Metabolism Invocation`
-- Homepage blurb: `Verboten Media — Resonance Field Bulletin`
+- Homepage blurb: `Verboten Media - Resonance Field Bulletin`
 - Extended episode: `The Three Days of Proof`
 
 Chronological note:
@@ -96,10 +96,10 @@ Future artefacts spotted in-block:
 - `novell_mindmap_andNew.pdf`
 - `cookierxs input.txt`
 
-### 2. 2026-04-16 07:11 CEST — Block B
+### 2. 2026-04-16 07:11 CEST - Block B
 
 Source lines: 135-330  
-Header label: `MERGE_HACKERSTORY — DOSSIER SESSION #11`  
+Header label: `MERGE_HACKERSTORY - DOSSIER SESSION #11`  
 Trust status: timestamp strong; session number weak.
 
 Artefacts ingested:
@@ -130,10 +130,10 @@ Chronological note:
 
 This run occurs the next morning after the 15 April 12:01 run. It repeats some of the same artefact pressure, but changes Node 12/13 registration compared with Block A: `creative prompts traversal.txt` drops out, `0resonance.txt` enters explicitly.
 
-### 3. 2026-04-16 12:04 CEST — Block C
+### 3. 2026-04-16 12:04 CEST - Block C
 
 Source lines: 331-509  
-Header label: `MERGE_HACKERSTORY — DOSSIER SESSION #11`  
+Header label: `MERGE_HACKERSTORY - DOSSIER SESSION #11`  
 Trust status: timestamp strong; session number weak.
 
 Artefacts ingested:
@@ -164,10 +164,10 @@ Chronological note:
 
 Although this block again calls itself Session #11, it is a later 16 April midday run. It pivots from charmap as a primary node to `complimentary-artefact.txt`, introducing content-strategy / business-body language.
 
-### 4. 2026-04-16 17:05 CEST — Block D
+### 4. 2026-04-16 17:05 CEST - Block D
 
 Source lines: 510-722  
-Header label: `MERGE_HACKERSTORY — DOSSIER SESSION 002`  
+Header label: `MERGE_HACKERSTORY - DOSSIER SESSION 002`  
 Trust status: timestamp strong; session number actively misleading.
 
 Artefacts ingested:
@@ -204,10 +204,10 @@ Primary pressure:
 - content vacancy strategy
 - website threshold as sacred act
 
-### 5. 2026-04-16 23:09 CEST — Block E
+### 5. 2026-04-16 23:09 CEST - Block E
 
 Source lines: 723-849  
-Header label: `MERGE_HACKERSTORY — DOSSIER SESSION 002`  
+Header label: `MERGE_HACKERSTORY - DOSSIER SESSION 002`  
 Trust status: timestamp strong; session number actively misleading.
 
 New artefact nodes:
@@ -240,21 +240,21 @@ Primary pressure:
 - content cartography
 - threshold consecration
 
-### 6. 2026-04-17 07:04 CEST — Block F
+### 6. 2026-04-17 07:04 CEST - Block F
 
 Source lines: 850-1025  
-Header label: `MERGE_HACKERSTORY — DOSSIER SESSION`  
+Header label: `MERGE_HACKERSTORY - DOSSIER SESSION`  
 Trust status: timestamp strong; no session number supplied.
 
 Artefacts ingested:
 
-- `Förlagsdeckaren Del 5 — Praktikanten.docx`
+- `Förlagsdeckaren Del 5 - Praktikanten.docx`
 - `Tystnad som publiceringsform.docx`
 - `Metod_Tankefigur som metadata.docx`
 
 New nodes:
 
-- Node 11: `Förlagsdeckaren Del 5 — Praktikanten`
+- Node 11: `Förlagsdeckaren Del 5 - Praktikanten`
 - Node 12: `Tystnad som publiceringsform`
 - Node 13: `Metod_Tankefigur som metadata`
 
@@ -272,12 +272,12 @@ Prose outputs:
 
 Chronological note:
 
-This is the first 17 April run in the source and introduces `Förlagsdeckaren Del 5 — Praktikanten` into the explicit node register. It also shifts the emphasis toward Praktikanten, post-it cartography, and bifigure logic.
+This is the first 17 April run in the source and introduces `Förlagsdeckaren Del 5 - Praktikanten` into the explicit node register. It also shifts the emphasis toward Praktikanten, post-it cartography, and bifigure logic.
 
-### 7. 2026-04-17 12:01 CEST — Block G, canonical first occurrence
+### 7. 2026-04-17 12:01 CEST - Block G, canonical first occurrence
 
 Source lines: 1026-1211  
-Header label: `MERGE_HACKERSTORY — DOSSIER SESSION`  
+Header label: `MERGE_HACKERSTORY - DOSSIER SESSION`  
 Trust status: timestamp strong; body duplicated later.
 
 Artefacts ingested:
@@ -308,10 +308,10 @@ Chronological note:
 
 This is the canonical first occurrence of the 17 April 12:01 run. The source line before the heading contains a repeated "Running the merge_hackerstory dossier session..." preamble three times in a row. That preamble is not part of the dossier body for content comparison, but it is preserved in `legacy-dossier1.md`.
 
-### 8. 2026-04-17 12:01 CEST — Block H, duplicate copy
+### 8. 2026-04-17 12:01 CEST - Block H, duplicate copy
 
 Source lines: 1212-1396  
-Header label: `MERGE_HACKERSTORY — DOSSIER SESSION`  
+Header label: `MERGE_HACKERSTORY - DOSSIER SESSION`  
 Trust status: duplicate body.
 
 Duplicate relation:
@@ -324,10 +324,10 @@ Traversal handling:
 
 Do not treat this as a second independent 12:01 run. Record it as a duplicated copy of the Block G dossier body.
 
-### 9. 2026-04-17 12:01 CEST — Block I, duplicate copy
+### 9. 2026-04-17 12:01 CEST - Block I, duplicate copy
 
 Source lines: 1397-1581  
-Header label: `MERGE_HACKERSTORY — DOSSIER SESSION`  
+Header label: `MERGE_HACKERSTORY - DOSSIER SESSION`  
 Trust status: duplicate body.
 
 Duplicate relation:
@@ -344,18 +344,18 @@ Do not treat this as a third independent 12:01 run. Record it as another duplica
 
 Read these as the main sequence:
 
-1. 2026-04-15 12:01 — Block A, lines 1-134.
-2. 2026-04-16 07:11 — Block B, lines 135-330.
-3. 2026-04-16 12:04 — Block C, lines 331-509.
-4. 2026-04-16 17:05 — Block D, lines 510-722.
-5. 2026-04-16 23:09 — Block E, lines 723-849.
-6. 2026-04-17 07:04 — Block F, lines 850-1025.
-7. 2026-04-17 12:01 — Block G, lines 1026-1211.
+1. 2026-04-15 12:01 - Block A, lines 1-134.
+2. 2026-04-16 07:11 - Block B, lines 135-330.
+3. 2026-04-16 12:04 - Block C, lines 331-509.
+4. 2026-04-16 17:05 - Block D, lines 510-722.
+5. 2026-04-16 23:09 - Block E, lines 723-849.
+6. 2026-04-17 07:04 - Block F, lines 850-1025.
+7. 2026-04-17 12:01 - Block G, lines 1026-1211.
 
 Then treat these as duplicate witnesses:
 
-- 2026-04-17 12:01 — Block H, lines 1212-1396.
-- 2026-04-17 12:01 — Block I, lines 1397-1581.
+- 2026-04-17 12:01 - Block H, lines 1212-1396.
+- 2026-04-17 12:01 - Block I, lines 1397-1581.
 
 ## Observed Development Arc
 
@@ -381,7 +381,7 @@ The same artefact trio is rerun with stronger binary-star and cartography langua
 
 ### 17 April Morning
 
-`Förlagsdeckaren Del 5 — Praktikanten` shifts the pressure toward Praktikanten as reader, mapper, and bifigure. The pipeline dream is no longer only Förläggaren's abdication event; it becomes generational and procedural through post-it cartography.
+`Förlagsdeckaren Del 5 - Praktikanten` shifts the pressure toward Praktikanten as reader, mapper, and bifigure. The pipeline dream is no longer only Förläggaren's abdication event; it becomes generational and procedural through post-it cartography.
 
 ### 17 April Midday
 

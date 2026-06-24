@@ -1,8 +1,8 @@
 Fail. I ment the sources of the project. ill paste it since you cant handle basic function of UX. 
 
-# AGENTMANDAT — ESSÄISTISK HÄRKOMST OCH PUBLICERINGSSTATUS
+# AGENTMANDAT - ESSÄISTISK HÄRKOMST OCH PUBLICERINGSSTATUS
 
-# AGENTMANDAT — ESSÄISTISK HÄRKOMST OCH PUBLICERINGSSTATUS
+# AGENTMANDAT - ESSÄISTISK HÄRKOMST OCH PUBLICERINGSSTATUS
 
 ## Uppdrag
 
@@ -108,7 +108,7 @@ Du ska:
 
 Om du inte kan avgöra om en referens är faktisk eller bara möjlig, skriv:
 
-`VERIFY — möjlig härkomst, ej fastställd.`
+`VERIFY - möjlig härkomst, ej fastställd.`
 
 Du får inte låtsas att texten har läst en viss författare om belägg saknas.
 
@@ -306,7 +306,7 @@ Välj en eller flera:
 
 Motivera kort.
 
-## 11. Härkomstblock — utkast
+## 11. Härkomstblock - utkast
 
 Skriv ett kort block som kan placeras efter texten.
 
@@ -450,7 +450,7 @@ I rapporten går jag systematiskt igenom varje text enligt de tolv punkter du an
 
 Källstatusläsning av essäistiska texter
 
-Den här rapporten följer AGENTMANDAT — essäistisk härkomst och publiceringsstatus. Fyra essäistiska texter har lästs för att diagnostisera deras härkomst, kunskapstyngd och publiceringspotential. Analysen syftar inte till att skriva om prosan utan att synliggöra vilka arbetskroppar texterna passerar genom, var deras naturliga auktoritet ligger och vilka risker som finns för falsk originalitet eller akademisk överlast. Varje text analyseras enligt tolv punkter och följs av en samlad bedömning.
+Den här rapporten följer AGENTMANDAT - essäistisk härkomst och publiceringsstatus. Fyra essäistiska texter har lästs för att diagnostisera deras härkomst, kunskapstyngd och publiceringspotential. Analysen syftar inte till att skriva om prosan utan att synliggöra vilka arbetskroppar texterna passerar genom, var deras naturliga auktoritet ligger och vilka risker som finns för falsk originalitet eller akademisk överlast. Varje text analyseras enligt tolv punkter och följs av en samlad bedömning.
 
 TEXT: fragment från den semantiska kerneln.txt
 1. Kärnanspråk
@@ -512,7 +512,7 @@ Problematisk oklarhet: Ingen tydlig källa anges; läsaren kan undra om resonema
 
 Texten passar som fristående essä eller som boknära appendix i ett filosofiskt verk. Den kan även vara en manifestliknande text i en essäsamling om kunskapsteori. Den kräver ingen publikoptimering men skulle vinna på att inramas av författarens röst i en större kontext.
 
-11. Härkomstblock — utkast
+11. Härkomstblock - utkast
 
 Den här texten tänker i närheten av Aristoteles’ lära om akt och potens och Luciano Floridis informationsfilosofi. Den knyter an till skolastikens diskussion om immanenta akter (VERIFY) och rör sig mot en modern diskussion om kognitiv representation. Texten arbetar i periferin av medeltida metafysik och samtida filosofiska reflektioner kring semantik.
 
@@ -579,7 +579,7 @@ Problematisk oklarhet: Vissa referenser (t.ex. ”theory of mind”) antas som g
 
 Texten passar som fristående essä i en tidskrift eller som artikelserie i ett forum för kritisk teknikdiskussion. Den har stark opinion och skulle fungera bra som öppningsessä i ett tema om AI och samhället. En föreläsningsöppning är också möjlig eftersom texten är retoriskt laddad.
 
-11. Härkomstblock — utkast
+11. Härkomstblock - utkast
 
 Den här texten har passerat genom kritiker av cybernetisk och transhumanistisk teknologi såsom Norbert Wiener och Gregory Bateson. Den bär på ekon av John Searles ifrågasättande av artificiellt medvetande och kan läsas i ljuset av Donna Haraways och andra feministiska teknikforskares reflektioner om kropp och maskin (VERIFY). Postkoloniala begrepp som ”othering” gör att texten tangerar Edward Saids teori om det västerländska mötet med den Andre (VERIFY). Texten talar också i närheten av kritisk ekonomisk teori och informationsetik.
 
@@ -654,7 +654,7 @@ Problematisk oklarhet: Vissa traditioner nämns inte uttryckligen (t.ex. att ”
 
 Texten är boknära; den passar som ett kapitel i en fackbok eller essäsamling om informationsfilosofi. Alternativt kan den delas upp i en artikelserie där varje nivå av information eller historisk fas behandlas i ett separat inlägg. Den har för stor tyngd för att fungera som kort Substack-text men fungerar som grund för en föreläsning eller ett seminarium.
 
-11. Härkomstblock — utkast
+11. Härkomstblock - utkast
 
 Texten har passerat genom Claude Shannons informationsteori, Norbert Wieners cybernetik och Gregory Batesons definition av information som skillnad som gör skillnad. Den ansluter till Luciano Floridis filosofi om informationsnivåer och autopoietiska system samt tar stöd i Maturana & Varelas teori om självproducerande system (VERIFY). Vissa resonemang ligger nära Niklas Luhmanns systemteori och Michel Foucaults genealogiska metod, men det kräver vidare verifiering.
 
@@ -726,7 +726,7 @@ Problematisk oklarhet: Texten nämner AI utan att specificera vilken sorts syste
 
 Texten fungerar som fristående essä i en kulturtidskrift. Den kan även vara manifestliknande text eller fungera som öppning till en essäsamling om författarskapets framtid. Alternativt kan den användas som föreläsningsöppning eftersom den presenterar en rad nya roller för författaren. Den bör inte förvandlas till Substack-inlägg eller marknadstext.
 
-11. Härkomstblock — utkast
+11. Härkomstblock - utkast
 
 Texten har passerat genom Michel Foucaults teori om författarfunktionen, Roland Barthes’ tanke om författarens död och Pierre Bourdieus fältteori. Den bär på influenser från Hannah Arendts uppdelning mellan privat och offentligt liv samt från samtida informationsetiker som Luciano Floridi och N. Katherine Hayles (VERIFY) när den behandlar värdets proveniens i AI‑åldern. Möjliga kopplingar till Vilém Flussers och svensk essätraditions resonemang om författarskap bör också bekräftas.
 

@@ -27,7 +27,7 @@ Branch: `night-material-up-01-2026-06-12`
 - `static-pages/writings/PARKED.md`
 - `_codex/runs/2026-06-12_night_material_up_01.md`
 
-## Del 1 — Material Som Lyftes
+## Del 1 - Material Som Lyftes
 
 Första läsordningen lyfter sex befintliga texter:
 
@@ -40,7 +40,7 @@ Första läsordningen lyfter sex befintliga texter:
 
 This is intentionally not the whole Writings architecture. It is a small first path.
 
-## Del 2 — XPRMNT-ZN Material Cards
+## Del 2 - XPRMNT-ZN Material Cards
 
 Five existing repo-suitable XPRMNT-ZN entrances were made easier to find:
 
@@ -52,7 +52,7 @@ Five existing repo-suitable XPRMNT-ZN entrances were made easier to find:
 
 They are presented as cards with title, orientation, status, and link. No Drive apparatus, Public Nerve, Quest Engine, Game Layer, Casting, Diplomacy, or Banquet material was imported.
 
-## Del 3 — Martin Surface
+## Del 3 - Martin Surface
 
 Skipped. PR #62's Martin material was not present in this branch's working base.
 

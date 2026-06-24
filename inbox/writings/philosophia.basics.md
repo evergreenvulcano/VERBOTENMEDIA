@@ -24,7 +24,7 @@ Informationsfilosofi som logik är ett tredje alternativ till Kants transcendent
 
 Människan är den semantiska herden som skapat och vidare förvaltar en semantisk verklighet som är för henne. Hon är den demiurgiska källan som gör informationsfilosofin relevant för hennes värld som miljö och skapelse.
 
-Our "dysfunctionality"—our inability to be perfectly absorbed by our environment—is exactly what makes our semantic and creative intelligence possible
+Our "dysfunctionality"-our inability to be perfectly absorbed by our environment-is exactly what makes our semantic and creative intelligence possible
 
 Människan inte bara finner eller faller offer för information, utan designar och modellerar den. Alla modeller är lika mycket värda påsåvis att människan har en säregen kapacitet, en pluralistisk miljö av modeller möjliggör de normativa effekter som kommer av att världstillvända, procedurella och nätverkade idéer uthärdar sociala konsekvenser. En idé i ett huvud är inte information; information kommunicerar och ändrar stadie beroende på systematiken tillhörande mottagare och avsändare. Informationsfilosofin bär på de punkterna vidare kunskap från den andra ordningens cybernetik, som haft stor inverkan på västvärldens organisationskultur sedan dess uppkomst på 50-talet.
 
@@ -34,7 +34,7 @@ Att observera ett system är inte en oskyldig, passiv akt - även om observatör
 
 Cybernetiken bygger på insikten om självförstärkande återkopplingsslingor, elektroniska databärande och informationskommunicerande kretsar når systemets syftesenlighet genom feedback loops. Systemet erhåller data om sitt stadie i förhållande till världen, vilket informerar huruvida anpassning bör ske. En annan stöttepelare är homeostasis - poängen med cybernetik (som beytder att styra) är att reglera ett internt stadie/en intrikat status för att upprätthålla stabilitet i systemets funktion och effekt.
 
-cybernetics is the logic of "sufficientization"—the process by which we design requirements and implement feedback to make the world an intelligible, stable, and meaningful habitat for both natural and artificial agents.
+cybernetics is the logic of "sufficientization"-the process by which we design requirements and implement feedback to make the world an intelligible, stable, and meaningful habitat for both natural and artificial agents.
 
 Men vad gör det om hundra år? Information antar sitt janusansikte
 Texten gör här klokt i att hejda sig och konstatera: information såg annorlunda ut innan och efter cybernetikens informationsteoretiska systematisering. Cybernetikens informationsteori bar på tankegods som spillde över från de tekniska fälten till andra, framförallt ekonomi.
@@ -265,7 +265,7 @@ En fredlig konsensus innebär låg energi. Ett kulturkrig innebär hög energi. 
 
 ---
 
-I'll extract the operative constraints from this philosophical material on information. This text has multiple layers—historical, systemic, and protective—so I'll read it as a field of operations to identify what must remain true. 
+I'll extract the operative constraints from this philosophical material on information. This text has multiple layers-historical, systemic, and protective-so I'll read it as a field of operations to identify what must remain true. 
 
 Read memory
 
@@ -394,7 +394,7 @@ The system appears to operate from a view-from-nowhere; the observer's position 
 ### Constraint 5: Context of Generation Must Remain Legible
 
 **Rule:**  
-Any information, model, decision, or constraint may be reused only if the context of its original generation remains legible—what problem it solved, what alternatives it excluded, what costs it imposed, and what fears motivated it.
+Any information, model, decision, or constraint may be reused only if the context of its original generation remains legible-what problem it solved, what alternatives it excluded, what costs it imposed, and what fears motivated it.
 
 **Trigger:**  
 Luhmann's double contingency: fear of the unpredictability of the other person drives the creation of social contracts. Later: "Det sociala kontraktet inte alls är rationellt, utan ett desperat försök att fly från kaoset i double contingency" (The social contract is not at all rational, but a desperate attempt to flee from the chaos of double contingency).
@@ -450,10 +450,10 @@ The system is described in positive terms as if it has intrinsic identity indepe
 ### Constraint 7: Meaning Is a Selection Mechanism, Not a Discovered Truth
 
 **Rule:**  
-Meaning must be understood as a mechanism for reducing complexity through selective negation—the system says "yes" to one possibility and thereby says "no" to countless others. Meaning is not discovered or expressed; it is constructed through selection. This construction must remain visible.
+Meaning must be understood as a mechanism for reducing complexity through selective negation-the system says "yes" to one possibility and thereby says "no" to countless others. Meaning is not discovered or expressed; it is constructed through selection. This construction must remain visible.
 
 **Trigger:**  
-"Meningsfullhet är en selektionsmekanism... Mening tillåter systemet att välja en väg medan de andra förblir tillgängliga som 'bakgrund'... Detta tvingar systemet att säga nej - negera - det mesta för att säga ja till en sak (i taget)" (Meaningfulness is a selection mechanism... Meaning allows the system to choose one path while the others remain available as 'background'... This forces the system to say no—negate—most things to say yes to one thing at a time).
+"Meningsfullhet är en selektionsmekanism... Mening tillåter systemet att välja en väg medan de andra förblir tillgängliga som 'bakgrund'... Detta tvingar systemet att säga nej - negera - det mesta för att säga ja till en sak (i taget)" (Meaningfulness is a selection mechanism... Meaning allows the system to choose one path while the others remain available as 'background'... This forces the system to say no-negate-most things to say yes to one thing at a time).
 
 **Protects:**  
 - Awareness of the cost of every choice
@@ -534,7 +534,7 @@ Information theory is applied to human or social problems without naming what se
 ### Constraint 10: The Infosphere Is Not Neutral Territory
 
 **Rule:**  
-The infosphere—the totality of information flows, platforms, and digital environments—is not a neutral space but a constructed, designed, political environment. Every affordance, algorithm, visibility setting, and data flow embeds values and power relations. These must remain visible.
+The infosphere-the totality of information flows, platforms, and digital environments-is not a neutral space but a constructed, designed, political environment. Every affordance, algorithm, visibility setting, and data flow embeds values and power relations. These must remain visible.
 
 **Trigger:**  
 "Människan ser fram emot sin nya uppdaterad agens, där arbetsuppgifterna som en gång krävde individuell intelligens, inte längre är hennes. Med tiden och energin som frigörs hoppas hon kunna ta ett fortsatt stort och alltjämt allt större ansvar för det semantiska kapital som hennes art i dåtid har ackumulerat" (Humans hope that freed time and energy can be devoted to responsibility for semantic capital... designed structures that embed these new agents, as artificial agents, carry out diverse purposes). The implicit warning: humans are ceding cognitive work to artificial systems designed by others.
@@ -565,7 +565,7 @@ Information systems are discussed as if they are neutral tools or natural enviro
 Concepts from cybernetics (feedback, homeostasis, self-regulation, information) may be applied across disciplines (biology, psychology, sociology, economics) only if domain-specific conditions are explicitly stated. Direct analogical transfer without modification destroys specificity.
 
 **Trigger:**  
-The material's systematic discussion of how information appears differently in physics, biology, sociology, economics—each with its own logic and constraints. The warning against treating all these as instances of a single "information" concept.
+The material's systematic discussion of how information appears differently in physics, biology, sociology, economics-each with its own logic and constraints. The warning against treating all these as instances of a single "information" concept.
 
 **Protects:**  
 - Disciplinary specificity and integrity
@@ -590,7 +590,7 @@ A concept is applied across domains without naming domain-specific modifications
 ### Constraint 12: Autopoiesis Does Not Apply to Machines, Only to Living and Social Systems
 
 **Rule:**  
-Autopoiesis—the self-producing, self-maintaining organization of living systems—cannot be attributed to machines or artificial systems. While humans design machines with autopoiesic logic from the outside, the machines themselves do not autopoietically regenerate. This boundary must be held.
+Autopoiesis-the self-producing, self-maintaining organization of living systems-cannot be attributed to machines or artificial systems. While humans design machines with autopoiesic logic from the outside, the machines themselves do not autopoietically regenerate. This boundary must be held.
 
 **Trigger:**  
 "Det är vitalt att notera att autopoiesis inte är ett verksamt fenomen hos maskiner, men att konceptet likväl har bäring i fysikens mekaniska domäner givet designens oskiljbarhet från dess skapare" (It is vital to note that autopoiesis is not an operative phenomenon in machines, but the concept nonetheless has bearing in physics' mechanical domains given design's inseparability from its creator).
@@ -643,7 +643,7 @@ Public information appears as if it originated in the public sphere; its prior c
 
 ---
 
-### Constraint 14: Brus (Noise) Is Not Error—It Is the Source of Novelty
+### Constraint 14: Brus (Noise) Is Not Error-It Is the Source of Novelty
 
 **Rule:**  
 Noise, randomness, and deviation must not be treated as error to be eliminated but as the essential source of genuine novelty and adaptive change. Systems that eliminate all noise become brittle and unable to evolve. A minimum level of productive noise is necessary.
@@ -674,7 +674,7 @@ Noise is treated as pure error; there is no architectural space for productive r
 ### Constraint 15: The Double Bind Cannot Be Eliminated, Only Managed
 
 **Rule:**  
-The "double bind" or "double contingency"—the fundamental unpredictability of other agents' behavior—cannot be eliminated from social systems. It can only be managed through selection mechanisms (meaning, rules, norms). Any promise to eliminate this contingency is false and dangerous.
+The "double bind" or "double contingency"-the fundamental unpredictability of other agents' behavior-cannot be eliminated from social systems. It can only be managed through selection mechanisms (meaning, rules, norms). Any promise to eliminate this contingency is false and dangerous.
 
 **Trigger:**  
 The Luhmann passage: "Det är double contingency, dubbelbindning... Osäkerheten som beror på svarlådelogikens otillgänglighet, stängdhet och systematiska isolation skulle cirkulera i oändlighet, med social paralys som konsekvens" (It is double contingency... The uncertainty from the black-box logic's inaccessibility would circulate infinitely, with social paralysis as consequence).
@@ -699,7 +699,7 @@ A system is designed as if the fundamental contingency of other agents has been 
 
 ---
 
-### Constraint 16: Affordances Are Not Neutral—They Are Crystallized Values
+### Constraint 16: Affordances Are Not Neutral-They Are Crystallized Values
 
 **Rule:**  
 The concept of affordance (what an environment makes possible) must be understood as encoding the designer's values, constraints, and assumptions. Affordances should never be presented as natural or inevitable. They are choices made visible or invisible through design.
@@ -733,7 +733,7 @@ Affordances are presented as natural features of technology rather than as desig
 What is not communicated, not visible, backgrounded, or explicitly silenced is as productive of meaning and system behavior as what is explicitly present. The silence, the absence, the "blind spot" of the system must be treated as operative information, not as nothing.
 
 **Trigger:**  
-"Frånvaro, eller konceptet 'noll', kan utgöra information. Det har en roll att spela i relationer mellan fenomen—där information finns. Information har olika funktion för olika delar av den cybernetiska kretsen" (Absence, or the concept of 'zero,' can constitute information. It plays a role in relations between phenomena—where information exists. Information has different functions for different parts of the cybernetic circuit).
+"Frånvaro, eller konceptet 'noll', kan utgöra information. Det har en roll att spela i relationer mellan fenomen-där information finns. Information har olika funktion för olika delar av den cybernetiska kretsen" (Absence, or the concept of 'zero,' can constitute information. It plays a role in relations between phenomena-where information exists. Information has different functions for different parts of the cybernetic circuit).
 
 **Protects:**  
 - Recognition of what systems strategically exclude
@@ -814,7 +814,7 @@ Information or cognition is discussed in purely abstract or digital terms withou
 ### Constraint 20: Semantic Capital Is Labor and Must Be Recognized as Such
 
 **Rule:**  
-The production and stewardship of semantic capital—meaning, knowledge, culture, symbolic systems—is labor. It must be recognized as labor, compensated as labor, and protected as a human right and responsibility. It cannot be extracted, automated, or expropriated without massive social damage.
+The production and stewardship of semantic capital-meaning, knowledge, culture, symbolic systems-is labor. It must be recognized as labor, compensated as labor, and protected as a human right and responsibility. It cannot be extracted, automated, or expropriated without massive social damage.
 
 **Trigger:**  
 "Det semantiska kapitalet är en teknisk form av artefakter som rymmer distribuerad kognition... Människan är den semantiska herden som skapat och vidare förvaltar en semantisk verklighet som är för henne. Hon är den demiurgisk källan" (Semantic capital is a technical form of artifacts that hold distributed cognition... Humans are the semantic herd that creates and further stewwards a semantic reality. They are the demiurgic source).
@@ -1036,7 +1036,7 @@ Automation of meaning-making and ethical judgment transfers semantic labor to sy
 ### False Rule 8: "Everything That Produces Information Is Interchangeable"
 
 **Why it is false:**  
-The material shows that different systems—biological, social, technical—produce and process information according to domain-specific logics. They are not interchangeable even if they share formal properties.
+The material shows that different systems-biological, social, technical-produce and process information according to domain-specific logics. They are not interchangeable even if they share formal properties.
 
 **What it would damage:**  
 - Disciplinary specificity and integrity
@@ -1198,7 +1198,7 @@ The material does show that multiple frames exist (semantic, technical, cybernet
 
 4. The observer must remain visible within any system of observation; observer position, blindspots, and constraints must be declared.
 
-5. The context of generation of any information, model, or system must remain legible—what problem it solved, what it excluded, what fears motivated it.
+5. The context of generation of any information, model, or system must remain legible-what problem it solved, what it excluded, what fears motivated it.
 
 6. Difference precedes identity; system identity is established through negation of the environment, not through positive essence.
 
@@ -1208,11 +1208,11 @@ The material does show that multiple frames exist (semantic, technical, cybernet
 
 9. Information understood as signal-theoretic reduction of uncertainty applies to engineering but must not colonize domains where semantic content, intentionality, or context is irreducible.
 
-10. The infosphere—the totality of information environments and digital platforms—is constructed, designed, and political; every affordance embeds values and power relations.
+10. The infosphere-the totality of information environments and digital platforms-is constructed, designed, and political; every affordance embeds values and power relations.
 
 11. Cybernetic concepts (feedback, homeostasis, self-regulation) apply across disciplines only if domain-specific conditions are explicitly stated; direct transfer destroys specificity.
 
-12. Autopoiesis—self-producing organization—does not apply to machines; while humans design machines with autopoiesic logic from outside, machines do not autopoietically regenerate.
+12. Autopoiesis-self-producing organization-does not apply to machines; while humans design machines with autopoiesic logic from outside, machines do not autopoietically regenerate.
 
 13. Non-public functions and contexts must remain legible even after publicization; publication must not erase what the information did before it was public.
 
@@ -1228,7 +1228,7 @@ The material does show that multiple frames exist (semantic, technical, cybernet
 
 19. Every claim about information, meaning, or cognition must declare its material substrate; materiality is not a detail to be abstracted away but constitutive.
 
-20. Semantic capital—meaning, knowledge, culture, symbolic systems—is labor and must be recognized as labor, protected, and not extracted or automated without massive social damage.
+20. Semantic capital-meaning, knowledge, culture, symbolic systems-is labor and must be recognized as labor, protected, and not extracted or automated without massive social damage.
 
 21. Historical meanings are not obstacles to overcome but layers to preserve; understanding requires holding multiple valid definitions of information simultaneously.
 
@@ -1236,7 +1236,7 @@ The material does show that multiple frames exist (semantic, technical, cybernet
 
 23. The political and ethical dimensions of information systems cannot be abstracted away as externalities; they are constitutive of how systems work.
 
-24. Humans are "semantic herds"—stewards of semantic capital, not merely processors of information; this stewardship role cannot be delegated to machines without fundamental loss.
+24. Humans are "semantic herds"-stewards of semantic capital, not merely processors of information; this stewardship role cannot be delegated to machines without fundamental loss.
 
 25. What cannot be quantified is not therefore unreal or irrelevant; some domains require non-mathematical modes of knowing, and pretending otherwise damages both the domain and the knower.
 
@@ -1256,7 +1256,7 @@ This extraction preserves the material's role as a **warning document** about in
 
 ---
 
-## CAPSULE 00 — SOURCE INTAKE
+## CAPSULE 00 - SOURCE INTAKE
 
 **Status:** Source-status assessment / preparation phase  
 **Public function:** Define what material can legitimately become public  
@@ -1267,7 +1267,7 @@ This extraction preserves the material's role as a **warning document** about in
 **Material type:** Strong essayistic philosophical prose in Swedish  
 **Likely status:** Authorial source material, voice-protected  
 **Voice character:** Pedagogical-polemic with systematic architectural authority  
-**Protection requirement:** ESSENTIAL — voice must not be rewritten or imitated
+**Protection requirement:** ESSENTIAL - voice must not be rewritten or imitated
 
 ### 2. Strong Voice Zones
 
@@ -1276,64 +1276,64 @@ The material maintains natural authority across these distinct zones:
 **Zone 1: Historical genealogy** (sections on information etymology through cybernetics)
 - Authority type: Archival + genealogical
 - Character: Authoritative historical narrative that traces meaning shifts
-- Protection: Essential — this genealogy is the text's core argument
+- Protection: Essential - this genealogy is the text's core argument
 
 **Zone 2: Conceptual architecture** (sections on information across disciplines)
 - Authority type: Systematic-philosophical
 - Character: Layered definition and distinction-making
-- Protection: Essential — flattening this destroys the text's rigor
+- Protection: Essential - flattening this destroys the text's rigor
 
 **Zone 3: Cybernetic formulations** (Bateson, Luhmann, autopoiesis sections)
 - Authority type: Conceptual synthesis with critical distance
 - Character: Precise but speculative; uses "may," "appears," "seems"
-- Protection: High — this represents careful conceptual work
+- Protection: High - this represents careful conceptual work
 
 **Zone 4: Warning/ethical positioning** (transhumanism critique, semantic capital, embodiment)
 - Authority type: Polemical-protective
 - Character: Direct, resistant, stakes-bearing
-- Protection: Essential — this is not neutral diagnosis but protective stance
+- Protection: Essential - this is not neutral diagnosis but protective stance
 
 **Zone 5: Rhythmic-pedagogical passages** (transitions, resets, "Vi hejdar oss")
 - Authority type: Compositional, pedagogical
 - Character: Marked by Swedish pedagogical formality and rhythm
-- Protection: High — these are intentional structural choices
+- Protection: High - these are intentional structural choices
 
 ### 3. Capsule Potential
 
-**Härkomstkapsel:** Yes — Multiple strong thought-figures with clear provenance trails
+**Härkomstkapsel:** Yes - Multiple strong thought-figures with clear provenance trails
 - Example: "Information philosophy" as a discipline emerging from information's historical semantic load
 - Example: "Semantic capital" as labor and stewardship
 - Example: "Autopoiesis distinction" between living and artificial systems
 
-**Pressure Map:** Yes — Central tensions that resist simplification
+**Pressure Map:** Yes - Central tensions that resist simplification
 - Tension between semantic and signal-theoretic information
 - Tension between technical capability and human meaning-making
 - Tension between automation and semantic stewardship
 
-**Publiceringsdiagnos:** Yes — Clear publication status and surface recommendation
+**Publiceringsdiagnos:** Yes - Clear publication status and surface recommendation
 - Status: Essayistic source material with defined argument
 - Risk: Medium if mishandled; low if published under correct status
 
-**Negativ Poetik:** Yes — Strong refusals embedded throughout
+**Negativ Poetik:** Yes - Strong refusals embedded throughout
 - "Do not let AI inherit the voice"
 - "Do not reduce information to signal in domains where meaning is irreducible"
 - "Do not abstract embodiment away"
 - "Do not treat the infosphere as neutral"
 
-**AI-statuskapsel:** Yes — Explicit about when AI involvement is appropriate
+**AI-statuskapsel:** Yes - Explicit about when AI involvement is appropriate
 - AI may read, diagnose, produce capsules
 - AI may not speak as author or smooth voice
 - Clear disclosure requirements
 
-**Metodfragment:** Yes — Extractable method units
+**Metodfragment:** Yes - Extractable method units
 - Source fragments: Direct quotes from systematic sections
 - Diagnostic fragments: Agent-formulated clarifications of method
 
-**Beviskapsel:** Weak — No historical dating or chronological proof needed
+**Beviskapsel:** Weak - No historical dating or chronological proof needed
 - Material is recent (2026) and needs no priority defense
 - Could become relevant later if concepts are attributed elsewhere
 
-**Källsvans:** Yes — Strong internal dependencies and external references
+**Källsvans:** Yes - Strong internal dependencies and external references
 - Internal: Relates to constraint-extraction work on same material
 - External: Floridi, Bateson, Luhmann, Shannon, Wiener, Hayles
 
@@ -1369,37 +1369,37 @@ The material maintains natural authority across these distinct zones:
 Following PLAYBOOK 1 (strong essayistic text body):
 
 **First Wave (Narrow, immediate):**
-1. **Publiceringsdiagnos** — Establish correct status before any other work
+1. **Publiceringsdiagnos** - Establish correct status before any other work
    - Source basis: Entire material
    - Publication risk: Medium
    - Function: Tell the world what this is
 
-2. **Pressure Map** — Map central tensions without explaining
+2. **Pressure Map** - Map central tensions without explaining
    - Source basis: Entire material
    - Publication risk: Low
    - Function: Show what forces are at play
 
-3. **Negativ Poetik** — Extract protective refusals
+3. **Negativ Poetik** - Extract protective refusals
    - Source basis: Scattered throughout, concentrated in AI-critique sections
    - Publication risk: Low
    - Function: State what must be protected
 
 **Second Wave (Deeper, derived):**
-4. **Härkomstkapsel** — Trace information-philosophy lineage
-5. **Källsvans** — Build source-tail for major concepts
-6. **Metodfragment** — Extract direct and diagnostic fragments
-7. **AI-statuskapsel** — Clarify legitimate AI involvement
+4. **Härkomstkapsel** - Trace information-philosophy lineage
+5. **Källsvans** - Build source-tail for major concepts
+6. **Metodfragment** - Extract direct and diagnostic fragments
+7. **AI-statuskapsel** - Clarify legitimate AI involvement
 
 **Third Wave (Contingent, only if needed):**
-8. **Språkkroppsprofil + Register Audit** — If material needs register-aligned companion pieces
-9. **Beviskapsel** — If concepts are later attributed to others
+8. **Språkkroppsprofil + Register Audit** - If material needs register-aligned companion pieces
+9. **Beviskapsel** - If concepts are later attributed to others
 
 ---
 
-## CAPSULE 01 — HÄRKOMSTKAPSEL
+## CAPSULE 01 - HÄRKOMSTKAPSEL
 
 **Status:** AI-mediated provenance capsule / review required  
-**Source basis:** philosophia.basics.md — sections on information philosophy emergence  
+**Source basis:** philosophia.basics.md - sections on information philosophy emergence  
 **Public function:** Clarify where "information philosophy" emerges as a disciplinary claim
 
 ### Claim
@@ -1416,7 +1416,7 @@ Information philosophy arises from the recognition that this reduction was a cho
 
 (Information philosophy holds our hand as a current first philosophy, in the spirit of historical system-builders like Kant or Descartes.)
 
-This claims for information philosophy the status of a foundational philosophical discipline equivalent to historical metaphysics—not as a new invention but as a recovery of philosophical method applied to the current material-informational condition.
+This claims for information philosophy the status of a foundational philosophical discipline equivalent to historical metaphysics-not as a new invention but as a recovery of philosophical method applied to the current material-informational condition.
 
 ### What This Is Not
 
@@ -1452,7 +1452,7 @@ This provenance claim permits:
 
 ---
 
-## CAPSULE 02 — PRESSURE MAP
+## CAPSULE 02 - PRESSURE MAP
 
 **Status:** AI-mediated pressure map / review required  
 **Source basis:** philosophia.basics.md (entire material)  
@@ -1581,7 +1581,7 @@ This pressure map can function as:
 
 ---
 
-## CAPSULE 03 — PUBLICERINGSDIAGNOS
+## CAPSULE 03 - PUBLICERINGSDIAGNOS
 
 **Status:** Publication diagnosis / editorial decision required  
 **Source basis:** philosophia.basics.md  
@@ -1599,7 +1599,7 @@ A strong essayistic philosophical text in Swedish that traces the historical tra
 - Protective stance toward human meaning-making against technological colonization
 - Integration of multiple philosophical traditions (cybernetics, systems theory, embodied cognition)
 
-The text is neither draft nor finished essay—it is a **self-aware philosophical intervention** that knows its own stakes and positions itself accordingly.
+The text is neither draft nor finished essay-it is a **self-aware philosophical intervention** that knows its own stakes and positions itself accordingly.
 
 ### Status Classification
 
@@ -1611,20 +1611,20 @@ The text is neither draft nor finished essay—it is a **self-aware philosophica
 
 ### Why This Status Fits
 
-1. **Authorial voice is carried intact** — The material does not hide its author; it shows pedagogical authority and conceptual positioning
-2. **Historical argument is integrated, not appended** — The genealogy of information is not background; it is structural to every claim
-3. **Contradictions are held deliberately** — The material does not resolve tensions between frameworks; it insists they must be held
-4. **Stakes are explicit** — The material declares what it is protecting and why (semantic labor, embodiment, human intentionality)
-5. **The material positions its own method** — It reflects on second-order cybernetics, observation position, and the risks of its own philosophical framing
+1. **Authorial voice is carried intact** - The material does not hide its author; it shows pedagogical authority and conceptual positioning
+2. **Historical argument is integrated, not appended** - The genealogy of information is not background; it is structural to every claim
+3. **Contradictions are held deliberately** - The material does not resolve tensions between frameworks; it insists they must be held
+4. **Stakes are explicit** - The material declares what it is protecting and why (semantic labor, embodiment, human intentionality)
+5. **The material positions its own method** - It reflects on second-order cybernetics, observation position, and the risks of its own philosophical framing
 
 ### What Must Not Happen
 
-❌ **Do not publish as a tutorial or guide** — This would flatten the material into transferable method  
-❌ **Do not smooth the Swedish prose into English-academic clarity** — This would erase linguistic and cultural specificity  
-❌ **Do not turn it into "here's what information is"** — This would reduce philosophical work to definition-making  
-❌ **Do not rewrite for accessibility** — The material's difficulty is intentional and protective  
-❌ **Do not erase author positioning** — The "I" that says "we must" is not neutral observation but protective stance  
-❌ **Do not let AI inherit the voice** — Direct editorial intervention only  
+❌ **Do not publish as a tutorial or guide** - This would flatten the material into transferable method  
+❌ **Do not smooth the Swedish prose into English-academic clarity** - This would erase linguistic and cultural specificity  
+❌ **Do not turn it into "here's what information is"** - This would reduce philosophical work to definition-making  
+❌ **Do not rewrite for accessibility** - The material's difficulty is intentional and protective  
+❌ **Do not erase author positioning** - The "I" that says "we must" is not neutral observation but protective stance  
+❌ **Do not let AI inherit the voice** - Direct editorial intervention only  
 
 ### Best Next Form
 
@@ -1694,10 +1694,10 @@ Before publication in any form, author must decide:
 
 ---
 
-## CAPSULE 04 — NEGATIV POETIK
+## CAPSULE 04 - NEGATIV POETIK
 
 **Status:** AI-mediated negative-poetics capsule / review required  
-**Source basis:** philosophia.basics.md — scattered throughout, concentrated in AI-critique sections  
+**Source basis:** philosophia.basics.md - scattered throughout, concentrated in AI-critique sections  
 **Protected object:** Voice, source integrity, semantic labor, embodiment
 
 ### Rule 1: Do Not Let AI Inherit the Voice
@@ -1900,7 +1900,7 @@ Before publication in any form, author must decide:
 
 ---
 
-## CAPSULE 05 — AI-STATUSKAPSEL
+## CAPSULE 05 - AI-STATUSKAPSEL
 
 **Status:** AI-status classifier / disclosure required  
 **Source basis:** philosophia.basics.md analysis  
@@ -1910,7 +1910,7 @@ Before publication in any form, author must decide:
 
 **This material's AI involvement:** AI-mediated diagnosis only (not content generation)
 
-**Category:** 4 — AI-mediated diagnosis (reading source, producing diagnostic capsules, NO voice inheritance)
+**Category:** 4 - AI-mediated diagnosis (reading source, producing diagnostic capsules, NO voice inheritance)
 
 ### Permitted AI Uses
 
@@ -1980,7 +1980,7 @@ Before publication of any AI-mediated diagnostic material:
 
 ---
 
-## CAPSULE 06 — METODFRAGMENT
+## CAPSULE 06 - METODFRAGMENT
 
 **Status:** Method fragments extracted / AI-mediated / review required before publication  
 **Source basis:** philosophia.basics.md  
@@ -2086,7 +2086,7 @@ What a system makes possible/impossible is not natural but designed. Affordances
 
 ---
 
-## CAPSULE 07 — BEVISKAPSEL
+## CAPSULE 07 - BEVISKAPSEL
 
 **Status:** Provenance marker / assessment in progress  
 **Source basis:** philosophia.basics.md date and metadata  
@@ -2094,7 +2094,7 @@ What a system makes possible/impossible is not natural but designed. Affordances
 
 ### Claim
 
-**Narrow claim:** The concept of "information philosophy" emerged from this material in the form documented here—as a recovery of philosophical method applied to information's historical transformation and contemporary stakes—prior to and distinct from other contemporary uses of the term.
+**Narrow claim:** The concept of "information philosophy" emerged from this material in the form documented here-as a recovery of philosophical method applied to information's historical transformation and contemporary stakes-prior to and distinct from other contemporary uses of the term.
 
 ### Evidence
 
@@ -2142,7 +2142,7 @@ This articulation exists in this form, in this material, dated 2026.
 
 If concepts from this material (semantic capital, information philosophy as recovery, embodiment as non-optional) are later attributed to other sources or used in contexts the material would critique, the beviskapsel provides internal evidence that the articulation existed in this form at this time.
 
-This is not a claim of originality. It is a **cultural provenance marker**—a way of saying "this was here, in this form, for these reasons."
+This is not a claim of originality. It is a **cultural provenance marker**-a way of saying "this was here, in this form, for these reasons."
 
 ### Archive Recommendation
 
@@ -2161,7 +2161,7 @@ This is not a claim of originality. It is a **cultural provenance marker**—a w
 
 ---
 
-## CAPSULE 08 — KÄLLSVANS
+## CAPSULE 08 - KÄLLSVANS
 
 **Status:** Source-tail / comprehensive provenance trail  
 **Source basis:** philosophia.basics.md complete reading  
@@ -2171,15 +2171,15 @@ This is not a claim of originality. It is a **cultural provenance marker**—a w
 
 (Internal materials directly cited or structurally embedded):
 
-- Luciano Floridi — Information philosophy (cited, but material revises his framework toward embodiment)
-- Gregory Bateson — "Difference that makes a difference"; ecological cybernetics (cited, central to understanding)
-- Niklas Luhmann — Social systems theory, double contingency, meaning as selection (cited, heavily integrated)
-- Claude Shannon — Information theory, mathematical definition of information (referenced historically)
-- Norbert Wiener — Cybernetics concept, feedback loops (referenced historically)
-- Katherine Hayles — Embodied cognition, technosymbiosis, third-order cybernetics (cited, implications explored)
-- Stuart Kauffman, Seth Lloyd — Information in physics/universe (referenced)
-- Giulio Tononi — Integrated Information Theory (referenced)
-- John Archibald Wheeler — "It from bit" (referenced)
+- Luciano Floridi - Information philosophy (cited, but material revises his framework toward embodiment)
+- Gregory Bateson - "Difference that makes a difference"; ecological cybernetics (cited, central to understanding)
+- Niklas Luhmann - Social systems theory, double contingency, meaning as selection (cited, heavily integrated)
+- Claude Shannon - Information theory, mathematical definition of information (referenced historically)
+- Norbert Wiener - Cybernetics concept, feedback loops (referenced historically)
+- Katherine Hayles - Embodied cognition, technosymbiosis, third-order cybernetics (cited, implications explored)
+- Stuart Kauffman, Seth Lloyd - Information in physics/universe (referenced)
+- Giulio Tononi - Integrated Information Theory (referenced)
+- John Archibald Wheeler - "It from bit" (referenced)
 
 ### Nearby Internal Materials
 
@@ -2237,7 +2237,7 @@ Svårverifierad arv: Relationerna till samtida svensk filosofi, transhumanismkri
 
 ---
 
-## CAPSULE 09 — CAPSULE SELECTION REPORT
+## CAPSULE 09 - CAPSULE SELECTION REPORT
 
 **Status:** Editorial selection and sequencing  
 **Source basis:** Complete capsule battery assessment  
@@ -2264,7 +2264,7 @@ Svårverifierad arv: Relationerna till samtida svensk filosofi, transhumanismkri
 **3. Negativ Poetik (consolidated)**
 - Why third: Extracts protective rules directly from material's own warnings. Becomes a public memo.
 - Publication risk: Medium (some rules are polemical; author must approve tone)
-- Required author review: Yes (essential—material makes its own refusals)
+- Required author review: Yes (essential-material makes its own refusals)
 - Surface: Capsule on website; also usable as submission guidelines or internal policy (1500 words total, 7 mini-rules)
 - Core function: Public protective boundary-setting
 
@@ -2289,7 +2289,7 @@ Svårverifierad arv: Relationerna till samtida svensk filosofi, transhumanismkri
 **6. Metodfragment (Curated Selection)**
 - Why now: Key fragments become more legible after readers understand stakes and pressure.
 - Publication risk: Medium-high (fragments can be misquoted or decontextualized)
-- Required author review: Yes (essential—author must approve which fragments are shareable)
+- Required author review: Yes (essential-author must approve which fragments are shareable)
 - Surface: Online collection on website; individual fragments shareable on social media if author approves (50-100 words each)
 - Core function: Portable thinking units; gateway to full material
 
@@ -2327,7 +2327,7 @@ Svårverifierad arv: Relationerna till samtida svensk filosofi, transhumanismkri
 
 ❌ **Forskaraktivitetssammanfattning (Research activity summary)**
 - Why not: Not this material's function; would turn it into background for other work
-- When to reconsider: Never—not appropriate for this material
+- When to reconsider: Never-not appropriate for this material
 
 ❌ **Snabblänk-listor ("Quick Links" simplification)**
 - Why not: Would reduce complexity into marketing-ready bits
@@ -2367,20 +2367,20 @@ Svårverifierad arv: Relationerna till samtida svensk filosofi, transhumanismkri
 
 ---
 
-## CAPSULE 10 — SPRÅKKROPPSPROFIL OCH REGISTERRENDERING
+## CAPSULE 10 - SPRÅKKROPPSPROFIL OCH REGISTERRENDERING
 
 **Status:** Language-body profile / assessment (not recommended for this material)  
 **Source basis:** philosophia.basics.md register analysis  
-**Recommendation:** NOT NEEDED — Material voice is complete and protected
+**Recommendation:** NOT NEEDED - Material voice is complete and protected
 
 ### Assessment
 
 This material does not require register-aligned companion rendering. Why:
 
-1. **Voice is already complete** — The authorial voice is strong, intentional, and serves its philosophical argument
-2. **Difficulty is protective** — The material's Swedish formality and complexity are not bugs; they are features that protect against misreading and simplification
-3. **Rendering would damage** — Creating "simpler" or "more accessible" versions in aligned register would flatten the material's specificity
-4. **No companion pieces needed** — Better to produce narrow capsules in clearly non-authorial frames than to generate semi-authorial companions
+1. **Voice is already complete** - The authorial voice is strong, intentional, and serves its philosophical argument
+2. **Difficulty is protective** - The material's Swedish formality and complexity are not bugs; they are features that protect against misreading and simplification
+3. **Rendering would damage** - Creating "simpler" or "more accessible" versions in aligned register would flatten the material's specificity
+4. **No companion pieces needed** - Better to produce narrow capsules in clearly non-authorial frames than to generate semi-authorial companions
 
 ### When This Capsule Would Be Relevant
 
@@ -2395,10 +2395,10 @@ The Språkkroppsprofil prompt exists for these scenarios:
 
 If there is desire for more accessible or distributed forms:
 
-✓ **Produce narrow capsules** (pressure map, metodfragment) — narrow forms are clearly NOT authorial  
-✓ **Create visual maps** — diagrams of systems, concepts, genealogy  
-✓ **Build reference materials** — indexes, glossaries, concept maps  
-✓ **Produce educational guides** — explicitly marked as "study aids" not authorial works  
+✓ **Produce narrow capsules** (pressure map, metodfragment) - narrow forms are clearly NOT authorial  
+✓ **Create visual maps** - diagrams of systems, concepts, genealogy  
+✓ **Build reference materials** - indexes, glossaries, concept maps  
+✓ **Produce educational guides** - explicitly marked as "study aids" not authorial works  
 
 All of these can support access WITHOUT risking voice inheritance.
 
@@ -2410,10 +2410,10 @@ This material exemplifies why voice-protection matters. The material IS about wh
 
 ---
 
-## CAPSULE 11 — REGISTER AUDIT
+## CAPSULE 11 - REGISTER AUDIT
 
 **Status:** Contact preservation audit / not yet needed  
-**Source basis:** Hypothetical—if register rendering had occurred  
+**Source basis:** Hypothetical-if register rendering had occurred  
 **Recommendation:** This material does not require register audit because no rendering should occur
 
 ### Why This Capsule Is Not Applied
@@ -2457,26 +2457,26 @@ None of these scenarios are current. This note is preventive.
 
 ## What Has Been Produced
 
-- **Capsule 00:** Source Intake — Material classified as strong essayistic philosophical prose requiring voice protection
-- **Capsule 01:** Härkomstkapsel — Information philosophy emerges as disciplinary recovery from semantic load recognition
-- **Capsule 02:** Pressure Map — Central tensions identified (semantic/signal, embodiment/abstraction, automation/meaning)
-- **Capsule 03:** Publiceringsdiagnos — Publication status: essayistic source material with philosophical authority; ready for publication with proper framing
-- **Capsule 04:** Negativ Poetik — Seven protective rules extracted (voice, signal, embodiment, infosphere, reduction, conflict, contingency)
-- **Capsule 05:** AI-statuskapsel — AI permitted: reading, diagnosis, narrow capsules. Forbidden: voice inheritance, authorial generation, smoothing
-- **Capsule 06:** Metodfragment — 7 direct quotes + 8 diagnostic fragments extracted; marked for selective publication with author approval
-- **Capsule 07:** Beviskapsel — Cultural provenance marked; internal evidence of this articulation of information philosophy at this time; archive, publish conditionally
-- **Capsule 08:** Källsvans — Genealogy traced through Floridi, Bateson, Luhmann, Shannon, Hayles; uncertain affinities noted with honesty
-- **Capsule 09:** Capsule Selection Report — Three-wave publication sequence recommended; first wave immediate, second wave after readership, third wave conditional
-- **Capsule 10:** Språkkroppsprofil — NOT RECOMMENDED; material voice is complete; rendering would damage protection
-- **Capsule 11:** Register Audit — NOT NEEDED; preventing register rendering before it damages material
+- **Capsule 00:** Source Intake - Material classified as strong essayistic philosophical prose requiring voice protection
+- **Capsule 01:** Härkomstkapsel - Information philosophy emerges as disciplinary recovery from semantic load recognition
+- **Capsule 02:** Pressure Map - Central tensions identified (semantic/signal, embodiment/abstraction, automation/meaning)
+- **Capsule 03:** Publiceringsdiagnos - Publication status: essayistic source material with philosophical authority; ready for publication with proper framing
+- **Capsule 04:** Negativ Poetik - Seven protective rules extracted (voice, signal, embodiment, infosphere, reduction, conflict, contingency)
+- **Capsule 05:** AI-statuskapsel - AI permitted: reading, diagnosis, narrow capsules. Forbidden: voice inheritance, authorial generation, smoothing
+- **Capsule 06:** Metodfragment - 7 direct quotes + 8 diagnostic fragments extracted; marked for selective publication with author approval
+- **Capsule 07:** Beviskapsel - Cultural provenance marked; internal evidence of this articulation of information philosophy at this time; archive, publish conditionally
+- **Capsule 08:** Källsvans - Genealogy traced through Floridi, Bateson, Luhmann, Shannon, Hayles; uncertain affinities noted with honesty
+- **Capsule 09:** Capsule Selection Report - Three-wave publication sequence recommended; first wave immediate, second wave after readership, third wave conditional
+- **Capsule 10:** Språkkroppsprofil - NOT RECOMMENDED; material voice is complete; rendering would damage protection
+- **Capsule 11:** Register Audit - NOT NEEDED; preventing register rendering before it damages material
 
 ## Recommended Immediate Action
 
 **Three capsules ready for first-wave publication:**
 
-1. **Publiceringsdiagnos** (status clarification) — 800 words
-2. **Pressure Map** (stakes mapping) — 1200 words  
-3. **Negativ Poetik** (protective rules) — 1500 words total
+1. **Publiceringsdiagnos** (status clarification) - 800 words
+2. **Pressure Map** (stakes mapping) - 1200 words  
+3. **Negativ Poetik** (protective rules) - 1500 words total
 
 **Requires author review and approval before publication.**
 

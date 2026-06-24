@@ -6,10 +6,10 @@ source_thread: inbox-writings-bulk
 status: recovered
 review_state: unreviewed
 source_file: inbox/writings/bulk.md
-original_heading: "merge_hackerstory(continuous) — 2026-04-29"
+original_heading: "merge_hackerstory(continuous) - 2026-04-29"
 intended_target_path: modules/_gpt/runs/2026-04-29_merge-hackerstory.md
 ---
-merge_hackerstory(continuous) — 2026-04-29 
+merge_hackerstory(continuous) - 2026-04-29 
 
 Intended target path: modules/_gpt/runs/2026-04-29_merge-hackerstory.md 
 
@@ -69,7 +69,7 @@ Myth: Each previous run returns as a ghost-editor. It does not ask to be obeyed;
 
 II. Node mutations under new pressure 
 
-Node 4 — unfinished institution / scaffold organism 
+Node 4 - unfinished institution / scaffold organism 
 
 Previous state: The unfinished publisher dreams its own governance, fusing memory, BILDUNG, archive, and protocol into a respiratory institution. 
 
@@ -77,7 +77,7 @@ Mutation: The institution is no longer unfinished because it lacks completion. I
 
 New myth: A publishing house discovers that “incomplete” is the name institutions give to living things before they learn how to bill them. 
 
-Node 8 — aphorism / rhizomatic authorship / BILDUNG engine 
+Node 8 - aphorism / rhizomatic authorship / BILDUNG engine 
 
 Previous state: The aphorism engine radiates outward through butterfly effects, drunken epistemology, generational teaching, and cultural side channels. 
 
@@ -85,7 +85,7 @@ Mutation: The aphorism now loses innocence. It is no longer only a clever transm
 
 New myth: A sentence walks through customs with nothing to declare and an entire curriculum sewn into its lining. 
 
-Node 13 — landing page / black-ground liturgy 
+Node 13 - landing page / black-ground liturgy 
 
 Previous state: The website is a refusal machine: no feed, no stream, no noise; controlled visibility; contact at low frequency. 
 
@@ -93,7 +93,7 @@ Mutation: The landing page now reads as prenatal architecture. It is not the fro
 
 New myth: A homepage refuses to load the world because it is busy gestating a reader capable of surviving it. 
 
-Node 21 — unauthorized child / pipeline succession 
+Node 21 - unauthorized child / pipeline succession 
 
 Previous state: The pipeline produces a child outside the sanctioned inheritance line; analytics become breathing; conversion reaches “nog.” 
 
@@ -101,7 +101,7 @@ Mutation: The unauthorized child is no longer just horror-comic excess. It is th
 
 New myth: A pipeline tries to optimize a child and discovers that care is the only metric with enough cruelty to stop it. 
 
-New node 24 — executive camouflage 
+New node 24 - executive camouflage 
 
 Motifs: strategic sobriety · occult business language · investor-facing veil · plausible institutionality 
 
@@ -111,7 +111,7 @@ Myth: An executive summary learns to speak in the bland vowels of funding, only 
 
 Use: Whenever the project risks becoming too mystical to handle, this node supplies a dry surface. Not to flatten the material, but to let it pass through doors guarded by people who fear intensity unless it arrives in a deck. 
 
-New node 25 — declaration as ignition 
+New node 25 - declaration as ignition 
 
 Motifs: founding speech · refusal rite · low-noise sovereignty · small press daemon 
 
@@ -126,7 +126,7 @@ Use: Good for beginnings, about pages, manifesto fragments, press-language that 
 
 III. Prose outputs 
 
-1. Micro-story — The Executive Summary Begins to Sweat 
+1. Micro-story - The Executive Summary Begins to Sweat 
 
 Förläggaren opened the executive summary at 06:11, which is the hour when documents still believe they can pass as neutral. 
 
@@ -196,7 +196,7 @@ Nobody touched it.
 
 That was the second sign. 
 
-2. Homepage blurb — Declaration as Low-Noise Ignition 
+2. Homepage blurb - Declaration as Low-Noise Ignition 
 
 VERBOTENMEDIA does not publish to fill the stream. 
 
@@ -210,7 +210,7 @@ Not silence as withdrawal. Silence as editorial force.
 
 Contact remains low-frequency because not every signal deserves a door. 
 
-3. Ritual prompt — Funding Deck for a Haunted Press 
+3. Ritual prompt - Funding Deck for a Haunted Press 
 
 Open a blank presentation. 
 
@@ -250,7 +250,7 @@ If the room becomes more intelligent, the deck is ready.
 
 If the room becomes more comfortable, start again. 
 
-4. Extended episode — Nog Is Not a Metric 
+4. Extended episode - Nog Is Not a Metric 
 
 The analytics panel had stopped lying. 
 

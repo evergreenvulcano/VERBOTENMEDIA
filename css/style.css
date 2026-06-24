@@ -1,5 +1,5 @@
 /* ============================================================
-   VERBOTEN MEDIA — Design System
+   VERBOTEN MEDIA - Design System
    ============================================================ */
 
 /* --- Custom Properties ------------------------------------ */
@@ -1471,7 +1471,7 @@ em     { font-style: italic; }
 
 /* ============================================================
    SHORTSTORY READING SYSTEM
-   One contract — three layout modulations.
+   One contract - three layout modulations.
    Prose is primary. Images pace the reading. Nothing else.
    ============================================================ */
 
@@ -1518,7 +1518,7 @@ em     { font-style: italic; }
   margin-bottom: 0.5rem;
 }
 
-/* Pull fragment — editorial, quiet at reading tone */
+/* Pull fragment - editorial, quiet at reading tone */
 .article--shortstory .article-body blockquote {
   font-family: var(--font-display);
   font-style: italic;
@@ -1529,7 +1529,7 @@ em     { font-style: italic; }
   border-left: 1px solid var(--accent);
 }
 
-/* Inline images — editorial width, clean margins */
+/* Inline images - editorial width, clean margins */
 .article--shortstory .article-body img {
   width: 100%;
   display: block;
@@ -1600,7 +1600,7 @@ em     { font-style: italic; }
 }
 
 /* ============================================================
-   PUBLIC SURFACE PASS — entrance helpers
+   PUBLIC SURFACE PASS - entrance helpers
    ============================================================ */
 
 .entrance-strip {

@@ -4,7 +4,7 @@ This file is the admission ceremony for `modules/_DUJAG/`.
 
 It exists because the COPILOT-HANDOFF-support diagnostic (2026-04-23) identified a critical structural gap:
 the module was scaffolded before an explicit admission marker was created. Folder existence is not ceremony.
-This file is that ceremony — minimal, non-bureaucratic, permanent.
+This file is that ceremony - minimal, non-bureaucratic, permanent.
 
 ---
 

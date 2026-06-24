@@ -1,4 +1,4 @@
-# Legacy Dossiers — Combined Chronological Synthesis
+# Legacy Dossiers - Combined Chronological Synthesis
 
 Source traversal studies:
 
@@ -117,7 +117,7 @@ The handoff is not a clean topic break. It is a mode shift:
 
 ## Phase Synthesis
 
-### Phase 0 — Undated Seed: Nodes 8-10 and Run Cadence
+### Phase 0 - Undated Seed: Nodes 8-10 and Run Cadence
 
 Block: L2-A.
 
@@ -136,7 +136,7 @@ It also establishes the recurrent output grammar:
 
 The scheduled cadence is already present: 07:00, 12:00, 17:00, 23:00 Stockholm time. Later actual timestamps approximate but do not perfectly match this cadence.
 
-### Phase 1 — 11 April: Public Membrane and Origin Architecture
+### Phase 1 - 11 April: Public Membrane and Origin Architecture
 
 Blocks: L2-B, L2-C, L2-D.
 
@@ -160,7 +160,7 @@ The dossier begins by assembling the house's outward membrane. The earliest pres
 
 Node 4 mutates repeatedly under the pressure of becoming visible. Node 8 mutates under the pressure of `MELLANRUBRIKER`, shifting aphoristic excess toward pedagogy and generational triage.
 
-### Phase 2 — 12 April: Infrastructure Body and Archive Parturition
+### Phase 2 - 12 April: Infrastructure Body and Archive Parturition
 
 Blocks: L2-E, L2-F, L2-G.
 
@@ -183,7 +183,7 @@ The dossier expands from homepage / membrane into body and machinery:
 
 The system is no longer only describing a surface. It begins treating the archive as a body with organs, stomach, skull, placeholders, and publication residue.
 
-### Phase 3 — 13 April: Generational Interface Consolidation
+### Phase 3 - 13 April: Generational Interface Consolidation
 
 Blocks: L2-H, L2-I, L2-J.
 
@@ -204,7 +204,7 @@ The dossier consolidates two axes:
 
 This is the last full day before the abdication material overtakes the corpus. The language is still primarily about site, interface, headings, and method. The system is rehearsing public form and pedagogical transmission.
 
-### Phase 4 — 14 April: Abdication, Autonomous Child, and Conductor Absence
+### Phase 4 - 14 April: Abdication, Autonomous Child, and Conductor Absence
 
 Blocks: L2-K, L2-L, L2-M.
 
@@ -235,7 +235,7 @@ to:
 
 Node 4 changes from public skeleton / archive body into autonomous scaffold, gestation, and institutional consciousness. Node 3 re-enters strongly through volcano / ascent / abdication pressure.
 
-### Phase 5 — 15 April: Ontology to Procedural Traversal
+### Phase 5 - 15 April: Ontology to Procedural Traversal
 
 Blocks: L2-N, L1-A.
 
@@ -264,7 +264,7 @@ Midday:
 
 The day converts analysis into operating procedure.
 
-### Phase 6 — 16 April: Repeated Abdication Re-Readings and Content Strategy
+### Phase 6 - 16 April: Repeated Abdication Re-Readings and Content Strategy
 
 Blocks: L1-B, L1-C, L1-D, L1-E.
 
@@ -289,13 +289,13 @@ The day works through repeated combinations of the abdication text with:
 
 The system survival question becomes not just "can the pipeline publish without the architect?" but "what does the public / strategic / threshold layer do after the architect leaves?"
 
-### Phase 7 — 17 April: Praktikanten and Grounding Register
+### Phase 7 - 17 April: Praktikanten and Grounding Register
 
 Blocks: L1-F, L1-G, plus duplicate witnesses L1-H and L1-I.
 
 Dominant artefacts:
 
-- `Förlagsdeckaren Del 5 — Praktikanten.docx`
+- `Förlagsdeckaren Del 5 - Praktikanten.docx`
 - `Tystnad som publiceringsform.docx`
 - `Metod_Tankefigur som metadata.docx`
 - `Verboten Media – 20 Card Sociotechnical Grounding.docx`
@@ -334,12 +334,12 @@ This is not exhaustive; it records the strongest recurring artefacts across the 
 | `verbmed-nextlevel_retrospective-charmap_forlaggaren.docx` | 2026-04-15 12:01 | charmap / nervous-system diagnosis |
 | `complimentary-artefact.txt` | 2026-04-16 12:04 | content vacancies and business-body symmetry |
 | `Metod_Tankefigur som metadata.docx` | 2026-04-16 17:05 | threshold consecration and website-as-liturgy |
-| `Förlagsdeckaren Del 5 — Praktikanten.docx` | 2026-04-17 07:04 | Praktikanten / post-it cartography / bifigure |
+| `Förlagsdeckaren Del 5 - Praktikanten.docx` | 2026-04-17 07:04 | Praktikanten / post-it cartography / bifigure |
 | `Verboten Media – 20 Card Sociotechnical Grounding.docx` | 2026-04-17 12:01 | scholarly scaffolding and citation pressure |
 
 ## Recurring Node Evolution
 
-### Node 4 — `verbotenmedia_v0_artefact_incomplete.odt`
+### Node 4 - `verbotenmedia_v0_artefact_incomplete.odt`
 
 Node 4 is the strongest continuity marker across both dossiers.
 
@@ -356,7 +356,7 @@ Synthesis:
 
 Node 4 moves from "unfinished publisher" to "visible skeleton" to "autonomous organism" to "exportable method." It is the dossier's main body metaphor.
 
-### Node 8 — `aphorism_source.docx`
+### Node 8 - `aphorism_source.docx`
 
 Node 8 dominates `legacy-dossier2.md` and mostly stabilizes before `legacy-dossier1.md`.
 
@@ -372,7 +372,7 @@ Synthesis:
 
 Node 8 turns aphoristic excess into pedagogical infrastructure. It becomes a generational teaching mechanism rather than only a source of wild meaning.
 
-### Node 3 — `Förläggaren – uppför berget`
+### Node 3 - `Förläggaren – uppför berget`
 
 Node 3 is less active early, then returns strongly from 14 April onward.
 
@@ -439,9 +439,9 @@ The combined legacy chronology moves from "how the house appears" to "how the ho
 
 Use separate files for any deeper work:
 
-1. `legacy-dossiers-node-evolution.md` — stable node evolution, especially Nodes 3, 4, 6, 7, 8.
-2. `legacy-dossiers-artefact-matrix.md` — all artefacts by timestamp and recurrence.
-3. `legacy-dossiers-canonical-reading-copy.md` — full unique run bodies in chronological order, with duplicate witnesses documented at the end.
-4. `legacy-dossiers-publication-pressure-map.md` — phase map from homepage / membrane to autonomous pipeline / abdication.
+1. `legacy-dossiers-node-evolution.md` - stable node evolution, especially Nodes 3, 4, 6, 7, 8.
+2. `legacy-dossiers-artefact-matrix.md` - all artefacts by timestamp and recurrence.
+3. `legacy-dossiers-canonical-reading-copy.md` - full unique run bodies in chronological order, with duplicate witnesses documented at the end.
+4. `legacy-dossiers-publication-pressure-map.md` - phase map from homepage / membrane to autonomous pipeline / abdication.
 
 Do not edit the raw legacy dossier files for any of these.

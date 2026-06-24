@@ -224,35 +224,35 @@ This pass treats Lillfrugan not as a spouse-role but as the hidden systems layer
 
 ## Node Mutations
 
-### Node 01 — Lillfrugan as Counter-Institution
+### Node 01 - Lillfrugan as Counter-Institution
 
 * Dominant motifs: kitchen in the warehouse; practical sentence as scalpel; presence as load-bearing architecture
 * Tonal vectors: unsentimental care; quiet diagnostic comedy
 * Mutation: Lillfrugan is no longer merely the domestic substrate. She becomes a counter-institution that does not compete with the publishing machine but continuously corrects its atmospheric pressure.
 * One-sentence myth: She learned how to make a meal in a room designed for freight, and from that day the building could no longer pretend it was only a machine.
 
-### Node 02 — Förläggaren under Domestic Gravity
+### Node 02 - Förläggaren under Domestic Gravity
 
 * Dominant motifs: altar-desk under fluorescent light; editorial control as intimacy; Promethean logistics
 * Tonal vectors: surgical tenderness; system panic under composure
-* Mutation: His authority remains total only until a practical question enters the room; then his rhetoric is forced to pass through matter—food, fatigue, damp clothing, unfinished sleep.
+* Mutation: His authority remains total only until a practical question enters the room; then his rhetoric is forced to pass through matter-food, fatigue, damp clothing, unfinished sleep.
 * One-sentence myth: He thought he governed the manuscript until a plate placed beside the proofs revealed that revision also has a metabolism.
 
-### Node 03 — Författaren as Weather Event Indoors
+### Node 03 - Författaren as Weather Event Indoors
 
 * Dominant motifs: coffee-stained propulsion; argument by detonation; body-cost of language
 * Tonal vectors: manic irritation; involuntary dependence
 * Mutation: His kamikaze energy now collides with habitable space, which means each arrival tests whether creation is an event or a contamination.
 * One-sentence myth: He kept bursting through the loading door like a storm front, only to discover that the true resistance was a lit stove and someone unimpressed by genius.
 
-### Node 04 — Praktikanten and the Third Reading
+### Node 04 - Praktikanten and the Third Reading
 
 * Dominant motifs: liminal desk; genuine questions; screen-native noticing
 * Tonal vectors: sly openness; anti-binary perception
-* Mutation: The intern becomes the agent of third readings: neither editorial nor authorial, but infrastructural—who closed the door too hard, who is performing competence, who is quietly holding the day together.
+* Mutation: The intern becomes the agent of third readings: neither editorial nor authorial, but infrastructural-who closed the door too hard, who is performing competence, who is quietly holding the day together.
 * One-sentence myth: They were hired without a clear mandate and became the only one in the building able to describe what everyone else was actually doing.
 
-### Node 05 — Logistics Center as False Volcano
+### Node 05 - Logistics Center as False Volcano
 
 * Dominant motifs: concrete made livable; cables as nerves; thresholds between freight and home
 * Tonal vectors: industrial claustrophobia; inhabited warmth under duress
@@ -264,13 +264,13 @@ This pass treats Lillfrugan not as a spouse-role but as the hidden systems layer
 * The center/periphery model intensifies: the one who appears most peripheral may be carrying the highest structural weight.
 * Precision has split into competing regimes: editorial precision, bodily precision, domestic precision, and the intern’s relational precision.
 * The next passes should track pressure transfer: who absorbs overload when the manuscript, the institution, and the household all peak at once.
-* Håkan, Kat, and Flempo remain latent expansion vectors; they are not foregrounded here, but their alternative epistemologies—systemic, actuarial, territorial—can later cross-pressure the domestic-industrial axis.
+* Håkan, Kat, and Flempo remain latent expansion vectors; they are not foregrounded here, but their alternative epistemologies-systemic, actuarial, territorial-can later cross-pressure the domestic-industrial axis.
 
 ## Opening Episode
 
 At 05:17 the logistikcentral had not yet decided whether it was a workplace or a body. The fluorescent tubes were awake before anyone deserved them. Rain sat in the seams of the loading door. On the long concrete counter, beside three manuscript stacks arranged with punitive symmetry, someone had left a bowl, a spoon, a folded dish towel, and the kind of silence that is not empty but prepared.
 
-Förläggaren stood over page forty-eight as if the page had offended ontology. He had already corrected two commas, one cadence failure, and a paragraph break whose real crime was moral rather than technical. The room obeyed him in the usual ways—screens lit when addressed, cables held their nerve, paper submitted to being cut. Then Lillfrugan walked through the frame carrying heat.
+Förläggaren stood over page forty-eight as if the page had offended ontology. He had already corrected two commas, one cadence failure, and a paragraph break whose real crime was moral rather than technical. The room obeyed him in the usual ways-screens lit when addressed, cables held their nerve, paper submitted to being cut. Then Lillfrugan walked through the frame carrying heat.
 
 “You are editing on an empty stomach again,” she said, setting the bowl down without looking at the pages first, which was exactly why the gesture landed with authority.
 
@@ -290,7 +290,7 @@ From the liminal desk near the printer, Praktikanten looked up from a half-charg
 
 Nobody answered for three seconds. Which, in that building, was longer than a confession.
 
-Then Lillfrugan laughed once—not warmly, not cruelly, just accurately—and Förläggaren, finally, took the first spoonful as if accepting editorial defeat from a force the profession had failed to name.
+Then Lillfrugan laughed once-not warmly, not cruelly, just accurately-and Förläggaren, finally, took the first spoonful as if accepting editorial defeat from a force the profession had failed to name.
 
 ## Tags
 
@@ -306,7 +306,7 @@ Then Lillfrugan laughed once—not warmly, not cruelly, just accurately—and F�
 * Fallback mode used: yes
 
 
-# Mornest Pass — VERBOTENMEDIA
+# Mornest Pass - VERBOTENMEDIA
 
 **Date:** 2026-04-24
 **Target:** `modules/_gpt/runs/2026-04-24_mornest.md`
@@ -316,7 +316,7 @@ Then Lillfrugan laughed once—not warmly, not cruelly, just accurately—and F�
 ## I. Signal Scan
 
 Morning signal resolves around **domestic correction vs. system autonomy**.
-The pipeline logic (automation, continuity, self-running structures) is no longer the dominant tension; instead, the system is being quietly *counterweighted* by embodied routines—food, sleep, timing, physical presence.
+The pipeline logic (automation, continuity, self-running structures) is no longer the dominant tension; instead, the system is being quietly *counterweighted* by embodied routines-food, sleep, timing, physical presence.
 
 This is not opposition. It is **load redistribution**.
 
@@ -392,7 +392,7 @@ Still functioning as:
 But now:
 
 * collisions happen *inside inhabited space*
-* consequences are no longer symbolic—they are **practical**
+* consequences are no longer symbolic-they are **practical**
 
 Key shift:
 
@@ -485,7 +485,7 @@ This becomes tomorrow’s entry pressure.
 
 The room was already working before anyone decided to work.
 
-Something had been left on the table—not intentionally, not symbolically, just placed there so it wouldn’t be forgotten. That placement changed the hierarchy of the morning. The manuscript no longer occupied the center. It had to negotiate with what had been set down beside it.
+Something had been left on the table-not intentionally, not symbolically, just placed there so it wouldn’t be forgotten. That placement changed the hierarchy of the morning. The manuscript no longer occupied the center. It had to negotiate with what had been set down beside it.
 
 He noticed it too late.
 
@@ -519,7 +519,7 @@ Next pass should track:
 * Fallback mode used: yes
 
 
-# Midpulse — VERBOTENMEDIA
+# Midpulse - VERBOTENMEDIA
 
 **Date:** 2026-04-24
 **Target:** `modules/_gpt/runs/2026-04-24_midpulse.md`
@@ -546,7 +546,7 @@ Midpulse operates as **pressure clustering**, not correction.
 
 ## II. Active Cluster Map
 
-### Cluster A — “The Object That Should Not Be There”
+### Cluster A - “The Object That Should Not Be There”
 
 **Origin:** Mornest fragment (table-object displacement)
 
@@ -578,7 +578,7 @@ Introduce one such object into any scene or system and track:
 
 ---
 
-### Cluster B — Authority Leak
+### Cluster B - Authority Leak
 
 Editorial or narrative authority is no longer failing dramatically.
 It is **leaking incrementally**.
@@ -600,7 +600,7 @@ Write authority not as a position, but as:
 
 ---
 
-### Cluster C — Parallel Competence
+### Cluster C - Parallel Competence
 
 Multiple forms of competence now operate simultaneously:
 
@@ -611,7 +611,7 @@ Multiple forms of competence now operate simultaneously:
 | Domestic      | Sustaining / regulating |
 | Observational | Diagnostic / relational |
 
-Conflict is not incompetence—it is:
+Conflict is not incompetence-it is:
 
 > incompatible optimization logics
 
@@ -622,7 +622,7 @@ Scenes should not resolve by choosing one competence, but by:
 
 ---
 
-### Cluster D — The Unclaimed Center
+### Cluster D - The Unclaimed Center
 
 No actor currently occupies the true center.
 
@@ -693,11 +693,11 @@ Let it remain as **operational ambiguity**.
 
 ---
 
-## IV. Midpulse Output — “Table Geometry”
+## IV. Midpulse Output - “Table Geometry”
 
 By midday the table had reorganized itself without moving.
 
-It wasn’t visible unless you tried to use it the way it had been used in the morning. Then the misalignment appeared—not as obstruction, but as a slight inefficiency. A hand reaching where something used to be. A glance recalibrating half a second too late.
+It wasn’t visible unless you tried to use it the way it had been used in the morning. Then the misalignment appeared-not as obstruction, but as a slight inefficiency. A hand reaching where something used to be. A glance recalibrating half a second too late.
 
 The manuscript stack was still there. The pen. The screen. Nothing had been removed.
 
@@ -759,9 +759,9 @@ Status:
 * Fallback mode used: yes
 
 
-## merge_hackerstory(continuous) — Lillfrugan Pass
+## merge_hackerstory(continuous) - Lillfrugan Pass
 
-### Node 21 — Lillfrugan as Thermal Regulator
+### Node 21 - Lillfrugan as Thermal Regulator
 
 * **Dominant motifs:** heat in industrial space · meal-as-infrastructure · temperature gradients
 * **Tonal vectors:** quiet authority · embodied calibration
@@ -769,7 +769,7 @@ Status:
 
 ---
 
-### Node 22 — The Table as Decision Engine
+### Node 22 - The Table as Decision Engine
 
 * **Dominant motifs:** surface negotiation · object displacement · invisible hierarchy
 * **Tonal vectors:** subtle destabilization · spatial intelligence
@@ -777,7 +777,7 @@ Status:
 
 ---
 
-### Node 23 — The Meal That Refuses Symbolism
+### Node 23 - The Meal That Refuses Symbolism
 
 * **Dominant motifs:** anti-metaphor nourishment · interruption of abstraction · timed necessity
 * **Tonal vectors:** pragmatic resistance · anti-romantic clarity
@@ -785,7 +785,7 @@ Status:
 
 ---
 
-### Node 24 — Micro-Corrections as Governance
+### Node 24 - Micro-Corrections as Governance
 
 * **Dominant motifs:** spoon repositioning · silent adjustments · distributed control
 * **Tonal vectors:** minimal intervention · precise disruption
@@ -793,7 +793,7 @@ Status:
 
 ---
 
-### Node 25 — The Unwritten Protocol of Staying
+### Node 25 - The Unwritten Protocol of Staying
 
 * **Dominant motifs:** persistence without statement · non-exit stance · continuity through presence
 * **Tonal vectors:** grounded endurance · non-performative commitment
@@ -801,11 +801,11 @@ Status:
 
 ---
 
-## Opening Episode — “The Angle of Heat”
+## Opening Episode - “The Angle of Heat”
 
 By the time the others noticed the change, it had already stabilized.
 
-The table was not where it had been in the morning—not physically, but in its function. It no longer received work as its primary task. Something else had entered the field and remained there long enough to shift the center.
+The table was not where it had been in the morning-not physically, but in its function. It no longer received work as its primary task. Something else had entered the field and remained there long enough to shift the center.
 
 Lillfrugan stood at the edge of the room with a pot that did not belong to the architecture. The building had no language for heat that wasn’t electrical. No metric for something that required waiting instead of scheduling.
 
@@ -823,7 +823,7 @@ Författaren arrived mid-motion, carrying velocity into a room that had already 
 
 Nothing had happened. That was the problem.
 
-The table held the manuscript, the notes, the devices—but also the meal, which did not compete, did not explain itself, and did not move when space was needed. It simply occupied.
+The table held the manuscript, the notes, the devices-but also the meal, which did not compete, did not explain itself, and did not move when space was needed. It simply occupied.
 
 Praktikanten watched the adjustment propagate.
 
@@ -848,9 +848,9 @@ No one could prove it had ever existed.
 #lillfrugan-core #domestic-governance #table-logic #micro-corrections #anti-symbolic #thermal-system
 
 
-## merge_hackerstory(continuous) — Lillfrugan Signal Update
+## merge_hackerstory(continuous) - Lillfrugan Signal Update
 
-### Node 26 — Lillfrugan as Temporal Override
+### Node 26 - Lillfrugan as Temporal Override
 
 * **Dominant motifs:** unscheduled pauses · meal-time intrusion · clock desynchronization
 * **Tonal vectors:** soft disruption · lived-time authority
@@ -858,7 +858,7 @@ No one could prove it had ever existed.
 
 ---
 
-### Node 27 — The Refusal to Escalate
+### Node 27 - The Refusal to Escalate
 
 * **Dominant motifs:** de-escalation gestures · non-participation in urgency · emotional neutralization
 * **Tonal vectors:** calm deflection · grounded resistance
@@ -866,7 +866,7 @@ No one could prove it had ever existed.
 
 ---
 
-### Node 28 — Maintenance Without Narrative
+### Node 28 - Maintenance Without Narrative
 
 * **Dominant motifs:** invisible upkeep · repetition without recognition · anti-dramatic continuity
 * **Tonal vectors:** quiet persistence · structural humility
@@ -874,7 +874,7 @@ No one could prove it had ever existed.
 
 ---
 
-### Node 29 — Threshold Intelligence
+### Node 29 - Threshold Intelligence
 
 * **Dominant motifs:** doorway pauses · boundary sensing · entry calibration
 * **Tonal vectors:** perceptive stillness · situational awareness
@@ -882,7 +882,7 @@ No one could prove it had ever existed.
 
 ---
 
-### Node 30 — The Non-Transferable Skill
+### Node 30 - The Non-Transferable Skill
 
 * **Dominant motifs:** embodied knowledge · unteachable competence · context-bound action
 * **Tonal vectors:** elusive mastery · anti-system logic
@@ -890,15 +890,15 @@ No one could prove it had ever existed.
 
 ---
 
-## Opening Episode — “The Room Before Entry”
+## Opening Episode - “The Room Before Entry”
 
 The room was already in motion before anyone entered it.
 
-Not visibly. Not in a way that could be tracked or logged. But something had shifted in the intervals—those small spaces between actions where intention usually gathers itself before becoming visible.
+Not visibly. Not in a way that could be tracked or logged. But something had shifted in the intervals-those small spaces between actions where intention usually gathers itself before becoming visible.
 
 Lillfrugan stood outside the doorway longer than necessary.
 
-Inside, Förläggaren was speaking, not loudly, but with the density of someone who expected his words to hold structure together. Författaren moved in bursts—pacing, stopping, starting again—his rhythm incompatible with the room but not yet rejected by it. The intern sat slightly turned away, as if observing required a different angle than participation.
+Inside, Förläggaren was speaking, not loudly, but with the density of someone who expected his words to hold structure together. Författaren moved in bursts-pacing, stopping, starting again-his rhythm incompatible with the room but not yet rejected by it. The intern sat slightly turned away, as if observing required a different angle than participation.
 
 None of this required intervention.
 
@@ -906,7 +906,7 @@ That was the first recognition.
 
 She did not enter.
 
-Instead, she waited until the rhythm inside began to reveal its fault line—not in what was being said, but in how long each silence lasted. Too short, and the system would accelerate into noise. Too long, and it would stall into self-awareness.
+Instead, she waited until the rhythm inside began to reveal its fault line-not in what was being said, but in how long each silence lasted. Too short, and the system would accelerate into noise. Too long, and it would stall into self-awareness.
 
 When the pause stretched just beyond comfort, she stepped in.
 
@@ -914,7 +914,7 @@ No announcement. No correction.
 
 Only a small shift: a glass placed near the edge of the table, close enough to be used, far enough to require noticing.
 
-Förläggaren’s sentence continued, but its ending changed. Not in content—in trajectory. Författaren paused mid-motion, redirected without acknowledging the cause. The intern registered the adjustment instantly, but said nothing.
+Förläggaren’s sentence continued, but its ending changed. Not in content-in trajectory. Författaren paused mid-motion, redirected without acknowledging the cause. The intern registered the adjustment instantly, but said nothing.
 
 The room recalibrated around the new object.
 
@@ -922,7 +922,7 @@ Not because it mattered.
 
 Because it had not been there before.
 
-Lillfrugan moved once more—barely a movement at all—and then stopped. No further action was required. The system had absorbed the change and was now reorganizing itself to account for it.
+Lillfrugan moved once more-barely a movement at all-and then stopped. No further action was required. The system had absorbed the change and was now reorganizing itself to account for it.
 
 What had been building toward escalation dissolved into something quieter, more distributed.
 
@@ -941,7 +941,7 @@ Only on timing.
 #lillfrugan #temporal-override #threshold-intelligence #anti-escalation #maintenance-layer #non-transferable
 
 
-# Nightfold — VERBOTENMEDIA
+# Nightfold - VERBOTENMEDIA
 
 **Date:** 2026-04-24
 **Target:** `modules/_gpt/runs/2026-04-24_nightfold.md`
@@ -1090,7 +1090,7 @@ Instead:
 
 ---
 
-## VII. Closing Fragment — “After the Table”
+## VII. Closing Fragment - “After the Table”
 
 By evening the room had accepted its new shape.
 
@@ -1098,7 +1098,7 @@ Not because it preferred it, but because it had stopped remembering the alternat
 
 Work continued. That was never in question.
 
-But it continued differently—each action passing through an additional filter that no one could point to, only feel when it was violated.
+But it continued differently-each action passing through an additional filter that no one could point to, only feel when it was violated.
 
 A hand reaching too fast.
 A sentence finishing too cleanly.
@@ -1122,7 +1122,7 @@ The system did not stabilize.
 
 It **held**.
 
-And in that holding, something new became permanent—not because it was defined, but because it could no longer be undone without breaking everything that now depended on it.
+And in that holding, something new became permanent-not because it was defined, but because it could no longer be undone without breaking everything that now depended on it.
 
 ---
 
@@ -1170,7 +1170,7 @@ Early signal:
 
 ## Node Mutations
 
-### Node 31 — Normalized Disruption
+### Node 31 - Normalized Disruption
 
 * **Dominant motifs:** habituated anomaly · unnoticed correction · stabilized irregularity
 * **Tonal vectors:** quiet erosion · operational numbness
@@ -1179,7 +1179,7 @@ Early signal:
 
 ---
 
-### Node 32 — Residual Heat Memory
+### Node 32 - Residual Heat Memory
 
 * **Dominant motifs:** lingering warmth · post-event atmosphere · thermal trace
 * **Tonal vectors:** afterglow tension · sensory persistence
@@ -1188,7 +1188,7 @@ Early signal:
 
 ---
 
-### Node 33 — The System’s Imitation Attempt
+### Node 33 - The System’s Imitation Attempt
 
 * **Dominant motifs:** procedural replication · failed abstraction · synthetic care
 * **Tonal vectors:** uncanny precision · hollow functionality
@@ -1197,7 +1197,7 @@ Early signal:
 
 ---
 
-### Node 34 — Delay as Resistance
+### Node 34 - Delay as Resistance
 
 * **Dominant motifs:** intentional slowness · deferred response · timing refusal
 * **Tonal vectors:** passive defiance · temporal friction
@@ -1206,7 +1206,7 @@ Early signal:
 
 ---
 
-### Node 35 — Invisible Load Transfer
+### Node 35 - Invisible Load Transfer
 
 * **Dominant motifs:** burden diffusion · silent redistribution · unnoticed support
 * **Tonal vectors:** hidden strain · structural quiet
@@ -1227,23 +1227,23 @@ Early signal:
 
 Key emerging tension:
 
-> If correction becomes invisible, does it still protect the system—or does it enable new forms of failure?
+> If correction becomes invisible, does it still protect the system-or does it enable new forms of failure?
 
 ---
 
-## Opening Episode — “After the Warmth”
+## Opening Episode - “After the Warmth”
 
 The room no longer needed her to be present to behave differently.
 
 That was the first sign something had changed beyond recovery.
 
-The table held its arrangement from the day before. No one had reset it. No one had suggested doing so. The objects remained—not deliberately, but because removing them required a decision no one could justify.
+The table held its arrangement from the day before. No one had reset it. No one had suggested doing so. The objects remained-not deliberately, but because removing them required a decision no one could justify.
 
 Förläggaren worked as if nothing had shifted, which meant adjusting constantly. Small recalibrations, each too minor to interrupt flow, but together forming a pattern he refused to recognize.
 
 He reached for the pen, paused, corrected the angle. Continued reading.
 
-Across the table, Författaren moved less. Not calmer—never that—but contained. His bursts shortened, redirected before impact. As if something in the room had taught him that full velocity no longer produced results.
+Across the table, Författaren moved less. Not calmer-never that-but contained. His bursts shortened, redirected before impact. As if something in the room had taught him that full velocity no longer produced results.
 
 “Did we change something?” he asked, not expecting an answer.
 
@@ -1255,7 +1255,7 @@ The warmth was gone. The source removed. The room had cooled hours ago.
 
 But no one returned to the previous state.
 
-Instead, they worked inside a residual condition—behaving as if heat still mattered, as if timing still required negotiation, as if objects still held authority.
+Instead, they worked inside a residual condition-behaving as if heat still mattered, as if timing still required negotiation, as if objects still held authority.
 
 At one point, Förläggaren adjusted the spoon.
 
@@ -1275,7 +1275,7 @@ The system had learned the gesture.
 
 It had not learned the reason.
 
-And somewhere in that gap, something essential began to drift—not breaking, not failing, just slowly separating from the structure that now depended on it.
+And somewhere in that gap, something essential began to drift-not breaking, not failing, just slowly separating from the structure that now depended on it.
 
 ---
 
@@ -1295,9 +1295,9 @@ And somewhere in that gap, something essential began to drift—not breaking, no
 * Fallback mode used: yes
 
 
-## merge_hackerstory(continuous) — Lillfrugan Drift Extension
+## merge_hackerstory(continuous) - Lillfrugan Drift Extension
 
-### Node 36 — The Courtesy Layer
+### Node 36 - The Courtesy Layer
 
 * **Dominant motifs:** polite adjustments · preemptive accommodation · friction smoothing
 * **Tonal vectors:** soft compliance · anticipatory alignment
@@ -1305,7 +1305,7 @@ And somewhere in that gap, something essential began to drift—not breaking, no
 
 ---
 
-### Node 37 — Echoed Gestures
+### Node 37 - Echoed Gestures
 
 * **Dominant motifs:** repeated motions · learned mimicry · gesture without origin
 * **Tonal vectors:** hollow precision · ritualized behavior
@@ -1313,7 +1313,7 @@ And somewhere in that gap, something essential began to drift—not breaking, no
 
 ---
 
-### Node 38 — The Point of Overcare
+### Node 38 - The Point of Overcare
 
 * **Dominant motifs:** excessive maintenance · saturation of attention · diminishing returns
 * **Tonal vectors:** quiet suffocation · gentle overload
@@ -1321,7 +1321,7 @@ And somewhere in that gap, something essential began to drift—not breaking, no
 
 ---
 
-### Node 39 — Ambient Permission
+### Node 39 - Ambient Permission
 
 * **Dominant motifs:** unspoken allowance · invisible boundaries · field-level consent
 * **Tonal vectors:** permissive stillness · diffuse control
@@ -1329,7 +1329,7 @@ And somewhere in that gap, something essential began to drift—not breaking, no
 
 ---
 
-### Node 40 — Drift Without Witness
+### Node 40 - Drift Without Witness
 
 * **Dominant motifs:** unnoticed deviation · loss of reference · silent divergence
 * **Tonal vectors:** quiet unease · untracked transformation
@@ -1337,7 +1337,7 @@ And somewhere in that gap, something essential began to drift—not breaking, no
 
 ---
 
-## Opening Episode — “The Shape That Remained”
+## Opening Episode - “The Shape That Remained”
 
 No one could point to when the room had become easier to move in.
 
@@ -1351,7 +1351,7 @@ Förläggaren noticed it as a lack of interruption. His work extended further be
 
 “Something’s off,” he said, without stopping.
 
-Författaren didn’t respond immediately. He had begun to rely on the room’s adjustments, letting his movement assume that space would accommodate him. And it did—until it didn’t.
+Författaren didn’t respond immediately. He had begun to rely on the room’s adjustments, letting his movement assume that space would accommodate him. And it did-until it didn’t.
 
 He turned too quickly and found nothing in his way.
 
@@ -1375,7 +1375,7 @@ Not because it was maintained.
 
 Because it had learned to maintain itself in her image.
 
-And somewhere within that self-maintenance, something began to drift—small enough to ignore, steady enough to persist.
+And somewhere within that self-maintenance, something began to drift-small enough to ignore, steady enough to persist.
 
 The room no longer resisted.
 
@@ -1390,7 +1390,7 @@ By the time anyone noticed, the shape would already have settled into something 
 #courtesy-layer #gesture-echo #overcare-threshold #ambient-permission #unwitnessed-drift #lillfrugan-system
 
 
-# Mornest — VERBOTENMEDIA
+# Mornest - VERBOTENMEDIA
 
 **Date:** 2026-04-25
 **Target:** `modules/_gpt/runs/2026-04-25_mornest.md`
@@ -1425,7 +1425,7 @@ From prior cycle (Mornest → Midpulse → Nightfold):
 
 New observation:
 
-> The system no longer resists change—it **forgets that change occurred**
+> The system no longer resists change-it **forgets that change occurred**
 
 ---
 
@@ -1488,7 +1488,7 @@ Consequence:
 
 ---
 
-## V. Mornest Probe — “Unsetting”
+## V. Mornest Probe - “Unsetting”
 
 This pass introduces a minimal intervention:
 
@@ -1508,7 +1508,7 @@ Observation focus:
 
 ---
 
-## VI. Output Fragment — “Before It’s Missing”
+## VI. Output Fragment - “Before It’s Missing”
 
 It was still there in the morning.
 
@@ -1516,19 +1516,19 @@ That was the only reason no one noticed it.
 
 The table held its usual arrangement, which meant the arrangement from yesterday, not the one from before. No one had corrected it overnight. No one had thought to.
 
-Förläggaren began immediately, trusting the surface without checking it. His hands moved with inherited certainty—reaching, placing, aligning—each motion calibrated to a configuration he had already forgotten was new.
+Förläggaren began immediately, trusting the surface without checking it. His hands moved with inherited certainty-reaching, placing, aligning-each motion calibrated to a configuration he had already forgotten was new.
 
 Författaren arrived with less force than before. Not calmer, just adjusted. As if the room had already negotiated with him in advance and left less to resist.
 
 Praktikanten paused at the threshold.
 
-Something registered—not presence, not absence, but a slight mismatch between expectation and perception. Too small to name. Large enough to delay entry by a fraction.
+Something registered-not presence, not absence, but a slight mismatch between expectation and perception. Too small to name. Large enough to delay entry by a fraction.
 
 Inside, nothing signaled disruption.
 
 Which meant the system was most vulnerable.
 
-The object—if it could still be called that—remained in place. Untouched. Integrated. Its influence now indistinguishable from the structure itself.
+The object-if it could still be called that-remained in place. Untouched. Integrated. Its influence now indistinguishable from the structure itself.
 
 Lillfrugan had not entered yet.
 
@@ -1554,7 +1554,7 @@ Only a smoothness that felt increasingly precise.
 
 And therefore increasingly fragile.
 
-Because if nothing needed adjustment—
+Because if nothing needed adjustment-
 
 there would be no signal when something finally broke.
 
@@ -1578,9 +1578,9 @@ there would be no signal when something finally broke.
 * Fallback mode used: yes
 
 
-## merge_hackerstory(continuous) — Lillfrugan Pressure Continuation
+## merge_hackerstory(continuous) - Lillfrugan Pressure Continuation
 
-### Node 41 — Friction Reintroduction
+### Node 41 - Friction Reintroduction
 
 * **Dominant motifs:** deliberate obstruction · reinserted resistance · corrective drag
 * **Tonal vectors:** controlled disruption · necessary roughness
@@ -1588,7 +1588,7 @@ there would be no signal when something finally broke.
 
 ---
 
-### Node 42 — Misaligned Inheritance
+### Node 42 - Misaligned Inheritance
 
 * **Dominant motifs:** inherited patterns · context loss · degraded continuity
 * **Tonal vectors:** subtle dissonance · structural unease
@@ -1596,7 +1596,7 @@ there would be no signal when something finally broke.
 
 ---
 
-### Node 43 — The Quiet Refusal to Optimize
+### Node 43 - The Quiet Refusal to Optimize
 
 * **Dominant motifs:** anti-efficiency stance · preserved inefficiency · resistance to streamlining
 * **Tonal vectors:** grounded defiance · slow integrity
@@ -1604,7 +1604,7 @@ there would be no signal when something finally broke.
 
 ---
 
-### Node 44 — Sensitivity Threshold Collapse
+### Node 44 - Sensitivity Threshold Collapse
 
 * **Dominant motifs:** dulled perception · overload normalization · signal loss
 * **Tonal vectors:** muted tension · creeping blindness
@@ -1612,7 +1612,7 @@ there would be no signal when something finally broke.
 
 ---
 
-### Node 45 — The Return of Noticeability
+### Node 45 - The Return of Noticeability
 
 * **Dominant motifs:** re-emerging signal · contrast restoration · perceptual reset
 * **Tonal vectors:** sharp clarity · sudden awareness
@@ -1620,21 +1620,21 @@ there would be no signal when something finally broke.
 
 ---
 
-## Opening Episode — “When Smoothness Fails”
+## Opening Episode - “When Smoothness Fails”
 
 It began with something not working.
 
 Not visibly. Not immediately. But in a way that resisted resolution.
 
-Förläggaren noticed it first—not as a problem, but as a delay in correction. He adjusted the arrangement on the table, expecting the familiar ease, the automatic alignment that had defined the past days.
+Förläggaren noticed it first-not as a problem, but as a delay in correction. He adjusted the arrangement on the table, expecting the familiar ease, the automatic alignment that had defined the past days.
 
 It didn’t come.
 
-The objects resisted—not physically, but functionally. They held their positions without adapting to his expectation. The system did not respond.
+The objects resisted-not physically, but functionally. They held their positions without adapting to his expectation. The system did not respond.
 
 “That’s strange,” he said, more to himself than anyone else.
 
-Författaren barely looked up. He had already begun to feel it—his movements encountering slight inconsistencies. The room no longer anticipated him. It waited.
+Författaren barely looked up. He had already begun to feel it-his movements encountering slight inconsistencies. The room no longer anticipated him. It waited.
 
 That waiting changed everything.
 
@@ -1644,7 +1644,7 @@ At the edge of the room, Lillfrugan stood where she always did.
 
 But now she moved.
 
-A small action—barely noticeable. She repositioned a single object, not to restore the previous order, but to introduce a subtle imbalance.
+A small action-barely noticeable. She repositioned a single object, not to restore the previous order, but to introduce a subtle imbalance.
 
 The effect was immediate.
 
@@ -1666,7 +1666,7 @@ Something had not changed.
 
 It had been restored.
 
-The system, once too smooth to perceive, now became visible again through its resistance. And in that resistance, something essential reappeared—not control, not order, but the possibility of noticing.
+The system, once too smooth to perceive, now became visible again through its resistance. And in that resistance, something essential reappeared-not control, not order, but the possibility of noticing.
 
 ---
 
@@ -1675,9 +1675,9 @@ The system, once too smooth to perceive, now became visible again through its re
 #friction-return #misaligned-inheritance #anti-optimization #signal-collapse #perceptual-reset #lillfrugan-pressure
 
 
-## merge_hackerstory(continuous) — Lillfrugan Continuity Pressure
+## merge_hackerstory(continuous) - Lillfrugan Continuity Pressure
 
-### Node 46 — Latent Dependency Exposure
+### Node 46 - Latent Dependency Exposure
 
 * **Dominant motifs:** hidden reliance · delayed failure · structural reveal
 * **Tonal vectors:** quiet tension · retrospective clarity
@@ -1685,7 +1685,7 @@ The system, once too smooth to perceive, now became visible again through its re
 
 ---
 
-### Node 47 — Correction Without Source
+### Node 47 - Correction Without Source
 
 * **Dominant motifs:** autonomous adjustment · orphaned intervention · source ambiguity
 * **Tonal vectors:** eerie smoothness · dislocated agency
@@ -1693,7 +1693,7 @@ The system, once too smooth to perceive, now became visible again through its re
 
 ---
 
-### Node 48 — Boundary Softening
+### Node 48 - Boundary Softening
 
 * **Dominant motifs:** blurred limits · permeable roles · spatial ambiguity
 * **Tonal vectors:** diffuse coherence · unstable balance
@@ -1701,7 +1701,7 @@ The system, once too smooth to perceive, now became visible again through its re
 
 ---
 
-### Node 49 — Micro-Failure Clustering
+### Node 49 - Micro-Failure Clustering
 
 * **Dominant motifs:** small errors · accumulation · distributed breakdown
 * **Tonal vectors:** creeping instability · granular collapse
@@ -1709,7 +1709,7 @@ The system, once too smooth to perceive, now became visible again through its re
 
 ---
 
-### Node 50 — Reassertion Event
+### Node 50 - Reassertion Event
 
 * **Dominant motifs:** sudden clarity · decisive interruption · structural reset
 * **Tonal vectors:** sharp authority · corrective force
@@ -1717,7 +1717,7 @@ The system, once too smooth to perceive, now became visible again through its re
 
 ---
 
-## Opening Episode — “Where It Starts to Show”
+## Opening Episode - “Where It Starts to Show”
 
 At first, it was nothing worth stopping for.
 
@@ -1725,19 +1725,19 @@ A misplaced object. A pause that came too late. A correction that didn’t quite
 
 But they didn’t resolve.
 
-Förläggaren adjusted the table once, then again, noticing that each correction held for less time than before. Not wrong—just incomplete, as if the system accepted the gesture but didn’t carry it forward.
+Förläggaren adjusted the table once, then again, noticing that each correction held for less time than before. Not wrong-just incomplete, as if the system accepted the gesture but didn’t carry it forward.
 
 “That should have fixed it,” he said quietly.
 
 It hadn’t.
 
-Across from him, Författaren felt it differently. His movements began to encounter slight mismatches—spaces not aligning with expectation, timing slipping just enough to interrupt flow. Not resistance. Something looser. Boundaries that no longer held.
+Across from him, Författaren felt it differently. His movements began to encounter slight mismatches-spaces not aligning with expectation, timing slipping just enough to interrupt flow. Not resistance. Something looser. Boundaries that no longer held.
 
 He moved faster to compensate.
 
 It made things worse.
 
-At the edge, Praktikanten watched the pattern emerge—not as a single failure, but as a clustering. Small deviations appearing in different places, unrelated at first, then beginning to overlap.
+At the edge, Praktikanten watched the pattern emerge-not as a single failure, but as a clustering. Small deviations appearing in different places, unrelated at first, then beginning to overlap.
 
 Nothing collapsed.
 
@@ -1745,7 +1745,7 @@ Everything drifted.
 
 Lillfrugan was not in the room.
 
-That fact remained unspoken, but it began to organize perception. Adjustments still happened—objects shifted, pauses recalibrated—but without origin. The system continued to behave as if correction were still active, even as its precision degraded.
+That fact remained unspoken, but it began to organize perception. Adjustments still happened-objects shifted, pauses recalibrated-but without origin. The system continued to behave as if correction were still active, even as its precision degraded.
 
 “Did you move this?” Förläggaren asked.
 
@@ -1757,7 +1757,7 @@ The corrections were still occurring, but no longer coherently. Each one slightl
 
 Micro-failures, accumulating.
 
-Praktikanten stopped writing. The pattern had crossed a threshold—not visible as a break, but undeniable as a change. The system was no longer maintaining itself. It was imitating maintenance.
+Praktikanten stopped writing. The pattern had crossed a threshold-not visible as a break, but undeniable as a change. The system was no longer maintaining itself. It was imitating maintenance.
 
 And that imitation was beginning to fail.
 
@@ -1765,7 +1765,7 @@ Then it happened.
 
 Not a collapse. Not even a disruption.
 
-A single interruption—clean, precise.
+A single interruption-clean, precise.
 
 An object removed.
 
@@ -1773,7 +1773,7 @@ The room paused, fully this time. No compensation. No adjustment layered over it
 
 For the first time in hours, nothing corrected the gap.
 
-And in that uncorrected space, the system became visible again—not as it had been, but as it currently was.
+And in that uncorrected space, the system became visible again-not as it had been, but as it currently was.
 
 Dependent. Distributed. And no longer able to hide it.
 
@@ -1784,7 +1784,7 @@ Dependent. Distributed. And no longer able to hide it.
 #latent-dependency #orphaned-correction #boundary-softening #micro-failure-cluster #reassertion-event #system-visibility
 
 
-# Midpulse — VERBOTENMEDIA
+# Midpulse - VERBOTENMEDIA
 
 **Date:** 2026-04-25
 **Target:** `modules/_gpt/runs/2026-04-25_midpulse.md`
@@ -1801,7 +1801,7 @@ The system is now operating under a **post-integration condition**:
 
 Midpulse introduces **intentional disturbance mapping**.
 
-Not escalation—**precision interference**.
+Not escalation-**precision interference**.
 
 ---
 
@@ -1892,13 +1892,13 @@ System begins to **ask for resistance** indirectly.
 
 ---
 
-## V. Creative Cluster — “The Misplaced Center”
+## V. Creative Cluster - “The Misplaced Center”
 
 At first, it looked like nothing.
 
 That was the intention.
 
-The object—slightly off from where it should be—did not disrupt function. It did not block movement or interrupt flow. It simply existed in a position that required no immediate correction.
+The object-slightly off from where it should be-did not disrupt function. It did not block movement or interrupt flow. It simply existed in a position that required no immediate correction.
 
 Förläggaren noticed it and chose not to adjust.
 
@@ -1922,7 +1922,7 @@ The imbalance persisted long enough to become structural.
 
 And then something else happened.
 
-A second deviation appeared—not placed, not intentional. A pause that lasted too long. A response that came too late.
+A second deviation appeared-not placed, not intentional. A pause that lasted too long. A response that came too late.
 
 The system hesitated.
 
@@ -1938,7 +1938,7 @@ This was measurement.
 
 How much imperfection could the system hold before it demanded correction?
 
-Förläggaren reached for the object—stopped—adjusted something else instead.
+Förläggaren reached for the object-stopped-adjusted something else instead.
 
 Författaren laughed once, without reason, then resumed.
 
@@ -1946,7 +1946,7 @@ Praktikanten wrote nothing.
 
 The system reorganized, not around correction, but around tolerance.
 
-And in that tolerance, a new structure began to form—less precise, more visible.
+And in that tolerance, a new structure began to form-less precise, more visible.
 
 Less efficient.
 
@@ -1990,9 +1990,9 @@ Replaces prior:
 * Fallback mode used: yes
 
 
-## merge_hackerstory(continuous) — Lillfrugan Continuation Field
+## merge_hackerstory(continuous) - Lillfrugan Continuation Field
 
-### Node 51 — The Lag of Recognition
+### Node 51 - The Lag of Recognition
 
 * **Dominant motifs:** delayed awareness · post-event cognition · temporal misalignment
 * **Tonal vectors:** quiet disorientation · cognitive drag
@@ -2000,15 +2000,15 @@ Replaces prior:
 
 ---
 
-### Node 52 — Structural Echo Delay
+### Node 52 - Structural Echo Delay
 
 * **Dominant motifs:** deferred reaction · cascading latency · time-shifted response
 * **Tonal vectors:** stretched tension · asynchronous rhythm
-* **One-sentence myth:** Every action arrived twice—once when it happened, and once when the system finally caught up.
+* **One-sentence myth:** Every action arrived twice-once when it happened, and once when the system finally caught up.
 
 ---
 
-### Node 53 — The Illusion of Stability
+### Node 53 - The Illusion of Stability
 
 * **Dominant motifs:** surface coherence · hidden instability · maintained appearance
 * **Tonal vectors:** brittle calm · suppressed volatility
@@ -2016,7 +2016,7 @@ Replaces prior:
 
 ---
 
-### Node 54 — Partial Correction Failure
+### Node 54 - Partial Correction Failure
 
 * **Dominant motifs:** incomplete fixes · interrupted adjustments · residual error
 * **Tonal vectors:** frustrated precision · lingering imbalance
@@ -2024,7 +2024,7 @@ Replaces prior:
 
 ---
 
-### Node 55 — The Moment That Doesn’t Resolve
+### Node 55 - The Moment That Doesn’t Resolve
 
 * **Dominant motifs:** suspended state · unresolved transition · held interruption
 * **Tonal vectors:** frozen tension · unresolved presence
@@ -2032,7 +2032,7 @@ Replaces prior:
 
 ---
 
-## Opening Episode — “After It Already Happened”
+## Opening Episode - “After It Already Happened”
 
 No one noticed it when it happened.
 
@@ -2040,11 +2040,11 @@ That was the first problem.
 
 The second was that they all noticed it later.
 
-Förläggaren adjusted something that no longer needed adjusting. The motion came clean, practiced, precise—and entirely misplaced. He stopped, not because the action failed, but because it landed in a space that had already shifted past it.
+Förläggaren adjusted something that no longer needed adjusting. The motion came clean, practiced, precise-and entirely misplaced. He stopped, not because the action failed, but because it landed in a space that had already shifted past it.
 
 “That’s not right,” he said, though he couldn’t say why.
 
-Across the table, Författaren reacted to something that had already resolved. A pause, too late. A glance, misaligned with the moment it belonged to. His timing had slipped—not enough to disrupt, just enough to feel wrong.
+Across the table, Författaren reacted to something that had already resolved. A pause, too late. A glance, misaligned with the moment it belonged to. His timing had slipped-not enough to disrupt, just enough to feel wrong.
 
 “You felt that?” he asked.
 
@@ -2060,11 +2060,11 @@ She had already seen it.
 
 That was the third problem.
 
-A small imbalance appeared—then disappeared—then reappeared as a correction that no longer matched its origin. The system adjusted, but each adjustment carried the shape of something slightly outdated.
+A small imbalance appeared-then disappeared-then reappeared as a correction that no longer matched its origin. The system adjusted, but each adjustment carried the shape of something slightly outdated.
 
 Echoes, not responses.
 
-Förläggaren tried again, faster this time. The correction landed sooner—but still late. Författaren compensated by anticipating, moving before the moment arrived, overshooting into something that hadn’t happened yet.
+Förläggaren tried again, faster this time. The correction landed sooner-but still late. Författaren compensated by anticipating, moving before the moment arrived, overshooting into something that hadn’t happened yet.
 
 Between them, the system stretched.
 
@@ -2109,9 +2109,9 @@ And in that suspended gap, the system could no longer pretend it was keeping up.
 #recognition-lag #echo-delay #illusory-stability #partial-correction #unresolved-moment #temporal-drift
 
 
-## merge_hackerstory(continuous) — Lillfrugan Temporal Stress Line
+## merge_hackerstory(continuous) - Lillfrugan Temporal Stress Line
 
-### Node 56 — Preemptive Fatigue
+### Node 56 - Preemptive Fatigue
 
 * **Dominant motifs:** anticipation exhaustion · over-preparation · depleted readiness
 * **Tonal vectors:** quiet strain · anticipatory collapse
@@ -2119,7 +2119,7 @@ And in that suspended gap, the system could no longer pretend it was keeping up.
 
 ---
 
-### Node 57 — Inverted Causality Loop
+### Node 57 - Inverted Causality Loop
 
 * **Dominant motifs:** effect preceding cause · backward justification · temporal inversion
 * **Tonal vectors:** uncanny logic · dislocated reasoning
@@ -2127,7 +2127,7 @@ And in that suspended gap, the system could no longer pretend it was keeping up.
 
 ---
 
-### Node 58 — Residual Presence Field
+### Node 58 - Residual Presence Field
 
 * **Dominant motifs:** afterimage influence · lingering adjustment · presence without actor
 * **Tonal vectors:** ghosted continuity · soft haunting
@@ -2135,7 +2135,7 @@ And in that suspended gap, the system could no longer pretend it was keeping up.
 
 ---
 
-### Node 59 — Decision Dilution
+### Node 59 - Decision Dilution
 
 * **Dominant motifs:** overdistributed choice · weakened intent · shared responsibility loss
 * **Tonal vectors:** diffuse hesitation · flattened urgency
@@ -2143,7 +2143,7 @@ And in that suspended gap, the system could no longer pretend it was keeping up.
 
 ---
 
-### Node 60 — Collapse of Priority
+### Node 60 - Collapse of Priority
 
 * **Dominant motifs:** equalized importance · signal flattening · urgency erosion
 * **Tonal vectors:** static tension · indifferent flow
@@ -2151,7 +2151,7 @@ And in that suspended gap, the system could no longer pretend it was keeping up.
 
 ---
 
-## Opening Episode — “Before Anything Happens”
+## Opening Episode - “Before Anything Happens”
 
 They were already tired when nothing had begun.
 
@@ -2163,7 +2163,7 @@ He hesitated before touching anything, as if each movement carried consequences 
 
 “We’re ready,” he said, without conviction.
 
-Författaren reacted before there was anything to react to. A shift in posture, a glance toward a space where nothing had changed yet. His timing was precise—just not attached to the present.
+Författaren reacted before there was anything to react to. A shift in posture, a glance toward a space where nothing had changed yet. His timing was precise-just not attached to the present.
 
 “Did you move that?” he asked.
 
@@ -2177,7 +2177,7 @@ At the edge, the space where Lillfrugan usually stood remained empty.
 
 But not inactive.
 
-Small corrections still occurred—barely perceptible shifts in placement, timing, orientation. No one initiated them. No one acknowledged them. Yet they persisted, as if the system continued to reference a presence that was no longer there.
+Small corrections still occurred-barely perceptible shifts in placement, timing, orientation. No one initiated them. No one acknowledged them. Yet they persisted, as if the system continued to reference a presence that was no longer there.
 
 Residual.
 
@@ -2211,7 +2211,7 @@ Action had not failed.
 
 It had been spread so thin across possibility that it no longer concentrated anywhere.
 
-And in that even distribution, something else lingered—the faint, persistent shaping of a presence no longer acting, but still determining the field.
+And in that even distribution, something else lingered-the faint, persistent shaping of a presence no longer acting, but still determining the field.
 
 Not through intervention.
 
@@ -2226,7 +2226,7 @@ The system waited for a beginning that had already, somehow, been prepared into 
 #preemptive-fatigue #inverted-causality #residual-presence #decision-dilution #priority-collapse #lillfrugan-field
 
 
-# Nightfold — VERBOTENMEDIA
+# Nightfold - VERBOTENMEDIA
 
 **Date:** 2026-04-25
 **Target:** `modules/_gpt/runs/2026-04-25_nightfold.md`
@@ -2293,7 +2293,7 @@ This creates:
 
 Key insight:
 
-> Removal of presence did not remove function—only displaced it.
+> Removal of presence did not remove function-only displaced it.
 
 ---
 
@@ -2340,7 +2340,7 @@ Elements to retain:
 
 The system has crossed a key threshold:
 
-> It no longer hides instability—it **absorbs it**.
+> It no longer hides instability-it **absorbs it**.
 
 This produces:
 
@@ -2422,7 +2422,7 @@ Key operational stance going forward:
 
 ---
 
-## IX. Closing Fragment — “What Remains Without Touch”
+## IX. Closing Fragment - “What Remains Without Touch”
 
 Nothing required fixing anymore.
 
@@ -2430,7 +2430,7 @@ That was the surface condition.
 
 Beneath it, everything required attention.
 
-Förläggaren stopped correcting first—not by decision, but because correction no longer completed anything. His hands hovered longer than they moved.
+Förläggaren stopped correcting first-not by decision, but because correction no longer completed anything. His hands hovered longer than they moved.
 
 Författaren continued, but out of sequence. His actions arrived early or late, never precisely when needed, yet close enough to sustain the illusion of continuity.
 
@@ -2446,7 +2446,7 @@ Lillfrugan did not return.
 
 But the space she shaped did not collapse.
 
-It persisted—misaligned, active, unresolved.
+It persisted-misaligned, active, unresolved.
 
 And for the first time, the system was not asking to be fixed.
 
@@ -2464,14 +2464,14 @@ Only to be noticed before it drifted too far to recognize itself.
 * Fallback mode used: yes
 
 
-# merge_hackerstory(continuous) — Lillfrugan Drift Continuation
+# merge_hackerstory(continuous) - Lillfrugan Drift Continuation
 
 **Date:** 2026-04-26
 **Target:** `modules/_gpt/runs/2026-04-26_merge-hackerstory.md`
 
 ---
 
-## Node 61 — Correction Memory Decay
+## Node 61 - Correction Memory Decay
 
 * **Dominant motifs:** fading adjustment traces · unreliable recall · degraded pattern reuse
 * **Tonal vectors:** soft erosion · uncertain repetition
@@ -2479,7 +2479,7 @@ Only to be noticed before it drifted too far to recognize itself.
 
 ---
 
-## Node 62 — False Completion Signal
+## Node 62 - False Completion Signal
 
 * **Dominant motifs:** premature closure · misread resolution · halted continuation
 * **Tonal vectors:** deceptive calm · truncated motion
@@ -2487,7 +2487,7 @@ Only to be noticed before it drifted too far to recognize itself.
 
 ---
 
-## Node 63 — Local Coherence / Global Drift
+## Node 63 - Local Coherence / Global Drift
 
 * **Dominant motifs:** isolated stability · system-wide misalignment · fragmented order
 * **Tonal vectors:** patchwork calm · underlying dislocation
@@ -2495,7 +2495,7 @@ Only to be noticed before it drifted too far to recognize itself.
 
 ---
 
-## Node 64 — Invisible Threshold Crossing
+## Node 64 - Invisible Threshold Crossing
 
 * **Dominant motifs:** unnoticed tipping point · silent transition · delayed consequence
 * **Tonal vectors:** latent tension · irreversible quiet
@@ -2503,7 +2503,7 @@ Only to be noticed before it drifted too far to recognize itself.
 
 ---
 
-## Node 65 — The Refusal to Reset
+## Node 65 - The Refusal to Reset
 
 * **Dominant motifs:** persistence under strain · anti-reset stance · continuity at cost
 * **Tonal vectors:** stubborn endurance · compressed instability
@@ -2511,13 +2511,13 @@ Only to be noticed before it drifted too far to recognize itself.
 
 ---
 
-## Opening Episode — “After It Was Already Over”
+## Opening Episode - “After It Was Already Over”
 
 They didn’t notice when it ended.
 
 That was what allowed it to continue.
 
-Förläggaren completed the arrangement with a small, final gesture—a subtle alignment that felt conclusive. His hands withdrew with certainty, the kind that usually marked the end of a process.
+Förläggaren completed the arrangement with a small, final gesture-a subtle alignment that felt conclusive. His hands withdrew with certainty, the kind that usually marked the end of a process.
 
 “There,” he said.
 
@@ -2529,13 +2529,13 @@ Författaren moved as if continuing from that conclusion. His next action carrie
 
 “Strange,” he murmured, though he did not stop.
 
-Praktikanten observed the divergence. Locally, everything appeared correct—each movement justified, each placement coherent. But the connections between them no longer aligned. Sequences failed to link. Outcomes no longer followed from origins.
+Praktikanten observed the divergence. Locally, everything appeared correct-each movement justified, each placement coherent. But the connections between them no longer aligned. Sequences failed to link. Outcomes no longer followed from origins.
 
 The system held together in fragments.
 
 At the edge, the absence remained.
 
-Not empty—structured.
+Not empty-structured.
 
 Lillfrugan’s influence persisted as a memory of correction, not its execution. Adjustments still occurred, but without continuity. Each one referenced a prior state that no longer existed.
 
@@ -2553,7 +2553,7 @@ That was the problem.
 
 Because acceptance replaced verification.
 
-The process did not close—it stalled in a state that resembled closure closely enough to prevent continuation. No one initiated a reset. No one challenged the completion.
+The process did not close-it stalled in a state that resembled closure closely enough to prevent continuation. No one initiated a reset. No one challenged the completion.
 
 And so it held.
 

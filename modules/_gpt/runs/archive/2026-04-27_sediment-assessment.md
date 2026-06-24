@@ -1,4 +1,4 @@
-# Sediment Assessment — VERBOTENMEDIA / Förlagsdeckaren
+# Sediment Assessment - VERBOTENMEDIA / Förlagsdeckaren
 
 Date: 2026-04-27
 Mode: assessment-first, repo-influential orientation
@@ -165,7 +165,7 @@ Every map should now declare its blind spot. Otherwise the project will over-exp
 
 ## Consequential recommendations
 
-### Immediate move 1 — build an abdication evidence ledger
+### Immediate move 1 - build an abdication evidence ledger
 
 Create:
 
@@ -177,7 +177,7 @@ Map evidence by file and function, especially Del 10-13, Lillfrugan, Praktikante
 
 This should be a ledger, not an essay.
 
-### Immediate move 2 — build a run ledger before cleanup
+### Immediate move 2 - build a run ledger before cleanup
 
 Create:
 
@@ -197,7 +197,7 @@ Fields:
 
 No renaming until ledger exists.
 
-### Immediate move 3 — define Lillfrugan underinstance tests
+### Immediate move 3 - define Lillfrugan underinstance tests
 
 Create:
 
@@ -216,7 +216,7 @@ Required tests:
 5. Metric-failure test: does she perceive something the system cannot measure?
 6. Abdication-residue test: does the scene contain concrete aftermath?
 
-### Immediate move 4 — source-manifest discipline
+### Immediate move 4 - source-manifest discipline
 
 Do not dump every relevant file into `source-manifest.md`.
 
@@ -228,7 +228,7 @@ Reason:
 
 The repo is now sediment-rich. If every useful file becomes a manifest source, source authority will inflate and lose meaning.
 
-### Immediate move 5 — protect Del 10-13 as suite
+### Immediate move 5 - protect Del 10-13 as suite
 
 Create proposal:
 
@@ -320,23 +320,23 @@ Rules:
 
 ## Policy implications
 
-### Policy implication 1 — capability claims require evidence
+### Policy implication 1 - capability claims require evidence
 
 Already written into the 2026-04-27 merge_hackerstory activation run. Keep it.
 
-### Policy implication 2 — run accumulation before pruning
+### Policy implication 2 - run accumulation before pruning
 
 Current phase should use formation logic. The repo needs a run ledger before normalization.
 
-### Policy implication 3 — Lillfrugan generation should be contract-tested
+### Policy implication 3 - Lillfrugan generation should be contract-tested
 
 A Lillfrugan scene should not be accepted simply because it sounds like her. It must pass function tests: does it support post-abdication protagonist-view without turning her into institutional operator or care trope?
 
-### Policy implication 4 — source-manifest additions should be reviewed
+### Policy implication 4 - source-manifest additions should be reviewed
 
 The manifest should remain small enough to mean something. Use candidate review before adding many anchors.
 
-### Policy implication 5 — maps must name their blind spots
+### Policy implication 5 - maps must name their blind spots
 
 Any new analytical resource should state what it cannot know or should not settle.
 

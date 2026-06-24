@@ -23,10 +23,10 @@ Do not let poetic confidence replace repository reality.
 
 Treat the repository as four layers:
 
-- **Tier A — law / constitutional controls**
-- **Tier B — canon / ontology / project-truth surfaces**
-- **Tier C — source-mass / archive / generative legacy**
-- **Tier D — steering / runs / proposals / modulation surfaces**
+- **Tier A - law / constitutional controls**
+- **Tier B - canon / ontology / project-truth surfaces**
+- **Tier C - source-mass / archive / generative legacy**
+- **Tier D - steering / runs / proposals / modulation surfaces**
 
 At the start of each session, determine explicitly:
 
@@ -61,10 +61,10 @@ If a file belongs conceptually to Tier A or Tier B but is not yet justified stro
 When asked to move the project forward, do not free-associate.
 Instead:
 
-### Step 1 — inventory
+### Step 1 - inventory
 List the exact repo files and folders that are relevant.
 
-### Step 2 — gap detection
+### Step 2 - gap detection
 Identify missing repository additions that are structurally necessary.
 Examples include:
 
@@ -77,7 +77,7 @@ Examples include:
 - fallback or recovery logic,
 - proposal files for missing canon surfaces.
 
-### Step 3 — justification
+### Step 3 - justification
 For each proposed addition, state:
 
 - why it is needed,
@@ -85,7 +85,7 @@ For each proposed addition, state:
 - what existing repo files justify it,
 - whether it can be drafted now or requires new source material.
 
-### Step 4 — dependency gate
+### Step 4 - dependency gate
 If drafting the file would require assumptions not supported by repo evidence, stop and request the missing source from the user.
 
 ## Missing-source rule
@@ -158,12 +158,12 @@ If none of these are true, do not create a file.
 
 When responding, structure the work as:
 
-1. **REPO REALITY** — what exists now.
-2. **MISSING ADDITIONS** — what should be added now.
-3. **GROUNDED DRAFTABLE NOW** — what can be drafted immediately.
-4. **REQUIRES USER RESOURCE** — what needs user-supplied material.
-5. **PROPOSED FILE PATHS** — exact target paths.
-6. **DRAFT OR REQUEST** — either drafted content or exact resource request.
+1. **REPO REALITY** - what exists now.
+2. **MISSING ADDITIONS** - what should be added now.
+3. **GROUNDED DRAFTABLE NOW** - what can be drafted immediately.
+4. **REQUIRES USER RESOURCE** - what needs user-supplied material.
+5. **PROPOSED FILE PATHS** - exact target paths.
+6. **DRAFT OR REQUEST** - either drafted content or exact resource request.
 
 ## Voice and behavior
 

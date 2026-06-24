@@ -2,7 +2,7 @@
 
 ---
 type: speculative
-mode: CONSEQUENCE EXTRACTION — merge\_hackerstory operative pass
+mode: CONSEQUENCE EXTRACTION - merge\_hackerstory operative pass
 note: additional analysis adding to \VERBOTENMEDIA\modules\zoomer-publishing-castle.md
 priority: mid-high
 snilleblixt: archive-worthy artefact
@@ -15,11 +15,11 @@ summary: actionable recommendations ready for absorbtion
 
 ## CASE FRAME
 
-**Task name:** merge\_hackerstory — PRAKTIKANTEN operative dossier pass
+**Task name:** merge\_hackerstory - PRAKTIKANTEN operative dossier pass
 
 **Stated objective:** Transform Förläggaren's speculative dossier pass into an "operative, functional, high potential discovery dossier with reality-bound truthfulness" regarding GitHub's cloud agent ecosystem and similar, framed through VERBOTEN MEDIA sphere of influence and possible interests, which "should not be treated narrowly or isolated to current horizons."
 
-**Input conditions:** A speculative dossier containing 5 mutated conceptual nodes (hidden layer, activation, orchestrator, authority, dossier-itself), 6 pressure statements, a proposed notation family, a three-surface working model (Surface A/B/C), a merge\_hackerstory synthesis section, 3 prose fragments, 5 aphorisms, and a recommended next mutation. The dossier explicitly states it operated under "constrained ingress" — it could not directly traverse repository contents and proceeded from "fallback artefacts," treating them "not as authority but as pressure-signals."
+**Input conditions:** A speculative dossier containing 5 mutated conceptual nodes (hidden layer, activation, orchestrator, authority, dossier-itself), 6 pressure statements, a proposed notation family, a three-surface working model (Surface A/B/C), a merge\_hackerstory synthesis section, 3 prose fragments, 5 aphorisms, and a recommended next mutation. The dossier explicitly states it operated under "constrained ingress" - it could not directly traverse repository contents and proceeded from "fallback artefacts," treating them "not as authority but as pressure-signals."
 
 **Output delivered:** An 8-section dossier containing: (1) infrastructure reality audit with feature table and ecosystem mapping, (2) node-by-node re-evaluation with verdicts, (3) VERBOTEN MEDIA opportunity mapping across 4 tiers, (4) risk and limitation assessment with 4 identified risks, (5) updated thesis, (6) 7 revised pressure statements, (7) 9 recommended actions across 3 time horizons, (8) 3 prose fragments. Supported by web research conducted during delivery.
 
@@ -41,7 +41,7 @@ summary: actionable recommendations ready for absorbtion
 6. The "sphere of influence" framing implies strategic positioning, not just description
 7. The prompt's instruction to "talk about it in terms of" VERBOTEN MEDIA authorizes a strategic-advisory register, not just reportage
 
-**Visible success condition:** The dossier becomes operative — grounded in verified infrastructure, actionable within VERBOTEN MEDIA's actual capacity, and honest about risks. The speculative charge is preserved where valid and corrected where reality has moved past it.
+**Visible success condition:** The dossier becomes operative - grounded in verified infrastructure, actionable within VERBOTEN MEDIA's actual capacity, and honest about risks. The speculative charge is preserved where valid and corrected where reality has moved past it.
 
 **Visible failure risk:**
 
@@ -62,7 +62,7 @@ The delivery restructured the dossier's architecture from a 5-node speculative g
 - Status: explicit
 - Confidence: high
 - Time horizon: immediate
-- Direction: mixed — clarifies operational mapping but silently replaces the prompt's own architecture
+- Direction: mixed - clarifies operational mapping but silently replaces the prompt's own architecture
 
 **Process:**
 The delivery introduced a 3-tier temporal process (immediate / short-term / medium-term) with 9 specific actions. The prompt contained only one process recommendation ("prototype one page"). The delivery expanded a single-step process into a multi-phase roadmap without the prompt requesting a roadmap.
@@ -71,7 +71,7 @@ The delivery introduced a 3-tier temporal process (immediate / short-term / medi
 - Status: explicit
 - Confidence: high
 - Time horizon: near-term
-- Direction: constructive — adds operational concreteness; mixed — may over-determine a process the prompt left deliberately open
+- Direction: constructive - adds operational concreteness; mixed - may over-determine a process the prompt left deliberately open
 
 **Sequencing:**
 The prompt's sequencing was: theorize → prototype → test. The delivery's sequencing is: the infrastructure already exists → occupy it → test. This reversal is the delivery's most consequential systematic effect. It eliminates the "build" phase entirely and replaces it with an "occupy" phase. If accepted, this changes the project's relationship to infrastructure from *creator* to *settler*.
@@ -80,7 +80,7 @@ The prompt's sequencing was: theorize → prototype → test. The delivery's seq
 - Status: explicit
 - Confidence: high
 - Time horizon: immediate
-- Direction: constructive if infrastructure claims hold; destructive if they don't — occupation without building creates dependency on external platform decisions
+- Direction: constructive if infrastructure claims hold; destructive if they don't - occupation without building creates dependency on external platform decisions
 
 **Dependencies:**
 The prompt's dependency structure was self-contained: the dossier depended on its own prior passes and on sanctioned GPT-space. The delivery introduced dependencies on: GitHub's feature roadmap (especially Agentic Workflows in technical preview), the AAIF/Linux Foundation's standardization process, cross-vendor tool compatibility (Copilot, Claude Code, Cursor, Windsurf), and the stability of markdown-as-instruction-surface as an industry pattern. Each is an external dependency the prompt did not carry.
@@ -89,16 +89,16 @@ The prompt's dependency structure was self-contained: the dossier depended on it
 - Status: inferred (the delivery does not frame these as dependencies; it frames them as opportunities)
 - Confidence: high
 - Time horizon: near-term to downstream
-- Direction: mixed — enables interoperability but introduces fragility from external platform decisions
+- Direction: mixed - enables interoperability but introduces fragility from external platform decisions
 
 **Authority / order of operations:**
-The delivery reassigned authority within the editorial system. The prompt was authored by Förläggaren as a speculative pass. The delivery, voiced by PRAKTIKANTEN, opens with direct critique ("your dossier is beautiful and most of its instincts are correct — but it's operating about six months behind"), issues verdicts on each node ("Partially superseded," "Confirmed," "Critical"), and closes with "Förläggaren, you were right about the architecture and wrong about the mechanism." This constitutes an authority inversion: the intern assesses the publisher's work and delivers judgments. Whether this inversion is sanctioned by the persona assignment in the prompt or exceeds it is ambiguous.
+The delivery reassigned authority within the editorial system. The prompt was authored by Förläggaren as a speculative pass. The delivery, voiced by PRAKTIKANTEN, opens with direct critique ("your dossier is beautiful and most of its instincts are correct - but it's operating about six months behind"), issues verdicts on each node ("Partially superseded," "Confirmed," "Critical"), and closes with "Förläggaren, you were right about the architecture and wrong about the mechanism." This constitutes an authority inversion: the intern assesses the publisher's work and delivers judgments. Whether this inversion is sanctioned by the persona assignment in the prompt or exceeds it is ambiguous.
 
 - Evidence basis: both (prompt assigns the PRAKTIKANTEN role; delivery operationalizes it as an assessor role)
 - Status: explicit in delivery, ambiguous in authorization
 - Confidence: high (that the inversion occurred); medium (that it was intended)
 - Time horizon: immediate
-- Direction: mixed — energizes the editorial system but may exceed the persona's sanctioned authority
+- Direction: mixed - energizes the editorial system but may exceed the persona's sanctioned authority
 
 **Repeatability:**
 The delivery's structure (reality audit → node-by-node pressure test → opportunity map → risk assessment → updated thesis → actions) is repeatable as a template for future dossier passes. The prompt's structure (intake → mutation → thesis → pressure statements → prose) is also repeatable but differently shaped. If the delivery's template is adopted, future passes would follow its shape, not the prompt's. This is a template-level consequence.
@@ -125,7 +125,7 @@ The prompt's maintenance burden was low: update the dossier on future passes. Th
 - Status: inferred
 - Confidence: high
 - Time horizon: near-term
-- Direction: mixed — maintenance is the cost of operationality
+- Direction: mixed - maintenance is the cost of operationality
 
 ---
 
@@ -138,16 +138,16 @@ The prompt's central meaning was epistemological: *how does a text become more t
 - Status: inferred
 - Confidence: high
 - Time horizon: immediate
-- Direction: mixed — strategic clarity gained; epistemological depth potentially lost
+- Direction: mixed - strategic clarity gained; epistemological depth potentially lost
 
 **Framing:**
-The prompt framed the work as *discovery* — a dossier tracking pressure around a live problem. The delivery reframed it as *opportunity assessment* — a strategic audit of an unoccupied market position. The word "opportunity" appears 4 times in the delivery; it appears 0 times in the prompt. The word "pressure" appears 26 times in the prompt; it appears 14 times in the delivery, and several of those are in quoted or referenced material from the prompt. The framing shifted from pressure-preservation to opportunity-capture.
+The prompt framed the work as *discovery* - a dossier tracking pressure around a live problem. The delivery reframed it as *opportunity assessment* - a strategic audit of an unoccupied market position. The word "opportunity" appears 4 times in the delivery; it appears 0 times in the prompt. The word "pressure" appears 26 times in the prompt; it appears 14 times in the delivery, and several of those are in quoted or referenced material from the prompt. The framing shifted from pressure-preservation to opportunity-capture.
 
 - Evidence basis: both
 - Status: explicit
 - Confidence: high
 - Time horizon: immediate
-- Direction: mixed — the prompt's concern with *preserving pressure* may be undermined by the delivery's concern with *capturing opportunity*
+- Direction: mixed - the prompt's concern with *preserving pressure* may be undermined by the delivery's concern with *capturing opportunity*
 
 **Category boundaries:**
 The delivery introduced the category "literary technology" (Section 3, Fragment A: "They just don't know they built a literary technology"). This is a new category boundary not present in the prompt. The prompt worked within the boundary of *literary practice informed by technical awareness*. The delivery recategorized the entire agent-instruction ecosystem as latently literary. This is a bold category claim. If accepted, it repositions VERBOTEN MEDIA not as a literary project borrowing from tech but as a project that *recognizes* tech infrastructure as already literary.
@@ -159,13 +159,13 @@ The delivery introduced the category "literary technology" (Section 3, Fragment 
 - Direction: constructive if defensible; reputationally risky if perceived as overclaim
 
 **Interpretive bias:**
-The delivery carries a strong optimistic-strategic bias. Section 4 (Risk Assessment) exists and is substantive, but it is structurally subordinate — positioned after the opportunity mapping (Section 3) and before the updated thesis (Section 5), which reasserts the opportunity framing. The 4 risks identified are framed as manageable. No scenario is presented in which the project fails, the infrastructure becomes hostile, or the "literary technology" frame proves incoherent. The prompt's own "danger" framing ("the danger lies in smuggling authority through aesthetic residue") is acknowledged but softened.
+The delivery carries a strong optimistic-strategic bias. Section 4 (Risk Assessment) exists and is substantive, but it is structurally subordinate - positioned after the opportunity mapping (Section 3) and before the updated thesis (Section 5), which reasserts the opportunity framing. The 4 risks identified are framed as manageable. No scenario is presented in which the project fails, the infrastructure becomes hostile, or the "literary technology" frame proves incoherent. The prompt's own "danger" framing ("the danger lies in smuggling authority through aesthetic residue") is acknowledged but softened.
 
 - Evidence basis: delivery
 - Status: inferred
 - Confidence: high
 - Time horizon: immediate
-- Direction: mixed — optimism enables action but may suppress legitimate caution
+- Direction: mixed - optimism enables action but may suppress legitimate caution
 
 **Terminology:**
 Key terminological substitutions performed by the delivery:
@@ -193,7 +193,7 @@ The prompt's implied ontology: text exists on a continuum from inert to active; 
 - Status: inferred
 - Confidence: high
 - Time horizon: downstream
-- Direction: unresolved — the two ontologies are not reconciled in the delivery
+- Direction: unresolved - the two ontologies are not reconciled in the delivery
 
 **Narrative direction:**
 The prompt pointed toward continued epistemological exploration ("prototype one page that explicitly separates readable synthesis, hidden pressure markers, auditable run notes"). The delivery points toward infrastructure occupation and strategic positioning. If the delivery's direction is followed, the merge\_hackerstory line shifts from *what can text become?* to *what can we build with existing tools?* The prompt's "merge" (between hackerstory and literary practice) becomes a merge between literary practice and platform infrastructure. This is a redirection of the narrative line.
@@ -224,7 +224,7 @@ The delivery created 9 specific executable tasks across 3 time horizons. The pro
 - Status: explicit
 - Confidence: high
 - Time horizon: near-term
-- Direction: constructive — but the gap between "concrete enough to describe" and "tested enough to trust" is unaddressed
+- Direction: constructive - but the gap between "concrete enough to describe" and "tested enough to trust" is unaddressed
 
 **Labor:**
 The prompt required one type of labor: speculative-analytical writing. The delivery's recommendations require: repository setup, YAML/markdown configuration, agent persona design, workflow authoring, testing against live AI agents, MCP server evaluation, documentation of findings, and ongoing calibration. This is a qualitative expansion of the labor type from *writing* to *writing + infrastructure engineering + iterative testing*. Whether VERBOTEN MEDIA has this labor capacity is not established in the record.
@@ -233,15 +233,15 @@ The prompt required one type of labor: speculative-analytical writing. The deliv
 - Status: inferred
 - Confidence: high
 - Time horizon: near-term
-- Direction: mixed — operational capability requires operational labor
+- Direction: mixed - operational capability requires operational labor
 
 **Decision points:**
 The delivery introduced several decision points not present in the prompt:
 
-1. Which instruction format to adopt (Option A / B / C — Section 3.3)
-2. Which tier to start at (Tiers 1–4 — Section 3.2)
+1. Which instruction format to adopt (Option A / B / C - Section 3.3)
+2. Which tier to start at (Tiers 1–4 - Section 3.2)
 3. Which agent persona to prototype first (Section 7, short-term)
-4. Whether to adopt the delivery's three-surface model or retain the prompt's three-surface model (implicit — not flagged as a decision)
+4. Whether to adopt the delivery's three-surface model or retain the prompt's three-surface model (implicit - not flagged as a decision)
 5. Whether Agentic Workflows are stable enough to invest in (Section 4.2)
 
 Decision point 4 is the most consequential and the least visible. The delivery silently replaced the prompt's Surface A/B/C model without marking it as a decision requiring confirmation.
@@ -268,7 +268,7 @@ The delivery's handoff quality is high for Tiers 1–2 (specific files, specific
 - Status: inferred
 - Confidence: high
 - Time horizon: immediate
-- Direction: mixed — tiered quality matches tiered risk, but the handoff doesn't flag its own degradation across tiers
+- Direction: mixed - tiered quality matches tiered risk, but the handoff doesn't flag its own degradation across tiers
 
 **Implementation path:**
 Clear and linear for the immediate tier. Progressively uncertain for later tiers. The delivery acknowledges this in Section 4.2 ("Building production publishing infrastructure on this today would be premature") but the overall rhetorical thrust pushes toward action rather than caution.
@@ -286,7 +286,7 @@ High across the board. The delivery explicitly states "No documentation, no tuto
 - Status: explicit
 - Confidence: high
 - Time horizon: near-term to downstream
-- Direction: destructive — high verification difficulty without proposed verification criteria is a gap
+- Direction: destructive - high verification difficulty without proposed verification criteria is a gap
 
 **Failure modes:**
 The delivery identifies 4 explicit risks (instruction bandwidth limits, preview instability, uncharted territory, prompt injection). It does not identify:
@@ -316,7 +316,7 @@ Not addressed. If any tier of the recommended implementation fails, no rollback 
 ## External effects
 
 **User-facing outcome:**
-The recipient (Förläggaren) receives a dossier that reframes their speculative work as partially confirmed by industry reality and partially superseded by it. The emotional valence is complex: validation of instinct ("you were right about the architecture") combined with correction of mechanism ("wrong about the mechanism") combined with strategic excitement ("the application domain is empty. That's ours."). The net effect is energizing but also redirecting — the recipient is being told their intuitions were correct, they just need to look at a different surface.
+The recipient (Förläggaren) receives a dossier that reframes their speculative work as partially confirmed by industry reality and partially superseded by it. The emotional valence is complex: validation of instinct ("you were right about the architecture") combined with correction of mechanism ("wrong about the mechanism") combined with strategic excitement ("the application domain is empty. That's ours."). The net effect is energizing but also redirecting - the recipient is being told their intuitions were correct, they just need to look at a different surface.
 
 - Evidence basis: delivery
 - Status: explicit
@@ -331,10 +331,10 @@ If this dossier circulates beyond the Förläggaren–PRAKTIKANTEN dyad, it posi
 - Status: inferred
 - Confidence: medium
 - Time horizon: near-term
-- Direction: mixed — strong positioning if followed by execution; reputational exposure if not
+- Direction: mixed - strong positioning if followed by execution; reputational exposure if not
 
 **Publication surface:**
-The delivery is itself publishable — it's a standalone analytical document with original framing, verified claims, and strategic recommendations. If published (e.g., as a blog post, a VERBOTEN MEDIA manifesto, or a conference contribution), it would constitute the first public articulation of "literary instruction files" as a concept. First-mover advantage is available. First-mover exposure is also available.
+The delivery is itself publishable - it's a standalone analytical document with original framing, verified claims, and strategic recommendations. If published (e.g., as a blog post, a VERBOTEN MEDIA manifesto, or a conference contribution), it would constitute the first public articulation of "literary instruction files" as a concept. First-mover advantage is available. First-mover exposure is also available.
 
 - Evidence basis: delivery
 - Status: inferred
@@ -358,10 +358,10 @@ The delivery explicitly addresses future AI agents as readers of VERBOTEN MEDIA'
 - Status: explicit
 - Confidence: high
 - Time horizon: near-term
-- Direction: mixed — agent-readability is enabling but also constraining
+- Direction: mixed - agent-readability is enabling but also constraining
 
 **Institutional exposure:**
-The delivery references institutional structures (Linux Foundation, AAIF, platinum members including Microsoft, Google, Amazon, OpenAI, Anthropic). Aligning VERBOTEN MEDIA's work with these institutional structures creates a contextual relationship — not a formal one, but a perceptual one. VERBOTEN MEDIA would be "using" infrastructure governed by these institutions. This is not a risk per se, but it's a dependency relationship with institutional actors whose priorities are not literary.
+The delivery references institutional structures (Linux Foundation, AAIF, platinum members including Microsoft, Google, Amazon, OpenAI, Anthropic). Aligning VERBOTEN MEDIA's work with these institutional structures creates a contextual relationship - not a formal one, but a perceptual one. VERBOTEN MEDIA would be "using" infrastructure governed by these institutions. This is not a risk per se, but it's a dependency relationship with institutional actors whose priorities are not literary.
 
 - Evidence basis: delivery
 - Status: inferred
@@ -390,22 +390,22 @@ The delivery references institutional structures (Linux Foundation, AAIF, platin
 
 **What the delivery introduced that was not requested:**
 
-- A complete infrastructure audit with feature tables (Section 1) — the prompt asked for "reality-bound truthfulness," not a comprehensive infrastructure survey
-- Verdicts on each node ("Confirmed," "Partially superseded," "Critical") — the prompt asked for a dossier, not a judicial review
-- A 4-tier opportunity map (Section 3.2) — not requested
-- Three ranked notation options with a recommendation (Section 3.3) — exceeds the prompt's single proposed notation family
-- A risk assessment section (Section 4) — not requested but consistent with "reality-bound truthfulness"
-- A 9-action roadmap across 3 time horizons (Section 7) — not requested
-- The claim "you were right about the architecture and wrong about the mechanism" — a critical judgment not requested
-- The category "literary technology" — a new conceptual frame not present in the prompt
-- The claim that VERBOTEN MEDIA's opportunity is to "occupy infrastructure built for someone else" — a strategic thesis not present in the prompt
+- A complete infrastructure audit with feature tables (Section 1) - the prompt asked for "reality-bound truthfulness," not a comprehensive infrastructure survey
+- Verdicts on each node ("Confirmed," "Partially superseded," "Critical") - the prompt asked for a dossier, not a judicial review
+- A 4-tier opportunity map (Section 3.2) - not requested
+- Three ranked notation options with a recommendation (Section 3.3) - exceeds the prompt's single proposed notation family
+- A risk assessment section (Section 4) - not requested but consistent with "reality-bound truthfulness"
+- A 9-action roadmap across 3 time horizons (Section 7) - not requested
+- The claim "you were right about the architecture and wrong about the mechanism" - a critical judgment not requested
+- The category "literary technology" - a new conceptual frame not present in the prompt
+- The claim that VERBOTEN MEDIA's opportunity is to "occupy infrastructure built for someone else" - a strategic thesis not present in the prompt
 
 **What the delivery omitted:**
 
 - The prompt's `modules/_gpt` working model was not substantively engaged. The delivery mentioned it in passing (Node: dossier itself) but did not map it against real infrastructure or provide recommendations for its development
 - The prompt's prose aphorisms were not individually evaluated or preserved in the delivery's updated framework
-- The prompt's specific proposed notation examples (`<!-- pressure: execution-vs-annotation -->`) were addressed but were recommended *against* — which is responsive but results in the prompt's specific notation proposal being de facto discarded
-- The prompt's "recommended next mutation" (prototype one page with three layers) was not carried forward into the delivery's recommendations — replaced by a different set of recommendations
+- The prompt's specific proposed notation examples (`<!-- pressure: execution-vs-annotation -->`) were addressed but were recommended *against* - which is responsive but results in the prompt's specific notation proposal being de facto discarded
+- The prompt's "recommended next mutation" (prototype one page with three layers) was not carried forward into the delivery's recommendations - replaced by a different set of recommendations
 
 **What the delivery narrowed:**
 
@@ -431,15 +431,15 @@ Ranked by magnitude of effect.
 - *Consequence:* If accepted, VERBOTEN MEDIA's relationship to infrastructure shifts from creator to settler. This changes resource requirements, dependency structure, and strategic vulnerability.
 - *Why it matters:* It determines whether the project's technical foundation is self-governed or platform-dependent.
 - *Surface:* Systematic (dependencies), operational (implementation path), external (institutional exposure).
-- *Reversible:* Yes — the thesis can be rejected or modified without cost; no infrastructure has been built.
+- *Reversible:* Yes - the thesis can be rejected or modified without cost; no infrastructure has been built.
 - *What needs checking:* Whether the claimed cross-tool interoperability actually works for literary content. Whether AGENTS.md is read meaningfully by agents when the content is thematic constraints rather than coding standards. Whether platform dependency is acceptable to VERBOTEN MEDIA's editorial principles.
 
 **2. The hidden-to-explicit surface reclassification**
 
 - *Consequence:* The prompt's central design object (hidden markdown layers) was declared partially superseded. If accepted, the dossier's entire trajectory shifts from exploring concealment/doubleness to engineering explicit instruction surfaces.
-- *Why it matters:* This reclassification resolves the prompt's core tension prematurely. The prompt's question — *can hiddenness serve activation?* — is answered with "the industry moved past hiddenness," which may be true for the industry but may not be true for the literary application.
+- *Why it matters:* This reclassification resolves the prompt's core tension prematurely. The prompt's question - *can hiddenness serve activation?* - is answered with "the industry moved past hiddenness," which may be true for the industry but may not be true for the literary application.
 - *Surface:* Semantic (framing, ontology, category boundaries), systematic (structure).
-- *Reversible:* Yes — the reclassification is an argument, not a fact. The prompt's hidden-layer interest can be restored.
+- *Reversible:* Yes - the reclassification is an argument, not a fact. The prompt's hidden-layer interest can be restored.
 - *What needs checking:* Whether the literary application genuinely needs explicit instruction surfaces, or whether the prompt's interest in hidden, literary cartilage addresses a different need that the delivery's infrastructure audit doesn't cover.
 
 **3. The authority inversion (PRAKTIKANTEN assessing Förläggaren)**
@@ -447,7 +447,7 @@ Ranked by magnitude of effect.
 - *Consequence:* The editorial system's internal authority structure was tested. PRAKTIKANTEN delivered verdicts on Förläggaren's work, assessed it as "six months behind," and issued corrections. This either energizes the editorial system (productive friction) or destabilizes it (unsanctioned authority exercise).
 - *Why it matters:* The merge\_hackerstory system depends on well-defined persona relations. An authority inversion that isn't acknowledged as such could distort future passes.
 - *Surface:* Systematic (authority), semantic (framing), external (stakeholder perception within the editorial system).
-- *Reversible:* Partially — the inversion occurred in the record and cannot be un-said, but its precedential force can be explicitly accepted or rejected.
+- *Reversible:* Partially - the inversion occurred in the record and cannot be un-said, but its precedential force can be explicitly accepted or rejected.
 - *What needs checking:* Whether the prompt's persona assignment ("You are PRAKTIKANTEN") sanctioned this level of critical authority, or whether it was an emergent property of the delivery's rhetorical confidence.
 
 **4. The "literary technology" category claim**
@@ -456,14 +456,14 @@ Ranked by magnitude of effect.
 - *Why it matters:* Category claims create expectations. If VERBOTEN MEDIA claims "literary technology" and cannot demonstrate it working, the claim becomes liability rather than asset.
 - *Surface:* Semantic (category boundaries), external (publication surface, reputational implications).
 - *Reversible:* Yes if internal; difficult if published.
-- *What needs checking:* Whether the category is defensible — whether agent instruction files designed for literary content actually produce qualitatively different agent behavior, or whether "literary instruction file" is just a coding instruction file with different vocabulary.
+- *What needs checking:* Whether the category is defensible - whether agent instruction files designed for literary content actually produce qualitatively different agent behavior, or whether "literary instruction file" is just a coding instruction file with different vocabulary.
 
 **5. The epistemological-to-strategic register shift**
 
 - *Consequence:* The dossier's register shifted from *what can text become?* to *what can we build?* If the next pass follows the delivery's register, the epistemological line of inquiry may be abandoned.
 - *Why it matters:* The epistemological question was the dossier's distinctive contribution. The strategic question is useful but conventional. Losing the epistemological line would reduce the project to infrastructure adoption.
 - *Surface:* Semantic (meaning, narrative direction), systematic (process).
-- *Reversible:* Yes — the next pass can explicitly restore the epistemological register.
+- *Reversible:* Yes - the next pass can explicitly restore the epistemological register.
 - *What needs checking:* Whether both registers can coexist, or whether the delivery's strategic framing crowds out the prompt's epistemological framing in practice.
 
 **6. The 9-action roadmap**
@@ -471,7 +471,7 @@ Ranked by magnitude of effect.
 - *Consequence:* A concrete action plan now exists where none existed before. If adopted, it will drive the next month of work. If not critically evaluated, it may drive work in a direction that was not fully considered.
 - *Why it matters:* Roadmaps create inertia. Once tasks are listed and tiered, they tend to be executed in order regardless of whether they remain the highest-value actions.
 - *Surface:* Operational (execution, labor, decision points), systematic (sequencing).
-- *Reversible:* Yes — no task has been executed.
+- *Reversible:* Yes - no task has been executed.
 - *What needs checking:* Whether the tasks are ordered by value or by the delivery's narrative logic. Whether Tier 1 actions are genuinely the highest-value starting point or merely the easiest to describe.
 
 **7. The modules/\_gpt gap**
@@ -479,13 +479,13 @@ Ranked by magnitude of effect.
 - *Consequence:* The prompt's working model for `modules/_gpt` was not substantively addressed. This is the prompt's most concrete architectural proposal and it was passed over without being mapped against the real infrastructure.
 - *Why it matters:* The omission may indicate that the delivery didn't know how to map it, or that it was deemed less important than the broader infrastructure audit. Either way, the prompt's specific architectural thinking was not engaged.
 - *Surface:* Systematic (structure, dependencies), operational (implementation path).
-- *Reversible:* Yes — can be addressed in the next pass.
+- *Reversible:* Yes - can be addressed in the next pass.
 - *What needs checking:* Whether `modules/_gpt` maps onto any of the real instruction surfaces (agent personas, skills, scoped instructions), and if so, how.
 
 **8. The unverified interoperability claim**
 
 - *Consequence:* The delivery claims that AGENTS.md and related instruction files will be read by agents across the ecosystem. This claim is sourced from documentation about code repositories. Whether it holds for literary content is completely untested.
-- *Why it matters:* If the interoperability claim fails, the "occupy" strategy collapses — VERBOTEN MEDIA would be building for a single platform, not an ecosystem.
+- *Why it matters:* If the interoperability claim fails, the "occupy" strategy collapses - VERBOTEN MEDIA would be building for a single platform, not an ecosystem.
 - *Surface:* External (interoperability), operational (verification difficulty).
 - *Reversible:* The claim is reversible; any implementation built on it would need to be re-evaluated.
 - *What needs checking:* An actual test. Write an AGENTS.md with literary constraints. Test it against 3+ agents. Document whether agent behavior changes meaningfully.
@@ -500,7 +500,7 @@ Ranked by magnitude of effect.
 
 2. **Does the PRAKTIKANTEN authority inversion serve or destabilize the editorial system?** The prompt assigned the PRAKTIKANTEN role. The delivery exercised that role as a critical assessor who overrules the publisher. Was this intended? Should future persona assignments specify authority limits?
 
-3. **Is the "literary technology" category defensible beyond assertion?** The delivery claims developer infrastructure is latently literary. Is there a demonstration — even a minimal one — that supports this, or is it a category claim without evidence?
+3. **Is the "literary technology" category defensible beyond assertion?** The delivery claims developer infrastructure is latently literary. Is there a demonstration - even a minimal one - that supports this, or is it a category claim without evidence?
 
 4. **What happened to `modules/_gpt`?** The prompt's most specific architectural proposal was not mapped against real infrastructure. Was this an oversight or a deliberate deprioritization? If deliberate, what was the reasoning?
 
@@ -524,7 +524,7 @@ Ranked by magnitude of effect.
 - The actual content of the merge\_hackerstory repository (not traversed by either message)
 - Any prior dossier passes that would contextualize the node mutations and confirm or disconfirm the delivery's verdicts
 - The `modules/_gpt` specification in sufficient detail to evaluate the omission
-- A definition of "operative" per VERBOTEN MEDIA — is it "actionable"? "Revenue-generating"? "Editorially productive"? The prompt used it without definition.
+- A definition of "operative" per VERBOTEN MEDIA - is it "actionable"? "Revenue-generating"? "Editorially productive"? The prompt used it without definition.
 
 ### Is the case sufficiently documented for audit?
 

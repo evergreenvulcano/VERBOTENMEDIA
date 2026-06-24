@@ -21,7 +21,7 @@ The sections loaded in sequence: WORK. METHOD. ARCHIVE. CONTACT. Each one a door
 
 ## The liturgy of refusal
 
-At the center of the page sat a sentence on black, bone-white and unblinking. Everything around it was restraint. No feed. No stream. No noise. Just serif letters in white and a pink so restrained it barely existed — the color of a blush on a document that had decided not to apologize.
+At the center of the page sat a sentence on black, bone-white and unblinking. Everything around it was restraint. No feed. No stream. No noise. Just serif letters in white and a pink so restrained it barely existed - the color of a blush on a document that had decided not to apologize.
 
 The sections were not content blocks so much as stations. WORK. METHOD. ARCHIVE. CONTACT. Blueprint. Membrane. Iteration. Each term behaved less like navigation than like doctrine.
 
@@ -39,7 +39,7 @@ Förläggaren understood, looking at the page, that a publication system can bec
 
 At the bottom, the footer read like a vow made by someone who had already tested speech to failure:
 
-VERBOTEN MEDIA — no feed, no stream, no noise.
+VERBOTEN MEDIA - no feed, no stream, no noise.
 
 It was not branding. It was operational theology.
 

@@ -1,11 +1,11 @@
-# merge_hackerstory(continuous) — 2026-04-16
+# merge_hackerstory(continuous) - 2026-04-16
 
 Mode: supervised manual run
 Write scope: `modules/_gpt/runs/`
 Policy: `modules/_gpt/index/write-policy.md`
 Primary preference: repo-native source first
 
-## Session 1 — node registration
+## Session 1 - node registration
 
 ### 1. modules/boomer-publishing-house.md
 **dominant motifs:** continuity engine; archive metabolism; automated succession  
@@ -40,7 +40,7 @@ So the archive began the day with five pressures and no final agreement. One sai
 
 By afternoon the file understood that migration was not cleanup. It was consecration. A path could now carry what a chat could only temporarily host. That gave the archive a new seriousness. Not closure. Load-bearing seriousness. Somewhere inside the black-field house the future runs were already rehearsing themselves, waiting for enough structure to become memory.
 
-## Session 2 — new artefacts
+## Session 2 - new artefacts
 
 ### 6. Kometlära (1)
 **dominant motifs:** strategic paranoia; anti-stagnation omens; shared terror  
@@ -52,19 +52,19 @@ By afternoon the file understood that migration was not cleanup. It was consecra
 **tonal vectors:** post-smoothing defiance; operational honesty  
 **myth:** Meaning survives not by stabilizing once and for all, but by fraying without losing its charge.
 
-## Session 2 — node mutations
+## Session 2 - node mutations
 
-### Mutated node A — modules/boomer-publishing-house.md
+### Mutated node A - modules/boomer-publishing-house.md
 **dominant motifs:** continuity engine; migration memory; tension-bearing archive  
 **tonal vectors:** infrastructural tenderness; anti-smoothing resolve  
 **myth:** A migrated source file realizes that its highest duty is not to preserve itself intact, but to keep enough pressure alive that future versions remain answerable to it.
 
-### Mutated node B — verbotenmedia_v0_artefact_incomplete.odt
+### Mutated node B - verbotenmedia_v0_artefact_incomplete.odt
 **dominant motifs:** generative infrastructure; controlled permeability; unfinished governance  
 **tonal vectors:** manifesto voltage; operational honesty  
 **myth:** The infrastructure text learns that openness without membrane becomes sludge, and membrane without openness becomes doctrine.
 
-## Session 2 — micro-ritual
+## Session 2 - micro-ritual
 
 Take one source you trust too much.  
 Place beside it one unstable text that refuses premature coherence.  
@@ -75,7 +75,7 @@ Keep both names visible while you revise one paragraph only.
 Stop as soon as the paragraph becomes more tense and more legible at once.  
 That is enough pressure for one day.
 
-## Ongoing addition — homepage blurb
+## Ongoing addition - homepage blurb
 
 This is not an archive of conclusions.
 It is a continuity surface for texts that remain answerable to one another.

@@ -61,7 +61,7 @@ avgöra om det har status nog att representeras.
 
 ## Publicerat metodobjekt
 
-[Rundanläggningen — J.S / Wise Consultant](../writings/rundanlaggningen-js-wise-consultant.md)
+[Rundanläggningen - J.S / Wise Consultant](../writings/rundanlaggningen-js-wise-consultant.md)
 är en gemensam webb- och appbeställning i två röster. J.S öppnar ärendet och
 Wise Consultant formaliserar det till produktprincip, rundmodell,
 acceptanskriterier och avgränsad första fas. Texten publiceras som artikel och

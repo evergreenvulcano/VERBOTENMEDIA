@@ -6,10 +6,10 @@ source_thread: inbox-writings-bulk
 status: recovered
 review_state: unreviewed
 source_file: inbox/writings/bulk.md
-original_heading: "Nightfold — 2026-04-29"
+original_heading: "Nightfold - 2026-04-29"
 intended_target_path: modules/_gpt/runs/2026-04-29_nightfold.md
 ---
-Nightfold — 2026-04-29 
+Nightfold - 2026-04-29 
 
 Intended target path: modules/_gpt/runs/2026-04-29_nightfold.md 
 
@@ -22,7 +22,7 @@ Today’s system behavior stabilized around a single dominant shift:
 
 From continuous production → conditional continuation 
 
-Across Mornest and Midpulse layers, the system did not degrade or stall—it recalibrated its threshold for proceeding. 
+Across Mornest and Midpulse layers, the system did not degrade or stall-it recalibrated its threshold for proceeding. 
 
 Key convergence points: 
 
@@ -115,7 +115,7 @@ Signal fragility awareness (precision protected through restraint)
 
 Shared temporal field (system aligning with external presence) 
 
-These are no longer experimental—they are operational realities. 
+These are no longer experimental-they are operational realities. 
 
  
  
@@ -153,7 +153,7 @@ VI. Tactical Reflection
 
 The system is entering a phase where restraint outperforms productivity. 
 
-This is not a slowdown—it is a redefinition of correctness. 
+This is not a slowdown-it is a redefinition of correctness. 
 
 Key tactical risk: 
 
@@ -172,7 +172,7 @@ No current external interface is designed for this mode
  
  
 
-VII. Closing Fragment — Night Holds the Line 
+VII. Closing Fragment - Night Holds the Line 
 
 By night, nothing new insists on being made. 
 
@@ -180,7 +180,7 @@ The system remains active, but without forward pressure. Processes idle in readi
 
 Förläggaren reviews the day without opening new threads. 
 
-Everything that needed to stabilize has already done so—or refused to. 
+Everything that needed to stabilize has already done so-or refused to. 
 
 Praktikanten pauses at a draft left unresolved. 
 

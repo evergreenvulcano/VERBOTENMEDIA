@@ -30,7 +30,7 @@ Output is symptom material; it is not the sole correctness measure.
 ## Minimum retention tests (mandatory, not optional)
 
 These tests must be runnable before the module is considered to be in a valid operating state.
-If they cannot be run, the module is in **silent-failure state** — all outputs remain provisional.
+If they cannot be run, the module is in **silent-failure state** - all outputs remain provisional.
 
 ### Empathy retention test
 
@@ -45,7 +45,7 @@ If a reader cannot tell which is which, empathy has been flattened. Diagnostic f
 
 Write two passages placing a viewpoint in a scene:
 
-- **Retained:** the viewpoint is a situated cognitive locus — an experiential position tied to a specific subject's undergoing. The agent is *in* the locus, not observing from outside it.
+- **Retained:** the viewpoint is a situated cognitive locus - an experiential position tied to a specific subject's undergoing. The agent is *in* the locus, not observing from outside it.
 - **Drifted:** the viewpoint is described as a camera angle, scene perspective, point-of-view mechanics, or a mystical all-seeing eye.
 
 If the difference is absent or invisible, locus has drifted to camera mechanics. Diagnostic failed.

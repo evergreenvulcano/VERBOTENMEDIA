@@ -1,4 +1,4 @@
-# Ritual Prompt — Skull Migration
+# Ritual Prompt - Skull Migration
 
 This note records the ceremonial instruction-set that opens Del 8.
 

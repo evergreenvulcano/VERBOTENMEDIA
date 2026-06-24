@@ -1,5 +1,5 @@
 ---
-title: "Förlagsdeckaren — Del 3"
+title: "Förlagsdeckaren - Del 3"
 date: 2023-07
 summary: "Del 3 av Förlagsdeckaren."
 type: literary

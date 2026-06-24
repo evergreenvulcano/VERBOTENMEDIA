@@ -1,6 +1,6 @@
 # Agent Instruction Sheets Source Note
 
-- Source name: "Förlagsdeckaren — Agent Instruction Sheets.docx"
+- Source name: "Förlagsdeckaren - Agent Instruction Sheets.docx"
 - Derived file: `agent-instruction-sheets.md`
 - Source role: runtime source packet
 - Authority level: developmental, non-canon, non-public

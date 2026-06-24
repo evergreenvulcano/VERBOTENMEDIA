@@ -38,7 +38,7 @@ forbidden_use: Drive import, mascot invention, prose rewrite, source-anchor dump
 next_human_decision: decide only whether a later visual edition is useful
 related_public_page: xprmnt-zn.html
 review_dependency: public writings and source/runtime boundary review
-forlagsdeckaren_dependency: yes — relation to Förlagsdeckaren must be thought in parallel
+forlagsdeckaren_dependency: yes - relation to Förlagsdeckaren must be thought in parallel
 stop_condition: source boundary unclear or representation starts replacing literary work
 ```
 
@@ -56,7 +56,7 @@ forbidden_use: private mail publication, Drive path exposure, proof-of-concept d
 next_human_decision: decide only whether additional representative method objects should be linked
 related_public_page: xprmnt-zn.html
 review_dependency: repo-grounding and consultant-source boundary review
-forlagsdeckaren_dependency: yes — consultative role must be read beside Förlagsdeckaren machinery
+forlagsdeckaren_dependency: yes - consultative role must be read beside Förlagsdeckaren machinery
 stop_condition: role starts speaking as canon without review
 ```
 
@@ -74,7 +74,7 @@ forbidden_use: treating the ceremony as changelog, roadmap, or final doctrine
 next_human_decision: none required for current publication; later revision remains possible
 related_public_page: banketter.html
 review_dependency: paste exists; human/GPT formalization; provenance note; static render decision
-forlagsdeckaren_dependency: possible — depends on ceremony relation to publishing-world chronology
+forlagsdeckaren_dependency: possible - depends on ceremony relation to publishing-world chronology
 stop_condition: material absent or provenance unclear
 ```
 
@@ -92,6 +92,6 @@ forbidden_use: generated bankett prose, fake excerpt, protected-source import, p
 next_human_decision: locate source material, confirm provenance, and run human/GPT review before render
 related_public_page: banketter.html
 review_dependency: source exists; human/GPT formalization; provenance note; static render decision
-forlagsdeckaren_dependency: yes — relation to Efterhandsmaskinen and publishing-world chronology must be preserved
+forlagsdeckaren_dependency: yes - relation to Efterhandsmaskinen and publishing-world chronology must be preserved
 stop_condition: source boundary unclear or candidate is confused with erotiska satelliter
 ```

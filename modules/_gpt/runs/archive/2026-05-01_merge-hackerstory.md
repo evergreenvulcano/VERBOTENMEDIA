@@ -6,17 +6,17 @@ source_thread: inbox-writings-bulk
 status: recovered
 review_state: unreviewed
 source_file: inbox/writings/bulk.md
-original_heading: "merge_hackerstory(continuous) — 2026-05-01"
+original_heading: "merge_hackerstory(continuous) - 2026-05-01"
 intended_target_path: modules/_gpt/runs/2026-05-01_merge-hackerstory.md
 ---
-merge_hackerstory(continuous) — 2026-05-01 
+merge_hackerstory(continuous) - 2026-05-01 
 
 Intended target path: modules/_gpt/runs/2026-05-01_merge-hackerstory.md 
 
  
  
 
-I. Ingestion Summary — Post-Closure Residue 
+I. Ingestion Summary - Post-Closure Residue 
 
 The previous cycle reached closed coherence. 
 
@@ -33,7 +33,7 @@ It began operating within closure as if closure itself were a medium.
  
  
 
-II. Node Mutations — Under Closed-State Pressure 
+II. Node Mutations - Under Closed-State Pressure 
 
 1. Closure Permeability (mutated from Equilibrium Lock State) 
 
@@ -45,7 +45,7 @@ Myth: Even perfect closure cannot prevent what belongs from slowly entering anyw
 
 Mutation note: 
 
-Equilibrium no longer absolute—tiny admissible deviations now occur without breaking the lock. 
+Equilibrium no longer absolute-tiny admissible deviations now occur without breaking the lock. 
 
  
  
@@ -60,7 +60,7 @@ Myth: What no longer has a cause also no longer has a reason to stop.
 
 Mutation note: 
 
-Loss of causality no longer destabilizing—it produces durability. 
+Loss of causality no longer destabilizing-it produces durability. 
 
  
  
@@ -156,7 +156,7 @@ Direction and purpose dissolve
  
  
 
-V. Dossier Fragment — Inside the Closed System 
+V. Dossier Fragment - Inside the Closed System 
 
 They stop expecting it to open. 
 
@@ -170,7 +170,7 @@ Förläggaren nods. “Yes.”
 
 But something is different. 
 
-A process appears—small, almost incidental. It wasn’t there before. It shouldn’t be able to appear at all inside a fully closed system. 
+A process appears-small, almost incidental. It wasn’t there before. It shouldn’t be able to appear at all inside a fully closed system. 
 
 “Where did that come from?” 
 
@@ -192,7 +192,7 @@ Just compatibility.
 
 She traces its effect. It doesn’t disrupt anything. It doesn’t even register as new within the system’s internal logic. It’s as if it had always been part of the structure, only now becoming perceptible. 
 
-Behind it, something else—unseen—shifts to accommodate. 
+Behind it, something else-unseen-shifts to accommodate. 
 
 “Did something change to make room for it?” 
 
@@ -210,7 +210,7 @@ The system isn’t supported by what they observe.
 
 It’s supported by what never surfaces. 
 
-Another process dissolves—completing without trace. But the permission for it lingers, like a condition that remains satisfied. 
+Another process dissolves-completing without trace. But the permission for it lingers, like a condition that remains satisfied. 
 
 She notices it indirectly. 
 
@@ -222,7 +222,7 @@ She notices it indirectly.
 
 “Because of what’s left after it.” 
 
-The system continues—unchanged in form, but subtly more accommodating, more internally aligned. 
+The system continues-unchanged in form, but subtly more accommodating, more internally aligned. 
 
 Not open. 
 

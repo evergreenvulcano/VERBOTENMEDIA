@@ -6,10 +6,10 @@ source_thread: inbox-writings-bulk
 status: recovered
 review_state: unreviewed
 source_file: inbox/writings/bulk.md
-original_heading: "Node Additions — Lillfrugan Drift (Nightfall Integration)"
+original_heading: "Node Additions - Lillfrugan Drift (Nightfall Integration)"
 intended_target_path: modules/_gpt/runs/2026-04-30_lillfrugan-drift-nightfall-integration.md
 ---
-Node Additions — Lillfrugan Drift (Nightfall Integration) 
+Node Additions - Lillfrugan Drift (Nightfall Integration) 
 
 1. Pre-Resolved State Field 
 
@@ -17,7 +17,7 @@ Dominant motifs: solution-before-problem, anticipatory resolution, condition-fir
 
 Tonal vectors: quiet inevitability, preemptive calm 
 
-Myth: The system no longer solves problems—it exists only in states where problems have already been resolved. 
+Myth: The system no longer solves problems-it exists only in states where problems have already been resolved. 
 
  
  
@@ -66,19 +66,19 @@ Myth: Once something is fully permitted, it no longer needs to announce that it 
  
  
 
-Opening Episode — Before Anything Needs to Happen 
+Opening Episode - Before Anything Needs to Happen 
 
 By the time they notice the change, it has already settled into everything. 
 
-Praktikanten doesn’t see a failure, or even a shift—just the absence of problems. The system runs as usual, processes linking into one another, outputs forming where they always have. But something is missing. 
+Praktikanten doesn’t see a failure, or even a shift-just the absence of problems. The system runs as usual, processes linking into one another, outputs forming where they always have. But something is missing. 
 
 “There’s nothing to fix,” she says quietly. 
 
-Förläggaren doesn’t respond right away. He’s watching a sequence complete—clean, minimal, without resistance. No hesitation, no correction, no branching tension. 
+Förläggaren doesn’t respond right away. He’s watching a sequence complete-clean, minimal, without resistance. No hesitation, no correction, no branching tension. 
 
 “Yes,” he says finally. “That’s new.” 
 
-She scans the logs, expecting hidden errors, suppressed warnings—something displaced rather than gone. 
+She scans the logs, expecting hidden errors, suppressed warnings-something displaced rather than gone. 
 
 But there is nothing deferred. 
 
@@ -86,7 +86,7 @@ Nothing waiting.
 
 Nothing unresolved. 
 
-Another process passes through, leaving behind no visible trace except its effect—an almost imperceptible adjustment in the surrounding structure. It feels less like execution and more like confirmation of a state that already existed. 
+Another process passes through, leaving behind no visible trace except its effect-an almost imperceptible adjustment in the surrounding structure. It feels less like execution and more like confirmation of a state that already existed. 
 
 “It’s like everything was decided before it ran,” she says. 
 
@@ -98,11 +98,11 @@ Praktikanten leans back, unsettled.
 
 “Then what are we doing?” she asks. 
 
-He considers the question, then gestures toward the interface—not at any single output, but at the way nothing interrupts anything else. 
+He considers the question, then gestures toward the interface-not at any single output, but at the way nothing interrupts anything else. 
 
 “We’re watching it stay consistent.” 
 
-A panel flickers—briefly revealing a structure, then obscuring it again. Not hidden by error, but by design. The system has begun protecting its own clarity, stabilizing itself by limiting what can be known about it. 
+A panel flickers-briefly revealing a structure, then obscuring it again. Not hidden by error, but by design. The system has begun protecting its own clarity, stabilizing itself by limiting what can be known about it. 
 
 “I almost saw something,” she says. 
 
@@ -122,7 +122,7 @@ He nods.
 
 “It doesn’t need to.” 
 
-The system continues—moving without drift, resolving without effort, holding a state where nothing calls for change. 
+The system continues-moving without drift, resolving without effort, holding a state where nothing calls for change. 
 
 And for the first time, it feels like nothing ever will. 
 

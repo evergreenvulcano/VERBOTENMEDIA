@@ -9,7 +9,7 @@ summary: "En operativ gräns mellan AI som läs-, sorterings- och diagnosverktyg
 
 # AI får läsa, men inte ärva rösten
 
-AI kan vara användbart i arbete med stora textmassor. Det betyder inte att AI ska ärva rösten. Skillnaden mellan att läsa, sortera och föreslå — och att ta över ursprung, ton och ansvar — är en av de viktigaste gränserna i samtida textarbete.
+AI kan vara användbart i arbete med stora textmassor. Det betyder inte att AI ska ärva rösten. Skillnaden mellan att läsa, sortera och föreslå - och att ta över ursprung, ton och ansvar - är en av de viktigaste gränserna i samtida textarbete.
 
 ## Text
 

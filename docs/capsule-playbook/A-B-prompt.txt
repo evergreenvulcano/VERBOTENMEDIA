@@ -1,4 +1,4 @@
-# A/B-LÄSNING — ESSÄPROMPTTEST
+# A/B-LÄSNING - ESSÄPROMPTTEST
 
 ## A-version
 filename.file

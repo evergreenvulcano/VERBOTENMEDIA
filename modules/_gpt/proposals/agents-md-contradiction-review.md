@@ -7,7 +7,7 @@
 
 ---
 
-## 1. `modules/_gpt/index/start-handoff.md` — required load order omits AGENTS.md
+## 1. `modules/_gpt/index/start-handoff.md` - required load order omits AGENTS.md
 
 **Relevant section:** "Required load order"
 
@@ -27,7 +27,7 @@
 
 ---
 
-## 2. `modules/_gpt/index/write-policy.md` — authority chain does not reference AGENTS.md
+## 2. `modules/_gpt/index/write-policy.md` - authority chain does not reference AGENTS.md
 
 **Relevant section:** "Authority order"
 
@@ -48,7 +48,7 @@
 
 ---
 
-## 3. `.github/copilot-instructions.md` — article pipeline does not include inbox staging step
+## 3. `.github/copilot-instructions.md` - article pipeline does not include inbox staging step
 
 **Relevant section:** "Article pipeline"
 
@@ -69,7 +69,7 @@
 
 ---
 
-## 4. `static-pages/experimental-sandbox/` — no inbox staging path exists
+## 4. `static-pages/experimental-sandbox/` - no inbox staging path exists
 
 **Relevant sections:** `AGENTS.md` § Repo map ("static-pages/experimental-sandbox/ are public markdown content surfaces"); `inbox/writings/README.md` promotion target (`static-pages/writings/` only)
 
@@ -83,7 +83,7 @@
 
 ---
 
-## 5. `docs/EDITORIAL_SYSTEM.md` — "normalized article files" tier does not name inbox/writings/ as the location
+## 5. `docs/EDITORIAL_SYSTEM.md` - "normalized article files" tier does not name inbox/writings/ as the location
 
 **Relevant section:** "Normalized article files"
 
@@ -101,7 +101,7 @@ Normalized article files are the transition layer between development and public
 
 ---
 
-## 6. `modules/_gpt/index/agent-prompt.md` — four-tier system is unreconciled with AGENTS.md five-stage lifecycle
+## 6. `modules/_gpt/index/agent-prompt.md` - four-tier system is unreconciled with AGENTS.md five-stage lifecycle
 
 **Relevant section:** "Operating law" (Tier A / B / C / D)
 
@@ -115,9 +115,9 @@ Normalized article files are the transition layer between development and public
 
 ---
 
-## 7. `modules/_gpt/proposals/README.md` — header frames folder as internal to _gpt; AGENTS.md frames it as outward-facing
+## 7. `modules/_gpt/proposals/README.md` - header frames folder as internal to _gpt; AGENTS.md frames it as outward-facing
 
-**Relevant section:** Header line — "Patch-ready drafts for `modules/_gpt/`."
+**Relevant section:** Header line - "Patch-ready drafts for `modules/_gpt/`."
 
 **Possible contradiction:** The README header implies the proposals folder is internal to the `_gpt` system. `AGENTS.md` describes it as "proposal space for outward-facing candidate changes." The body of the README is consistent with AGENTS.md (candidates that could be promoted into canon), but the header could mislead an agent into treating proposals as private _gpt artifacts rather than staged outward candidates.
 

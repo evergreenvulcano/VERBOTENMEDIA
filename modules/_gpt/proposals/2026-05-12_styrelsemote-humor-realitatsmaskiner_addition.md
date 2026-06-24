@@ -518,10 +518,10 @@ These anchors informed the formatbank and can be reread for future refinement:
 - `apps/research-ops/README.md`
 - `modules/_DUJAG/admission-gate.md`
 - `modules/_DUJAG/underinstance-contracts.md`
-- `modules/writings/The Registry as a Crime Scene — GPO Forensics for Non-Domain Machines.md`
-- `modules/writings/Task Scheduler Forensics — What Your Scheduled Tasks Reveal About Your Machine.md`
-- `modules/writings/Pester-Powered Infrastructure Validation Suite — Testing Your Own Machine Like Production.md`
-- `modules/writings/The 11-Megabyte Self — What Your Data Export Says About Digital Personhood.md`
+- `modules/writings/The Registry as a Crime Scene - GPO Forensics for Non-Domain Machines.md`
+- `modules/writings/Task Scheduler Forensics - What Your Scheduled Tasks Reveal About Your Machine.md`
+- `modules/writings/Pester-Powered Infrastructure Validation Suite - Testing Your Own Machine Like Production.md`
+- `modules/writings/The 11-Megabyte Self - What Your Data Export Says About Digital Personhood.md`
 
 ## Promotion Note
 

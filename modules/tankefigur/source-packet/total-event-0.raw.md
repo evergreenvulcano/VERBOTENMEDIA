@@ -9,7 +9,7 @@
 
 Radically subjective fiction with generative output: specific enough to take risks, portable enough to be used by others.
 
-See: the thought-figure (there can be as many as needed), straight and long from a bird’s-eye perspective, gaze steady inside its closed tent. The square tent cloth is its fragile shell, but also its adventurous character. This tent, this square, is also inside another square—inside another square—membrane on membrane on membrane: they relate to one another, yet are sufficient in themselves. On the corners of the squares sketched on the white sheet, write the words that constitute the world of the thought-figure. See: the squares are like wavelengths—among other things mental—and they pulse out from the thought-figure’s frontal bone like a comic-book villain.
+See: the thought-figure (there can be as many as needed), straight and long from a bird’s-eye perspective, gaze steady inside its closed tent. The square tent cloth is its fragile shell, but also its adventurous character. This tent, this square, is also inside another square-inside another square-membrane on membrane on membrane: they relate to one another, yet are sufficient in themselves. On the corners of the squares sketched on the white sheet, write the words that constitute the world of the thought-figure. See: the squares are like wavelengths-among other things mental-and they pulse out from the thought-figure’s frontal bone like a comic-book villain.
 
 The square-stream ends somewhere only to return, as if the thought-figure were a portal or a transitional phase. The thought-figure is so unavoidably resonant with the World that… it is a work.
 
@@ -25,7 +25,7 @@ Another aspect of the story: hyperindividualism embodied in a concrete art proje
 
 They said individualism was spreading and theorized about how it was harmful and why it should be resisted, more than 50 years ago. Here we are now, and insofar as art resonates with others we have proof that it really exists in us in a wholly new way than before; deeper and deeper culture drills into psyches.
 
-To always be there, on sufferance. On the other hand—how sick, how sick: believe it or not, the one who rejects weight in favor of sloth runs the risk of “being ironic”!
+To always be there, on sufferance. On the other hand-how sick, how sick: believe it or not, the one who rejects weight in favor of sloth runs the risk of “being ironic”!
 
 It went to hell
 
@@ -69,7 +69,7 @@ Passes through embodied experience
 
 Waits until the clock strikes
 
-How it rings out, rattles in plastic—the design
+How it rings out, rattles in plastic-the design
 
 Would reproduce in different registers
 
@@ -87,17 +87,17 @@ One tries to dress this way or that
 
 And hopes to be spared
 
-More on the story: an initial stimulant-trigger paired with a catalytic encounter with a philosopher-text in the early-2010s—an utterly wild practice detonated. In the artifacts, a clear before-and-after appears: the poetic subject starts running with its vision instead of quietly observing it and mirroring unclear feeling-streams against its being. Once that leap is taken, it no longer mirrors; it becomes certain it can, through language, deconstruct every ridiculous proof that life is worth living.
+More on the story: an initial stimulant-trigger paired with a catalytic encounter with a philosopher-text in the early-2010s-an utterly wild practice detonated. In the artifacts, a clear before-and-after appears: the poetic subject starts running with its vision instead of quietly observing it and mirroring unclear feeling-streams against its being. Once that leap is taken, it no longer mirrors; it becomes certain it can, through language, deconstruct every ridiculous proof that life is worth living.
 
-And somewhere in refusal the poetic subject is right: if a system produces that verdict, then the only viable move is to incorporate the verdict’s structure as material—otherwise the apparatus lies. Somewhere in the follow-through, the clipped omnipotent stance breaks into song: fictional extreme-song of the kind idols perform. The poetic subject detects quality as a signal state; if it has occurred once under these constraints, it can recur under renewed conditions.
+And somewhere in refusal the poetic subject is right: if a system produces that verdict, then the only viable move is to incorporate the verdict’s structure as material-otherwise the apparatus lies. Somewhere in the follow-through, the clipped omnipotent stance breaks into song: fictional extreme-song of the kind idols perform. The poetic subject detects quality as a signal state; if it has occurred once under these constraints, it can recur under renewed conditions.
 
 After that, the texts run at full speed, and each time the momentum fades due to reality-friction or input scarcity, a new philosopher-text steps in; a few pages from any of several traditions and the fireworks begin again, and the poetic-subject spirit is re-amplified in its conviction that there is value in language-generation. The poetic subject experiences rolling with titans and “having something” worth preserving. But, as with everything not-yet-embodied, resistance appears: the body-function turns into an opposing constraint. External interventions and self-modulation enter the loop (chemistry, meditation protocols, embodied psychology as technique).
 
-And after a collapse at the edge of the apparatus’s overload—at a threshold where escalation would not be an absurd leap but a destructive one—the poetic subject withdraws while the body-function takes precedence: a process as slow as the idealist art-process. Time-marker: mid-2010s.
+And after a collapse at the edge of the apparatus’s overload-at a threshold where escalation would not be an absurd leap but a destructive one-the poetic subject withdraws while the body-function takes precedence: a process as slow as the idealist art-process. Time-marker: mid-2010s.
 
-And, as a preservation strategy, the poetic subject is set aside—slowly, then finally (late-2010s), deliberately forgotten. Governance shifts: lower-level maintenance loops override narrative-production; higher-level intention rides along and misfires on trivialities until the pendulum turns back again. To see certain actions as preservation strategy is a grounding—another narratological spell that counteracts competing perspectives: those forced by the maintenance layer’s unavoidable inputs, and those the poetic subject admits sparingly to rebalance its position in abstract rhizome-space.
+And, as a preservation strategy, the poetic subject is set aside-slowly, then finally (late-2010s), deliberately forgotten. Governance shifts: lower-level maintenance loops override narrative-production; higher-level intention rides along and misfires on trivialities until the pendulum turns back again. To see certain actions as preservation strategy is a grounding-another narratological spell that counteracts competing perspectives: those forced by the maintenance layer’s unavoidable inputs, and those the poetic subject admits sparingly to rebalance its position in abstract rhizome-space.
 
-This journey can be rewritten from any number of angles. The hero’s journey is a cultural trope that does not serve the work, and it is not what the context needs: an individual ascent—toward what, exactly? Even if entropy is locally reduced, entropy has operated; nothing is redeemed by that fact alone. The ground of the final product must be vast in quantity and precision, not satisfied with the pleasant sensation of revenge or self-congratulation. The whole involves distributed cost—borne by many more than any single figure.
+This journey can be rewritten from any number of angles. The hero’s journey is a cultural trope that does not serve the work, and it is not what the context needs: an individual ascent-toward what, exactly? Even if entropy is locally reduced, entropy has operated; nothing is redeemed by that fact alone. The ground of the final product must be vast in quantity and precision, not satisfied with the pleasant sensation of revenge or self-congratulation. The whole involves distributed cost-borne by many more than any single figure.
 
 ## Hermeneutics
 
@@ -127,7 +127,7 @@ Example: APIs, communication protocols, electrical connectors.
 
 So technically:
 
-An interface is the formalized interaction boundary of a system, representing the externally accessible part of a black box—visible to humans, other software, or hardware—through which inputs are accepted and outputs are delivered.
+An interface is the formalized interaction boundary of a system, representing the externally accessible part of a black box-visible to humans, other software, or hardware-through which inputs are accepted and outputs are delivered.
 
 Formal black-box interpretation
 
@@ -185,9 +185,9 @@ user experience (UI),
 
 hardware engineering,
 
-cybernetics and systems theory — where your “surface of the black box” idea actually originates.
+cybernetics and systems theory - where your “surface of the black box” idea actually originates.
 
-Great — let’s continue across the main technical domains where the term “interface” has a precise meaning, while keeping your black-box surface idea as the conceptual anchor. In each field, the interface is the part of the system that is intentionally exposed so interaction can occur without revealing the internal mechanism.
+Great - let’s continue across the main technical domains where the term “interface” has a precise meaning, while keeping your black-box surface idea as the conceptual anchor. In each field, the interface is the part of the system that is intentionally exposed so interaction can occur without revealing the internal mechanism.
 
 Interfaces Across Technical Domains
 
@@ -225,7 +225,7 @@ Sensor inputs to an automated system
 
 Data feed into a model
 
-Here, visibility is optional — the interface may be conceptual rather than visual.
+Here, visibility is optional - the interface may be conceptual rather than visual.
 
 2. Software Engineering (Programming Interfaces)
 
@@ -493,7 +493,7 @@ An interface is the externally accessible interaction surface of a system, speci
 
 Important Insight (Often Missed)
 
-The interface is not just a surface — it is also a contract.
+The interface is not just a surface - it is also a contract.
 
 Technically an interface contains three things:
 

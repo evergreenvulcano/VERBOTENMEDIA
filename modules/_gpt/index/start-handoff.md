@@ -1,4 +1,4 @@
-# Start Handoff — Clean Chat Initialization
+# Start Handoff - Clean Chat Initialization
 
 This file is the minimal entry point for starting a new ChatGPT session without losing workflow integrity.
 

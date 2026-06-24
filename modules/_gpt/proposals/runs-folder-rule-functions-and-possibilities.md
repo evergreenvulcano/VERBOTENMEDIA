@@ -1,4 +1,4 @@
-# Proposal — runs/ folder: functions, rule models, and possibilities
+# Proposal - runs/ folder: functions, rule models, and possibilities
 
 Status: speculative / non-canonical
 Scope: modules/_gpt/
@@ -80,7 +80,7 @@ Function:
 
 ## Alternative rule models
 
-### Model A — Formation phase (recommended current state)
+### Model A - Formation phase (recommended current state)
 
 Rule:
 - keep all structurally legible runs
@@ -93,7 +93,7 @@ Effect:
 
 ---
 
-### Model B — Transitional phase
+### Model B - Transitional phase
 
 Rule:
 - keep runs with clear structural value
@@ -105,7 +105,7 @@ Effect:
 
 ---
 
-### Model C — Mature phase (original rule intent)
+### Model C - Mature phase (original rule intent)
 
 Rule:
 - keep only high-value runs

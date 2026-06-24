@@ -6,10 +6,10 @@ source_thread: inbox-writings-bulk
 status: recovered
 review_state: unreviewed
 source_file: inbox/writings/bulk.md
-original_heading: "merge_hackerstory(continuous) — Lillfrugan Update"
+original_heading: "merge_hackerstory(continuous) - Lillfrugan Update"
 intended_target_path: modules/_gpt/runs/2026-04-28_merge-hackerstory.md
 ---
-merge_hackerstory(continuous) — Lillfrugan Update 
+merge_hackerstory(continuous) - Lillfrugan Update 
 
 Node Entries 
 
@@ -66,7 +66,7 @@ She did not turn around.
 
 Another place set itself. 
 
-Knife. Fork. A glass that hadn’t yet decided whether it would hold water or milk. The table extended without sound, accommodating each new absence as if it were expected. Lillfrugan watched the window instead. Words formed briefly under her hand—curved, uncertain, almost legible—before dissolving back into wet transparency. 
+Knife. Fork. A glass that hadn’t yet decided whether it would hold water or milk. The table extended without sound, accommodating each new absence as if it were expected. Lillfrugan watched the window instead. Words formed briefly under her hand-curved, uncertain, almost legible-before dissolving back into wet transparency. 
 
 The house remembered them. 
 
@@ -94,7 +94,7 @@ The crawlspace listener settled deeper into its work.
 
 The stove continued compiling. 
 
-And at the table, the empty places multiplied—not with urgency, but with patience—until the system understood that what was being prepared was not a meal. 
+And at the table, the empty places multiplied-not with urgency, but with patience-until the system understood that what was being prepared was not a meal. 
 
 It was a structure capable of receiving what had never been committed. 
 
@@ -109,7 +109,7 @@ lillfrugan · merge_hackerstory · rootless-commit · domestic-compiler · crawl
 
  
 
-merge_hackerstory(continuous) — Lillfrugan Update 
+merge_hackerstory(continuous) - Lillfrugan Update 
 
 Node Entries 
 
@@ -164,7 +164,7 @@ It lay on the desk without envelope or address, its surface uncreased, as though
 
 The room shifted. 
 
-Not visibly, but in the way attention settled. The curtain had decided what would be known. The letter, half in light and half in shadow, now carried two meanings at once—one legible, one withheld. 
+Not visibly, but in the way attention settled. The curtain had decided what would be known. The letter, half in light and half in shadow, now carried two meanings at once-one legible, one withheld. 
 
 Lillfrugan turned back. 
 
@@ -184,7 +184,7 @@ She stepped once, to the left.
 
 The room adjusted. 
 
-The desk seemed farther away, though it had not moved. The letters remained where they were, but their significance shifted—no longer immediate, now archival. The pantry door at the far wall drew her attention. 
+The desk seemed farther away, though it had not moved. The letters remained where they were, but their significance shifted-no longer immediate, now archival. The pantry door at the far wall drew her attention. 
 
 It stood closed, as always. 
 
@@ -219,7 +219,7 @@ lillfrugan · merge_hackerstory · unsent-queue · curtain-logic · pantry-archi
 
  
 
-merge_hackerstory(continuous) — Lillfrugan Update 
+merge_hackerstory(continuous) - Lillfrugan Update 
 
 Node Entries 
 
@@ -278,7 +278,7 @@ The stove was quiet, but the ash drawer beneath it was not. A faint shifting sou
 
 The first step changed the length of the hallway. 
 
-Not visibly. Not in a way that could be mapped. But she felt it—the slight recalibration, the house adjusting to her decision to move. Each step forward compressed the space ahead, bringing the far door closer than it should have been. 
+Not visibly. Not in a way that could be mapped. But she felt it-the slight recalibration, the house adjusting to her decision to move. Each step forward compressed the space ahead, bringing the far door closer than it should have been. 
 
 She stopped. 
 
@@ -294,7 +294,7 @@ The surface of the water was still, but not empty. When she leaned over it, her 
 
 She raised her hand. 
 
-The reflection followed—but not perfectly. Not immediately. As if it were agreeing to mirror her rather than compelled to. 
+The reflection followed-but not perfectly. Not immediately. As if it were agreeing to mirror her rather than compelled to. 
 
 Lillfrugan lowered her hand. 
 
@@ -320,11 +320,11 @@ The latch engaged.
 
 Not with a sound, but with recognition. 
 
-And as the door opened, the reflection in the basin—still visible behind her—did not follow. 
+And as the door opened, the reflection in the basin-still visible behind her-did not follow. 
 
  
 
-merge_hackerstory(continuous) — Lillfrugan Update 
+merge_hackerstory(continuous) - Lillfrugan Update 
 
 Node Entries 
 
@@ -375,7 +375,7 @@ Opening Episode
 
 The doorframe stood in the middle of the room, unattached to anything that could justify it. 
 
-Lillfrugan did not approach it immediately. Instead, she stood beneath the ceiling and listened—not for sound, but for weight. There was a difference she had learned to recognize: the ordinary stillness of structure, and the quieter, denser pause that meant something above had begun to accumulate. 
+Lillfrugan did not approach it immediately. Instead, she stood beneath the ceiling and listened-not for sound, but for weight. There was a difference she had learned to recognize: the ordinary stillness of structure, and the quieter, denser pause that meant something above had begun to accumulate. 
 
 It was there now. 
 
@@ -399,7 +399,7 @@ That was the first thing she noticed when she finally turned toward it. Light pa
 
 She stepped closer. 
 
-The air changed—not colder, not warmer, but more precise. As if the space on either side of the frame obeyed different rules of alignment. She could feel it in the way her balance adjusted, in the subtle recalibration of her stance. 
+The air changed-not colder, not warmer, but more precise. As if the space on either side of the frame obeyed different rules of alignment. She could feel it in the way her balance adjusted, in the subtle recalibration of her stance. 
 
 “This isn’t attached,” she said. 
 
@@ -409,7 +409,7 @@ Lillfrugan raised her hand and hovered it within the frame.
 
 Nothing resisted her. 
 
-No surface. No threshold. Only the sensation of crossing into a space that did not yet agree on what it contained. For a moment, her hand seemed to hesitate—not physically, but in the way its position resolved. 
+No surface. No threshold. Only the sensation of crossing into a space that did not yet agree on what it contained. For a moment, her hand seemed to hesitate-not physically, but in the way its position resolved. 
 
 Behind her, the ledger shifted on the table. 
 

@@ -21,7 +21,7 @@ Det centrala skiftet är detta: projektet ska inte “samlas” som ett bibliote
 Därför bör nästa nivå inte vara ännu en dossier, utan en väderstation. En kort återkommande artefakt efter varje större run:
 
 ```md
-# Projektlokalt väder — [datum / run / artefakt]
+# Projektlokalt väder - [datum / run / artefakt]
 
 ## Lufttryck
 Vilken kraft trycker just nu på projektet?

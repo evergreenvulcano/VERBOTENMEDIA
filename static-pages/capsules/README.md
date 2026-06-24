@@ -8,16 +8,16 @@ They are not project summaries. They are not marketing texts. They are not full 
 
 ## What a capsule is
 
-A capsule names something precisely — a rule, a boundary, a status, a provenance fact, a method fragment, or a pressure point. It is complete in itself without needing to be long.
+A capsule names something precisely - a rule, a boundary, a status, a provenance fact, a method fragment, or a pressure point. It is complete in itself without needing to be long.
 
 Capsules may include:
 
-- **Provenance capsules** — where a piece of work came from, how it was produced
-- **Pressure maps** — notes on what a project is pressing against or working through
-- **Publication diagnoses** — status assessments of a text or body of work
-- **AI-status notes** — declarations about the role of AI in production
-- **Method fragments** — concise statements of editorial or publication method
-- **Editorial rules** — operating principles for how VERBOTEN MEDIA works
+- **Provenance capsules** - where a piece of work came from, how it was produced
+- **Pressure maps** - notes on what a project is pressing against or working through
+- **Publication diagnoses** - status assessments of a text or body of work
+- **AI-status notes** - declarations about the role of AI in production
+- **Method fragments** - concise statements of editorial or publication method
+- **Editorial rules** - operating principles for how VERBOTEN MEDIA works
 
 ---
 

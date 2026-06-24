@@ -1,7 +1,7 @@
 ---
 title: "ROSA POST-IT - Forlagsdeckaren som fordon for Verboten Media Valkyrie"
 source_origin: "Google Drive local sync"
-source_path: "C:/Users/grend/Drive_Workspace/My Drive/VERBOTEN_DRIVE_WORKSPACE/20_notion_estate/raw_intake/VERBOTENMEDIA/ROSA POST-IT — Förlagsdeckaren som fordon för Verb e38e90cfcff6820cb65c01bd59fd0973.md"
+source_path: "C:/Users/grend/Drive_Workspace/My Drive/VERBOTEN_DRIVE_WORKSPACE/20_notion_estate/raw_intake/VERBOTENMEDIA/ROSA POST-IT - Förlagsdeckaren som fordon för Verb e38e90cfcff6820cb65c01bd59fd0973.md"
 drive_created_or_synced: "2026-05-22"
 document_type: "ontological anchoring document"
 source_status: "internal guidance document / canonical-candidate in routing note"
@@ -11,9 +11,9 @@ allowed_use: "orientation, comparison, mining, addressed anchoring preparation"
 blocked_use: "public publication, doctrine promotion, generic pitch conversion, product-menu conversion, source prose rewrite"
 ---
 
-# ROSA POST-IT — Förlagsdeckaren som fordon för Verboten Media Valkyrie
+# ROSA POST-IT - Förlagsdeckaren som fordon för Verboten Media Valkyrie
 
-# CANONICAL ORIENTATION — DO NOT REDUCE
+# CANONICAL ORIENTATION - DO NOT REDUCE
 
 ROSA POST-IT defines the current VERBOTENMEDIA ontology: anchor, vehicle, motor sections, Förläggaren function, Valkyrie function, and the principle of addressed anchoring.
 

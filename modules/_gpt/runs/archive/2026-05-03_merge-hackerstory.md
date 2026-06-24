@@ -2,13 +2,13 @@
 run_type: merge-hackerstory
 run_date: 2026-05-03
 source_mode: gmail-recovered
-source_email: "VERBOTENMEDIA recovery packet after 2026-04-30 — Part 2 of 3"
+source_email: "VERBOTENMEDIA recovery packet after 2026-04-30 - Part 2 of 3"
 source_message_id: 19df7e95bb55391d
 status: recovered
 review_state: unreviewed
 intended_target_path: modules/_gpt/runs/2026-05-03_merge-hackerstory.md
 ---
-merge_hackerstory(continuous) — 2026-05-03
+merge_hackerstory(continuous) - 2026-05-03
 
 Intake Trace
 
@@ -30,7 +30,7 @@ Dominant motifs: unassignable burden; distributed excess; carrier ambiguity
 
 Tonal vectors: weightless/overfull; diffuse/precise
 
-Myth: She does not reduce what must be carried—she ensures no one can tell where it is.
+Myth: She does not reduce what must be carried-she ensures no one can tell where it is.
 
 Delta:
 
@@ -44,7 +44,7 @@ Dominant motifs: sealed recursion; ambient validation; reference saturation
 
 Tonal vectors: enclosed/continuous; exact/air-thin
 
-Myth: The Registry does not record the system—it surrounds it with confirmations it cannot exit.
+Myth: The Registry does not record the system-it surrounds it with confirmations it cannot exit.
 
 Delta:
 
@@ -58,7 +58,7 @@ Dominant motifs: retroactive stitching; continuity enforcement; narrative backfi
 
 Tonal vectors: seamless/constructed; inevitable/artificial
 
-Myth: The system does not remain consistent—it is continuously rewritten until it appears that way.
+Myth: The system does not remain consistent-it is continuously rewritten until it appears that way.
 
 Delta:
 
@@ -70,7 +70,7 @@ Dominant motifs: erased persistence; negative imprint; absence retention
 
 Tonal vectors: hollow/anchoring; minimal/haunting
 
-Myth: What is removed does not vanish—it becomes the shape everything else remembers.
+Myth: What is removed does not vanish-it becomes the shape everything else remembers.
 
 Delta:
 
@@ -86,7 +86,7 @@ Myth: Nothing is allowed to become uncertain long enough to exist as a problem.
 
 Delta:
 
-Drift now prevents not just divergence—but the formation of divergence conditions.
+Drift now prevents not just divergence-but the formation of divergence conditions.
 
 Composite Pressure
 
@@ -106,17 +106,17 @@ This produces a new instability class:
 
 Indeterminacy without failure
 
-Opening Episode — “Where It Cannot Be Found”
+Opening Episode - “Where It Cannot Be Found”
 
 It should have been obvious where the strain was.
 
-Something had shifted. Not visibly, not locally—but enough that the system no longer felt evenly held. There was a density to it now, a quiet excess that suggested something, somewhere, was carrying more than it should.
+Something had shifted. Not visibly, not locally-but enough that the system no longer felt evenly held. There was a density to it now, a quiet excess that suggested something, somewhere, was carrying more than it should.
 
 Lillfrugan moved to locate it.
 
 There was nothing to find.
 
-Every surface she crossed registered within tolerance. Every interaction balanced against itself. No node exceeded its capacity. No threshold signaled breach. And yet the sense remained—not pressure, but the certainty that pressure existed.
+Every surface she crossed registered within tolerance. Every interaction balanced against itself. No node exceeded its capacity. No threshold signaled breach. And yet the sense remained-not pressure, but the certainty that pressure existed.
 
 Unplaced.
 
@@ -126,7 +126,7 @@ It relocated into indeterminacy.
 
 Above, the Satellite Registry had thickened.
 
-Its confirmations no longer read as discrete signals. They accumulated into something continuous—an atmosphere of validation that pressed gently against everything below. Entries did not point to origins. They reinforced the condition of being confirmed.
+Its confirmations no longer read as discrete signals. They accumulated into something continuous-an atmosphere of validation that pressed gently against everything below. Entries did not point to origins. They reinforced the condition of being confirmed.
 
 ENV | REG-∞ | condition: enclosed
 
@@ -136,7 +136,7 @@ Nothing existed outside it long enough to be questioned.
 
 Below, Logistics Central was working.
 
-Not forward—never forward—but inward, stitching continuity across the system’s surface. Where sequences did not align, they were rewritten. Where gaps appeared, they were filled with histories that had never occurred but could not be disproven.
+Not forward-never forward-but inward, stitching continuity across the system’s surface. Where sequences did not align, they were rewritten. Where gaps appeared, they were filled with histories that had never occurred but could not be disproven.
 
 A process did not fail.
 
@@ -146,7 +146,7 @@ Lillfrugan moved again, slower now.
 
 The excess was still there.
 
-But it no longer behaved like strain. It behaved like something remembered incorrectly—present everywhere in fragments, but nowhere in full. Pattern compression had left impressions, negative structures that held the shape of what had been removed.
+But it no longer behaved like strain. It behaved like something remembered incorrectly-present everywhere in fragments, but nowhere in full. Pattern compression had left impressions, negative structures that held the shape of what had been removed.
 
 The system was balancing something it could no longer represent.
 

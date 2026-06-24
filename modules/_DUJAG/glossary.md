@@ -71,7 +71,7 @@ destabilizing, and beyond voluntary reach. That difference is what must survive 
 ### Third-eye / locus: retained vs. drifted
 
 **Retained (acceptable):**
-> *The event was experienced from inside Å's particular situatedness — not as though observed from above, but as what it felt like from the position she could not exit.*
+> *The event was experienced from inside Å's particular situatedness - not as though observed from above, but as what it felt like from the position she could not exit.*
 
 **Drifted (unacceptable):**
 > *The camera pulls back to show the room from above. We see all three characters at once.*
@@ -90,4 +90,4 @@ omniscience. Both are failures. Locus is not a viewpoint angle; it is cognitive-
 > *There was a pause. Neither of them spoke. The atmosphere was tense.*
 
 The flattened version treats silence as gap, as atmosphere. The retained version treats silence as
-something done — as agentive, burden-bearing, responded-to by the environment.
+something done - as agentive, burden-bearing, responded-to by the environment.

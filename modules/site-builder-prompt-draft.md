@@ -1,10 +1,10 @@
 # Environment_source:
 ## METAPROJECTS & FUNCTIONS
 Beyond publishing, Verboten Media operates as an infrastructure for:
-- Continuous creative publishing pipeline — template-driven, scalable production flow from manuscript to endpoint
-- Corpus structuring — systematic organization of all textual output for archival and generative re-use
-- Editorial development — concept packaging for literary and technical projects
-- Literary concept packaging — turning raw creative processes into reproducible editorial workflows
+- Continuous creative publishing pipeline - template-driven, scalable production flow from manuscript to endpoint
+- Corpus structuring - systematic organization of all textual output for archival and generative re-use
+- Editorial development - concept packaging for literary and technical projects
+- Literary concept packaging - turning raw creative processes into reproducible editorial workflows
 
 ### Some de-ploj-mental ideas include: 
 - REDACTED: building a structured meaning-architecture from REDACTED corpus for creative and epistemic exploratio. 
@@ -32,9 +32,9 @@ Referenced from ''origin_modules''.
 
 Origin module example draft
 WHAT IT IS
-A skönlitterärt kollaborativt duoprojekt — a literary collaborative duo-project — that acquired literary quality blown into its surrealist structure. 
+A skönlitterärt kollaborativt duoprojekt - a literary collaborative duo-project - that acquired literary quality blown into its surrealist structure. 
 The publisher agency was formed to print the book. 
-Not a vanity press, not an industry player — a vehicle for literature that had no other possible container.
+Not a vanity press, not an industry player - a vehicle for literature that had no other possible container.
 
 CORE CONVICTION
 The sole author has played out it's role as an edifying component of a sound societal developmental project.
@@ -72,8 +72,8 @@ Format: Unfiltered workshop conversations between Förläggaren and Författaren
 "Tips! Ha inte volymen på högsta volym, då ryker hörseln."
 
 EPISODES
-Debrief [Del 1]: "Att sluta dricka öl och istället begå ljudbok tillsammans på 2020-talet" — How a Sami and a scoundrel decided to stop drinking beer together. Why it became a printed book at all. Methods and pitfalls of a two-and-a-half-year process. Entertainment value and the value of a book that resembles no other.
-Debrief [Del 2]: "Att dubbelskriva en kvinnokaraktär och att öppna mediala förlagsgrinder" — Double-writing a female character and opening media publishing gates. The practice — how the book affected individual lives, what it feels like in the body to write across gender boundaries, and why nothing else matters except making good media.
+Debrief [Del 1]: "Att sluta dricka öl och istället begå ljudbok tillsammans på 2020-talet" - How a Sami and a scoundrel decided to stop drinking beer together. Why it became a printed book at all. Methods and pitfalls of a two-and-a-half-year process. Entertainment value and the value of a book that resembles no other.
+Debrief [Del 2]: "Att dubbelskriva en kvinnokaraktär och att öppna mediala förlagsgrinder" - Double-writing a female character and opening media publishing gates. The practice - how the book affected individual lives, what it feels like in the body to write across gender boundaries, and why nothing else matters except making good media.
 
 FLEMPO GUYENJAURES VINTERPRAT
 Redacted. 
@@ -87,14 +87,14 @@ Track_3 presented as a reading experiecne.
 Could be its own visual/typographic treatment.
 
 **KEY CONCEPTS THAT SHOULD INFORM WEBSITE DESIGN PHILOSOPHY**
-- "Det finns ingen generalism, vilket resulterar i neuros" — there is no generalism, which results in neurosis
+- "Det finns ingen generalism, vilket resulterar i neuros" - there is no generalism, which results in neurosis
 - Avatar developmental psychology as the soldering of interface code in generative symbiosis
 - The fluid identity's hybrid potential in symbiosis with synthesis-drift
 - Interface (gränssnitt) as simultaneously concrete in its virtuality and abstract in its biology
-- "Sanningen har fiktionens struktur" (Lacan) — truth has the structure of fiction
-- The gruvarbetare med pannlampa (miner with headlamp) as recurring metaphor — laying ground, innovating, aware of how little one knows, but the light shines and the grip grows firmer
+- "Sanningen har fiktionens struktur" (Lacan) - truth has the structure of fiction
+- The gruvarbetare med pannlampa (miner with headlamp) as recurring metaphor - laying ground, innovating, aware of how little one knows, but the light shines and the grip grows firmer
 - Algorithms optimize to manipulate; spiritual hijacking
-- "Visionärsavgiften är konkret" — the visionary's fee is concrete in a world that consumes novelty to reproduce products at scale
+- "Visionärsavgiften är konkret" - the visionary's fee is concrete in a world that consumes novelty to reproduce products at scale
 
 #### Manuscripts
 Submission or information page. 
@@ -113,7 +113,7 @@ Brief foot-note imprinting interface for interaction: verbotenmedia@protonmail.c
 - Monospace or brutalist typography for headers; clean sans-serif for body
 - No stock photography. No corporate design language. No rounded corners and gradient buttons.
 - Skull imagery as brand mark. Animated elements acceptable if they feel lo-fi/intentional, not slick.
-- The site should feel like a digital zine, a Tumblr-era artifact, or a hacker terminal — not a Squarespace template.
+- The site should feel like a digital zine, a Tumblr-era artifact, or a hacker terminal - not a Squarespace template.
 - Mobile-first but with desktop presence. Fast-loading. No JavaScript frameworks unless necessary.
 - Static site generator preferred (Hugo, Eleventy, Astro) or raw HTML/CSS. 
 
@@ -139,15 +139,15 @@ Note: There are other voice-modes to consider for other purposes than site const
 
 ## WHAT THE AGENT SHOULD DO FIRST
 When building the website from this prompt, the agent should execute in this order:
-1.	Confirm the tech stack — most often it can be derived from epi-environment
-2.	Create the information architecture — sitemap, page hierarchy, navigation model
-3.	Design the visual identity system — colors, typography, spacing rules, depending on epi-environement
-4.	Build the vertical_landing_page first — this sets the tone for everything
+1.	Confirm the tech stack - most often it can be derived from epi-environment
+2.	Create the information architecture - sitemap, page hierarchy, navigation model
+3.	Design the visual identity system - colors, typography, spacing rules, depending on epi-environement
+4.	Build the vertical_landing_page first - this sets the tone for everything
 5.	Populate subsequent_content_pages from the descriptions referenced or provided in this document
 6.	Integrate embeds, e.g SoundCloud for the Debrief podcast, or other defined in this document
 7.	Set up functions, e.g core contact/maillist or other defined in this document
 8.	Test accessibility and performance
-9.	Deploy — or provide deployment-ready files
+9.	Deploy - or provide deployment-ready files
 
 ## TECHNICAL REQUIREMENTS
 ●	SEO-functional but not SEO-driven. 

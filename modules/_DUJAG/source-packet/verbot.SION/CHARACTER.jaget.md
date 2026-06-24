@@ -8,7 +8,7 @@ Updated with additive priority:
 
 * Source role: Public overfigure; entrepreneurial folk-myth; scandalous systems evangelist; cross-domain instigator operating as publisher, performer, infrastructure fantasist, product prophet, and national nuisance-asset.
 
-* Source role: He now reads even more clearly as a carrier between incompatible domains — books, AI backlash, cloud infrastructure, municipal reform, nature-tech consumer products, sport, theater, music television, and quasi-state spectacle — without ever stabilizing into any one of them.
+* Source role: He now reads even more clearly as a carrier between incompatible domains - books, AI backlash, cloud infrastructure, municipal reform, nature-tech consumer products, sport, theater, music television, and quasi-state spectacle - without ever stabilizing into any one of them.
 
 * tribal role: chaos conductor, morale hijacker, vulgar prestige generator, impossible dealmaker, mass-attention herdsman, provincial cosmologist.
 
@@ -50,7 +50,7 @@ Updated with additive priority:
 
 * Mandate/trust posture: Assumes permission through magnitude. Trust is not earned through transparency but through force, stamina, contagious certainty, and the claim that only the timid still ask whether the thing is reasonable.
 
-* Mandate/trust posture: More specifically, he behaves as though mandate emerges wherever elites hesitate. He enters vacuums — failed institutions, saturated markets, tired genres, broken public confidence — and claims them through style, velocity, and overstatement.
+* Mandate/trust posture: More specifically, he behaves as though mandate emerges wherever elites hesitate. He enters vacuums - failed institutions, saturated markets, tired genres, broken public confidence - and claims them through style, velocity, and overstatement.
 
 * Mandate/trust posture: He repeatedly frames himself less as servant of consensus than as the one vulgar enough to make dormant systems move.
 
@@ -70,7 +70,7 @@ Updated with additive priority:
 
 * Failure mode: Also fails if rendered as merely random. His absurdity is directional. Each new excess must still feel like an attempted solution, doctrine, venture, alliance, or social reclassification.
 
-* Failure mode: Another failure is reducing him to a stable ideology. He is more operative than ideological; he raids available vocabularies — green transition, folkhem, decentralization, authenticity, regional pride, anti-AI sentiment, public service, elite critique — and thickens them with body and theater.
+* Failure mode: Another failure is reducing him to a stable ideology. He is more operative than ideological; he raids available vocabularies - green transition, folkhem, decentralization, authenticity, regional pride, anti-AI sentiment, public service, elite critique - and thickens them with body and theater.
 
 * Best-fit output intents: dialogue, profile text, satirical reportage, mythic business chronicle, public scene rendering, ensemble-pressure scenes, comeback arcs, scandal narrative prose
 
@@ -96,14 +96,14 @@ He appears to understand that in a degraded media environment, explanation loses
 
 He is unusually potent in late-national settings: the kind of atmosphere where local pride, infrastructure anxiety, cultural fatigue, anti-elite mood, and entertainment hunger begin to merge.
 
-His relation to money remains important but secondary in self-mythology. He repeatedly insists he is after meaning, future, movement, process, roots, or trust — even while everything around him becomes monetizable debris.
+His relation to money remains important but secondary in self-mythology. He repeatedly insists he is after meaning, future, movement, process, roots, or trust - even while everything around him becomes monetizable debris.
 
 A likely recurring anecdotal pattern: rooms laugh first, then quote him, then book him, then fear the aftereffects, then retroactively claim they saw the vision early.
 
 Another likely pattern: partners and institutions discover too late that they did not hire a spokesperson or founder type; they admitted a climate system.
 
 A short action-fragment:
-He places a ridiculous object on a table — drum, headset, cable, moss-box, manuscript, pizza carton, server key — and by the end of the scene everyone else is speaking as if the object had always been central to the nation’s future.
+He places a ridiculous object on a table - drum, headset, cable, moss-box, manuscript, pizza carton, server key - and by the end of the scene everyone else is speaking as if the object had always been central to the nation’s future.
 
 Another:
 He is most dangerous when tired systems want one last chance to feel alive. Then he arrives, overexplains nothing, declares too much, and somehow gives them a form in which to desire themselves again.

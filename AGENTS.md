@@ -61,6 +61,7 @@ working relations, and route to the current public bodies.
 
 - Read broadly across the repository before changing anything.
 - Write narrowly, and only in the surface the task actually targets.
+- U+2014 EM DASH is forbidden in content, interface copy, source material, documentation, and path names. Use ordinary punctuation or the ASCII hyphen-minus instead.
 - Treat material in the leading public branch as publishable unless a concrete
   exception in the publication-presumption section applies. `modules/` may
   remain machine-room or source-layer material rather than promoted HTML.

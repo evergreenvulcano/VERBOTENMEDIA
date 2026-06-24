@@ -2,22 +2,22 @@
 Testing Your Own Machine Like Production
 Author: phoneDead
 Published: 12 April 2026  |  Read time: ~20 minutes
-OUT-16  |  Lane 3 — Analyst OS & Reasoning Infrastructure
+OUT-16  |  Lane 3 - Analyst OS & Reasoning Infrastructure
 
-| Quick Start<br>Clone the companion repo. Run .\Invoke-InfraValidation.ps1 -Scope All from an elevated PowerShell 7 session. Review the HTML report generated in .\Reports\. That's it — thirty tests, two minutes, one command. The rest of this article explains what those tests do and why they exist. |
+| Quick Start<br>Clone the companion repo. Run .\Invoke-InfraValidation.ps1 -Scope All from an elevated PowerShell 7 session. Review the HTML report generated in .\Reports\. That's it - thirty tests, two minutes, one command. The rest of this article explains what those tests do and why they exist. |
 | --- |
 
 # Your Machine Is Untested Production
 Your workstation is production infrastructure. Not metaphorically. Literally.
 It runs CI/CD pipelines. It holds SSH keys, cloud credentials, browser-stored passwords, VPN configurations, and session tokens for systems that manage other systems. It connects to your employer's internal network, your personal banking, and that one Azure subscription that still has contributor access to half the tenant. If an attacker compromised your workstation today, the blast radius would be measured in organizations, not files.
-And yet — when was the last time you tested it?
-Not "ran a virus scan." Tested it. Asserted a set of expected conditions and verified they hold. Checked that the firewall profiles you enabled six months ago are still enabled. That the autorun entries in your registry match what you expect. That nobody — including you, via an errant installer — added a local admin account you forgot about.
-Server teams do this. They have monitoring, compliance scans, baseline configurations, drift detection. Your workstation gets none of that. It sits there, accumulating entropy, and you trust it because it was fine last time you looked — whenever that was.
-This article presents a fix: a complete infrastructure validation suite built on Pester — the PowerShell testing framework you already know from application development. Except here, we're not testing PowerShell functions. We're testing the machine itself. The "system under test" is your operating system, and the assertions are security expectations.
+And yet - when was the last time you tested it?
+Not "ran a virus scan." Tested it. Asserted a set of expected conditions and verified they hold. Checked that the firewall profiles you enabled six months ago are still enabled. That the autorun entries in your registry match what you expect. That nobody - including you, via an errant installer - added a local admin account you forgot about.
+Server teams do this. They have monitoring, compliance scans, baseline configurations, drift detection. Your workstation gets none of that. It sits there, accumulating entropy, and you trust it because it was fine last time you looked - whenever that was.
+This article presents a fix: a complete infrastructure validation suite built on Pester - the PowerShell testing framework you already know from application development. Except here, we're not testing PowerShell functions. We're testing the machine itself. The "system under test" is your operating system, and the assertions are security expectations.
 Five domains. Thirty tests. Two minutes to run. One report that tells you whether your machine still matches your intentions.
 This is not a Pester tutorial. I'm assuming you've written Describe/It/Should blocks before. If you haven't, spend thirty minutes with the Pester documentation first. What follows is the infrastructure validation blueprint I actually run on my own machines, and the architectural decisions behind it.
-# The Architecture: Describe, Context, It — But for Infrastructure
-Pester's Behavior-Driven Design syntax maps surprisingly well to infrastructure validation once you shift your mental model. In application testing, Describe names a function. In infrastructure testing, it names a system domain — a category of machine state you care about.
+# The Architecture: Describe, Context, It - But for Infrastructure
+Pester's Behavior-Driven Design syntax maps surprisingly well to infrastructure validation once you shift your mental model. In application testing, Describe names a function. In infrastructure testing, it names a system domain - a category of machine state you care about.
 ## The Domain-Aspect-Assertion Pattern
 
 | Pester Keyword | Application Testing | Infrastructure Testing | Example |
@@ -44,7 +44,7 @@ InfraValidation/
 ├── Reports/
 ├── Invoke-InfraValidation.ps1
 └── README.md
-The Baselines/ directory is critical. It holds JSON files that define what your machine should look like. Tests compare current state against these baselines. When you intentionally change your machine — install new software, add a scheduled task, modify a policy — you update the baseline. The validation suite is a living contract between you and your machine.
+The Baselines/ directory is critical. It holds JSON files that define what your machine should look like. Tests compare current state against these baselines. When you intentionally change your machine - install new software, add a scheduled task, modify a policy - you update the baseline. The validation suite is a living contract between you and your machine.
 ## Output Formats
 Pester 5.x supports two XML output formats via its configuration object: NUnitXml (NUnit 2.5 schema) and JUnitXml (JUnit 4 schema). Both are machine-readable and consumable by CI systems, but for a personal validation suite, the real value is in the human-readable output. Our runner script generates both: an NUnit XML file for tooling integration and an HTML summary for you to actually read.
 $config = New-PesterConfiguration
@@ -116,7 +116,7 @@ Describe "Firewall Configuration" -Tag "Security", "Network" {
 }
 The SMBv1 test is the one that surprises people. They disabled it years ago. But a Windows feature update can re-enable optional features. "I already did that" is not the same as "I verified it's still done." That's the entire point of this suite.
 ## Domain 2: Persistence & Autorun Hygiene
-Six tests. This is where infrastructure validation crosses into threat detection. Every persistence mechanism that malware uses is also used by legitimate software — the difference is whether you expected the entry to be there. These tests codify your expectations.
+Six tests. This is where infrastructure validation crosses into threat detection. Every persistence mechanism that malware uses is also used by legitimate software - the difference is whether you expected the entry to be there. These tests codify your expectations.
 # Persistence.Tests.ps1
 
 Describe "Persistence Mechanisms" -Tag "Security", "Persistence" {
@@ -150,7 +150,7 @@ Describe "Persistence Mechanisms" -Tag "Security", "Persistence" {
                 Where-Object { $_.Name -notin @("PSPath","PSParentPath","PSChildName","PSProvider","PSDrive") } |
                 Select-Object -ExpandProperty Name
             $unexpected = $currentNames | Where-Object { $_ -notin $expectedAutorun.HKLM_Run }
-            $unexpected | Should -BeNullOrEmpty -Because "HKLM Run entries affect all users and require elevated privileges to set — unexpected entries are high-severity"
+            $unexpected | Should -BeNullOrEmpty -Because "HKLM Run entries affect all users and require elevated privileges to set - unexpected entries are high-severity"
         }
     }
 
@@ -205,7 +205,7 @@ Describe "Persistence Mechanisms" -Tag "Security", "Persistence" {
         }
     }
 }
-Cross-reference: For the forensic deep-dive into what these registry paths reveal historically — including deleted entries recoverable from registry hive analysis — see "The Registry as a Crime Scene."
+Cross-reference: For the forensic deep-dive into what these registry paths reveal historically - including deleted entries recoverable from registry hive analysis - see "The Registry as a Crime Scene."
 ## Domain 3: Software & Update Compliance
 Six tests. This domain answers two questions: "Is everything that should be here present and running?" and "Is anything here that shouldn't be?"
 # Software.Tests.ps1
@@ -215,7 +215,7 @@ Describe "Software & Update Compliance" -Tag "Compliance", "Software" {
     Context "Windows Version" {
 
         It "Should be running expected Windows build" {
-            $expectedBuild = "26100"  # Windows 11 25H2 — update as needed
+            $expectedBuild = "26100"  # Windows 11 25H2 - update as needed
             $currentBuild = (Get-ItemProperty "HKLM:\SOFTWARE\Microsoft\Windows NT\CurrentVersion").CurrentBuildNumber
             $currentBuild | Should -Be $expectedBuild -Because "running an outdated OS build means missing security patches"
         }
@@ -268,7 +268,7 @@ Describe "Software & Update Compliance" -Tag "Compliance", "Software" {
         }
     }
 }
-A note on the blacklist: this is subjective and environment-specific. TeamViewer is perfectly legitimate software — unless your security policy prohibits remote access tools that weren't provisioned by IT. The test doesn't judge. It asserts what you've decided.
+A note on the blacklist: this is subjective and environment-specific. TeamViewer is perfectly legitimate software - unless your security policy prohibits remote access tools that weren't provisioned by IT. The test doesn't judge. It asserts what you've decided.
 ## Domain 4: User & Access Configuration
 Six tests. These validate the identity and access posture of your machine. A surprising number of security incidents start with "there was a local admin account I forgot existed."
 # UserAccess.Tests.ps1
@@ -324,7 +324,7 @@ Describe "User & Access Configuration" -Tag "Security", "Access" {
         It "Should have Credential Guard active (if hardware supports)" {
             $deviceGuard = Get-CimInstance -ClassName Win32_DeviceGuard -Namespace "root\Microsoft\Windows\DeviceGuard" -ErrorAction SilentlyContinue
             if ($null -eq $deviceGuard) {
-                Set-ItResult -Skipped -Because "DeviceGuard WMI class not available — hardware may not support VBS"
+                Set-ItResult -Skipped -Because "DeviceGuard WMI class not available - hardware may not support VBS"
             } else {
                 $credGuardRunning = $deviceGuard.SecurityServicesRunning -contains 1
                 $credGuardRunning | Should -BeTrue -Because "Credential Guard isolates NTLM hashes and Kerberos tickets from memory scraping"
@@ -332,7 +332,7 @@ Describe "User & Access Configuration" -Tag "Security", "Access" {
         }
     }
 }
-The Credential Guard test demonstrates an important pattern: graceful degradation. Not every machine supports Virtualization-Based Security. The test doesn't fail on unsupported hardware — it skips, with a clear reason. Pester's Set-ItResult -Skipped is perfect for this. Your report shows the test was considered but not applicable, rather than generating a false failure.
+The Credential Guard test demonstrates an important pattern: graceful degradation. Not every machine supports Virtualization-Based Security. The test doesn't fail on unsupported hardware - it skips, with a clear reason. Pester's Set-ItResult -Skipped is perfect for this. Your report shows the test was considered but not applicable, rather than generating a false failure.
 ## Domain 5: Policy Drift Detection
 Six tests. These are the "did my hardening survive the last update?" tests. You spent hours applying security baselines. These tests verify they stuck.
 # PolicyDrift.Tests.ps1
@@ -394,48 +394,48 @@ Describe "Policy Drift Detection" -Tag "Compliance", "Policy" {
         }
     }
 }
-Cross-reference: For establishing the LGPO baselines these tests validate against — including the full registry policy manifest and group policy export methodology — see "Windows 11 25H2 Hardening Playbook."
+Cross-reference: For establishing the LGPO baselines these tests validate against - including the full registry policy manifest and group policy export methodology - see "Windows 11 25H2 Hardening Playbook."
 # The EdQ Pattern: Security Quizzes as Test Logic
 A test that says PASS or FAIL is useful. A test that says why it matters, what failed, and how to fix it is transformational. That's the EdQ (Educational Quiz) pattern: treating every infrastructure test as both a validation check and a teaching moment.
 The concept comes from security education design. When you quiz someone on a concept, the answer matters less than the explanation that follows. The same principle applies to machine validation. A failing test should educate you, not just alarm you.
 ## Implementation: The Test Metadata Hashtable
 Define a metadata structure that maps each test to its context:
-# TestMetadata.ps1 — loaded by the runner
+# TestMetadata.ps1 - loaded by the runner
 
 $TestMetadata = @{
     "Should have Windows Firewall enabled for all profiles" = @{
         RiskLevel     = "Critical"
-        MitreId       = "N/A — Defensive Gap"
+        MitreId       = "N/A - Defensive Gap"
         Remediation   = 'Set-NetFirewallProfile -Profile Domain,Public,Private -Enabled True'
         Explanation   = "A disabled firewall profile exposes all ports to network-adjacent attackers. All three profiles (Domain, Private, Public) must be active simultaneously."
     }
     "Should have SMBv1 disabled" = @{
         RiskLevel     = "Critical"
-        MitreId       = "T1210 — Exploitation of Remote Services"
+        MitreId       = "T1210 - Exploitation of Remote Services"
         Remediation   = 'Set-SmbServerConfiguration -EnableSMB1Protocol $false -Force'
         Explanation   = "SMBv1 is the protocol exploited by EternalBlue (WannaCry, NotPetya). No modern software requires it. Its presence is pure attack surface."
     }
     "Should have only expected entries in HKCU Run key" = @{
         RiskLevel     = "High"
-        MitreId       = "T1547.001 — Boot or Logon Autostart Execution: Registry Run Keys"
+        MitreId       = "T1547.001 - Boot or Logon Autostart Execution: Registry Run Keys"
         Remediation   = 'Remove-ItemProperty -Path "HKCU:\Software\Microsoft\Windows\CurrentVersion\Run" -Name "<EntryName>"'
         Explanation   = "The HKCU Run key executes programs at user logon. Malware frequently uses this for persistence because it requires no elevation to write."
     }
     "Should have scheduled tasks matching known-good baseline" = @{
         RiskLevel     = "High"
-        MitreId       = "T1053.005 — Scheduled Task/Job: Scheduled Task"
+        MitreId       = "T1053.005 - Scheduled Task/Job: Scheduled Task"
         Remediation   = 'Unregister-ScheduledTask -TaskName "<TaskName>" -Confirm:$false'
-        Explanation   = "Scheduled tasks execute code on triggers — boot, logon, timer, event. An unexpected task is either unwanted software or adversary persistence."
+        Explanation   = "Scheduled tasks execute code on triggers - boot, logon, timer, event. An unexpected task is either unwanted software or adversary persistence."
     }
     "Should have BitLocker enabled on system drive" = @{
         RiskLevel     = "Critical"
-        MitreId       = "N/A — Physical Access Control"
+        MitreId       = "N/A - Physical Access Control"
         Remediation   = 'Enable-BitLocker -MountPoint "C:" -EncryptionMethod XtsAes256 -UsedSpaceOnly -RecoveryPasswordProtector'
         Explanation   = "Without full-disk encryption, anyone with physical access to the machine (theft, evil maid) can read all data, extract credentials, and modify the OS."
     }
     "Should have no unauthorized Defender exclusions" = @{
         RiskLevel     = "High"
-        MitreId       = "T1562.001 — Impair Defenses: Disable or Modify Tools"
+        MitreId       = "T1562.001 - Impair Defenses: Disable or Modify Tools"
         Remediation   = 'Remove-MpPreference -ExclusionPath "<Path>"'
         Explanation   = "Attackers add Defender exclusions to prevent detection of their payloads. Legitimate exclusions should be few and documented."
     }
@@ -528,13 +528,13 @@ if ($Format -eq "HTML") {
             Result       = $test.Result
             Duration     = "{0:N0}ms" -f $test.Duration.TotalMilliseconds
             RiskLevel    = if ($meta) { $meta.RiskLevel } else { "Info" }
-            MitreId      = if ($meta) { $meta.MitreId } else { "—" }
-            Remediation  = if ($test.Result -eq "Failed" -and $meta) { $meta.Remediation } else { "—" }
+            MitreId      = if ($meta) { $meta.MitreId } else { "-" }
+            Remediation  = if ($test.Result -eq "Failed" -and $meta) { $meta.Remediation } else { "-" }
         }
     }
 
     $htmlReport = $reportData | ConvertTo-Html -Title "Infrastructure Validation Report" `
-        -PreContent "<h1>Infrastructure Validation — $timestamp</h1>
+        -PreContent "<h1>Infrastructure Validation - $timestamp</h1>
         <p>Passed: $($result.PassedCount) | Failed: $($result.FailedCount) | Skipped: $($result.SkippedCount)</p>" |
         Out-String
 
@@ -575,7 +575,7 @@ Register-ScheduledTask `
     -Trigger $trigger `
     -Settings $settings `
     -RunLevel Highest `
-    -Description "Weekly infrastructure validation — tests security config, persistence hygiene, and policy compliance"
+    -Description "Weekly infrastructure validation - tests security config, persistence hygiene, and policy compliance"
 The exit code matters. $result.FailedCount becomes the process exit code. Zero means all tests passed. Any non-zero value means something drifted. You can wire this to email alerts, webhook notifications, or just check the Task Scheduler history on Monday morning.
 # Operational Considerations: The Maintenance Contract
 ## Test Baseline Management
@@ -585,7 +585,7 @@ The baselines are the soul of this system. They're also the primary maintenance 
 - Add a scheduled task? Update ExpectedScheduledTasks.json.
 - Open a port for a new tool? Add it to the expected ports array in Firewall.Tests.ps1.
 If you don't maintain the baselines, you'll get false positives. If you get too many false positives, you'll stop running the suite. And then you're back to "my machine is fine because it was fine last time I looked."
-A practical tip: keep a Update-Baseline.ps1 script that snapshots current state to JSON. Run it deliberately after you make approved changes. Never run it reflexively to silence failures — that defeats the purpose.
+A practical tip: keep a Update-Baseline.ps1 script that snapshots current state to JSON. Run it deliberately after you make approved changes. Never run it reflexively to silence failures - that defeats the purpose.
 ## False Positive Management
 Not every failure is a security incident. The taxonomy of failures matters:
 
@@ -596,7 +596,7 @@ Not every failure is a security incident. The taxonomy of failures matters:
 | Environmental | Windows Update changed a default, new feature enabled a service | Evaluate: accept the new state (update baseline) or revert it |
 | Test defect | The test logic doesn't account for a valid state | Fix the test, not the machine |
 
-The discipline is in the triage, not just the detection. Every failure gets classified. Classified failures get resolved. This takes five to ten minutes per week for a well-maintained suite. That's the cost. The value is continuous assurance that your machine matches your intentions — which, for production infrastructure, is non-negotiable.
+The discipline is in the triage, not just the detection. Every failure gets classified. Classified failures get resolved. This takes five to ten minutes per week for a well-maintained suite. That's the cost. The value is continuous assurance that your machine matches your intentions - which, for production infrastructure, is non-negotiable.
 ## The Friction-Value Equation
 
 | Metric | Value |
@@ -608,20 +608,20 @@ The discipline is in the triage, not just the detection. Every failure gets clas
 | Domains covered | Firewall, persistence, software, access, policy |
 | MITRE ATT&CK techniques validated | T1547, T1053, T1543, T1562, T1210 |
 
-Two hours to set up. Ten minutes a week to maintain. In exchange, you get a provable, auditable, repeatable assertion that your workstation — your production infrastructure — is configured the way you intend it to be.
+Two hours to set up. Ten minutes a week to maintain. In exchange, you get a provable, auditable, repeatable assertion that your workstation - your production infrastructure - is configured the way you intend it to be.
 That's a trade worth making.
-# Trust, But Verify — Automatically
+# Trust, But Verify - Automatically
 Your workstation is production. It runs your critical workflows, holds your credentials, and connects to systems that trust it implicitly. It deserves the same validation discipline you'd apply to a server in a data center.
-Pester gives you the framework — a testing language you already know, repurposed for infrastructure. The validation suite gives you the tests — thirty assertions across five domains that cover the security configurations that actually matter. The EdQ metadata gives you the context — not just what failed, but why it matters and how to fix it.
+Pester gives you the framework - a testing language you already know, repurposed for infrastructure. The validation suite gives you the tests - thirty assertions across five domains that cover the security configurations that actually matter. The EdQ metadata gives you the context - not just what failed, but why it matters and how to fix it.
 But the tool isn't the point. The discipline is.
 Running these tests weekly means committing to a contract with yourself: I will know the state of my machine. I will not assume. I will verify. When a test fails, you investigate. When you change your machine, you update the baselines. When a new threat technique emerges, you add a test. The suite grows with your understanding.
-This is what it means to treat your own machine like production. Not with monitoring dashboards and SLA metrics — with assertions, baselines, and the stubborn habit of checking.
+This is what it means to treat your own machine like production. Not with monitoring dashboards and SLA metrics - with assertions, baselines, and the stubborn habit of checking.
 
 | Configuration is a claim. Testing is evidence. Run the suite. |
 | --- |
 
 
-| Related Reading<br>•  "Windows 11 25H2 Hardening Playbook" — Establishes the LGPO baselines and registry policies that Domain 5 validates against. Start there if you need to build the baseline before testing it.<br>•  "The Registry as a Crime Scene" — The forensic companion to Domain 2. Covers historical analysis of persistence registry keys, including deleted entries recoverable from hive analysis.<br>•  "Power Automate for Solo Admins" — Automates the maintenance workflow: baseline updates, report distribution, and failure notifications for practitioners working without a team. |
+| Related Reading<br>•  "Windows 11 25H2 Hardening Playbook" - Establishes the LGPO baselines and registry policies that Domain 5 validates against. Start there if you need to build the baseline before testing it.<br>•  "The Registry as a Crime Scene" - The forensic companion to Domain 2. Covers historical analysis of persistence registry keys, including deleted entries recoverable from hive analysis.<br>•  "Power Automate for Solo Admins" - Automates the maintenance workflow: baseline updates, report distribution, and failure notifications for practitioners working without a team. |
 | --- |
 
-OUT-16  |  Lane 3 — Analyst OS & Reasoning Infrastructure  |  Source Nodes: SK-23, SK-08  |  Published April 2026
+OUT-16  |  Lane 3 - Analyst OS & Reasoning Infrastructure  |  Source Nodes: SK-23, SK-08  |  Published April 2026

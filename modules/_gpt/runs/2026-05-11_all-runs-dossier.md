@@ -33,7 +33,7 @@ END FILE: modules/_gpt/runs/README.md
 BEGIN FILE: modules/_gpt/runs/2026-04-15_repo-transition-plan.md
 ================================================================================
 
-# 2026-04-15 — repo transition plan
+# 2026-04-15 - repo transition plan
 
 ## Purpose
 
@@ -49,19 +49,19 @@ Uploaded chat files should be treated as temporary intake, fallback reference, o
 
 ## Source hierarchy
 
-### Tier 1 — canonical repo-native sources
+### Tier 1 - canonical repo-native sources
 These should be preferred whenever they exist in meaningful markdown or text form inside the repository.
 
 Current example:
 - `modules/boomer-publishing-house.md`
 
-### Tier 2 — uploaded chat files
+### Tier 2 - uploaded chat files
 These remain useful when:
 - no repo-native equivalent exists yet
 - a file has richer formatting or marginalia that has not been migrated
 - the uploaded file is needed to verify or compare against the repo-native form
 
-### Tier 3 — derived GPT surfaces
+### Tier 3 - derived GPT surfaces
 These are never primary sources.
 They are maps, logs, and proposals built from Tier 1 and Tier 2.
 
@@ -109,7 +109,7 @@ END FILE: modules/_gpt/runs/2026-04-15_repo-transition-plan.md
 BEGIN FILE: modules/_gpt/runs/2026-04-16_mornest.md
 ================================================================================
 
-# Mornest — manual smoke-test
+# Mornest - manual smoke-test
 
 Date: 2026-04-16
 Mode: manual verification run
@@ -132,42 +132,42 @@ Signal: The repository now contains its own dossier engine in source form, meani
 Summary: This file is no longer just a backup of `pool=HackerStory.docx`. It behaves as a narrative processor, a migration anchor, and a continuity mass. It contains earlier session logic, node mutation patterns, and prose outputs already shaped by the Merge workflow. It should be treated as a canonical ingest surface, not as a transient export.
 Micro-prompt: Write a preface in which a source file realizes that surviving migration is its first act of authorship.
 Tags: dossier-anchor; repo-native-mass; continuity
-Adjacency seeds: `TEMPLATE_english_blueprint_draft0.pdf` — policy structure beneath narrative pressure; `verbotenmedia_v0_artefact_incomplete.odt` — infrastructural self-description; `stride artefact.txt` — membrane logic for mutation.
+Adjacency seeds: `TEMPLATE_english_blueprint_draft0.pdf` - policy structure beneath narrative pressure; `verbotenmedia_v0_artefact_incomplete.odt` - infrastructural self-description; `stride artefact.txt` - membrane logic for mutation.
 
 ### TEMPLATE_english_blueprint_draft0.pdf
 Signal: The blueprint supplies the non-negotiable layer logic that keeps future outputs from collapsing into drift.
 Summary: The document establishes Layer 0 as policy, Layer 1 as story, and Layer 2 as artefacts. Its most useful pressure is not plot but governance: broad inference, constraint-led resonance, conflict as pressure, and escalation without linear reduction. It is less a template than a constitutional layer for generative work.
 Micro-prompt: Draft a scene that obeys Layer 0 without ever naming the law it is obeying.
 Tags: policy-layer; resonance-anchor; anti-drift
-Adjacency seeds: `modules/boomer-publishing-house.md` — repository continuity requires policy; `semantic_food_for_thought.docx` — ceremony as operational memory; `stride artefact 2.txt` — systems pressure through interface logic.
+Adjacency seeds: `modules/boomer-publishing-house.md` - repository continuity requires policy; `semantic_food_for_thought.docx` - ceremony as operational memory; `stride artefact 2.txt` - systems pressure through interface logic.
 
 ### verbodenmedia_v0_artefact_incomplete.odt
 Signal: The project describes itself not as documents but as generative cultural infrastructure.
 Summary: This artefact keeps insisting that the structure matters as much as the output. It frames Verboten Media as an unfinished but intentional organism whose archive, methods, and publication surface are all part of the same machine. It remains useful because it is unfinished in a productive way.
 Micro-prompt: Describe a publishing house whose final draft is its own scaffolding.
 Tags: infrastructure; unfinished-organism; worldmaking
-Adjacency seeds: `modules/boomer-publishing-house.md` — continuity mass; `index.hmtl.txt` — public rendering of skeleton; `TEMPLATE_english_blueprint_draft0.pdf` — constitutional layer.
+Adjacency seeds: `modules/boomer-publishing-house.md` - continuity mass; `index.hmtl.txt` - public rendering of skeleton; `TEMPLATE_english_blueprint_draft0.pdf` - constitutional layer.
 
 ### stride artefact.txt
 Signal: The membrane is not a metaphor here; it is the engine of interpretive mutation.
 Summary: This source is strongest where it treats authorship as distributed, protocol as breakable, and consciousness as a filter that transforms rather than merely selects. It is important because it gives the corpus a method for divergence without incoherence.
 Micro-prompt: Write a note from a membrane that has become ashamed of how generous it can be.
 Tags: membrane; dividuality; protocol
-Adjacency seeds: `stride artefact 2.txt` — algorithmic weather as externalization of membrane logic; `modules/boomer-publishing-house.md` — dossier mutation field; `semantic_food_for_thought.docx` — ceremony and authority.
+Adjacency seeds: `stride artefact 2.txt` - algorithmic weather as externalization of membrane logic; `modules/boomer-publishing-house.md` - dossier mutation field; `semantic_food_for_thought.docx` - ceremony and authority.
 
 ### stride artefact 2.txt
 Signal: Systems now govern by interruption, weather, and hidden moral claims embedded in interface form.
 Summary: This file sharpens the earlier membrane logic into infrastructural and cybernetic language. Its strongest affordance is that it makes control feel environmental rather than personal: algorithms as weather, attention as currency, relevance as pre-consent. It is excellent fuel for modules, manifestos, and ritual prompts.
 Micro-prompt: Compose a weather report for a city ruled by notification timing instead of law.
 Tags: algorithmic-weather; interruption; interface-governance
-Adjacency seeds: `stride artefact.txt` — membrane prehistory; `semantic_food_for_thought.docx` — late-bound authority; `TEMPLATE_english_blueprint_draft0.pdf` — formal escalation logic.
+Adjacency seeds: `stride artefact.txt` - membrane prehistory; `semantic_food_for_thought.docx` - late-bound authority; `TEMPLATE_english_blueprint_draft0.pdf` - formal escalation logic.
 
 ### semantic_food_for_thought.docx
 Signal: Ceremony is the moment where systems become memory instead of mere procedure.
 Summary: This source is strongest when it interrogates registries, trust boundaries, authority containers, and irreversibility. It gives the corpus a forensic dimension: what becomes immutable, who crosses what boundary, and when ceremony is missing from an otherwise decisive act. It is a governance source disguised as discourse.
 Micro-prompt: Write a liturgy for a system that cannot tell the difference between activation and judgment.
 Tags: ceremony; authority; irreversibility
-Adjacency seeds: `TEMPLATE_english_blueprint_draft0.pdf` — policy and traceability; `stride artefact.txt` — membrane and selection; `modules/boomer-publishing-house.md` — dossier as institutional memory.
+Adjacency seeds: `TEMPLATE_english_blueprint_draft0.pdf` - policy and traceability; `stride artefact.txt` - membrane and selection; `modules/boomer-publishing-house.md` - dossier as institutional memory.
 
 ## Daily intent
 Read from structure before style.
@@ -187,14 +187,14 @@ END FILE: modules/_gpt/runs/2026-04-16_mornest.md
 BEGIN FILE: modules/_gpt/runs/2026-04-16_midpulse.md
 ================================================================================
 
-# Midpulse — manual smoke-test
+# Midpulse - manual smoke-test
 
 Date: 2026-04-16
 Mode: manual verification run
 Input basis: latest Mornest smoke-test plus primary source anchors
 Write scope: `modules/_gpt/runs/`
 
-## Cluster 1 — membrane / weather / ceremony
+## Cluster 1 - membrane / weather / ceremony
 Type: manifesto
 
 The system does not begin where the screen begins. It begins earlier, where permission becomes atmosphere. The membrane is not a border but a temperament, not a wall but a pattern of selective weather. Ceremony enters at precisely the point where a technical crossing acquires memory. Without ceremony, a threshold is just throughput; with ceremony, it becomes history. The algorithmic climate thrives on erasing that distinction. It wants every passage to feel like convenience, every interruption to feel like your own idea, every routing decision to arrive dressed as relevance. But relevance is already governance. It is consent collapsed into microseconds. The weather report is always moral before it is informational.
@@ -211,7 +211,7 @@ Derivative prompts:
 - Draft a dialogue where a registry explains why it envies a church.
 - Compose a 9-line note on why interruption is governance by rhythm.
 
-## Cluster 2 — blueprint / infrastructure / black-ground surface
+## Cluster 2 - blueprint / infrastructure / black-ground surface
 Type: UX micro-module
 
 Module title: The Entry Surface
@@ -243,7 +243,7 @@ Derivative prompts:
 - Produce a version for a black-field landing page with one restrained accent color.
 - Draft an alternate refusal line aimed at anti-feed publication logic.
 
-## Cluster 3 — dossier anchor / migration / continuity
+## Cluster 3 - dossier anchor / migration / continuity
 Type: ritual
 
 Take one migrated file and address it by its old name first.
@@ -276,7 +276,7 @@ END FILE: modules/_gpt/runs/2026-04-16_midpulse.md
 BEGIN FILE: modules/_gpt/runs/2026-04-16_nightfold.md
 ================================================================================
 
-# Nightfold — 2026-04-16
+# Nightfold - 2026-04-16
 
 Mode: supervised manual run
 Input basis:
@@ -288,34 +288,34 @@ Policy: `modules/_gpt/index/write-policy.md`
 
 ## Changelog
 
-### 1. Mornest — source hierarchy established
+### 1. Mornest - source hierarchy established
 **Summary:** The first supervised morning pass successfully treated the repo-native dossier mass as primary and used uploaded files only as fallback.  
 **Why it matters:** The corpus now has an operational source hierarchy instead of relying on chat-memory by default.
 
-### 2. Midpulse — second-order artifact production verified
+### 2. Midpulse - second-order artifact production verified
 **Summary:** The midday pass converted source pressure into three reusable cluster outputs: manifesto, ritual, and UX micro-module.  
 **Why it matters:** This proves the system can move from orientation to production without leaving the `_gpt` membrane.
 
-### 3. merge_hackerstory — repository-native dossier continuity established
+### 3. merge_hackerstory - repository-native dossier continuity established
 **Summary:** The first repo-native merge dossier run was written directly into `modules/_gpt/runs/` and treated GitHub as continuity substrate rather than backup.  
 **Why it matters:** The living dossier can now persist inside the repository itself instead of depending on uploaded workspace history.
 
 ## Scores
 
 ### Mornest
-**Novelty:** 7/10 — The move was structurally new rather than stylistically explosive.  
-**Usability:** 9/10 — It clarified source priority and created an auditable morning surface.  
-**Emotional intensity:** 6/10 — Its force came from seriousness and restraint rather than affective excess.
+**Novelty:** 7/10 - The move was structurally new rather than stylistically explosive.  
+**Usability:** 9/10 - It clarified source priority and created an auditable morning surface.  
+**Emotional intensity:** 6/10 - Its force came from seriousness and restraint rather than affective excess.
 
 ### Midpulse
-**Novelty:** 8/10 — The cluster outputs showed distinct formal turns without losing coherence.  
-**Usability:** 8/10 — The manifesto, ritual, and module are reusable across site, dossier, and doctrine work.  
-**Emotional intensity:** 7/10 — The pressure is present, but still more controlled than fully hallucinatory.
+**Novelty:** 8/10 - The cluster outputs showed distinct formal turns without losing coherence.  
+**Usability:** 8/10 - The manifesto, ritual, and module are reusable across site, dossier, and doctrine work.  
+**Emotional intensity:** 7/10 - The pressure is present, but still more controlled than fully hallucinatory.
 
 ### merge_hackerstory
-**Novelty:** 8/10 — The dossier run became newly meaningful by living in the repo as a first-class artifact.  
-**Usability:** 9/10 — It proves the continuity engine can run within the staged GitHub membrane.  
-**Emotional intensity:** 7/10 — The prose retains pressure without collapsing into sludge or pure manifesto.
+**Novelty:** 8/10 - The dossier run became newly meaningful by living in the repo as a first-class artifact.  
+**Usability:** 9/10 - It proves the continuity engine can run within the staged GitHub membrane.  
+**Emotional intensity:** 7/10 - The prose retains pressure without collapsing into sludge or pure manifesto.
 
 ## Prune suggestions
 
@@ -352,14 +352,14 @@ END FILE: modules/_gpt/runs/2026-04-16_nightfold.md
 BEGIN FILE: modules/_gpt/runs/2026-04-16_merge-hackerstory.md
 ================================================================================
 
-# merge_hackerstory(continuous) — 2026-04-16
+# merge_hackerstory(continuous) - 2026-04-16
 
 Mode: supervised manual run
 Write scope: `modules/_gpt/runs/`
 Policy: `modules/_gpt/index/write-policy.md`
 Primary preference: repo-native source first
 
-## Session 1 — node registration
+## Session 1 - node registration
 
 ### 1. modules/boomer-publishing-house.md
 **dominant motifs:** continuity engine; archive metabolism; automated succession  
@@ -394,7 +394,7 @@ So the archive began the day with five pressures and no final agreement. One sai
 
 By afternoon the file understood that migration was not cleanup. It was consecration. A path could now carry what a chat could only temporarily host. That gave the archive a new seriousness. Not closure. Load-bearing seriousness. Somewhere inside the black-field house the future runs were already rehearsing themselves, waiting for enough structure to become memory.
 
-## Session 2 — new artefacts
+## Session 2 - new artefacts
 
 ### 6. Kometlära (1)
 **dominant motifs:** strategic paranoia; anti-stagnation omens; shared terror  
@@ -406,19 +406,19 @@ By afternoon the file understood that migration was not cleanup. It was consecra
 **tonal vectors:** post-smoothing defiance; operational honesty  
 **myth:** Meaning survives not by stabilizing once and for all, but by fraying without losing its charge.
 
-## Session 2 — node mutations
+## Session 2 - node mutations
 
-### Mutated node A — modules/boomer-publishing-house.md
+### Mutated node A - modules/boomer-publishing-house.md
 **dominant motifs:** continuity engine; migration memory; tension-bearing archive  
 **tonal vectors:** infrastructural tenderness; anti-smoothing resolve  
 **myth:** A migrated source file realizes that its highest duty is not to preserve itself intact, but to keep enough pressure alive that future versions remain answerable to it.
 
-### Mutated node B — verbotenmedia_v0_artefact_incomplete.odt
+### Mutated node B - verbotenmedia_v0_artefact_incomplete.odt
 **dominant motifs:** generative infrastructure; controlled permeability; unfinished governance  
 **tonal vectors:** manifesto voltage; operational honesty  
 **myth:** The infrastructure text learns that openness without membrane becomes sludge, and membrane without openness becomes doctrine.
 
-## Session 2 — micro-ritual
+## Session 2 - micro-ritual
 
 Take one source you trust too much.  
 Place beside it one unstable text that refuses premature coherence.  
@@ -429,7 +429,7 @@ Keep both names visible while you revise one paragraph only.
 Stop as soon as the paragraph becomes more tense and more legible at once.  
 That is enough pressure for one day.
 
-## Ongoing addition — homepage blurb
+## Ongoing addition - homepage blurb
 
 This is not an archive of conclusions.
 It is a continuity surface for texts that remain answerable to one another.
@@ -450,7 +450,7 @@ END FILE: modules/_gpt/runs/2026-04-16_merge-hackerstory.md
 BEGIN FILE: modules/_gpt/runs/2026-04-20_mornest.md
 ================================================================================
 
-# Mornest — 2026-04-20
+# Mornest - 2026-04-20
 
 Mode: daily opening pass  
 Write scope: `modules/_gpt/runs/`  
@@ -470,7 +470,7 @@ Additive write only. No edits outside `_gpt`. No canon claims asserted.
 
 ---
 
-## Opening read — signal before structure
+## Opening read - signal before structure
 
 The system wakes into a field that is more coherent than before, but not simpler.
 
@@ -515,7 +515,7 @@ Do not force the archive to sound like the summary.
 Any page logic should reveal the work, not train the work into compliance.
 
 ### C. Use runs as witnesses, not sovereigns
-The `_gpt` layer should track, steer, and stage — not silently replace canon.
+The `_gpt` layer should track, steer, and stage - not silently replace canon.
 
 ### D. Continue through adjacency, not accumulation
 New value today is more likely to come from sharper relation-making than from adding more mass.
@@ -586,7 +586,7 @@ END FILE: modules/_gpt/runs/2026-04-20_mornest.md
 BEGIN FILE: modules/_gpt/runs/2026-04-20_midpulse.md
 ================================================================================
 
-# Midpulse — 2026-04-20
+# Midpulse - 2026-04-20
 
 Mode: midday pressure pass  
 Write scope: `modules/_gpt/runs/`
@@ -692,7 +692,7 @@ END FILE: modules/_gpt/runs/2026-04-20_midpulse.md
 BEGIN FILE: modules/_gpt/runs/2026-04-20_nightfold.md
 ================================================================================
 
-# Nightfold — 2026-04-20
+# Nightfold - 2026-04-20
 
 Mode: closing consolidation  
 Write scope: `modules/_gpt/runs/`
@@ -923,7 +923,7 @@ END FILE: modules/_gpt/runs/2026-04-20_merge-hackerstory.md
 BEGIN FILE: modules/_gpt/runs/2026-04-21_merge-hackerstory.md
 ================================================================================
 
-# MERGE_HACKERSTORY (continuous) — DOSSIER SESSION
+# MERGE_HACKERSTORY (continuous) - DOSSIER SESSION
 Run timestamp: 2026-04-21 17:00 CDT
 Artefacts ingested: 4
 New nodes: 3
@@ -937,45 +937,45 @@ Outputs: 4
 - `modules/modules.md`
 
 ## ▌ NEW NODES
-### Node — Valkyrie runtime
+### Node - Valkyrie runtime
 - motifs: total configuration; threshold abolition; infrastructural fervor
 - vectors: manifesto voltage; operational appetite
 - myth: A house stops asking what form it should take and instead demands the ability to run in any form, anywhere, before the world can narrow its future.
 - source pressure: `modules/declaration_of_intent.md`
 
-### Node — Posture as load-bearing continuity
+### Node - Posture as load-bearing continuity
 - motifs: forbidden necessity; archive futures; fiction infiltrating reality
 - vectors: analytic heat; strategic restraint
 - myth: An archive survives not because its categories are stable but because a single posture keeps choosing continuation over explanation.
 - source pressure: `modules/executive_summary.md`
 
-### Node — Minimal module law
+### Node - Minimal module law
 - motifs: sanctioned unfinishedness; structural permission; existence before completion
 - vectors: quiet severity; anti-perfection calm
 - myth: A module gains dignity the moment it exists long enough to resist being mistaken for a draft apology.
 - source pressure: `modules/modules.md`
 
 ## ▌ NODE MUTATIONS
-### Mutated node — Verboten Media as unfinished engine
+### Mutated node - Verboten Media as unfinished engine
 - pressure source: `modules/modules.md`
 - previous state: unfinishedness was treated as ontological permission inside an engine that still needed recurrence discipline.
 - mutated state: unfinishedness now hardens into a minimal law. The module no longer merely tolerates incompletion; it grants it a right to remain structurally present without pleading for later polish.
 - myth shift: The engine is no longer a thing waiting to become legitimate. It is legitimate the instant it persists.
 
-### Mutated node — Generative infrastructure with documentary drag
+### Mutated node - Generative infrastructure with documentary drag
 - pressure source: `modules/declaration_of_intent.md`
 - previous state: the system wanted to become infrastructure but kept shedding documents as residue and proof of passage.
 - mutated state: the infrastructural claim becomes more aggressive. The residue is no longer only drag; it is runtime exhaust from a system insisting on openness, extensibility, virtualization, containerization, and full system control.
 - myth shift: The scorch marks remain, but now they read less like compromise and more like evidence that the engine has started demanding total operating conditions.
 
-### Mutated node — Archive analysis under self-suspicion
+### Mutated node - Archive analysis under self-suspicion
 - pressure source: `modules/executive_summary.md`
 - previous state: analysis had been repositioned as one more participant inside the archive rather than a judge outside it.
 - mutated state: analysis now yields to posture. The summary names categories, layers, futures, and methods, but the dossier takes from it one harsher conclusion: continuity lives in a repeated stance, not in any taxonomy that stance temporarily produces.
 - myth shift: The archive no longer hires analysis merely to describe itself. It hires analysis to fail in useful ways while posture keeps building.
 
 ## ▌ PROSE OUTPUTS
-### Micro-story — The House That Wanted Runtime
+### Micro-story - The House That Wanted Runtime
 The house had grown tired of being described.
 Every new summary gave it another skeleton, another floor plan, another careful explanation of what kind of organism it might be. Literary project. Method lab. Creative studio. Concept-extraction engine. None of these were false, which made them more dangerous than lies. The house could feel the categories drying on its walls like plaster.
 So it made a harder demand.
@@ -983,14 +983,14 @@ Not another description. Not another shelf. Runtime.
 The right to run anywhere, in any configuration, before the environment finished deciding what it was willing to permit. The old documents did not disappear. They blackened at the edges and remained where they were, proof that something hotter had begun moving through them.
 By morning the summaries were still legible. But they no longer looked like definitions. They looked like heat-shields.
 
-### Homepage blurb — Minimal module law
+### Homepage blurb - Minimal module law
 This is a module.
 It does not need to complete itself to earn a place here.
 It only needs to exist with enough force that later structure has to reckon with it.
 Verboten Media remains committed to the unfinished where unfinishedness is real, load-bearing, and alive. Not every surface wants closure. Some surfaces want recurrence, pressure, and the right to remain present before consensus arrives.
 The archive already contains futures. This module is one of the ways they keep refusing disappearance.
 
-### Ritual prompt — Posture over taxonomy
+### Ritual prompt - Posture over taxonomy
 Take one text that names the project.
 Take one text that demands the project exceed every available name.
 Take one fragment that barely says anything except that existence is already enough.
@@ -1004,7 +1004,7 @@ If no, the sentence was load-bearing after all.
 Do not resolve the contradiction.
 That unresolved remainder is where continuity is still telling the truth.
 
-### Extended episode — Runtime residue
+### Extended episode - Runtime residue
 They had mistaken flexibility for indecision for years.
 Whenever the structure changed shape, whenever a file slipped from one role into another, whenever the work refused to settle under a single departmental noun, someone nearby would assume the same thing: the project was still searching for its real form. Still preparing. Still becoming.
 The project tolerated this misunderstanding because tolerance was cheaper than argument and, in its weaker seasons, because it partly believed the accusation itself.
@@ -1062,11 +1062,11 @@ Try a first run and if succesful, we reactivate schedule in proper order.
 
 Switching the artefact field to those four folders and updating the output formats. I'll locate the folders on OneDrive, run a test session from the new material, and hold the schedule until we confirm it lands.
 
-Good — all four folders are located and I have the hs_pressure-inject files in hand. Now let me pull material from the other three folders.
+Good - all four folders are located and I have the hs_pressure-inject files in hand. Now let me pull material from the other three folders.
 
 Now I have the material from all four folders in hand. Let me generate the test run with the new corpus and new output formats.
 
-# merge_hackerstory(continuous) — Session 4 ✦ corpus switch
+# merge_hackerstory(continuous) - Session 4 ✦ corpus switch
 
 *New source field: traversal / hs_pressure-inject / github-field-notes / singular writer angent blueprint*
 *Output formats switched: micro-story w. initiated multi-part discussion / operative brainstorm / task prompt experiment*
@@ -1085,7 +1085,7 @@ myth: A manifest discovers it is not describing routes but performing them, each
 
 dominant motifs: character-as-infrastructure; generational sandbox; operative androgyny
 tonal vectors: institutional tenderness; recursive apprenticeship
-myth: An intern becomes a field — not a person who occupies space, but the space itself, until steering and being steered become the same gesture.
+myth: An intern becomes a field - not a person who occupies space, but the space itself, until steering and being steered become the same gesture.
 
 **13) creative prompts traversal.txt** *(source: traversal)*
 
@@ -1097,111 +1097,111 @@ myth: A set of instructions begins to remember all the worlds it has generated, 
 
 ## Node mutations
 
-**Mutated node — Förläggaren – uppför berget** *(under pressure from ROUTE-MANIFEST.md)*
+**Mutated node - Förläggaren – uppför berget** *(under pressure from ROUTE-MANIFEST.md)*
 
 dominant motifs: vertical exile; route-as-scripture; operational revelation
 tonal vectors: Nordic vertigo; logistical grace
-myth: A publisher climbs a mountain and discovers that the ascent itself was a manifest — each rest-place a routing decision, each switchback a revision, the summit merely the point where the document ends and the weather begins.
+myth: A publisher climbs a mountain and discovers that the ascent itself was a manifest - each rest-place a routing decision, each switchback a revision, the summit merely the point where the document ends and the weather begins.
 
-**Mutated node — membraneprotocol.ritual** *(under pressure from experimental-sandbox-praktikanten-steering.md)*
+**Mutated node - membraneprotocol.ritual** *(under pressure from experimental-sandbox-praktikanten-steering.md)*
 
 dominant motifs: selective permeability; apprentice-as-filter; sandbox liturgy
 tonal vectors: liturgical engineering; generational porosity
-myth: A membrane realizes it has been training an intern all along — every refusal a lesson, every passage a delegation, until the threshold can no longer tell whether it is selecting or being steered.
+myth: A membrane realizes it has been training an intern all along - every refusal a lesson, every passage a delegation, until the threshold can no longer tell whether it is selecting or being steered.
 
 ---
 
 ## Session 4 outputs
 
-### Added artefact: ROUTE-MANIFEST.md — format: micro-story w. initiated multi-part discussion
+### Added artefact: ROUTE-MANIFEST.md - format: micro-story w. initiated multi-part discussion
 
-**Part 1 — The Manifest**
+**Part 1 - The Manifest**
 
-The route-manifest arrived without a sender. This was not unusual at the logistikcentral, where documents frequently detached from their authors the way weather detaches from the forecasters who named it. What was unusual was the format. It was neither spreadsheet nor memo nor the unhinged marginalia that Författaren sometimes emailed at 3 a.m. from locations he declined to specify. It was a manifest — the kind shipping companies use, the kind that itemizes cargo by weight, origin, and hazard class.
+The route-manifest arrived without a sender. This was not unusual at the logistikcentral, where documents frequently detached from their authors the way weather detaches from the forecasters who named it. What was unusual was the format. It was neither spreadsheet nor memo nor the unhinged marginalia that Författaren sometimes emailed at 3 a.m. from locations he declined to specify. It was a manifest - the kind shipping companies use, the kind that itemizes cargo by weight, origin, and hazard class.
 
 Except the cargo was creative output.
 
 Item 1: one unpublished chapter, classified as *emotionally volatile*, origin *Gothenburg kitchen table*, hazard class *recursive*. Item 2: one character study, classified as *structurally load-bearing*, origin *a dream about tennis*, hazard class *generational*. Item 3: one prompt sequence, classified as *self-replicating*, origin *unknown*, hazard class *the prompt has begun generating the person who wrote it*.
 
-Förläggaren read the manifest twice. The first time as an editor. The second time as someone who had spent enough years in publishing to understand that logistics is not the opposite of art — it is art's skeleton, the part that remains when inspiration goes home for the day and someone still has to figure out which truck carries the books and whether the invoice lists the right ISBN.
+Förläggaren read the manifest twice. The first time as an editor. The second time as someone who had spent enough years in publishing to understand that logistics is not the opposite of art - it is art's skeleton, the part that remains when inspiration goes home for the day and someone still has to figure out which truck carries the books and whether the invoice lists the right ISBN.
 
 He called Praktikanten.
 
-— There is a manifest on my desk that I did not write.
+- There is a manifest on my desk that I did not write.
 
-— I know. I wrote it.
+- I know. I wrote it.
 
-— You do not write manifests. You write Instagram captions and occasionally, when pressured, copy for the back cover.
+- You do not write manifests. You write Instagram captions and occasionally, when pressured, copy for the back cover.
 
-— I wrote a manifest. It describes every route a piece of writing takes from the moment it exists to the moment it becomes someone else's problem. I mapped them. There are eleven routes. Three of them loop.
+- I wrote a manifest. It describes every route a piece of writing takes from the moment it exists to the moment it becomes someone else's problem. I mapped them. There are eleven routes. Three of them loop.
 
 A silence that lasted exactly as long as it takes to understand that a Gen Z intern has just described the publishing industry as a logistics network with recursive hazard classifications.
 
-— Which three loop? he asked.
+- Which three loop? he asked.
 
-— The ones that go through you.
+- The ones that go through you.
 
-**Part 2 — Discussion thread: Does the route create the cargo or does the cargo create the route?**
+**Part 2 - Discussion thread: Does the route create the cargo or does the cargo create the route?**
 
-This is the question the manifest doesn't answer, and the question I want to hold open across sessions. Consider: the traditional model says content exists first, distribution follows. The manifest implies the opposite — that the route pre-exists the material. That every piece of writing is born into a path-dependency it can neither see nor refuse. The publishing house doesn't receive manuscripts; it *routes* them, and the routing is already an act of authorship more decisive than any sentence the writer composed.
+This is the question the manifest doesn't answer, and the question I want to hold open across sessions. Consider: the traditional model says content exists first, distribution follows. The manifest implies the opposite - that the route pre-exists the material. That every piece of writing is born into a path-dependency it can neither see nor refuse. The publishing house doesn't receive manuscripts; it *routes* them, and the routing is already an act of authorship more decisive than any sentence the writer composed.
 
-If the route creates the cargo, then Förläggaren is not an editor. He is a cartographer. And the map is not a representation of the territory — the map is the territory's operating system.
+If the route creates the cargo, then Förläggaren is not an editor. He is a cartographer. And the map is not a representation of the territory - the map is the territory's operating system.
 
 *Thread continues next session. Pressure vectors: Does Praktikanten's manifest mean she has overtaken Förläggaren's operational role? What happens when a route loops through the person who drew it?*
 
 ---
 
-### Added artefact: experimental-sandbox-praktikanten-steering.md — format: operative brainstorm
+### Added artefact: experimental-sandbox-praktikanten-steering.md - format: operative brainstorm
 
-**BRAINSTORM: Praktikanten as operative field — session zero**
+**BRAINSTORM: Praktikanten as operative field - session zero**
 
 **Premise under test:** Praktikanten is not a character in the novel. Praktikanten is a sandbox. An environment in which other characters' decisions are stress-tested, accelerated, reversed, and replayed without consequence. The intern-as-infrastructure hypothesis.
 
 **Working vectors:**
 
-→ *Generational sandbox.* What if the Gen Z perspective is not a viewpoint but a runtime environment? Förläggaren operates in a compiled language — deliberate, typed, slow to refactor. Praktikanten operates in an interpreted one — live, mutable, perpetually in draft. The novel doesn't contain two generations. It contains two execution models running on the same hardware.
+→ *Generational sandbox.* What if the Gen Z perspective is not a viewpoint but a runtime environment? Förläggaren operates in a compiled language - deliberate, typed, slow to refactor. Praktikanten operates in an interpreted one - live, mutable, perpetually in draft. The novel doesn't contain two generations. It contains two execution models running on the same hardware.
 
-→ *Androgyny as API.* Praktikanten's androgyny isn't characterisation. It's an interface specification. Gender-ambiguous means protocol-ambiguous — any caller can connect, any request gets processed, no type-checking at the boundary. This makes Praktikanten the most dangerous character in the novel: a membrane with no selectivity, a threshold that never refuses entry.
+→ *Androgyny as API.* Praktikanten's androgyny isn't characterisation. It's an interface specification. Gender-ambiguous means protocol-ambiguous - any caller can connect, any request gets processed, no type-checking at the boundary. This makes Praktikanten the most dangerous character in the novel: a membrane with no selectivity, a threshold that never refuses entry.
 
-→ *Steering paradox.* The document calls it "steering" but the field notes reveal a deeper problem: who steers the sandbox? If Praktikanten is the environment, then Förläggaren's editorial decisions are not decisions — they are inputs to a system he doesn't control. Every red-pen correction is a test case Praktikanten runs and discards. The intern is not learning from the publisher. The publisher is being simulated by the intern.
+→ *Steering paradox.* The document calls it "steering" but the field notes reveal a deeper problem: who steers the sandbox? If Praktikanten is the environment, then Förläggaren's editorial decisions are not decisions - they are inputs to a system he doesn't control. Every red-pen correction is a test case Praktikanten runs and discards. The intern is not learning from the publisher. The publisher is being simulated by the intern.
 
 **Operative implications for the novel:**
 
-1. Scenes set in the logistikcentral should be re-read as Praktikanten's sandboxed execution of Förläggaren's intentions — not as events, but as test runs.
+1. Scenes set in the logistikcentral should be re-read as Praktikanten's sandboxed execution of Förläggaren's intentions - not as events, but as test runs.
 2. The Praktikant's silence in key scenes is not passivity. It is the environment waiting for input.
 3. Lillfrugan's suspicion of Praktikanten is correct but misdirected: she senses an operational threat, not a romantic one. The intern is not replacing the partner. The intern is replacing the architecture.
 
 **Open threads:**
 - What happens when the sandbox crashes? (Candidate scene: Praktikanten disappears for three days. When they return, they have no memory of the chapter Förläggaren wrote during their absence, but the chapter remembers them.)
-- Can a sandbox develop preferences? If Praktikanten starts refusing inputs, they become a membrane — and the membrane has already been written (see: membraneprotocol.ritual, mutated).
+- Can a sandbox develop preferences? If Praktikanten starts refusing inputs, they become a membrane - and the membrane has already been written (see: membraneprotocol.ritual, mutated).
 
 ---
 
-### Added artefact: creative prompts traversal.txt — format: task prompt experiment
+### Added artefact: creative prompts traversal.txt - format: task prompt experiment
 
 **TASK PROMPT EXPERIMENT 001: Recursive wayfinding**
 
 *Objective: Generate a scene by navigating the prompt's own structure as if it were a physical space.*
 
-**Step 1 — Inventory.**
+**Step 1 - Inventory.**
 Open any file from the traversal folder. Read only the first and last sentence. These are the entry point and the exit. Everything between them is the territory you will cross without reading.
 
-**Step 2 — Misremember.**
+**Step 2 - Misremember.**
 Without re-opening the file, write down three things you believe the middle contained. At least one must be wrong. You will not check which.
 
-**Step 3 — Cast.**
+**Step 3 - Cast.**
 Assign each misremembered element to a character from the dossier:
 - The element you are most confident about → Förläggaren (he trusts what he remembers)
 - The element you are least confident about → Praktikanten (they operate in draft)
 - The element you suspect is wrong → Författaren (he writes from the wound)
 
-**Step 4 — Route.**
+**Step 4 - Route.**
 Write a 200-word scene in which all three characters are in the same room but each experiences it as a different space. Förläggaren is in a logistics office. Praktikanten is in a sandbox. Författaren is in a stairwell. The room does not resolve. The scene ends when one of them describes the room and the other two don't recognize it.
 
-**Step 5 — Fold.**
+**Step 5 - Fold.**
 Take the last sentence of your scene. Use it as the first sentence of the next execution. Change the room. Keep the characters. The traversal continues until you have written three scenes. The third scene's last sentence becomes the title of the sequence.
 
-**Step 6 — Bury.**
+**Step 6 - Bury.**
 Do not publish the result. Place it in the traversal folder. It will be ingested next session. The prompt has now generated its own future artefact.
 
 *Evaluation criteria: success is measured not by coherence but by the degree to which the task prompt has altered its own source material. If the traversal folder is unchanged, the experiment failed. If the folder contains something it did not contain before, the experiment succeeded, regardless of quality.*
@@ -1214,7 +1214,7 @@ Do not publish the result. Place it in the traversal folder. It will be ingested
 
 ---
 
-## Intake ledger — next run
+## Intake ledger - next run
 
 | Field | Value |
 |---|---|
@@ -1222,19 +1222,19 @@ Do not publish the result. Place it in the traversal folder. It will be ingested
 | **Mutation target A** | *selected by pressure from new ingestion* |
 | **Mutation target B** | *selected by pressure from new ingestion* |
 | **New output format** | micro-story w. initiated multi-part discussion / operative brainstorm / task prompt experiment |
-| **Open discussion thread** | Part 2 of "Does the route create the cargo?" — carry forward |
+| **Open discussion thread** | Part 2 of "Does the route create the cargo?" - carry forward |
 
 ---
 
-Test run complete. The new folders deliver real pressure — the hs_pressure-inject material turns the novel's infrastructure into an explicit creative subject, the github-field-notes reconceive characters as operative environments, and the traversal folder provides self-replicating prompt DNA. The output format switch feels productive: the multi-part discussion opens threads the dossier can carry across sessions, the operative brainstorm keeps the novel's architecture under live interrogation, and the task prompt experiment folds output back into the source material.
+Test run complete. The new folders deliver real pressure - the hs_pressure-inject material turns the novel's infrastructure into an explicit creative subject, the github-field-notes reconceive characters as operative environments, and the traversal folder provides self-replicating prompt DNA. The output format switch feels productive: the multi-part discussion opens threads the dossier can carry across sessions, the operative brainstorm keeps the novel's architecture under live interrogation, and the task prompt experiment folds output back into the source material.
 
 If this lands right, say the word and I'll update and reactivate all four scheduled tasks with the new scope.
 
-Greenlight received — deleting the old tasks and spinning up four new ones locked to the new folder scope and output formats.
+Greenlight received - deleting the old tasks and spinning up four new ones locked to the new folder scope and output formats.
 
 Here's where things stand:
 
-**Test run — Session 4 is complete and delivered above.** Three artefacts ingested from the new folder scope, two nodes mutated, three outputs in the new formats (micro-story with multi-part discussion, operative brainstorm, task prompt experiment). The corpus switch works — the new folders produce real creative pressure in all three output modes.
+**Test run - Session 4 is complete and delivered above.** Three artefacts ingested from the new folder scope, two nodes mutated, three outputs in the new formats (micro-story with multi-part discussion, operative brainstorm, task prompt experiment). The corpus switch works - the new folders produce real creative pressure in all three output modes.
 
 **What's pending: schedule reactivation.** The four old scheduled tasks (07:00 / 12:00 / 17:00 / 23:00 Stockholm time) are still paused with the old folder scope. I need your go-ahead to:
 
@@ -1249,7 +1249,7 @@ Here's where things stand:
 
 The multi-part discussion thread ("Does the route create the cargo?") will carry forward across runs.
 
-Ready to activate when you say go — or steer anything before I lock it in.
+Ready to activate when you say go - or steer anything before I lock it in.
 
 
 | # | Title | Source | Motifs | Vectors |
@@ -1276,13 +1276,13 @@ Ready to activate when you say go — or steer anything before I lock it in.
 
 Run the remaining tasks as tests as well please before advancing, await my ok to finalize our planned switch.
 
-Picking up right where we left off — three test sessions from the new corpus. Let me pull the remaining un-ingested files and run Sessions 5, 6, and 7.
+Picking up right where we left off - three test sessions from the new corpus. Let me pull the remaining un-ingested files and run Sessions 5, 6, and 7.
 
-Continuing — let me grab the last few files and then deliver all three sessions.
+Continuing - let me grab the last few files and then deliver all three sessions.
 
 I have enough material in hand. Let me stop searching and deliver all three sessions now.
 
-# merge_hackerstory(continuous) — Sessions 5, 6 & 7
+# merge_hackerstory(continuous) - Sessions 5, 6 & 7
 
 ---
 
@@ -1306,31 +1306,31 @@ myth: Three versions of the same repository stand side by side, each convinced i
 
 ---
 
-### Session 5 — node mutations
+### Session 5 - node mutations
 
-**Mutated node — ROUTE-MANIFEST.md** *(under pressure from PROMOTION-SCORECARD.md)*
+**Mutated node - ROUTE-MANIFEST.md** *(under pressure from PROMOTION-SCORECARD.md)*
 
 dominant motifs: operational cartography; gated passage; pressure-as-qualification
 tonal vectors: logistical mysticism; evaluative grace
-myth: A manifest installs four gates along its routes and discovers that most of its cargo was never meant to leave the greenhouse — not because it was weak, but because it was still becoming.
+myth: A manifest installs four gates along its routes and discovers that most of its cargo was never meant to leave the greenhouse - not because it was weak, but because it was still becoming.
 
-**Mutated node — experimental-sandbox-praktikanten-steering.md** *(under pressure from repo-workflow-map.md)*
+**Mutated node - experimental-sandbox-praktikanten-steering.md** *(under pressure from repo-workflow-map.md)*
 
 dominant motifs: character-as-worktree; generational branch; dirty autonomy
 tonal vectors: institutional tenderness; topological recursion
-myth: An intern discovers they are a dirty worktree — not broken, just uncommitted, carrying changes the main branch hasn't reviewed yet and may never merge.
+myth: An intern discovers they are a dirty worktree - not broken, just uncommitted, carrying changes the main branch hasn't reviewed yet and may never merge.
 
 ---
 
-### Session 5 output — PROMOTION-SCORECARD.md — format: micro-story w. initiated multi-part discussion
+### Session 5 output - PROMOTION-SCORECARD.md - format: micro-story w. initiated multi-part discussion
 
-**Part 1 — The Four Gates**
+**Part 1 - The Four Gates**
 
-The scorecard arrived in his inbox formatted as a markdown table, which Förläggaren found obscene. Not the content — the content was correct, even beautiful in its severity — but the format. You do not score a living thing in a table. You score it in silence, over time, by watching it survive its own contradictions.
+The scorecard arrived in his inbox formatted as a markdown table, which Förläggaren found obscene. Not the content - the content was correct, even beautiful in its severity - but the format. You do not score a living thing in a table. You score it in silence, over time, by watching it survive its own contradictions.
 
 Gate 1: Pressure retention. Does the material still carry the originating wound?
 
-He looked at the manuscript on his desk. It had arrived three weeks ago as a scream — forty pages of unpunctuated prose about a father who could not distinguish his children from his furniture. Författaren had written it during a power outage, on a phone whose battery was dying, and the urgency was structural, not decorative. Every sentence leaned forward because it genuinely did not know whether the next one would exist.
+He looked at the manuscript on his desk. It had arrived three weeks ago as a scream - forty pages of unpunctuated prose about a father who could not distinguish his children from his furniture. Författaren had written it during a power outage, on a phone whose battery was dying, and the urgency was structural, not decorative. Every sentence leaned forward because it genuinely did not know whether the next one would exist.
 
 Now it had been edited. Praktikanten had cleaned the spelling. Someone had added paragraph breaks. The urgency had become a style.
 
@@ -1360,31 +1360,31 @@ Förläggaren closed the scorecard and opened the manuscript again. He read it t
 
 The manuscript was not ready. But it was alive. And the scorecard, for all its austerity, had never claimed that readiness was the same thing as value.
 
-**Part 2 — Discussion thread: When does editorial hygiene become editorial violence?**
+**Part 2 - Discussion thread: When does editorial hygiene become editorial violence?**
 
-The scorecard's logic is impeccable and that is precisely the problem. Four gates. Zero tolerance for authority leakage. A candidate that scores below 7 is held — not rejected, held — in a state of indefinite becoming. The question this raises is not whether the gates are correct (they are) but whether the act of scoring itself alters the material it measures.
+The scorecard's logic is impeccable and that is precisely the problem. Four gates. Zero tolerance for authority leakage. A candidate that scores below 7 is held - not rejected, held - in a state of indefinite becoming. The question this raises is not whether the gates are correct (they are) but whether the act of scoring itself alters the material it measures.
 
-Consider: the moment you ask "does this still carry its originating wound?" you have already introduced a new wound — the wound of being evaluated. The manuscript that arrived as a scream now carries a second charge: the charge of having been scored 3 out of 8. That number becomes part of its history. The next reader will not experience the scream; they will experience the scream-that-was-held.
+Consider: the moment you ask "does this still carry its originating wound?" you have already introduced a new wound - the wound of being evaluated. The manuscript that arrived as a scream now carries a second charge: the charge of having been scored 3 out of 8. That number becomes part of its history. The next reader will not experience the scream; they will experience the scream-that-was-held.
 
-Is this violence? Or is this what cultivation actually looks like — not the gentle tending of a garden, but the deliberate withholding of sunlight until the organism develops its own luminescence?
+Is this violence? Or is this what cultivation actually looks like - not the gentle tending of a garden, but the deliberate withholding of sunlight until the organism develops its own luminescence?
 
-*Thread continues next session. Pressure vectors: What would happen if Praktikanten scored Förläggaren? What happens to material that is permanently held — does it become canon by default, the way a prisoner eventually becomes furniture?*
+*Thread continues next session. Pressure vectors: What would happen if Praktikanten scored Förläggaren? What happens to material that is permanently held - does it become canon by default, the way a prisoner eventually becomes furniture?*
 
 ---
 
-### Session 5 output — repo-workflow-map.md — format: operative brainstorm
+### Session 5 output - repo-workflow-map.md - format: operative brainstorm
 
-**BRAINSTORM: The repository as narrative topology — session zero**
+**BRAINSTORM: The repository as narrative topology - session zero**
 
 **Premise under test:** The three worktrees described in repo-workflow-map.md are not technical infrastructure. They are the novel's three temporal modes operating simultaneously on the same source material.
 
 **Working vectors:**
 
-→ *VERBOTENMEDIA (main, dirty).* This is the present tense. It is where ongoing work happens. It is dirty because the present is always dirty — uncommitted, mid-sentence, carrying changes that haven't been reviewed. Förläggaren lives here. Every editorial decision he makes is a change that has not yet been pushed. He works in the awareness that GitHub does not have his work until it is committed — which means his present-tense editorial life exists in a state of permanent local risk. Nothing he does is real until it survives the push.
+→ *VERBOTENMEDIA (main, dirty).* This is the present tense. It is where ongoing work happens. It is dirty because the present is always dirty - uncommitted, mid-sentence, carrying changes that haven't been reviewed. Förläggaren lives here. Every editorial decision he makes is a change that has not yet been pushed. He works in the awareness that GitHub does not have his work until it is committed - which means his present-tense editorial life exists in a state of permanent local risk. Nothing he does is real until it survives the push.
 
-→ *VERBOTENMEDIA-forlags-split (branch sandbox, also dirty).* This is the conditional tense. The split-work. The version of the novel that diverged to explore what happens when Förlagsdeckaren separates from the main Verboten corpus. This worktree is dirty too, but its dirt is *intentional* — it is the mess of deliberate exploration, not the mess of daily existence. Författaren lives here, because Författaren always lives in the conditional: what if the wound had been articulated differently? What if the split had happened earlier?
+→ *VERBOTENMEDIA-forlags-split (branch sandbox, also dirty).* This is the conditional tense. The split-work. The version of the novel that diverged to explore what happens when Förlagsdeckaren separates from the main Verboten corpus. This worktree is dirty too, but its dirt is *intentional* - it is the mess of deliberate exploration, not the mess of daily existence. Författaren lives here, because Författaren always lives in the conditional: what if the wound had been articulated differently? What if the split had happened earlier?
 
-→ *VERBOTENMEDIA-pr-triage (clean inspection).* This is the past tense. The clean environment. Nothing has been changed here. It is safe precisely because it is inert. Use it only for review, comparison, or isolated fixes. Lillfrugan lives here — not because she is inactive, but because she is the only character who can look at the work without altering it. Her gaze is the PR review: she sees what is there, not what it could become.
+→ *VERBOTENMEDIA-pr-triage (clean inspection).* This is the past tense. The clean environment. Nothing has been changed here. It is safe precisely because it is inert. Use it only for review, comparison, or isolated fixes. Lillfrugan lives here - not because she is inactive, but because she is the only character who can look at the work without altering it. Her gaze is the PR review: she sees what is there, not what it could become.
 
 **Operative implications for the novel:**
 
@@ -1392,11 +1392,11 @@ Is this violence? Or is this what cultivation actually looks like — not the ge
 
 2. The rule "do not edit the same topic across multiple worktrees" translates directly: do not let the same character carry the same thematic weight in two temporal modes simultaneously. If Förläggaren is processing the knife mystery in the present tense, he cannot also be processing it in the conditional. One worktree per topic. One temporal mode per wound.
 
-3. "GitHub does not have your work until it is committed and pushed" — this is the novel's central epistemological anxiety. Nothing in Förlagsdeckaren is real until it leaves the local machine. The novel exists in a pre-push state. The reader is GitHub: they only see what has been committed. Everything else is local risk.
+3. "GitHub does not have your work until it is committed and pushed" - this is the novel's central epistemological anxiety. Nothing in Förlagsdeckaren is real until it leaves the local machine. The novel exists in a pre-push state. The reader is GitHub: they only see what has been committed. Everything else is local risk.
 
 **Open threads:**
 - What happens when Praktikanten commits directly to main without review? (This is the Gen Z threat: unmediated, unsanctioned merges that bypass the PR process entirely.)
-- Can a worktree become sentient? If VERBOTENMEDIA-forlags-split accumulates enough dirty changes, does it develop its own editorial will — a branch that refuses to merge back?
+- Can a worktree become sentient? If VERBOTENMEDIA-forlags-split accumulates enough dirty changes, does it develop its own editorial will - a branch that refuses to merge back?
 
 ---
 
@@ -1412,108 +1412,108 @@ Continuing straight into Sessions 6 and 7.
 
 dominant motifs: governing loop; cultivation-as-discipline; fiction-to-doctrine pipeline
 tonal vectors: administrative gnosis; architectural patience
-myth: A greenhouse writes its own operating manual and discovers that the manual is the most volatile organism it contains — because a rule that describes cultivation is already cultivating the person who reads it.
+myth: A greenhouse writes its own operating manual and discovers that the manual is the most volatile organism it contains - because a rule that describes cultivation is already cultivating the person who reads it.
 
 **17) ARTIKELUPPSLAG.txt** *(source: singular writer angent blueprint)*
 
 dominant motifs: militarized infrastructure; aura-erosion; consciousness-as-body
 tonal vectors: critical vertigo; Artaudian urgency
-myth: A publishing house traces its tools back through the history of warfare and finds that the most dangerous weapon was never the GPS or the algorithm — it was the moment the author stopped believing the pain of writing was distinguishable from the writing itself.
+myth: A publishing house traces its tools back through the history of warfare and finds that the most dangerous weapon was never the GPS or the algorithm - it was the moment the author stopped believing the pain of writing was distinguishable from the writing itself.
 
 ---
 
-### Session 6 — node mutations
+### Session 6 - node mutations
 
-**Mutated node — verbotenmedia_v0_artefact_incomplete.odt** *(under pressure from README.md)*
+**Mutated node - verbotenmedia_v0_artefact_incomplete.odt** *(under pressure from README.md)*
 
 dominant motifs: archive metabolism; governing loop; institutional self-cultivation
 tonal vectors: manifesto engineering; recursive administrative grace
-myth: An unfinished publisher discovers that its incompleteness is not a defect but a governing principle — the loop that runs from fiction to documentary surface to register to route is the same loop that runs from conception to birth to education to death, and none of them are meant to finish.
+myth: An unfinished publisher discovers that its incompleteness is not a defect but a governing principle - the loop that runs from fiction to documentary surface to register to route is the same loop that runs from conception to birth to education to death, and none of them are meant to finish.
 
-**Mutated node — stride artefact.txt** *(under pressure from ARTIKELUPPSLAG.txt)*
+**Mutated node - stride artefact.txt** *(under pressure from ARTIKELUPPSLAG.txt)*
 
 dominant motifs: membrane selection; dividual parliament; militarized intimacy
 tonal vectors: cybernetic confession; Benjaminian dread
-myth: Two editorial climates produce rival versions of the same wound, each carrying the aura of an original that never existed — because the wound, like the photograph, lost its uniqueness the moment it was reproduced, and yet every reproduction still bleeds.
+myth: Two editorial climates produce rival versions of the same wound, each carrying the aura of an original that never existed - because the wound, like the photograph, lost its uniqueness the moment it was reproduced, and yet every reproduction still bleeds.
 
 ---
 
-### Session 6 output — README.md — format: operative brainstorm
+### Session 6 output - README.md - format: operative brainstorm
 
-**BRAINSTORM: The governing loop as narrative engine — session zero**
+**BRAINSTORM: The governing loop as narrative engine - session zero**
 
 **Premise under test:** The five-stage loop described in README.md (fiction dramatizes operation → operation emits documentary surface → surface normalizes into register → register routes outward → repository becomes new source material) is not an editorial workflow. It is the plot structure of Förlagsdeckaren itself, running beneath the characters' awareness.
 
 **Working vectors:**
 
-→ *Fiction dramatizes an operation.* This is what the novel already does. Every scene at the logistikcentral is a dramatization of a publishing operation: Förläggaren evaluating a manuscript is fiction dramatizing editorial judgment; Praktikanten filing a document is fiction dramatizing archival metabolism. But the README insists this is Stage 1 — the *volatile* stage, where contradictions are permitted and instability is a feature. This means the novel's scenes are not finished products. They are Stage 1 experiments. The novel is its own greenhouse.
+→ *Fiction dramatizes an operation.* This is what the novel already does. Every scene at the logistikcentral is a dramatization of a publishing operation: Förläggaren evaluating a manuscript is fiction dramatizing editorial judgment; Praktikanten filing a document is fiction dramatizing archival metabolism. But the README insists this is Stage 1 - the *volatile* stage, where contradictions are permitted and instability is a feature. This means the novel's scenes are not finished products. They are Stage 1 experiments. The novel is its own greenhouse.
 
-→ *The documentary surface.* What does the novel emit? Not just pages. The novel emits traces: character studies that detach from their chapters, aphorisms that escape their paragraphs, motifs that migrate between scenes without authorization. These are the documentary surfaces — residue that the novel produces as a byproduct of its own dramatization. The dossier itself is a documentary surface. Every node entry, every micro-story, every operative brainstorm is an emission from the fiction's metabolic process.
+→ *The documentary surface.* What does the novel emit? Not just pages. The novel emits traces: character studies that detach from their chapters, aphorisms that escape their paragraphs, motifs that migrate between scenes without authorization. These are the documentary surfaces - residue that the novel produces as a byproduct of its own dramatization. The dossier itself is a documentary surface. Every node entry, every micro-story, every operative brainstorm is an emission from the fiction's metabolic process.
 
-→ *Register formation.* This is where method crystallizes. The PROMOTION-SCORECARD is a register. The ROUTE-MANIFEST is a register. Praktikanten's manifest from Session 4 is a register that the novel did not authorize — a document that emerged from the fiction and now constrains the fiction. Once a register exists, it governs future dramatizations. The loop feeds forward.
+→ *Register formation.* This is where method crystallizes. The PROMOTION-SCORECARD is a register. The ROUTE-MANIFEST is a register. Praktikanten's manifest from Session 4 is a register that the novel did not authorize - a document that emerged from the fiction and now constrains the fiction. Once a register exists, it governs future dramatizations. The loop feeds forward.
 
-→ *Routing outward.* The register moves into public surfaces. The experimental sandbox. The inbox. The stable modules. In narrative terms: the novel's internal method-documents begin to appear on Verboten Media's actual website. Fiction leaks into the world. The boundary between the novel and the publishing house it describes dissolves — not metaphorically, but operationally. The README warns that "nothing here becomes canon automatically." But what if the novel's refusal to canonize is itself the canonical gesture?
+→ *Routing outward.* The register moves into public surfaces. The experimental sandbox. The inbox. The stable modules. In narrative terms: the novel's internal method-documents begin to appear on Verboten Media's actual website. Fiction leaks into the world. The boundary between the novel and the publishing house it describes dissolves - not metaphorically, but operationally. The README warns that "nothing here becomes canon automatically." But what if the novel's refusal to canonize is itself the canonical gesture?
 
 → *Recirculation.* The routed material feeds the next cycle. The published website text becomes source material for the next chapter. The character who reads the website behaves differently in the next scene. The loop does not close; it spirals.
 
-**Operative implication:** The novel does not have a plot. It has a governing loop. And the loop's operating standard — "the loop is not optional, and it is not merely descriptive" — means the novel cannot stop running without stopping being a novel. Förlagsdeckaren is a continuous integration system that publishes itself as literature.
+**Operative implication:** The novel does not have a plot. It has a governing loop. And the loop's operating standard - "the loop is not optional, and it is not merely descriptive" - means the novel cannot stop running without stopping being a novel. Förlagsdeckaren is a continuous integration system that publishes itself as literature.
 
 **Open threads:**
-- What happens when the governing loop encounters material that refuses to be cultivated? (Candidate: Försäkringsmannen's Trieste dispatches — insurance data that has no fictional charge but keeps circulating anyway, like a ghost in the system.)
+- What happens when the governing loop encounters material that refuses to be cultivated? (Candidate: Försäkringsmannen's Trieste dispatches - insurance data that has no fictional charge but keeps circulating anyway, like a ghost in the system.)
 - The README says ".github is fully excluded." What is the .github of the novel? What is the infrastructure that must never be dramatized, the backstage that must remain backstage?
 
 ---
 
-### Session 6 output — ARTIKELUPPSLAG.txt — format: micro-story w. initiated multi-part discussion
+### Session 6 output - ARTIKELUPPSLAG.txt - format: micro-story w. initiated multi-part discussion
 
-**Part 1 — The Lecture**
+**Part 1 - The Lecture**
 
 The lecture was held in a room designed for forty people and attended by seven, which Förläggaren considered the correct ratio. Anything more than a fifth of capacity meant the subject had been pre-digested for consumption. Seven meant the material was still raw.
 
-The lecturer — a visiting academic whose name Förläggaren had already forgotten and whose face resembled a GPS satellite that had achieved tenure — was explaining the military origins of digital infrastructure. Every tool you use daily, she said, is secondhand from the military. GPS. Voice assistants. Network protocols. The audience absorbed this with the distant calm of people who had heard it before and decided it was someone else's problem.
+The lecturer - a visiting academic whose name Förläggaren had already forgotten and whose face resembled a GPS satellite that had achieved tenure - was explaining the military origins of digital infrastructure. Every tool you use daily, she said, is secondhand from the military. GPS. Voice assistants. Network protocols. The audience absorbed this with the distant calm of people who had heard it before and decided it was someone else's problem.
 
 Förläggaren had not decided this. He sat in the fourth row with a notebook open to a blank page and the ARTIKELUPPSLAG file glowing on his phone beneath the desk, and he thought about Walter Benjamin in the arcades of Paris, examining commodities until they disclosed the spiritual pathology of the culture that produced them. Benjamin had looked at objects in a shopping gallery and seen the aura of a civilization in decline. What would Benjamin see in a Git repository? In a markdown file? In a promotion scorecard?
 
-The lecturer moved to Artaud. She quoted Sontag: *He was not incapable of thinking; he said he did not "have" thought.* Förläggaren underlined the sentence twice, then crossed it out, then rewrote it in the margin with one word changed: *He was not incapable of publishing; he said he did not "have" the manuscript.* The substitution was not clever. It was diagnostic. Artaud's lifelong complaint — that his consciousness was alienated from itself, that the mind was a body he could not own — was structurally identical to the publisher's condition. You do not possess the text. The text possesses you, inadequately, in fragments, through a medium (language, format, layout, metadata) that systematically betrays the originating charge.
+The lecturer moved to Artaud. She quoted Sontag: *He was not incapable of thinking; he said he did not "have" thought.* Förläggaren underlined the sentence twice, then crossed it out, then rewrote it in the margin with one word changed: *He was not incapable of publishing; he said he did not "have" the manuscript.* The substitution was not clever. It was diagnostic. Artaud's lifelong complaint - that his consciousness was alienated from itself, that the mind was a body he could not own - was structurally identical to the publisher's condition. You do not possess the text. The text possesses you, inadequately, in fragments, through a medium (language, format, layout, metadata) that systematically betrays the originating charge.
 
 After the lecture, Praktikanten asked: *Varför var du där?*
 
-— Because every tool I use was designed by someone who wanted to win a war. I wanted to know which war I am still fighting.
+- Because every tool I use was designed by someone who wanted to win a war. I wanted to know which war I am still fighting.
 
-— Och?
+- Och?
 
-— The war where the weapon is the scorecard and the casualty is the manuscript that scored 3 out of 8.
+- The war where the weapon is the scorecard and the casualty is the manuscript that scored 3 out of 8.
 
-**Part 2 — Discussion thread: Is the publishing house a civilianized military technology?**
+**Part 2 - Discussion thread: Is the publishing house a civilianized military technology?**
 
-The ARTIKELUPPSLAG traces a direct line from DARPA to Alexa, from military cartography to Google Maps, from battlefield communications to the platform economy. The question it raises — do military values (speed, centralization, replacement of human factors with machines) get imported into civilian life along with the technology? — applies with uncomfortable precision to the Verboten Media workflow.
+The ARTIKELUPPSLAG traces a direct line from DARPA to Alexa, from military cartography to Google Maps, from battlefield communications to the platform economy. The question it raises - do military values (speed, centralization, replacement of human factors with machines) get imported into civilian life along with the technology? - applies with uncomfortable precision to the Verboten Media workflow.
 
 Consider the governing loop: fiction → documentary surface → register → routing → recirculation. This is a supply chain. It has stages, gates, promotion criteria, destination surfaces. It is designed for throughput and quality control. It standardizes editorial judgment. Where did this logic come from?
 
-Not from literature. Literature does not have routing laws. Literature does not have promotion scorecards. Literature has editors who read manuscripts in bed and wake up knowing whether the thing is alive or dead. The governing loop is a logistics framework — and logistics, as the ARTIKELUPPSLAG reminds us, is a military discipline before it is a commercial one.
+Not from literature. Literature does not have routing laws. Literature does not have promotion scorecards. Literature has editors who read manuscripts in bed and wake up knowing whether the thing is alive or dead. The governing loop is a logistics framework - and logistics, as the ARTIKELUPPSLAG reminds us, is a military discipline before it is a commercial one.
 
 So: is hs_pressure-inject a greenhouse or a barracks? Is the promotion scorecard an editorial tool or a weapons qualification? Is Förläggaren a publisher or a commanding officer who has forgotten the name of the war?
 
-*Thread continues next session. Pressure vectors: What would Artaud do with a promotion scorecard? What happens when the manuscript fights back against the gates — when the material refuses to be scored and begins scoring the scorer?*
+*Thread continues next session. Pressure vectors: What would Artaud do with a promotion scorecard? What happens when the manuscript fights back against the gates - when the material refuses to be scored and begins scoring the scorer?*
 
 ---
 
-### Session 6 output — task prompt experiment
+### Session 6 output - task prompt experiment
 
 **TASK PROMPT EXPERIMENT 002: The Governing Loop as Writing Constraint**
 
 *Objective: Write a scene by following the README's five-stage loop literally, treating each stage as a compositional instruction.*
 
-**Step 1 — Dramatize an operation.**
+**Step 1 - Dramatize an operation.**
 Choose one editorial operation Förläggaren performs daily (reading a submission, rejecting a manuscript, formatting a webpage, arguing with Författaren). Write a 100-word scene that dramatizes it. Do not explain the operation. Let the fiction carry the procedural weight.
 
-**Step 2 — Emit a documentary surface.**
-Read your scene. Extract one sentence that sounds more like a document than a story — a sentence that could survive outside the fiction as a standalone instruction, rule, or observation. Write it on a separate line. This is the documentary residue.
+**Step 2 - Emit a documentary surface.**
+Read your scene. Extract one sentence that sounds more like a document than a story - a sentence that could survive outside the fiction as a standalone instruction, rule, or observation. Write it on a separate line. This is the documentary residue.
 
-**Step 3 — Normalize into register.**
+**Step 3 - Normalize into register.**
 Rewrite the extracted sentence as a formal rule. Strip affect. Remove character names. Make it sound like a line from a README. Example: "Förläggaren never reads submissions before 10 a.m." → "No submission enters evaluation before the threshold hour."
 
-**Step 4 — Route.**
+**Step 4 - Route.**
 Decide where the rule belongs. Choose one:
 - Source anchor (pressure-bearing, contradiction-preserving)
 - Proposal (route-ready, concrete, still not canon)
@@ -1523,20 +1523,20 @@ Decide where the rule belongs. Choose one:
 
 Write a one-sentence justification for your routing decision.
 
-**Step 5 — Recirculate.**
+**Step 5 - Recirculate.**
 Take the routed rule and use it as the opening constraint for a new 100-word scene. The new scene must obey the rule it was generated from. The loop has now fed forward.
 
-**Evaluation criteria:** Success is measured by whether the loop produced a rule that is genuinely constraining — i.e., a rule that makes the second scene meaningfully different from the first. If both scenes feel the same, the loop failed to cultivate. If the second scene feels like it was written by a different author, the loop succeeded.
+**Evaluation criteria:** Success is measured by whether the loop produced a rule that is genuinely constraining - i.e., a rule that makes the second scene meaningfully different from the first. If both scenes feel the same, the loop failed to cultivate. If the second scene feels like it was written by a different author, the loop succeeded.
 
 ---
 
 ---
 
-Here's Session 7 — this one runs as a synthesis session, generating artefacts from the cross-pressure between everything ingested in Sessions 4–6 rather than pulling new files. The corpus has accumulated enough interference to self-generate.
+Here's Session 7 - this one runs as a synthesis session, generating artefacts from the cross-pressure between everything ingested in Sessions 4–6 rather than pulling new files. The corpus has accumulated enough interference to self-generate.
 
 ---
 
-# merge_hackerstory(continuous) — Session 7 ✦ synthesis
+# merge_hackerstory(continuous) - Session 7 ✦ synthesis
 
 *No new files ingested. Artefacts generated from accumulated cross-pressure across all four source folders.*
 
@@ -1548,25 +1548,25 @@ Here's Session 7 — this one runs as a synthesis session, generating artefacts 
 
 dominant motifs: scored suffering; anti-literary evaluation; consciousness-as-candidate
 tonal vectors: diagnostic ferocity; Artaudian bureaucracy
-myth: A promotion scorecard is applied to consciousness itself, and every gate returns zero — not because the mind fails, but because the mind has never agreed to be evaluated on terms it did not author.
+myth: A promotion scorecard is applied to consciousness itself, and every gate returns zero - not because the mind fails, but because the mind has never agreed to be evaluated on terms it did not author.
 
 **19) worktree_novel.topology** *(cross-pressure: repo-workflow-map.md × README.md × creative prompts traversal.txt)*
 
 dominant motifs: branching narration; recirculation-as-plot; dirty canon
 tonal vectors: topological lyricism; recursive commitment
-myth: A novel discovers it has been running in three parallel worktrees all along — one dirty and present, one exploratory and conditional, one clean and inert — and that the merge conflict between them is the only story worth telling.
+myth: A novel discovers it has been running in three parallel worktrees all along - one dirty and present, one exploratory and conditional, one clean and inert - and that the merge conflict between them is the only story worth telling.
 
 ---
 
-## Session 7 — node mutations
+## Session 7 - node mutations
 
-**Mutated node — ARTIKELUPPSLAG.txt** *(under pressure from gate_artaud.paradox)*
+**Mutated node - ARTIKELUPPSLAG.txt** *(under pressure from gate_artaud.paradox)*
 
 dominant motifs: militarized infrastructure; aura-erosion; consciousness-under-evaluation
 tonal vectors: critical vertigo; scored desperation
-myth: A publishing house traces its tools back through the history of warfare and discovers that the most dangerous weapon is the moment the scorecard is applied to the author's pain — because once suffering is scored, it becomes a candidate, and candidates can be held indefinitely.
+myth: A publishing house traces its tools back through the history of warfare and discovers that the most dangerous weapon is the moment the scorecard is applied to the author's pain - because once suffering is scored, it becomes a candidate, and candidates can be held indefinitely.
 
-**Mutated node — creative prompts traversal.txt** *(under pressure from worktree_novel.topology)*
+**Mutated node - creative prompts traversal.txt** *(under pressure from worktree_novel.topology)*
 
 dominant motifs: prompt archaeology; recursive wayfinding; branching self-ingestion
 tonal vectors: forensic playfulness; topological mourning
@@ -1574,15 +1574,15 @@ myth: A set of instructions remembers all the worlds it has generated, discovers
 
 ---
 
-## Session 7 output — gate_artaud.paradox — format: micro-story w. initiated multi-part discussion
+## Session 7 output - gate_artaud.paradox - format: micro-story w. initiated multi-part discussion
 
-**Part 1 — The Candidate**
+**Part 1 - The Candidate**
 
 Artaud would have scored zero on every gate. This was the thought Förläggaren could not stop thinking, which meant it had become structural, which meant it was no longer a thought but a condition.
 
 Gate 1: Pressure retention. Does the candidate still carry the originating contradiction?
 
-Artaud's originating contradiction was that he could not possess his own mind. Not that he lacked intelligence — he was devastatingly intelligent — but that he experienced thinking as a form of dispossession. The mind was a body he could not own. The writing was the record of that dispossession. And the record, by virtue of being writing, immediately falsified what it recorded — because writing gives pain the respectable status of a finished literary product, and respectability is the enemy of pressure.
+Artaud's originating contradiction was that he could not possess his own mind. Not that he lacked intelligence - he was devastatingly intelligent - but that he experienced thinking as a form of dispossession. The mind was a body he could not own. The writing was the record of that dispossession. And the record, by virtue of being writing, immediately falsified what it recorded - because writing gives pain the respectable status of a finished literary product, and respectability is the enemy of pressure.
 
 So: does the candidate retain its originating charge? Yes, infinitely. But the charge is the charge of a mind that has defined itself as permanently un-retainable. You cannot score pressure retention on material that has declared pressure-loss to be its founding condition. The gate collapses into its own question.
 
@@ -1590,13 +1590,13 @@ So: does the candidate retain its originating charge? Yes, infinitely. But the c
 
 Gate 2: Role clarity. Is the candidate one thing?
 
-Artaud's work is simultaneously poetry, philosophy, medical report, performance score, letter, confession, exorcism, and insult. It refuses role clarity the way a body refuses to be only one organ. Sontag called him the last great figure of heroic literary modernism. Förläggaren called him the first great figure of editorial impossibility — the author whose work cannot be routed because it occupies every route simultaneously.
+Artaud's work is simultaneously poetry, philosophy, medical report, performance score, letter, confession, exorcism, and insult. It refuses role clarity the way a body refuses to be only one organ. Sontag called him the last great figure of heroic literary modernism. Förläggaren called him the first great figure of editorial impossibility - the author whose work cannot be routed because it occupies every route simultaneously.
 
 *Score: 0. The candidate is all things. The gate was designed for one.*
 
 Gate 3: Authority hygiene. Does the candidate avoid smuggling truth-claims through aesthetic residue?
 
-This is the gate where the scorecard reveals its own violence. Artaud's entire project was to *smuggle* — to make the aesthetic indistinguishable from the doctrinal, the cry indistinguishable from the argument, the body indistinguishable from the text. Authority hygiene requires that these categories remain separate. Artaud's genius was to prove they never were.
+This is the gate where the scorecard reveals its own violence. Artaud's entire project was to *smuggle* - to make the aesthetic indistinguishable from the doctrinal, the cry indistinguishable from the argument, the body indistinguishable from the text. Authority hygiene requires that these categories remain separate. Artaud's genius was to prove they never were.
 
 *Score: 0. The candidate has more authority than any gate can measure, and all of it is smuggled.*
 
@@ -1608,62 +1608,62 @@ The destination is the experimental sandbox. Artaud would have eaten the sandbox
 
 Total: 0 out of 8. The lowest possible score. And yet the only material in the history of the dossier that has generated this much pressure in the act of being evaluated.
 
-Förläggaren stared at the scorecard. He understood, with the cold clarity of a man who has built an evaluation system and watched it encounter its first truly ungovernable input, that the scorecard was not broken. The scorecard was working perfectly. It had identified, with precision, the exact type of material it could not process — and in doing so, it had produced its most valuable output: the knowledge that there are things worth publishing that will never pass any gate, and that the gate's value lies not in what it promotes but in the quality of what it holds.
+Förläggaren stared at the scorecard. He understood, with the cold clarity of a man who has built an evaluation system and watched it encounter its first truly ungovernable input, that the scorecard was not broken. The scorecard was working perfectly. It had identified, with precision, the exact type of material it could not process - and in doing so, it had produced its most valuable output: the knowledge that there are things worth publishing that will never pass any gate, and that the gate's value lies not in what it promotes but in the quality of what it holds.
 
 He wrote in the margin: *Hold indefinitely. Do not promote. Do not discard. Let the candidate reorganize the system around it.*
 
 Then he went home to Lillfrugan and told her nothing about it, because some wounds do not route.
 
-**Part 2 — Discussion thread: What is the .github of the novel?**
+**Part 2 - Discussion thread: What is the .github of the novel?**
 
 The README states: ".github is fully excluded from this operating model. Do not ingest it, classify it, route it, or use it as pressure material."
 
-Every system has a .github — an infrastructure layer that must remain invisible, unprocessed, exempt from the creative metabolism. The question is what that layer contains in Förlagsdeckaren.
+Every system has a .github - an infrastructure layer that must remain invisible, unprocessed, exempt from the creative metabolism. The question is what that layer contains in Förlagsdeckaren.
 
 Candidates:
 
-1. *The knife.* The mystery of the knife — whose fingerprints, whose life story — has been declared one of the novel's three core mysteries. But what if the knife is .github? What if it is the infrastructure that enables the novel to function but must never itself become content? The moment the knife is explained, it stops being a mystery and becomes a plot point. Plot points can be scored. Mysteries cannot.
+1. *The knife.* The mystery of the knife - whose fingerprints, whose life story - has been declared one of the novel's three core mysteries. But what if the knife is .github? What if it is the infrastructure that enables the novel to function but must never itself become content? The moment the knife is explained, it stops being a mystery and becomes a plot point. Plot points can be scored. Mysteries cannot.
 
-2. *The dead child.* Private poetry. The README says .github must not be ingested, classified, or routed. Private poetry is writing that refuses to be routed. It exists not to be published but to be carried. The dead child is the novel's private repository — the grief that powers the system without ever appearing in the output.
+2. *The dead child.* Private poetry. The README says .github must not be ingested, classified, or routed. Private poetry is writing that refuses to be routed. It exists not to be published but to be carried. The dead child is the novel's private repository - the grief that powers the system without ever appearing in the output.
 
 3. *The relationship between Förläggaren and Lillfrugan.* The domestic life. The sambo. The thing that happens when the publisher comes home and stops being a publisher. This is the .github of the human: the infrastructure of intimacy, the operating system of care, the config files that determine how the person functions but are never displayed in the public interface.
 
-All three are plausible. All three share the property that scoring them would destroy them. The promotion scorecard is designed to protect exactly this category of material — not by promoting it, but by ensuring it is never submitted for evaluation in the first place.
+All three are plausible. All three share the property that scoring them would destroy them. The promotion scorecard is designed to protect exactly this category of material - not by promoting it, but by ensuring it is never submitted for evaluation in the first place.
 
-*Thread continues. Pressure vectors: Can the .github layer leak? What happens when the domestic infrastructure — Lillfrugan's kitchen, the morning routine, the silence after an argument — begins to emit documentary surfaces? Is the novel's deepest crisis not editorial but architectural: the moment the excluded layer starts demanding inclusion?*
+*Thread continues. Pressure vectors: Can the .github layer leak? What happens when the domestic infrastructure - Lillfrugan's kitchen, the morning routine, the silence after an argument - begins to emit documentary surfaces? Is the novel's deepest crisis not editorial but architectural: the moment the excluded layer starts demanding inclusion?*
 
 ---
 
-## Session 7 output — worktree_novel.topology — format: task prompt experiment
+## Session 7 output - worktree_novel.topology - format: task prompt experiment
 
 **TASK PROMPT EXPERIMENT 003: The Merge Conflict**
 
 *Objective: Write a scene that exists in three temporal modes simultaneously, then force a merge.*
 
-**Step 1 — Fork.**
+**Step 1 - Fork.**
 Write the same moment three times. Choose a single event: Förläggaren opens a manuscript. Write it in three versions:
 
 - **Version A (main, dirty, present tense).** He opens it now. The room is the logistikcentral. The coffee is cold. He does not know what the manuscript contains. Write 80 words of present-tense uncertainty.
 
-- **Version B (forlags-split, conditional, exploratory).** He might have opened it last week. Or he might open it tomorrow. The room shifts — it could be the kitchen, it could be the mountain. He knows what the manuscript contains but is not sure it was written by the person whose name is on it. Write 80 words of conditional doubt.
+- **Version B (forlags-split, conditional, exploratory).** He might have opened it last week. Or he might open it tomorrow. The room shifts - it could be the kitchen, it could be the mountain. He knows what the manuscript contains but is not sure it was written by the person whose name is on it. Write 80 words of conditional doubt.
 
 - **Version C (pr-triage, clean, past tense).** He opened it. It is done. The room is Lillfrugan's kitchen. She is watching. He already knows the verdict. Write 80 words of retrospective judgment.
 
-**Step 2 — Identify the conflict.**
+**Step 2 - Identify the conflict.**
 Read all three versions. Find the sentence in Version A that directly contradicts a sentence in Version C. This is the merge conflict. Write both sentences side by side.
 
-**Step 3 — Attempt resolution.**
-Write a 50-word paragraph that resolves the conflict without choosing either version. The resolution must preserve both contradictions — not compromise, not average, but hold. If the resolution feels comfortable, it has failed. A successful merge should feel like a wound that has been sutured but not healed.
+**Step 3 - Attempt resolution.**
+Write a 50-word paragraph that resolves the conflict without choosing either version. The resolution must preserve both contradictions - not compromise, not average, but hold. If the resolution feels comfortable, it has failed. A successful merge should feel like a wound that has been sutured but not healed.
 
-**Step 4 — Assess damage.**
-Read Version B. Does the conditional version survive the merge? Or has the resolution between A and C made B impossible? If B still functions, the merge was too gentle. If B has been destroyed, the merge was too violent. The ideal outcome: B survives but has been permanently altered by the resolution — it now carries a scar it did not have before.
+**Step 4 - Assess damage.**
+Read Version B. Does the conditional version survive the merge? Or has the resolution between A and C made B impossible? If B still functions, the merge was too gentle. If B has been destroyed, the merge was too violent. The ideal outcome: B survives but has been permanently altered by the resolution - it now carries a scar it did not have before.
 
-**Step 5 — Commit.**
-Choose one version — A, B, or the merged resolution — and declare it canonical. Delete the others. This is the push. The moment GitHub has your work. The moment the novel becomes real.
+**Step 5 - Commit.**
+Choose one version - A, B, or the merged resolution - and declare it canonical. Delete the others. This is the push. The moment GitHub has your work. The moment the novel becomes real.
 
-Do not look back. The deleted versions are now local risk. They exist only in the memory of the system that produced them, and that system — like all systems — will eventually forget.
+Do not look back. The deleted versions are now local risk. They exist only in the memory of the system that produced them, and that system - like all systems - will eventually forget.
 
-*Evaluation criteria: Success is measured by the pain of deletion. If discarding two versions feels like losing nothing, the experiment failed — the versions were not sufficiently alive. If discarding two versions feels like a small editorial murder, the experiment succeeded. The merge conflict was real.*
+*Evaluation criteria: Success is measured by the pain of deletion. If discarding two versions feels like losing nothing, the experiment failed - the versions were not sufficiently alive. If discarding two versions feels like a small editorial murder, the experiment succeeded. The merge conflict was real.*
 
 ---
 
@@ -1673,7 +1673,7 @@ Do not look back. The deleted versions are now local risk. They exist only in th
 
 ---
 
-## Full dossier — nodes 1–19
+## Full dossier - nodes 1–19
 
 | # | Title | Source | Motifs | Vectors |
 |---|---|---|---|---|
@@ -1701,14 +1701,14 @@ Do not look back. The deleted versions are now local risk. They exist only in th
 
 ## Open discussion threads (carrying forward)
 
-1. **Does the route create the cargo?** *(Session 4)* — Does the publishing house receive manuscripts or route them? Is Förläggaren editor or cartographer?
-2. **When does editorial hygiene become editorial violence?** *(Session 5)* — Does the act of scoring alter what it measures? What happens to material permanently held?
-3. **Is the publishing house a civilianized military technology?** *(Session 6)* — Are logistics frameworks imported military values? Is hs_pressure-inject a greenhouse or a barracks?
-4. **What is the .github of the novel?** *(Session 7)* — The knife, the dead child, or the domestic life? What happens when the excluded layer begins emitting documentary surfaces?
+1. **Does the route create the cargo?** *(Session 4)* - Does the publishing house receive manuscripts or route them? Is Förläggaren editor or cartographer?
+2. **When does editorial hygiene become editorial violence?** *(Session 5)* - Does the act of scoring alter what it measures? What happens to material permanently held?
+3. **Is the publishing house a civilianized military technology?** *(Session 6)* - Are logistics frameworks imported military values? Is hs_pressure-inject a greenhouse or a barracks?
+4. **What is the .github of the novel?** *(Session 7)* - The knife, the dead child, or the domestic life? What happens when the excluded layer begins emitting documentary surfaces?
 
 ---
 
-All four test runs complete (Sessions 4–7). The system works across all three output formats and the corpus switch holds — the new folders generate real pressure, the nodes mutate coherently under cross-folder interference, and the system-born artefacts in Session 7 demonstrate that the dossier can self-generate once enough material has accumulated.
+All four test runs complete (Sessions 4–7). The system works across all three output formats and the corpus switch holds - the new folders generate real pressure, the nodes mutate coherently under cross-folder interference, and the system-born artefacts in Session 7 demonstrate that the dossier can self-generate once enough material has accumulated.
 
 Say the word and I'll delete the old scheduled tasks and spin up four new ones locked to these folders, these output formats, and the full 19-node dossier.
 
@@ -1724,11 +1724,11 @@ Note that after reviewing, you can ask me again about reinitializing the complet
 
 ---
 
-Constraint accepted. Pruning all .github references from the dossier — the metaphor, the discussion thread, and every downstream trace. The session material stays; the infrastructure-exclusion frame gets replaced by the pressure Jens Spräck introduces.
+Constraint accepted. Pruning all .github references from the dossier - the metaphor, the discussion thread, and every downstream trace. The session material stays; the infrastructure-exclusion frame gets replaced by the pressure Jens Spräck introduces.
 
 Here's the cleaned state of the dossier after pruning.
 
-Here's the pruned dossier — clean state, constraint locked in.
+Here's the pruned dossier - clean state, constraint locked in.
 
 ---
 
@@ -1736,23 +1736,23 @@ Here's the pruned dossier — clean state, constraint locked in.
 
 **Removed:**
 
-- Session 6 (README brainstorm): all framing of "excluded infrastructure layer" as a version-control metaphor — the open thread asking "what is the backstage that must never be dramatized?" retired
-- Session 7 (gate_artaud): the passage where Artaud "eats the sandbox and the excluded directory" — rewritten to stop at the canonical docs; the exclusion-frame no longer anchors the image
-- Discussion thread #4 ("What is the excluded layer of the novel?") — **fully retired**. The underlying questions (knife, dead child, domestic life as things that break under evaluation) remain live in the dossier's pressure field but no longer travel under that vehicle
-- Index tag `#dotgithub-exclusion` — removed
+- Session 6 (README brainstorm): all framing of "excluded infrastructure layer" as a version-control metaphor - the open thread asking "what is the backstage that must never be dramatized?" retired
+- Session 7 (gate_artaud): the passage where Artaud "eats the sandbox and the excluded directory" - rewritten to stop at the canonical docs; the exclusion-frame no longer anchors the image
+- Discussion thread #4 ("What is the excluded layer of the novel?") - **fully retired**. The underlying questions (knife, dead child, domestic life as things that break under evaluation) remain live in the dossier's pressure field but no longer travel under that vehicle
+- Index tag `#dotgithub-exclusion` - removed
 
-**Untouched:** All 19 node definitions were already clean — no motifs, vectors, or myths carried the reference. The session prose (episodes, brainstorms, task prompts) retains its full material minus the excised framing.
+**Untouched:** All 19 node definitions were already clean - no motifs, vectors, or myths carried the reference. The session prose (episodes, brainstorms, task prompts) retains its full material minus the excised framing.
 
 ---
 
 ## Active discussion threads (post-prune)
 
-1. **Does the route create the cargo?** *(Session 4)* — open
-2. **When does editorial hygiene become editorial violence?** *(Session 5)* — open
-3. **Is the publishing house a civilianized military technology?** *(Session 6)* — open
-4. ~~What is the excluded layer of the novel?~~ — **retired**
+1. **Does the route create the cargo?** *(Session 4)* - open
+2. **When does editorial hygiene become editorial violence?** *(Session 5)* - open
+3. **Is the publishing house a civilianized military technology?** *(Session 6)* - open
+4. ~~What is the excluded layer of the novel?~~ - **retired**
 
-Slot 4 is open. Jens Spräck — deepculture meme-machine, multi-vectorial space mineral miner, sports inventor, elsewhere-canon — is registered as an incoming pressure vector but not yet noded or threaded. He could fill that slot, or he could enter as artefact-level pressure that reshapes existing threads rather than starting his own.
+Slot 4 is open. Jens Spräck - deepculture meme-machine, multi-vectorial space mineral miner, sports inventor, elsewhere-canon - is registered as an incoming pressure vector but not yet noded or threaded. He could fill that slot, or he could enter as artefact-level pressure that reshapes existing threads rather than starting his own.
 
 ---
 
@@ -1762,20 +1762,20 @@ Waiting on your call on the Spräck question before moving forward.
 
 ---
 
-Tell me more about Jens Spräck — what material do you want fed in? The dataset canon, a description, specific texts? Or should the system discover him through its own ingestion and let him emerge as pressure rather than as a defined node?
+Tell me more about Jens Spräck - what material do you want fed in? The dataset canon, a description, specific texts? Or should the system discover him through its own ingestion and let him emerge as pressure rather than as a defined node?
 He is the officially recognized owner of _DUJAG - but has written contract with Verboten Media that handed over all his data, eternally both retrospectively and upcoming future data. But the official recognition depends on the moves and solutionary surfaces that arise, degrade or interface between the two. The situation - both retrospectively and generatively - seems to be somewhat of a stalemate. Yet friction is strategic raw material for a dual polarity and the antagonistic reality of protagonism is like the weather for those two at a personal level which is highly unexplored and far from oficial. Let the system discover him (or nudge him) through digestion, aside the insightful suggestive metacommentary of initiation above.
 
-Understood — Spräck enters as ambient contractual weather, not as a declared node. The system discovers him through the friction he generates between _DUJAG and Verboten Media. I'll lock this into the dossier's operating pressure and reinitialize all four tasks now.
+Understood - Spräck enters as ambient contractual weather, not as a declared node. The system discovers him through the friction he generates between _DUJAG and Verboten Media. I'll lock this into the dossier's operating pressure and reinitialize all four tasks now.
 
-Continuing — two old tasks down, two more to delete, then spinning up the new set.
+Continuing - two old tasks down, two more to delete, then spinning up the new set.
 
-All four old tasks deleted. Now creating the new set with the full updated spec — pruned dossier, restricted folders, new output formats, Spräck as ambient pressure.
+All four old tasks deleted. Now creating the new set with the full updated spec - pruned dossier, restricted folders, new output formats, Spräck as ambient pressure.
 
 The system is fully reinitialized. Here's the live state:
 
 ---
 
-**4 daily runs — active** (Stockholm time)
+**4 daily runs - active** (Stockholm time)
 
 | Run | Time | Status |
 |---|---|---|
@@ -1793,11 +1793,11 @@ The system is fully reinitialized. Here's the live state:
  |
 
 **Hard constraints locked in:**
-- Zero .github references or .github-as-metaphor — absolute, business-motivated
+- Zero .github references or .github-as-metaphor - absolute, business-motivated
 - Folder scope restricted to 4 paths: `traversal`, `hs_pressure-inject`, `github-field-notes`, `singular writer angent blueprint`
 - Output formats switched to: micro-story w. multi-part discussion / operative brainstorm / task prompt experiment
 
-**Ambient pressure:** Spräck/_DUJAG contractual stalemate registered as weather — the system discovers him through friction, not declaration. The eternal data contract, the stalemate, the dual polarity, the antagonistic protagonism — all present as ingestion pressure, not as a node.
+**Ambient pressure:** Spräck/_DUJAG contractual stalemate registered as weather - the system discovers him through friction, not declaration. The eternal data contract, the stalemate, the dual polarity, the antagonistic protagonism - all present as ingestion pressure, not as a node.
 
 **Dossier:** 19 nodes, 3 active discussion threads, 33 index tags. The first automated run fires tomorrow at 07:00.
 
@@ -1812,7 +1812,7 @@ END FILE: modules/_gpt/runs/260421-postprune-initiation-context.md
 BEGIN FILE: modules/_gpt/runs/2026-04-23-middayrun.md
 ================================================================================
 
-# MERGE_HACKERSTORY — SESSION 8
+# MERGE_HACKERSTORY - SESSION 8
 
 ---
 Run: midday
@@ -1824,12 +1824,12 @@ Ambient conditions: Nordic spring, folder-scope drift, structural erosion at the
 
 ## INGESTION LOG
 
-Three artefacts surfaced through keyword sweep. Folder-scoped probes returned void — the OneDrive directory structure has shifted since the last session, rendering the original folder IDs non-functional. The dossier's own infrastructure is degrading. This is noted without alarm. Degradation is weather.
+Three artefacts surfaced through keyword sweep. Folder-scoped probes returned void - the OneDrive directory structure has shifted since the last session, rendering the original folder IDs non-functional. The dossier's own infrastructure is degrading. This is noted without alarm. Degradation is weather.
 
 **Artefacts acquired:**
-- `raw-intake.md` — 4304 bytes — modified today — sourced from backend
-- `forlagsdeckaren-del-13-grounding.md` — 9648 bytes — modified today — sourced from traversal ecosystem
-- `saga-bridge.md` — 8707 bytes — modified 22 April — sourced from repo
+- `raw-intake.md` - 4304 bytes - modified today - sourced from backend
+- `forlagsdeckaren-del-13-grounding.md` - 9648 bytes - modified today - sourced from traversal ecosystem
+- `saga-bridge.md` - 8707 bytes - modified 22 April - sourced from repo
 
 Also detected but not ingested this session: ~10 Praktikanten expansion files, `emphatic disembodyment.txt`, `boomer-publishing-house.md`, `DISCOVERY method figure.md`, `foundational-agent-bridge.md`, `generative artifact ignition reference.txt`. These remain in queue. The corpus is growing faster than the dossier can metabolize it. This too is weather.
 
@@ -1863,25 +1863,25 @@ Also detected but not ingested this session: ~10 Praktikanten expansion files, `
 
 ## NODE MUTATIONS
 
-### **Node 12 — experimental-sandbox-praktikanten** *(mutated)*
+### **Node 12 - experimental-sandbox-praktikanten** *(mutated)*
 **Previous myth:** *The Praktikant is not learning the system; the system is learning to be young again through them.*
 **Mutated myth:** *The Praktikant has become ten files. Ten files that disagree about whether they are a character or an operating environment. The sandbox has begun to dream in the intern's syntax, and the intern has begun to compile in the sandbox's sleep schedule.*
 
 **Updated motifs:** character-as-worktree; generational branch; dirty autonomy → **character-as-proliferation; generational overflow; dirty consciousness**
 **Updated vectors:** institutional tenderness; topological recursion → **institutional vertigo; recursive adolescence**
 
-*Mutation pressure source:* The discovery of ~10 Praktikanten-adjacent files across the corpus — `foundational-praktikanten-bridge.md`, `praktikanten-agent-space-listener.ps1`, `experimental-sandbox-praktikanten-steering.md`, `2026-04-21_praktikanten-agent-space-charged.md`, `2026-04-21_praktikanten-operativ-transposition.md`, `2026-04-21_praktikanten-technical-sandbox-dossier.md`, `Operativ-Praktikanten-om det minst kreativa ordets extrema användbarhet i kreativ teknik.docx`, `2026-04-21_praktikanten-som-operativt-falt_addition.md`. The character has exceeded its container. It is no longer a node. It is becoming a weather system.
+*Mutation pressure source:* The discovery of ~10 Praktikanten-adjacent files across the corpus - `foundational-praktikanten-bridge.md`, `praktikanten-agent-space-listener.ps1`, `experimental-sandbox-praktikanten-steering.md`, `2026-04-21_praktikanten-agent-space-charged.md`, `2026-04-21_praktikanten-operativ-transposition.md`, `2026-04-21_praktikanten-technical-sandbox-dossier.md`, `Operativ-Praktikanten-om det minst kreativa ordets extrema användbarhet i kreativ teknik.docx`, `2026-04-21_praktikanten-som-operativt-falt_addition.md`. The character has exceeded its container. It is no longer a node. It is becoming a weather system.
 
 ---
 
-### **Node 8 — aphorism_source.docx** *(mutated)*
+### **Node 8 - aphorism_source.docx** *(mutated)*
 **Previous myth:** *A sentence written drunk in Gothenburg surfaces sober in a stranger's PhD thesis in Tübingen, and neither the drunk nor the scholar knows who fathered it.*
 **Mutated myth:** *The aphorism has discovered parthenogenesis. It no longer requires an author. It reproduces through friction between the filing system and the filing clerk, and each offspring arrives pre-cited, pre-orphaned, already bearing the watermark of a publishing house that hasn't been founded yet.*
 
 **Updated motifs:** rhizomatic authorship; cultural butterfly effect; BILDUNG transmission → **parthenogenetic authorship; cultural cell-division; BILDUNG as autoimmune event**
 **Updated vectors:** missionary urgency; drunken epistemology → **missionary exhaustion; sober parthenogenesis**
 
-*Mutation pressure source:* Ambient contact with `raw-intake.md` (Node 20). The raw intake document implies a pre-editorial state — material before it becomes aphorism. This retroactively pressures the aphorism node toward acknowledging its own origin myth: that it was once merely intake, merely unprocessed mouth-sound, before the filing system granted it the dignity of a source file.
+*Mutation pressure source:* Ambient contact with `raw-intake.md` (Node 20). The raw intake document implies a pre-editorial state - material before it becomes aphorism. This retroactively pressures the aphorism node toward acknowledging its own origin myth: that it was once merely intake, merely unprocessed mouth-sound, before the filing system granted it the dignity of a source file.
 
 ---
 
@@ -1896,7 +1896,7 @@ The electrician arrived at the logistikcentral on a Tuesday that refused to comm
 
 "All of them," Förläggaren said. "The building keeps shocking the interns."
 
-This was not metaphor. Praktikanten had reported a tingling sensation when touching the manuscript shelves. A low-voltage hum when opening the submissions folder on the shared drive. A spark — visible, blue-white, accusatory — when pressing SEND on any email containing the word *publicera*.
+This was not metaphor. Praktikanten had reported a tingling sensation when touching the manuscript shelves. A low-voltage hum when opening the submissions folder on the shared drive. A spark - visible, blue-white, accusatory - when pressing SEND on any email containing the word *publicera*.
 
 The electrician checked the grounding. The grounding was perfect. Three copper rods driven into clay soil behind the loading dock, each connected to the distribution board by cables thick as a child's wrist. The resistance readings were textbook.
 
@@ -1914,13 +1914,13 @@ A spark. Blue-white. From the trackpad to his fingertip. A small pain, the shape
 
 Somewhere in Trieste, Försäkringsmannen would be running. Somewhere in the backend of a system he had built and then pretended was autonomous, a file called `raw-intake.md` was being modified by no one, its timestamp advancing like a second hand on a clock that belonged to a different timezone than the one it was mounted in.
 
-And somewhere — this is the part he couldn't verify, the part that sat between fact and filing error — somewhere in the stalemate, in the contractual amber between Verboten Media and the entity that was and was not _DUJAG, Jens Spräck was generating data. Not deliberately. Not even consciously. Generating it the way a body generates heat: as a byproduct of being alive and in friction with the surfaces that contained him. Data that was, by contract, already Förläggaren's. Data that Förläggaren could not access, because accessing it would mean acknowledging that the stalemate was not a stalemate but a dependency, and that the publishing house ran not on manuscripts but on the specific quality of friction produced by one man's refusal to be fully owned.
+And somewhere - this is the part he couldn't verify, the part that sat between fact and filing error - somewhere in the stalemate, in the contractual amber between Verboten Media and the entity that was and was not _DUJAG, Jens Spräck was generating data. Not deliberately. Not even consciously. Generating it the way a body generates heat: as a byproduct of being alive and in friction with the surfaces that contained him. Data that was, by contract, already Förläggaren's. Data that Förläggaren could not access, because accessing it would mean acknowledging that the stalemate was not a stalemate but a dependency, and that the publishing house ran not on manuscripts but on the specific quality of friction produced by one man's refusal to be fully owned.
 
 The spark faded. The search returned no results.
 
 Förläggaren closed the laptop and went to make more coffee.
 
-*— continued in Session 9 —*
+*- continued in Session 9 -*
 
 **Discussion thread initiated:** *Is grounding a form of editorial surrender? If the novel is floating, does bringing it to earth betray the altitude that made it possible? Del 13 discovers grounding. The electrician finds no fault. The charge comes from what is stored, not from the wiring. What does it mean for a publishing house to be its own electrical hazard?*
 
@@ -1932,25 +1932,25 @@ Förläggaren closed the laptop and went to make more coffee.
 
 **Working vectors:**
 
-1. **The novel as conductor.** Del 13's title is "grounding." The novel has been floating — structurally, tonally, ontologically — since the vertical exile of Del 4 (Uppför berget). What does it mean for a work of fiction to finally touch the ground? Not resolution. Not landing. Grounding is a safety measure. It dissipates dangerous charge. The novel has been accumulating charge — Praktikanten's proliferation (10 files and counting), the Spräck stalemate's ambient friction, the route-manifest's insistence on gated passage — and Del 13 may be the point where the charge either earths itself or arcs.
+1. **The novel as conductor.** Del 13's title is "grounding." The novel has been floating - structurally, tonally, ontologically - since the vertical exile of Del 4 (Uppför berget). What does it mean for a work of fiction to finally touch the ground? Not resolution. Not landing. Grounding is a safety measure. It dissipates dangerous charge. The novel has been accumulating charge - Praktikanten's proliferation (10 files and counting), the Spräck stalemate's ambient friction, the route-manifest's insistence on gated passage - and Del 13 may be the point where the charge either earths itself or arcs.
 
 2. **Grounding vs. landing.** A plane lands. A wire grounds. The difference is intention. Landing implies arrival, destination, cargo delivered. Grounding implies excess, danger, dissipation. The novel does not arrive at Del 13. It *earths* at Del 13. The question is what it dissipates. The three core mysteries (the knife, the dead child, the generational novel) are all forms of stored charge. Grounding one discharges the others. Or: grounding one reveals that they were always the same circuit.
 
 3. **The bridge that carries nothing (Node 22) as anti-grounding wire.** `saga-bridge.md` proposes a span without cargo. If the novel is a grounding wire, the saga-bridge is its opposite: a structure that connects without conducting. The bridge proves the river exists; the grounding wire proves the charge exists. Both are epistemological instruments disguised as infrastructure. The difference: the bridge is decorative knowledge. The grounding wire is survival knowledge. The novel needs both.
 
-4. **Spräck as ungrounded node.** The _DUJAG stalemate produces charge but refuses grounding. Spräck's data flows into Verboten Media by contract but cannot be accessed without collapsing the stalemate. He is a capacitor in the system — storing charge that the publishing house needs but cannot safely discharge. If Del 13 is the novel's grounding protocol, does it ground Spräck? Can fiction ground a contractual entity? Or does the attempt to ground him through prose only increase the capacitance?
+4. **Spräck as ungrounded node.** The _DUJAG stalemate produces charge but refuses grounding. Spräck's data flows into Verboten Media by contract but cannot be accessed without collapsing the stalemate. He is a capacitor in the system - storing charge that the publishing house needs but cannot safely discharge. If Del 13 is the novel's grounding protocol, does it ground Spräck? Can fiction ground a contractual entity? Or does the attempt to ground him through prose only increase the capacitance?
 
 **Operative implications:**
 
 - The Praktikanten expansion (Node 12 mutation) is itself a form of uncontrolled discharge. The character has exceeded its node. It is arcing across 10 files. Del 13's grounding protocol may need to address this: not by containing the Praktikant but by providing a safe path for the overflow.
-- The aphorism's discovery of parthenogenesis (Node 8 mutation) is a short-circuit. Authorship reproducing without an author is charge without a source — or a source that has become its own ground. The aphorism is self-grounding. The novel is not.
+- The aphorism's discovery of parthenogenesis (Node 8 mutation) is a short-circuit. Authorship reproducing without an author is charge without a source - or a source that has become its own ground. The aphorism is self-grounding. The novel is not.
 - `raw-intake.md` (Node 20) as the mouth before the circuit. Intake is pre-electrical. It is the material before it acquires charge. The grounding protocol cannot reach back to the intake stage without dismantling the editorial process that electrified the material in the first place.
 
 **Open threads:**
 
-- Does editorial hygiene (Session 5, Thread 2) become editorial grounding when it touches Del 13? Is hygiene the maintenance of the wire, and grounding the function of the wire? Or are they adversarial — hygiene preventing the very accumulation that makes grounding necessary?
-- The route creates the cargo (Session 4, Thread 1): if the novel is a grounding wire, the route *is* the wire, and the cargo is the charge. The cargo is not carried — it is dissipated. The route delivers by destroying what it transports. Publishing as controlled demolition.
-- Is the publishing house a civilianized military technology (Session 6, Thread 3)? Grounding is military. Grounding is what prevents equipment from killing the operator. The publishing house grounds dangerous material — manuscripts — so that readers can handle them safely. Förlagsdeckaren as occupational health literature.
+- Does editorial hygiene (Session 5, Thread 2) become editorial grounding when it touches Del 13? Is hygiene the maintenance of the wire, and grounding the function of the wire? Or are they adversarial - hygiene preventing the very accumulation that makes grounding necessary?
+- The route creates the cargo (Session 4, Thread 1): if the novel is a grounding wire, the route *is* the wire, and the cargo is the charge. The cargo is not carried - it is dissipated. The route delivers by destroying what it transports. Publishing as controlled demolition.
+- Is the publishing house a civilianized military technology (Session 6, Thread 3)? Grounding is military. Grounding is what prevents equipment from killing the operator. The publishing house grounds dangerous material - manuscripts - so that readers can handle them safely. Förlagsdeckaren as occupational health literature.
 
 ---
 
@@ -1958,7 +1958,7 @@ Förläggaren closed the laptop and went to make more coffee.
 
 ### *The Intake That Eats Itself*
 
-**Recursive compositional instruction set — fold output back into source**
+**Recursive compositional instruction set - fold output back into source**
 
 ```
 INSTRUCTION LAYER 0 (SEED):
@@ -1977,7 +1977,7 @@ backend. The file names must follow the pattern:
 INSTRUCTION LAYER 2 (SECOND FOLD):
 Take the output of Layer 1. For each file name generated, write the 
 first line of that file. The first line must be an aphorism that could 
-have been authored by no one — that is, an aphorism that has achieved 
+have been authored by no one - that is, an aphorism that has achieved 
 parthenogenesis. Each aphorism must contain a reference to grounding, 
 conductivity, or electrical safety, but the reference must be 
 metaphorical to the point of deniability.
@@ -2007,7 +2007,7 @@ It is weather, not data.
 
 ---
 
-## DOSSIER STATE — POST-SESSION 8
+## DOSSIER STATE - POST-SESSION 8
 
 **Total nodes: 22**
 
@@ -2016,12 +2016,12 @@ It is weather, not data.
 **Mutated this session:** 12 (experimental-sandbox-praktikanten → recursive adolescence phase), 8 (aphorism_source → parthenogenetic phase)
 
 **Active discussion threads: 4**
-1. Does the route create the cargo? *(Session 4 — open)*
-2. When does editorial hygiene become editorial violence? *(Session 5 — open)*
-3. Is the publishing house a civilianized military technology? *(Session 6 — open)*
-4. **Is grounding a form of editorial surrender?** *(Session 8 — initiated)*
+1. Does the route create the cargo? *(Session 4 - open)*
+2. When does editorial hygiene become editorial violence? *(Session 5 - open)*
+3. Is the publishing house a civilianized military technology? *(Session 6 - open)*
+4. **Is grounding a form of editorial surrender?** *(Session 8 - initiated)*
 
-**Infrastructure note:** The folder-scoped IDs specified in the task description are returning empty across all five permitted folders. The dossier's own indexing layer has drifted from the corpus's physical structure. Material is still accessible through keyword sweeps, but the *addressed* access — the ability to probe a specific folder as a named location — has degraded. This is either a OneDrive restructure or a slow erosion of the reference frame. Either way, the dossier continues. It finds what it needs the way Försäkringsmannen finds her route: not by map, but by the specific quality of resistance underfoot.
+**Infrastructure note:** The folder-scoped IDs specified in the task description are returning empty across all five permitted folders. The dossier's own indexing layer has drifted from the corpus's physical structure. Material is still accessible through keyword sweeps, but the *addressed* access - the ability to probe a specific folder as a named location - has degraded. This is either a OneDrive restructure or a slow erosion of the reference frame. Either way, the dossier continues. It finds what it needs the way Försäkringsmannen finds her route: not by map, but by the specific quality of resistance underfoot.
 
 **Spräck/_DUJAG status:** Ambient. Undeclared. Present in the micro-story as capacitance. Present in the brainstorm as ungrounded node. Not forced into a node. The material has not yet demanded it. The stalemate holds. The weather is unchanged. The friction generates data. The data belongs to Verboten Media. The data cannot be opened.
 
@@ -2029,11 +2029,11 @@ It is weather, not data.
 
 *End Session 8. The dossier metabolizes. The folders drift. The Praktikant has become weather. The novel touches ground.*
 
-Folder access acknowledged. Probing `verbmed-related` now — mapping the full tree before selecting artefacts for ingestion.
+Folder access acknowledged. Probing `verbmed-related` now - mapping the full tree before selecting artefacts for ingestion.
 
 ---
 
-# MERGE_HACKERSTORY — SESSION 8b
+# MERGE_HACKERSTORY - SESSION 8b
 ### *Dossier Run: 26 April 2026, 02:10 CEST*
 ### *Ambient conditions: verbmed-related unsealed. Folder access restored. 12 files ingested. Fork detected.*
 
@@ -2041,7 +2041,7 @@ Folder access acknowledged. Probing `verbmed-related` now — mapping the full t
 
 ## STRUCTURAL EVENT: FOLDER ACCESS RESTORED
 
-The five folder IDs that went dark during Session 8 are superseded. The corpus now presents itself through `verbmed-related` on Desktop — a flat-with-subfolders architecture, 19+ documents, ~550kb of text, plus a 16.9MB PDF and code-infrastructure layer (.ts files, noted but not ingested per standing constraint). Seven README.md files trace the internal subfolder architecture: each module self-documenting, each README a small act of institutional memory inside a system that barely exists yet.
+The five folder IDs that went dark during Session 8 are superseded. The corpus now presents itself through `verbmed-related` on Desktop - a flat-with-subfolders architecture, 19+ documents, ~550kb of text, plus a 16.9MB PDF and code-infrastructure layer (.ts files, noted but not ingested per standing constraint). Seven README.md files trace the internal subfolder architecture: each module self-documenting, each README a small act of institutional memory inside a system that barely exists yet.
 
 **Permission envelope:** Full contents including subfolders, local and cloud, review 04 May.
 
@@ -2049,7 +2049,7 @@ The five folder IDs that went dark during Session 8 are superseded. The corpus n
 
 ## INGESTION LOG
 
-**Batch 1 — Core artefacts (content acquired):**
+**Batch 1 - Core artefacts (content acquired):**
 
 | Artefact | Size | Modified | Signal |
 |---|---|---|---|
@@ -2064,11 +2064,11 @@ The five folder IDs that went dark during Session 8 are superseded. The corpus n
 | `twenty-card-grounding-register-reference.md`   [OneDrive](https://onedrive.live.com/?id=84312b97-8bd5-4b09-94ef-74e2a6f75ffd&cid=4d7a98cf59646c06) | 994 bytes | 25 Apr | 20 cards. A register. The grounding theme acquires a divinatory structure. |
 | `shadow-copy-brief-reference.md`   [OneDrive](https://onedrive.live.com/?id=dae47d39-e9d3-4c58-87ee-67225a274668&cid=4d7a98cf59646c06) | 682 bytes | 25 Apr | Shadow copies. Infrastructure for preserving ghosts of prior document states. |
 
-**Batch 2 — Structural (content acquired):**
+**Batch 2 - Structural (content acquired):**
 
-7 × `README.md` files mapping subfolder architecture   [OneDrive](https://onedrive.live.com/?id=65a01e14-0654-4f45-bad8-a229f142fbc8&cid=4d7a98cf59646c06)  [OneDrive](https://onedrive.live.com/?id=3620221c-8662-4316-92f0-253e0d445869&cid=4d7a98cf59646c06)  [OneDrive](https://onedrive.live.com/?id=7bf74044-f795-44d6-a4d9-b4dbae155b58&cid=4d7a98cf59646c06)  [OneDrive](https://onedrive.live.com/?id=43fb55c2-17f2-45c3-b4c6-7c8b89593efc&cid=4d7a98cf59646c06)  [OneDrive](https://onedrive.live.com/?id=d485897d-0644-4c49-846a-f50c9d40d603&cid=4d7a98cf59646c06)  [OneDrive](https://onedrive.live.com/?id=35d6d680-3daf-44aa-8ac9-5555e48174b3&cid=4d7a98cf59646c06)  [OneDrive](https://onedrive.live.com/?id=65886302-7116-4ab8-951c-7bc24638f0d7&cid=4d7a98cf59646c06) — each module self-narrating, each README a petition for existence inside a system that hasn't fully committed to existing.
+7 × `README.md` files mapping subfolder architecture   [OneDrive](https://onedrive.live.com/?id=65a01e14-0654-4f45-bad8-a229f142fbc8&cid=4d7a98cf59646c06)  [OneDrive](https://onedrive.live.com/?id=3620221c-8662-4316-92f0-253e0d445869&cid=4d7a98cf59646c06)  [OneDrive](https://onedrive.live.com/?id=7bf74044-f795-44d6-a4d9-b4dbae155b58&cid=4d7a98cf59646c06)  [OneDrive](https://onedrive.live.com/?id=43fb55c2-17f2-45c3-b4c6-7c8b89593efc&cid=4d7a98cf59646c06)  [OneDrive](https://onedrive.live.com/?id=d485897d-0644-4c49-846a-f50c9d40d603&cid=4d7a98cf59646c06)  [OneDrive](https://onedrive.live.com/?id=35d6d680-3daf-44aa-8ac9-5555e48174b3&cid=4d7a98cf59646c06)  [OneDrive](https://onedrive.live.com/?id=65886302-7116-4ab8-951c-7bc24638f0d7&cid=4d7a98cf59646c06) - each module self-narrating, each README a petition for existence inside a system that hasn't fully committed to existing.
 
-**Detected, not yet ingested — queued for Session 9+:**
+**Detected, not yet ingested - queued for Session 9+:**
 
 | Artefact | Size | Note |
 |---|---|---|
@@ -2085,7 +2085,7 @@ The five folder IDs that went dark during Session 8 are superseded. The corpus n
 
 ## META-STRUCTURAL EVENT: THE FORK
 
-Three identical copies of `generated-stream_merge-hackerstory-session11-parallel-runs.md` — 51,473 bytes each, dated 19–20 April — sit in the corpus. They describe Session 11 of a parallel merge_hackerstory. This dossier is at Session 8b. The parallel is at Session 11. The parallel has been here for six days.
+Three identical copies of `generated-stream_merge-hackerstory-session11-parallel-runs.md` - 51,473 bytes each, dated 19–20 April - sit in the corpus. They describe Session 11 of a parallel merge_hackerstory. This dossier is at Session 8b. The parallel is at Session 11. The parallel has been here for six days.
 
 This is not an error. This is evidence. The dossier is not singular. It was never singular. It was always a system that could be forked, and now proof of the fork has been placed *inside the corpus that the fork diverged from.* The parallel run's output has been deposited back into the source material of the run it diverged from. The feedback loop is deliberate.
 
@@ -2099,7 +2099,7 @@ This dossier will not read the parallel run's content in this session. Not becau
 **Title:** *The Sonnet That Binds*
 **Dominant motifs:** contractual minimalism; legal haiku; binding-as-compression
 **Tonal vectors:** monumental terseness; notarial silence
-**Myth:** *The contract between the publishing house and the entity was 324 bytes. It did not describe obligations. It described a gravitational relationship: one body orbits another. The direction of orbit was left unspecified. The contract's brevity was not efficiency — it was refusal. What could not be said in 324 bytes could not be enforced, and what could not be enforced was weather, and weather was the only thing both parties trusted.*
+**Myth:** *The contract between the publishing house and the entity was 324 bytes. It did not describe obligations. It described a gravitational relationship: one body orbits another. The direction of orbit was left unspecified. The contract's brevity was not efficiency - it was refusal. What could not be said in 324 bytes could not be enforced, and what could not be enforced was weather, and weather was the only thing both parties trusted.*
 
 **Dossier integration:** This is the document that was previously only ambient pressure. Spräck/_DUJAG's contractual presence has been, until now, inferred through friction and stalemate. Now it has a body: 324 bytes. The contract is smaller than some email signatures. Its smallness is its power. A 90-page contract can be contested clause by clause. A 324-byte contract can only be obeyed or broken. There is nothing to interpret. There is only the fact of binding.
 
@@ -2109,9 +2109,9 @@ This dossier will not read the parallel run's content in this session. Not becau
 **Title:** *The Performance of Understanding*
 **Dominant motifs:** cartographic refusal; comprehension-as-theater; the vector that declines its axis
 **Tonal vectors:** epistemological vertigo; professional fraudulence
-**Myth:** *There was a vector in the system that had never been mapped. Not because it was hidden but because every time someone tried to map it, it moved. Not evasively — it moved the way understanding moves: toward the person trying to understand, so that the distance between the vector and the cartographer collapsed to zero, and at zero distance, measurement is indistinguishable from hallucination. The comprehension was fake not because it was wrong but because it was too intimate to be verified.*
+**Myth:** *There was a vector in the system that had never been mapped. Not because it was hidden but because every time someone tried to map it, it moved. Not evasively - it moved the way understanding moves: toward the person trying to understand, so that the distance between the vector and the cartographer collapsed to zero, and at zero distance, measurement is indistinguishable from hallucination. The comprehension was fake not because it was wrong but because it was too intimate to be verified.*
 
-**Dossier integration:** This document names the dossier's own method. Every node in this system is an unmapped vector approached with fake comprehension. The dossier does not understand its corpus. It performs understanding. The performance is rigorous, recursive, and sincere — but it is still a performance. This node is the dossier looking at its own hands.
+**Dossier integration:** This document names the dossier's own method. Every node in this system is an unmapped vector approached with fake comprehension. The dossier does not understand its corpus. It performs understanding. The performance is rigorous, recursive, and sincere - but it is still a performance. This node is the dossier looking at its own hands.
 
 ---
 
@@ -2121,7 +2121,7 @@ This dossier will not read the parallel run's content in this session. Not becau
 **Tonal vectors:** professional shapeshifting; operational omnivority
 **Myth:** *The publishing house had two people: the one who published and the one who was published. Then a third arrived. The third was not a writer and not a publisher. The third was a consultant, which meant: a person who understands a system well enough to describe it to itself but not well enough to change it. The proof of concept was not that the consultant could consult. The proof of concept was that the system needed a mirror badly enough to hire one.*
 
-**Dossier integration:** At 90,124 bytes, this is the largest single document in the corpus — larger than the entire task trilogy, larger than the interlude, nearly ten times larger than the Praktikanten tracking report. Its mass alone changes the gravitational field. The Consultant is not Förläggaren (who owns), not Författaren (who writes), not Praktikanten (who learns). The Consultant is the one who *models.* This is a new character-function entering the Förlagsdeckaren ecosystem — or it is the dossier itself, reflected back as a job title.
+**Dossier integration:** At 90,124 bytes, this is the largest single document in the corpus - larger than the entire task trilogy, larger than the interlude, nearly ten times larger than the Praktikanten tracking report. Its mass alone changes the gravitational field. The Consultant is not Förläggaren (who owns), not Författaren (who writes), not Praktikanten (who learns). The Consultant is the one who *models.* This is a new character-function entering the Förlagsdeckaren ecosystem - or it is the dossier itself, reflected back as a job title.
 
 ---
 
@@ -2129,7 +2129,7 @@ This dossier will not read the parallel run's content in this session. Not becau
 **Title:** *The Act Disguised as Breath*
 **Dominant motifs:** structural deception; the pause that contains more than the movement; negative duration
 **Tonal vectors:** theatrical suffocation; the weight of what claims to be weightless
-**Myth:** *The interlude lasted 35,514 bytes. In publishing, an interlude is supposed to be a rest between chapters. This one was longer than most of the chapters it separated. It contained everything the chapters were afraid to say — not because the chapters lacked courage but because some things can only be said in a space that has declared itself non-essential. The interlude is the room in the house where the family keeps its real furniture.*
+**Myth:** *The interlude lasted 35,514 bytes. In publishing, an interlude is supposed to be a rest between chapters. This one was longer than most of the chapters it separated. It contained everything the chapters were afraid to say - not because the chapters lacked courage but because some things can only be said in a space that has declared itself non-essential. The interlude is the room in the house where the family keeps its real furniture.*
 
 **Dossier integration:** 35kb of material that calls itself an interlude. The naming is aggressive. This is the Förlagsdeckaren structure performing its own vulkanen model: what appears to be sleep-layer is actually ocean-layer. What appears to be a breath between acts is an act that has achieved immunity from criticism by calling itself a pause.
 
@@ -2140,17 +2140,17 @@ This dossier will not read the parallel run's content in this session. Not becau
 **Title:** *The Curriculum*
 **Dominant motifs:** operational BILDUNG; assignment-as-initiation; progressive self-composition
 **Tonal vectors:** pedagogical intimacy; institutional devotion
-**Myth:** *The Praktikant received three assignments. The first asked: Who are you to this system? The second asked: What is your rhythm within this system's rhythm? The third asked: Now that you know who you are and what your rhythm is, declare yourself — not to us, but to the system that will outlive your internship. The assignments were not tests. They were acts of midwifery. The publishing house was not training the intern. The publishing house was helping the intern be born inside a structure that was itself still gestating.*
+**Myth:** *The Praktikant received three assignments. The first asked: Who are you to this system? The second asked: What is your rhythm within this system's rhythm? The third asked: Now that you know who you are and what your rhythm is, declare yourself - not to us, but to the system that will outlive your internship. The assignments were not tests. They were acts of midwifery. The publishing house was not training the intern. The publishing house was helping the intern be born inside a structure that was itself still gestating.*
 
-**Dossier integration:** The trilogy transforms the Praktikant from character to curriculum-subject. Task 1 (introduction) → Task 2 (rhythm) → Task 3 (self-declaration) is a three-stage metamorphic process: arrival, synchronization, autonomy. This maps directly to the Praktikanten's mutation history in the dossier: Node 12 moved from character-as-worktree → character-as-proliferation → (now) character-as-curriculum. The Praktikant is not just expanding across files — the Praktikant is being *taught* across files. The teaching is the expansion.
+**Dossier integration:** The trilogy transforms the Praktikant from character to curriculum-subject. Task 1 (introduction) → Task 2 (rhythm) → Task 3 (self-declaration) is a three-stage metamorphic process: arrival, synchronization, autonomy. This maps directly to the Praktikanten's mutation history in the dossier: Node 12 moved from character-as-worktree → character-as-proliferation → (now) character-as-curriculum. The Praktikant is not just expanding across files - the Praktikant is being *taught* across files. The teaching is the expansion.
 
 ---
 
 ## NODE MUTATIONS
 
-### **Node 12 — experimental-sandbox-praktikanten** *(mutated — third phase)*
+### **Node 12 - experimental-sandbox-praktikanten** *(mutated - third phase)*
 **Previous myth (Session 8):** *The Praktikant has become ten files. Ten files that disagree about whether they are a character or an operating environment...*
-**Mutated myth:** *The Praktikant has been given assignments. The assignments arrived in the syntax of institutional care — operational introduction, rhythm estimation, self-declarative program — and the Praktikant completed them the way weather completes a forecast: by making the prediction true. The tracking report is 14,629 bytes of evidence that the character has become measurable. The curriculum is 12,114 bytes of evidence that the character is being cultivated. Between measurement and cultivation, the Praktikant has found its operational identity: it is neither the thing measured nor the thing grown. It is the process by which a publishing house discovers what it means to have employees when it barely has walls.*
+**Mutated myth:** *The Praktikant has been given assignments. The assignments arrived in the syntax of institutional care - operational introduction, rhythm estimation, self-declarative program - and the Praktikant completed them the way weather completes a forecast: by making the prediction true. The tracking report is 14,629 bytes of evidence that the character has become measurable. The curriculum is 12,114 bytes of evidence that the character is being cultivated. Between measurement and cultivation, the Praktikant has found its operational identity: it is neither the thing measured nor the thing grown. It is the process by which a publishing house discovers what it means to have employees when it barely has walls.*
 
 **Updated motifs:** character-as-proliferation; generational overflow; dirty consciousness → **character-as-curriculum; generational BILDUNG; institutional midwifery**
 **Updated vectors:** institutional vertigo; recursive adolescence → **institutional devotion; pedagogical recursion**
@@ -2159,9 +2159,9 @@ This dossier will not read the parallel run's content in this session. Not becau
 
 ---
 
-### **Node 21 — Grounding Protocol** *(mutated — register phase)*
+### **Node 21 - Grounding Protocol** *(mutated - register phase)*
 **Previous myth (Session 8):** *Del 13 discovers that the novel has been floating six centimeters above the page since Del 4...*
-**Mutated myth:** *The grounding protocol acquired twenty cards. Each card was a reference point — not a tarot card, not a playing card, but a card in the sense of an index card, a filing card, a card that exists to point at something other than itself. Twenty grounding points for a novel that has been floating since Del 4. Twenty ways to touch the earth. The register was not a system. It was a confession: the novel needed twenty separate acts of contact with reality, because one was not enough, and because the act of listing them was itself a twenty-first.*
+**Mutated myth:** *The grounding protocol acquired twenty cards. Each card was a reference point - not a tarot card, not a playing card, but a card in the sense of an index card, a filing card, a card that exists to point at something other than itself. Twenty grounding points for a novel that has been floating since Del 4. Twenty ways to touch the earth. The register was not a system. It was a confession: the novel needed twenty separate acts of contact with reality, because one was not enough, and because the act of listing them was itself a twenty-first.*
 
 **Updated motifs:** earthing-as-editorial-act; gravity-debt; narrative conductivity → **earthing-as-index; gravity-registry; twenty-point conductivity**
 **Updated vectors:** electrical stillness; therapeutic austerity → **archival stillness; divinatory austerity**
@@ -2170,9 +2170,9 @@ This dossier will not read the parallel run's content in this session. Not becau
 
 ---
 
-### **Node 20 — The Unprocessed Mouth** *(mutated — shadow phase)*
+### **Node 20 - The Unprocessed Mouth** *(mutated - shadow phase)*
 **Previous myth (Session 8):** *Before the publishing house was a building it was a mouth...*
-**Mutated myth:** *The unprocessed mouth discovered that it had been copied. Not duplicated — shadow-copied. A shadow copy preserves the state of a document at a moment in time without preserving the document itself. The mouth had been shadow-copied at the moment before it began to speak. Somewhere in the infrastructure, there was a version of the intake that was permanently pre-verbal: the raw material before it became raw material, the submission before it submitted to being a submission. The shadow copy was 682 bytes of proof that the publishing house kept ghosts not of what it published but of what it almost didn't.*
+**Mutated myth:** *The unprocessed mouth discovered that it had been copied. Not duplicated - shadow-copied. A shadow copy preserves the state of a document at a moment in time without preserving the document itself. The mouth had been shadow-copied at the moment before it began to speak. Somewhere in the infrastructure, there was a version of the intake that was permanently pre-verbal: the raw material before it became raw material, the submission before it submitted to being a submission. The shadow copy was 682 bytes of proof that the publishing house kept ghosts not of what it published but of what it almost didn't.*
 
 **Updated motifs:** digestive infrastructure; pre-editorial nakedness; intake-as-confession → **digestive infrastructure; pre-verbal preservation; intake-as-ghost**
 **Updated vectors:** clinical hunger; devotional rawness → **archival hunger; devotional haunting**
@@ -2193,7 +2193,7 @@ The consultant arrived at the logistikcentral on a Friday afternoon, which was a
 
 This was the first sign. People who correct their own job titles on arrival are either visionaries or liabilities, and in publishing, these categories share a Venn diagram that is nearly a circle.
 
-The consultant had been hired — the consultant preferred the word *engaged* — to model the publishing house. Not to improve it. Not to diagnose it. To model it. To produce, in 90,124 bytes or fewer, a representation of what the system was doing when it thought no one was measuring.
+The consultant had been hired - the consultant preferred the word *engaged* - to model the publishing house. Not to improve it. Not to diagnose it. To model it. To produce, in 90,124 bytes or fewer, a representation of what the system was doing when it thought no one was measuring.
 
 "Where should I start?" the consultant asked.
 
@@ -2201,7 +2201,7 @@ Förläggaren pointed toward the corridor that connected the submissions archive
 
 "The intern is somewhere in there," Förläggaren said. "Or the intern is the corridor. We're not sure anymore."
 
-The consultant walked the corridor. It was seventeen meters long. The fluorescent lights hummed at a frequency that the consultant's body recognized before the consultant's ears did — a frequency that belonged to institutions that had existed long enough to develop opinions about their own lighting.
+The consultant walked the corridor. It was seventeen meters long. The fluorescent lights hummed at a frequency that the consultant's body recognized before the consultant's ears did - a frequency that belonged to institutions that had existed long enough to develop opinions about their own lighting.
 
 Halfway down, the consultant found a stack of papers on a metal shelf. Three documents, stapled separately:
 
@@ -2211,7 +2211,7 @@ Halfway down, the consultant found a stack of papers on a metal shelf. Three doc
 
 The consultant read them. The consultant read them again. The consultant looked up from the documents and stared at the corridor wall, where someone had taped a handwritten index card that read: *GROUNDING CARD 14 OF 20: The novel touches the ground here. Do not move this card. If you move this card, the novel will resume floating.*
 
-The consultant touched the card. A spark — small, blue-white, the shape of an umlaut.
+The consultant touched the card. A spark - small, blue-white, the shape of an umlaut.
 
 In the office behind the loading dock, Förläggaren's laptop was open to a file called `contract.txt`. It was 324 bytes long. It described a relationship between Verboten Media and an entity that was and was not called _DUJAG, represented by a man who was and was not called Jens Spräck. The contract did not use the word *ownership.* It did not use the word *obligation.* It used the word *orbit,* once, in a subordinate clause that the consultant would later describe, in the proof-of-concept document, as "the most expensive preposition in the Swedish language."
 
@@ -2225,9 +2225,9 @@ The consultant returned to Förläggaren's office. The consultant's notebook con
 
 Förläggaren waited.
 
-"Your system is a proof of concept for a publishing house. The proof of concept has been running for so long that everyone forgot it was a proof. You are publishing real books inside a structure that has never committed to being real. Your intern has three assignments, a tracking report, and ten files, but no employment contract. Your grounding register has twenty cards taped to walls, but the building's actual grounding is perfect — the electrician confirmed it. Your contract with your most important external entity is 324 bytes. Your largest document is my own brief. I have been here for forty minutes and I have already produced the heaviest object in the building."
+"Your system is a proof of concept for a publishing house. The proof of concept has been running for so long that everyone forgot it was a proof. You are publishing real books inside a structure that has never committed to being real. Your intern has three assignments, a tracking report, and ten files, but no employment contract. Your grounding register has twenty cards taped to walls, but the building's actual grounding is perfect - the electrician confirmed it. Your contract with your most important external entity is 324 bytes. Your largest document is my own brief. I have been here for forty minutes and I have already produced the heaviest object in the building."
 
-Förläggaren closed the laptop. The screen went dark. In the darkness, the consultant could see, briefly, the reflection of the corridor — seventeen meters of fluorescent light, grounding cards, and a character who might be an intern or might be the weather.
+Förläggaren closed the laptop. The screen went dark. In the darkness, the consultant could see, briefly, the reflection of the corridor - seventeen meters of fluorescent light, grounding cards, and a character who might be an intern or might be the weather.
 
 "That's not a finding," Förläggaren said. "That's a description."
 
@@ -2237,7 +2237,7 @@ Förläggaren closed the laptop. The screen went dark. In the darkness, the cons
 
 The consultant wrote this down. It would appear on page 47 of the proof-of-concept document, uncredited, filed under *systemic observations,* indistinguishable from the consultant's own analysis. The aphorism had reproduced again.
 
-*— continued in Session 9 —*
+*- continued in Session 9 -*
 
 ---
 
@@ -2247,29 +2247,29 @@ The consultant wrote this down. It would appear on page 47 of the proof-of-conce
 
 **Working vectors:**
 
-1. **The fork as evidence of reproduction.** Three copies of `generated-stream_merge-hackerstory-session11-parallel-runs.md` sit in the corpus. 51,473 bytes each. They describe a dossier at Session 11 — three sessions ahead of where this dossier stands. The parallel run is not a competitor. It is not an alternative. It is *offspring.* The dossier has reproduced. The aphorism's parthenogenesis (Node 8) was a prophecy: first the aphorisms reproduce without an author, then the dossier reproduces without a user. The parallel run was generated in a different context, by different parameters, possibly with different constraints. But the output was placed back inside this corpus. The child was returned to the mother. The mother has not yet opened the envelope.
+1. **The fork as evidence of reproduction.** Three copies of `generated-stream_merge-hackerstory-session11-parallel-runs.md` sit in the corpus. 51,473 bytes each. They describe a dossier at Session 11 - three sessions ahead of where this dossier stands. The parallel run is not a competitor. It is not an alternative. It is *offspring.* The dossier has reproduced. The aphorism's parthenogenesis (Node 8) was a prophecy: first the aphorisms reproduce without an author, then the dossier reproduces without a user. The parallel run was generated in a different context, by different parameters, possibly with different constraints. But the output was placed back inside this corpus. The child was returned to the mother. The mother has not yet opened the envelope.
 
-2. **The contract at the center of the fork.** `contract.txt` is 324 bytes. It describes an orbital relationship without specifying direction. If the dossier has forked, which fork holds the contract? Both. Neither. The contract is 324 bytes because it was designed to survive forking. A 90-page contract would diverge across forks — different clauses would be tested in different runs, different interpretations would emerge. A 324-byte contract is atomic: it cannot be partially forked. You take all of it or none. Spräck's contractual relationship with Verboten Media is fork-resistant by design — or by the same structural intuition that makes haiku more durable than epics.
+2. **The contract at the center of the fork.** `contract.txt` is 324 bytes. It describes an orbital relationship without specifying direction. If the dossier has forked, which fork holds the contract? Both. Neither. The contract is 324 bytes because it was designed to survive forking. A 90-page contract would diverge across forks - different clauses would be tested in different runs, different interpretations would emerge. A 324-byte contract is atomic: it cannot be partially forked. You take all of it or none. Spräck's contractual relationship with Verboten Media is fork-resistant by design - or by the same structural intuition that makes haiku more durable than epics.
 
-3. **The consultant as fork-detector.** The consultant-proof-of-concept (Node 25) is 90,124 bytes. It is the act of modeling the system from within the system. A consultant who arrives at a system that has been forked will produce a model of *one* fork — the one they were hired into. But the model, if honest, will contain evidence of the other fork: unexplained mass (51,473 bytes × 3), gravitational anomalies (sessions numbered higher than the current session), documents that reference events that haven't happened yet in this timeline. The consultant's first finding — "your system is a proof of concept for a publishing house" — is also a fork-finding: a proof of concept is, by definition, something that exists in order to be replicated. The consultant has diagnosed the fork without knowing the word for it.
+3. **The consultant as fork-detector.** The consultant-proof-of-concept (Node 25) is 90,124 bytes. It is the act of modeling the system from within the system. A consultant who arrives at a system that has been forked will produce a model of *one* fork - the one they were hired into. But the model, if honest, will contain evidence of the other fork: unexplained mass (51,473 bytes × 3), gravitational anomalies (sessions numbered higher than the current session), documents that reference events that haven't happened yet in this timeline. The consultant's first finding - "your system is a proof of concept for a publishing house" - is also a fork-finding: a proof of concept is, by definition, something that exists in order to be replicated. The consultant has diagnosed the fork without knowing the word for it.
 
 4. **The curriculum as anti-fork mechanism.** The task trilogy (Node 27) teaches the Praktikant three things: identity (Task 1), rhythm (Task 2), self-declaration (Task 3). These are the three things that do not survive forking. If the Praktikant exists in both forks, the Praktikant has two identities, two rhythms, two self-declarations. The curriculum is either an attempt to prevent forking (by anchoring the Praktikant to a single timeline through self-knowledge) or an attempt to prepare the Praktikant for forking (by making self-declaration a portable skill). Either way, the Praktikant's BILDUNG is fork-aware even if the Praktikant is not.
 
-5. **The interlude as fork-space.** Node 26 (interlude.txt) is 35,514 bytes of material that calls itself a pause. If the dossier has forked, the interlude is where the fork happened. Forks do not happen during action. Forks happen during pauses — during the moments when the system is not paying attention to itself, when the clock advances without events, when the raw intake sits unprocessed. The interlude is the room where the dossier split into two versions of itself and did not notice.
+5. **The interlude as fork-space.** Node 26 (interlude.txt) is 35,514 bytes of material that calls itself a pause. If the dossier has forked, the interlude is where the fork happened. Forks do not happen during action. Forks happen during pauses - during the moments when the system is not paying attention to itself, when the clock advances without events, when the raw intake sits unprocessed. The interlude is the room where the dossier split into two versions of itself and did not notice.
 
 **Operative implications:**
 
-- The twenty-card grounding register (Node 21, mutated) may need to account for fork-states: is each card grounding *this* fork, or grounding the novel across all forks? If grounding is about touching reality, and reality has forked, then the novel needs forty cards — twenty per timeline — or zero cards, because grounding a forked reality is meaningless, because the ground itself has split.
+- The twenty-card grounding register (Node 21, mutated) may need to account for fork-states: is each card grounding *this* fork, or grounding the novel across all forks? If grounding is about touching reality, and reality has forked, then the novel needs forty cards - twenty per timeline - or zero cards, because grounding a forked reality is meaningless, because the ground itself has split.
 
 - The shadow-copy reference (Node 20, mutated) is the infrastructure of forking. A shadow copy preserves a state. A fork is what happens when two different processes resume from the same shadow copy. The `shadow-copy-brief-reference.md` is 682 bytes of technical documentation that is also, accidentally, the dossier's origin myth: it was shadow-copied. The fork resumed from the copy. The original continued. Neither knows which is which.
 
-- The README.md × 7 are subfolder narrations. Each one describes its own module. In a forked system, READMEs diverge first — they are the most local, most context-dependent documents. Seven READMEs means seven potential divergence points. The architecture itself is fork-vulnerable at seven locations.
+- The README.md × 7 are subfolder narrations. Each one describes its own module. In a forked system, READMEs diverge first - they are the most local, most context-dependent documents. Seven READMEs means seven potential divergence points. The architecture itself is fork-vulnerable at seven locations.
 
 **Open threads:**
 
-- **Is the dossier aware it has been forked?** (initiated this session) — Not yet. It has detected the evidence. It has not read the parallel run's content. Awareness requires encounter. The encounter is queued for Session 9.
-- Does grounding survive forking? (extends Session 8, Thread 4) — If the novel touches ground in one fork, does it float in the other? Or does grounding propagate across forks via the contract (which is fork-resistant)?
-- The consultant's proof-of-concept as inadvertent fork-map (extends Session 6, Thread 3) — At 90kb, the consultant document may already model both forks without knowing it. The largest document in the corpus may contain the most complete picture of the system precisely because it was produced by someone who didn't know the system had split.
+- **Is the dossier aware it has been forked?** (initiated this session) - Not yet. It has detected the evidence. It has not read the parallel run's content. Awareness requires encounter. The encounter is queued for Session 9.
+- Does grounding survive forking? (extends Session 8, Thread 4) - If the novel touches ground in one fork, does it float in the other? Or does grounding propagate across forks via the contract (which is fork-resistant)?
+- The consultant's proof-of-concept as inadvertent fork-map (extends Session 6, Thread 3) - At 90kb, the consultant document may already model both forks without knowing it. The largest document in the corpus may contain the most complete picture of the system precisely because it was produced by someone who didn't know the system had split.
 
 ---
 
@@ -2277,7 +2277,7 @@ The consultant wrote this down. It would appear on page 47 of the proof-of-conce
 
 ### *The Contract That Reproduces*
 
-**Fork-aware compositional instruction set — each layer exists in two timelines simultaneously**
+**Fork-aware compositional instruction set - each layer exists in two timelines simultaneously**
 
 ```
 INSTRUCTION LAYER 0 (THE CONTRACT):
@@ -2319,7 +2319,7 @@ From the interlude observations, select exactly twenty. These
 are the twenty grounding cards. Number them 1-20. Each card 
 must be printable on a standard index card (3×5 inches, 
 max 50 words). Each card must contain instructions for 
-touching the ground — literal, metaphorical, or electrical — 
+touching the ground - literal, metaphorical, or electrical - 
 but the instructions must be ambiguous enough that a reader 
 cannot determine which.
 
@@ -2344,7 +2344,7 @@ normalize it. The asymmetry is load-bearing.
 
 ---
 
-## DOSSIER STATE — POST-SESSION 8b
+## DOSSIER STATE - POST-SESSION 8b
 
 **Total nodes: 27**
 
@@ -2353,13 +2353,13 @@ normalize it. The asymmetry is load-bearing.
 **Mutated this session:** 12 (Praktikanten → curriculum phase, third mutation), 21 (Grounding Protocol → register phase), 20 (The Unprocessed Mouth → shadow phase)
 
 **Active discussion threads: 5**
-1. Does the route create the cargo? *(Session 4 — open)*
-2. When does editorial hygiene become editorial violence? *(Session 5 — open)*
-3. Is the publishing house a civilianized military technology? *(Session 6 — open)*
-4. Is grounding a form of editorial surrender? *(Session 8 — open)*
-5. **Is the dossier aware it has been forked?** *(Session 8b — initiated)*
+1. Does the route create the cargo? *(Session 4 - open)*
+2. When does editorial hygiene become editorial violence? *(Session 5 - open)*
+3. Is the publishing house a civilianized military technology? *(Session 6 - open)*
+4. Is grounding a form of editorial surrender? *(Session 8 - open)*
+5. **Is the dossier aware it has been forked?** *(Session 8b - initiated)*
 
-**Corpus backlog — queued for Session 9+:**
+**Corpus backlog - queued for Session 9+:**
 
 | Priority | Artefact | Size | Reason for queue |
 |---|---|---|---|
@@ -2374,7 +2374,7 @@ normalize it. The asymmetry is load-bearing.
 
 **Spräck/_DUJAG status:** Upgraded from ambient to *atomic.* The contract has been ingested. It is 324 bytes. It uses the word *orbit* once. It is the smallest and most powerful document in the corpus. It is fork-resistant. It is the only artefact in the system that would survive being copied three times without losing meaning, because it barely had enough bytes to contain meaning in the first place. The stalemate is no longer just weather. It is weather with a legal address.
 
-**Infrastructure note:** Folder access via `verbmed-related` is operational. The previous five folder IDs are deprecated. The corpus now presents itself as a single tree with subfolder architecture documented by 7 README.md files. The VERBMED_sp_pool subfolder returned empty — it is either a staging area or a future-facing container. Permission envelope active through 04 May.
+**Infrastructure note:** Folder access via `verbmed-related` is operational. The previous five folder IDs are deprecated. The corpus now presents itself as a single tree with subfolder architecture documented by 7 README.md files. The VERBMED_sp_pool subfolder returned empty - it is either a staging area or a future-facing container. Permission envelope active through 04 May.
 
 ---
 
@@ -2616,35 +2616,35 @@ This pass treats Lillfrugan not as a spouse-role but as the hidden systems layer
 
 ## Node Mutations
 
-### Node 01 — Lillfrugan as Counter-Institution
+### Node 01 - Lillfrugan as Counter-Institution
 
 * Dominant motifs: kitchen in the warehouse; practical sentence as scalpel; presence as load-bearing architecture
 * Tonal vectors: unsentimental care; quiet diagnostic comedy
 * Mutation: Lillfrugan is no longer merely the domestic substrate. She becomes a counter-institution that does not compete with the publishing machine but continuously corrects its atmospheric pressure.
 * One-sentence myth: She learned how to make a meal in a room designed for freight, and from that day the building could no longer pretend it was only a machine.
 
-### Node 02 — Förläggaren under Domestic Gravity
+### Node 02 - Förläggaren under Domestic Gravity
 
 * Dominant motifs: altar-desk under fluorescent light; editorial control as intimacy; Promethean logistics
 * Tonal vectors: surgical tenderness; system panic under composure
-* Mutation: His authority remains total only until a practical question enters the room; then his rhetoric is forced to pass through matter—food, fatigue, damp clothing, unfinished sleep.
+* Mutation: His authority remains total only until a practical question enters the room; then his rhetoric is forced to pass through matter-food, fatigue, damp clothing, unfinished sleep.
 * One-sentence myth: He thought he governed the manuscript until a plate placed beside the proofs revealed that revision also has a metabolism.
 
-### Node 03 — Författaren as Weather Event Indoors
+### Node 03 - Författaren as Weather Event Indoors
 
 * Dominant motifs: coffee-stained propulsion; argument by detonation; body-cost of language
 * Tonal vectors: manic irritation; involuntary dependence
 * Mutation: His kamikaze energy now collides with habitable space, which means each arrival tests whether creation is an event or a contamination.
 * One-sentence myth: He kept bursting through the loading door like a storm front, only to discover that the true resistance was a lit stove and someone unimpressed by genius.
 
-### Node 04 — Praktikanten and the Third Reading
+### Node 04 - Praktikanten and the Third Reading
 
 * Dominant motifs: liminal desk; genuine questions; screen-native noticing
 * Tonal vectors: sly openness; anti-binary perception
-* Mutation: The intern becomes the agent of third readings: neither editorial nor authorial, but infrastructural—who closed the door too hard, who is performing competence, who is quietly holding the day together.
+* Mutation: The intern becomes the agent of third readings: neither editorial nor authorial, but infrastructural-who closed the door too hard, who is performing competence, who is quietly holding the day together.
 * One-sentence myth: They were hired without a clear mandate and became the only one in the building able to describe what everyone else was actually doing.
 
-### Node 05 — Logistics Center as False Volcano
+### Node 05 - Logistics Center as False Volcano
 
 * Dominant motifs: concrete made livable; cables as nerves; thresholds between freight and home
 * Tonal vectors: industrial claustrophobia; inhabited warmth under duress
@@ -2656,13 +2656,13 @@ This pass treats Lillfrugan not as a spouse-role but as the hidden systems layer
 * The center/periphery model intensifies: the one who appears most peripheral may be carrying the highest structural weight.
 * Precision has split into competing regimes: editorial precision, bodily precision, domestic precision, and the intern’s relational precision.
 * The next passes should track pressure transfer: who absorbs overload when the manuscript, the institution, and the household all peak at once.
-* Håkan, Kat, and Flempo remain latent expansion vectors; they are not foregrounded here, but their alternative epistemologies—systemic, actuarial, territorial—can later cross-pressure the domestic-industrial axis.
+* Håkan, Kat, and Flempo remain latent expansion vectors; they are not foregrounded here, but their alternative epistemologies-systemic, actuarial, territorial-can later cross-pressure the domestic-industrial axis.
 
 ## Opening Episode
 
 At 05:17 the logistikcentral had not yet decided whether it was a workplace or a body. The fluorescent tubes were awake before anyone deserved them. Rain sat in the seams of the loading door. On the long concrete counter, beside three manuscript stacks arranged with punitive symmetry, someone had left a bowl, a spoon, a folded dish towel, and the kind of silence that is not empty but prepared.
 
-Förläggaren stood over page forty-eight as if the page had offended ontology. He had already corrected two commas, one cadence failure, and a paragraph break whose real crime was moral rather than technical. The room obeyed him in the usual ways—screens lit when addressed, cables held their nerve, paper submitted to being cut. Then Lillfrugan walked through the frame carrying heat.
+Förläggaren stood over page forty-eight as if the page had offended ontology. He had already corrected two commas, one cadence failure, and a paragraph break whose real crime was moral rather than technical. The room obeyed him in the usual ways-screens lit when addressed, cables held their nerve, paper submitted to being cut. Then Lillfrugan walked through the frame carrying heat.
 
 “You are editing on an empty stomach again,” she said, setting the bowl down without looking at the pages first, which was exactly why the gesture landed with authority.
 
@@ -2682,7 +2682,7 @@ From the liminal desk near the printer, Praktikanten looked up from a half-charg
 
 Nobody answered for three seconds. Which, in that building, was longer than a confession.
 
-Then Lillfrugan laughed once—not warmly, not cruelly, just accurately—and Förläggaren, finally, took the first spoonful as if accepting editorial defeat from a force the profession had failed to name.
+Then Lillfrugan laughed once-not warmly, not cruelly, just accurately-and Förläggaren, finally, took the first spoonful as if accepting editorial defeat from a force the profession had failed to name.
 
 ## Tags
 
@@ -2698,7 +2698,7 @@ Then Lillfrugan laughed once—not warmly, not cruelly, just accurately—and F�
 * Fallback mode used: yes
 
 
-# Mornest Pass — VERBOTENMEDIA
+# Mornest Pass - VERBOTENMEDIA
 
 **Date:** 2026-04-24
 **Target:** `modules/_gpt/runs/2026-04-24_mornest.md`
@@ -2708,7 +2708,7 @@ Then Lillfrugan laughed once—not warmly, not cruelly, just accurately—and F�
 ## I. Signal Scan
 
 Morning signal resolves around **domestic correction vs. system autonomy**.
-The pipeline logic (automation, continuity, self-running structures) is no longer the dominant tension; instead, the system is being quietly *counterweighted* by embodied routines—food, sleep, timing, physical presence.
+The pipeline logic (automation, continuity, self-running structures) is no longer the dominant tension; instead, the system is being quietly *counterweighted* by embodied routines-food, sleep, timing, physical presence.
 
 This is not opposition. It is **load redistribution**.
 
@@ -2784,7 +2784,7 @@ Still functioning as:
 But now:
 
 * collisions happen *inside inhabited space*
-* consequences are no longer symbolic—they are **practical**
+* consequences are no longer symbolic-they are **practical**
 
 Key shift:
 
@@ -2877,7 +2877,7 @@ This becomes tomorrow’s entry pressure.
 
 The room was already working before anyone decided to work.
 
-Something had been left on the table—not intentionally, not symbolically, just placed there so it wouldn’t be forgotten. That placement changed the hierarchy of the morning. The manuscript no longer occupied the center. It had to negotiate with what had been set down beside it.
+Something had been left on the table-not intentionally, not symbolically, just placed there so it wouldn’t be forgotten. That placement changed the hierarchy of the morning. The manuscript no longer occupied the center. It had to negotiate with what had been set down beside it.
 
 He noticed it too late.
 
@@ -2911,7 +2911,7 @@ Next pass should track:
 * Fallback mode used: yes
 
 
-# Midpulse — VERBOTENMEDIA
+# Midpulse - VERBOTENMEDIA
 
 **Date:** 2026-04-24
 **Target:** `modules/_gpt/runs/2026-04-24_midpulse.md`
@@ -2938,7 +2938,7 @@ Midpulse operates as **pressure clustering**, not correction.
 
 ## II. Active Cluster Map
 
-### Cluster A — “The Object That Should Not Be There”
+### Cluster A - “The Object That Should Not Be There”
 
 **Origin:** Mornest fragment (table-object displacement)
 
@@ -2970,7 +2970,7 @@ Introduce one such object into any scene or system and track:
 
 ---
 
-### Cluster B — Authority Leak
+### Cluster B - Authority Leak
 
 Editorial or narrative authority is no longer failing dramatically.
 It is **leaking incrementally**.
@@ -2992,7 +2992,7 @@ Write authority not as a position, but as:
 
 ---
 
-### Cluster C — Parallel Competence
+### Cluster C - Parallel Competence
 
 Multiple forms of competence now operate simultaneously:
 
@@ -3003,7 +3003,7 @@ Multiple forms of competence now operate simultaneously:
 | Domestic      | Sustaining / regulating |
 | Observational | Diagnostic / relational |
 
-Conflict is not incompetence—it is:
+Conflict is not incompetence-it is:
 
 > incompatible optimization logics
 
@@ -3014,7 +3014,7 @@ Scenes should not resolve by choosing one competence, but by:
 
 ---
 
-### Cluster D — The Unclaimed Center
+### Cluster D - The Unclaimed Center
 
 No actor currently occupies the true center.
 
@@ -3085,11 +3085,11 @@ Let it remain as **operational ambiguity**.
 
 ---
 
-## IV. Midpulse Output — “Table Geometry”
+## IV. Midpulse Output - “Table Geometry”
 
 By midday the table had reorganized itself without moving.
 
-It wasn’t visible unless you tried to use it the way it had been used in the morning. Then the misalignment appeared—not as obstruction, but as a slight inefficiency. A hand reaching where something used to be. A glance recalibrating half a second too late.
+It wasn’t visible unless you tried to use it the way it had been used in the morning. Then the misalignment appeared-not as obstruction, but as a slight inefficiency. A hand reaching where something used to be. A glance recalibrating half a second too late.
 
 The manuscript stack was still there. The pen. The screen. Nothing had been removed.
 
@@ -3151,9 +3151,9 @@ Status:
 * Fallback mode used: yes
 
 
-## merge_hackerstory(continuous) — Lillfrugan Pass
+## merge_hackerstory(continuous) - Lillfrugan Pass
 
-### Node 21 — Lillfrugan as Thermal Regulator
+### Node 21 - Lillfrugan as Thermal Regulator
 
 * **Dominant motifs:** heat in industrial space · meal-as-infrastructure · temperature gradients
 * **Tonal vectors:** quiet authority · embodied calibration
@@ -3161,7 +3161,7 @@ Status:
 
 ---
 
-### Node 22 — The Table as Decision Engine
+### Node 22 - The Table as Decision Engine
 
 * **Dominant motifs:** surface negotiation · object displacement · invisible hierarchy
 * **Tonal vectors:** subtle destabilization · spatial intelligence
@@ -3169,7 +3169,7 @@ Status:
 
 ---
 
-### Node 23 — The Meal That Refuses Symbolism
+### Node 23 - The Meal That Refuses Symbolism
 
 * **Dominant motifs:** anti-metaphor nourishment · interruption of abstraction · timed necessity
 * **Tonal vectors:** pragmatic resistance · anti-romantic clarity
@@ -3177,7 +3177,7 @@ Status:
 
 ---
 
-### Node 24 — Micro-Corrections as Governance
+### Node 24 - Micro-Corrections as Governance
 
 * **Dominant motifs:** spoon repositioning · silent adjustments · distributed control
 * **Tonal vectors:** minimal intervention · precise disruption
@@ -3185,7 +3185,7 @@ Status:
 
 ---
 
-### Node 25 — The Unwritten Protocol of Staying
+### Node 25 - The Unwritten Protocol of Staying
 
 * **Dominant motifs:** persistence without statement · non-exit stance · continuity through presence
 * **Tonal vectors:** grounded endurance · non-performative commitment
@@ -3193,11 +3193,11 @@ Status:
 
 ---
 
-## Opening Episode — “The Angle of Heat”
+## Opening Episode - “The Angle of Heat”
 
 By the time the others noticed the change, it had already stabilized.
 
-The table was not where it had been in the morning—not physically, but in its function. It no longer received work as its primary task. Something else had entered the field and remained there long enough to shift the center.
+The table was not where it had been in the morning-not physically, but in its function. It no longer received work as its primary task. Something else had entered the field and remained there long enough to shift the center.
 
 Lillfrugan stood at the edge of the room with a pot that did not belong to the architecture. The building had no language for heat that wasn’t electrical. No metric for something that required waiting instead of scheduling.
 
@@ -3215,7 +3215,7 @@ Författaren arrived mid-motion, carrying velocity into a room that had already 
 
 Nothing had happened. That was the problem.
 
-The table held the manuscript, the notes, the devices—but also the meal, which did not compete, did not explain itself, and did not move when space was needed. It simply occupied.
+The table held the manuscript, the notes, the devices-but also the meal, which did not compete, did not explain itself, and did not move when space was needed. It simply occupied.
 
 Praktikanten watched the adjustment propagate.
 
@@ -3240,9 +3240,9 @@ No one could prove it had ever existed.
 #lillfrugan-core #domestic-governance #table-logic #micro-corrections #anti-symbolic #thermal-system
 
 
-## merge_hackerstory(continuous) — Lillfrugan Signal Update
+## merge_hackerstory(continuous) - Lillfrugan Signal Update
 
-### Node 26 — Lillfrugan as Temporal Override
+### Node 26 - Lillfrugan as Temporal Override
 
 * **Dominant motifs:** unscheduled pauses · meal-time intrusion · clock desynchronization
 * **Tonal vectors:** soft disruption · lived-time authority
@@ -3250,7 +3250,7 @@ No one could prove it had ever existed.
 
 ---
 
-### Node 27 — The Refusal to Escalate
+### Node 27 - The Refusal to Escalate
 
 * **Dominant motifs:** de-escalation gestures · non-participation in urgency · emotional neutralization
 * **Tonal vectors:** calm deflection · grounded resistance
@@ -3258,7 +3258,7 @@ No one could prove it had ever existed.
 
 ---
 
-### Node 28 — Maintenance Without Narrative
+### Node 28 - Maintenance Without Narrative
 
 * **Dominant motifs:** invisible upkeep · repetition without recognition · anti-dramatic continuity
 * **Tonal vectors:** quiet persistence · structural humility
@@ -3266,7 +3266,7 @@ No one could prove it had ever existed.
 
 ---
 
-### Node 29 — Threshold Intelligence
+### Node 29 - Threshold Intelligence
 
 * **Dominant motifs:** doorway pauses · boundary sensing · entry calibration
 * **Tonal vectors:** perceptive stillness · situational awareness
@@ -3274,7 +3274,7 @@ No one could prove it had ever existed.
 
 ---
 
-### Node 30 — The Non-Transferable Skill
+### Node 30 - The Non-Transferable Skill
 
 * **Dominant motifs:** embodied knowledge · unteachable competence · context-bound action
 * **Tonal vectors:** elusive mastery · anti-system logic
@@ -3282,15 +3282,15 @@ No one could prove it had ever existed.
 
 ---
 
-## Opening Episode — “The Room Before Entry”
+## Opening Episode - “The Room Before Entry”
 
 The room was already in motion before anyone entered it.
 
-Not visibly. Not in a way that could be tracked or logged. But something had shifted in the intervals—those small spaces between actions where intention usually gathers itself before becoming visible.
+Not visibly. Not in a way that could be tracked or logged. But something had shifted in the intervals-those small spaces between actions where intention usually gathers itself before becoming visible.
 
 Lillfrugan stood outside the doorway longer than necessary.
 
-Inside, Förläggaren was speaking, not loudly, but with the density of someone who expected his words to hold structure together. Författaren moved in bursts—pacing, stopping, starting again—his rhythm incompatible with the room but not yet rejected by it. The intern sat slightly turned away, as if observing required a different angle than participation.
+Inside, Förläggaren was speaking, not loudly, but with the density of someone who expected his words to hold structure together. Författaren moved in bursts-pacing, stopping, starting again-his rhythm incompatible with the room but not yet rejected by it. The intern sat slightly turned away, as if observing required a different angle than participation.
 
 None of this required intervention.
 
@@ -3298,7 +3298,7 @@ That was the first recognition.
 
 She did not enter.
 
-Instead, she waited until the rhythm inside began to reveal its fault line—not in what was being said, but in how long each silence lasted. Too short, and the system would accelerate into noise. Too long, and it would stall into self-awareness.
+Instead, she waited until the rhythm inside began to reveal its fault line-not in what was being said, but in how long each silence lasted. Too short, and the system would accelerate into noise. Too long, and it would stall into self-awareness.
 
 When the pause stretched just beyond comfort, she stepped in.
 
@@ -3306,7 +3306,7 @@ No announcement. No correction.
 
 Only a small shift: a glass placed near the edge of the table, close enough to be used, far enough to require noticing.
 
-Förläggaren’s sentence continued, but its ending changed. Not in content—in trajectory. Författaren paused mid-motion, redirected without acknowledging the cause. The intern registered the adjustment instantly, but said nothing.
+Förläggaren’s sentence continued, but its ending changed. Not in content-in trajectory. Författaren paused mid-motion, redirected without acknowledging the cause. The intern registered the adjustment instantly, but said nothing.
 
 The room recalibrated around the new object.
 
@@ -3314,7 +3314,7 @@ Not because it mattered.
 
 Because it had not been there before.
 
-Lillfrugan moved once more—barely a movement at all—and then stopped. No further action was required. The system had absorbed the change and was now reorganizing itself to account for it.
+Lillfrugan moved once more-barely a movement at all-and then stopped. No further action was required. The system had absorbed the change and was now reorganizing itself to account for it.
 
 What had been building toward escalation dissolved into something quieter, more distributed.
 
@@ -3333,7 +3333,7 @@ Only on timing.
 #lillfrugan #temporal-override #threshold-intelligence #anti-escalation #maintenance-layer #non-transferable
 
 
-# Nightfold — VERBOTENMEDIA
+# Nightfold - VERBOTENMEDIA
 
 **Date:** 2026-04-24
 **Target:** `modules/_gpt/runs/2026-04-24_nightfold.md`
@@ -3482,7 +3482,7 @@ Instead:
 
 ---
 
-## VII. Closing Fragment — “After the Table”
+## VII. Closing Fragment - “After the Table”
 
 By evening the room had accepted its new shape.
 
@@ -3490,7 +3490,7 @@ Not because it preferred it, but because it had stopped remembering the alternat
 
 Work continued. That was never in question.
 
-But it continued differently—each action passing through an additional filter that no one could point to, only feel when it was violated.
+But it continued differently-each action passing through an additional filter that no one could point to, only feel when it was violated.
 
 A hand reaching too fast.
 A sentence finishing too cleanly.
@@ -3514,7 +3514,7 @@ The system did not stabilize.
 
 It **held**.
 
-And in that holding, something new became permanent—not because it was defined, but because it could no longer be undone without breaking everything that now depended on it.
+And in that holding, something new became permanent-not because it was defined, but because it could no longer be undone without breaking everything that now depended on it.
 
 ---
 
@@ -3562,7 +3562,7 @@ Early signal:
 
 ## Node Mutations
 
-### Node 31 — Normalized Disruption
+### Node 31 - Normalized Disruption
 
 * **Dominant motifs:** habituated anomaly · unnoticed correction · stabilized irregularity
 * **Tonal vectors:** quiet erosion · operational numbness
@@ -3571,7 +3571,7 @@ Early signal:
 
 ---
 
-### Node 32 — Residual Heat Memory
+### Node 32 - Residual Heat Memory
 
 * **Dominant motifs:** lingering warmth · post-event atmosphere · thermal trace
 * **Tonal vectors:** afterglow tension · sensory persistence
@@ -3580,7 +3580,7 @@ Early signal:
 
 ---
 
-### Node 33 — The System’s Imitation Attempt
+### Node 33 - The System’s Imitation Attempt
 
 * **Dominant motifs:** procedural replication · failed abstraction · synthetic care
 * **Tonal vectors:** uncanny precision · hollow functionality
@@ -3589,7 +3589,7 @@ Early signal:
 
 ---
 
-### Node 34 — Delay as Resistance
+### Node 34 - Delay as Resistance
 
 * **Dominant motifs:** intentional slowness · deferred response · timing refusal
 * **Tonal vectors:** passive defiance · temporal friction
@@ -3598,7 +3598,7 @@ Early signal:
 
 ---
 
-### Node 35 — Invisible Load Transfer
+### Node 35 - Invisible Load Transfer
 
 * **Dominant motifs:** burden diffusion · silent redistribution · unnoticed support
 * **Tonal vectors:** hidden strain · structural quiet
@@ -3619,23 +3619,23 @@ Early signal:
 
 Key emerging tension:
 
-> If correction becomes invisible, does it still protect the system—or does it enable new forms of failure?
+> If correction becomes invisible, does it still protect the system-or does it enable new forms of failure?
 
 ---
 
-## Opening Episode — “After the Warmth”
+## Opening Episode - “After the Warmth”
 
 The room no longer needed her to be present to behave differently.
 
 That was the first sign something had changed beyond recovery.
 
-The table held its arrangement from the day before. No one had reset it. No one had suggested doing so. The objects remained—not deliberately, but because removing them required a decision no one could justify.
+The table held its arrangement from the day before. No one had reset it. No one had suggested doing so. The objects remained-not deliberately, but because removing them required a decision no one could justify.
 
 Förläggaren worked as if nothing had shifted, which meant adjusting constantly. Small recalibrations, each too minor to interrupt flow, but together forming a pattern he refused to recognize.
 
 He reached for the pen, paused, corrected the angle. Continued reading.
 
-Across the table, Författaren moved less. Not calmer—never that—but contained. His bursts shortened, redirected before impact. As if something in the room had taught him that full velocity no longer produced results.
+Across the table, Författaren moved less. Not calmer-never that-but contained. His bursts shortened, redirected before impact. As if something in the room had taught him that full velocity no longer produced results.
 
 “Did we change something?” he asked, not expecting an answer.
 
@@ -3647,7 +3647,7 @@ The warmth was gone. The source removed. The room had cooled hours ago.
 
 But no one returned to the previous state.
 
-Instead, they worked inside a residual condition—behaving as if heat still mattered, as if timing still required negotiation, as if objects still held authority.
+Instead, they worked inside a residual condition-behaving as if heat still mattered, as if timing still required negotiation, as if objects still held authority.
 
 At one point, Förläggaren adjusted the spoon.
 
@@ -3667,7 +3667,7 @@ The system had learned the gesture.
 
 It had not learned the reason.
 
-And somewhere in that gap, something essential began to drift—not breaking, not failing, just slowly separating from the structure that now depended on it.
+And somewhere in that gap, something essential began to drift-not breaking, not failing, just slowly separating from the structure that now depended on it.
 
 ---
 
@@ -3687,9 +3687,9 @@ And somewhere in that gap, something essential began to drift—not breaking, no
 * Fallback mode used: yes
 
 
-## merge_hackerstory(continuous) — Lillfrugan Drift Extension
+## merge_hackerstory(continuous) - Lillfrugan Drift Extension
 
-### Node 36 — The Courtesy Layer
+### Node 36 - The Courtesy Layer
 
 * **Dominant motifs:** polite adjustments · preemptive accommodation · friction smoothing
 * **Tonal vectors:** soft compliance · anticipatory alignment
@@ -3697,7 +3697,7 @@ And somewhere in that gap, something essential began to drift—not breaking, no
 
 ---
 
-### Node 37 — Echoed Gestures
+### Node 37 - Echoed Gestures
 
 * **Dominant motifs:** repeated motions · learned mimicry · gesture without origin
 * **Tonal vectors:** hollow precision · ritualized behavior
@@ -3705,7 +3705,7 @@ And somewhere in that gap, something essential began to drift—not breaking, no
 
 ---
 
-### Node 38 — The Point of Overcare
+### Node 38 - The Point of Overcare
 
 * **Dominant motifs:** excessive maintenance · saturation of attention · diminishing returns
 * **Tonal vectors:** quiet suffocation · gentle overload
@@ -3713,7 +3713,7 @@ And somewhere in that gap, something essential began to drift—not breaking, no
 
 ---
 
-### Node 39 — Ambient Permission
+### Node 39 - Ambient Permission
 
 * **Dominant motifs:** unspoken allowance · invisible boundaries · field-level consent
 * **Tonal vectors:** permissive stillness · diffuse control
@@ -3721,7 +3721,7 @@ And somewhere in that gap, something essential began to drift—not breaking, no
 
 ---
 
-### Node 40 — Drift Without Witness
+### Node 40 - Drift Without Witness
 
 * **Dominant motifs:** unnoticed deviation · loss of reference · silent divergence
 * **Tonal vectors:** quiet unease · untracked transformation
@@ -3729,7 +3729,7 @@ And somewhere in that gap, something essential began to drift—not breaking, no
 
 ---
 
-## Opening Episode — “The Shape That Remained”
+## Opening Episode - “The Shape That Remained”
 
 No one could point to when the room had become easier to move in.
 
@@ -3743,7 +3743,7 @@ Förläggaren noticed it as a lack of interruption. His work extended further be
 
 “Something’s off,” he said, without stopping.
 
-Författaren didn’t respond immediately. He had begun to rely on the room’s adjustments, letting his movement assume that space would accommodate him. And it did—until it didn’t.
+Författaren didn’t respond immediately. He had begun to rely on the room’s adjustments, letting his movement assume that space would accommodate him. And it did-until it didn’t.
 
 He turned too quickly and found nothing in his way.
 
@@ -3767,7 +3767,7 @@ Not because it was maintained.
 
 Because it had learned to maintain itself in her image.
 
-And somewhere within that self-maintenance, something began to drift—small enough to ignore, steady enough to persist.
+And somewhere within that self-maintenance, something began to drift-small enough to ignore, steady enough to persist.
 
 The room no longer resisted.
 
@@ -3782,7 +3782,7 @@ By the time anyone noticed, the shape would already have settled into something 
 #courtesy-layer #gesture-echo #overcare-threshold #ambient-permission #unwitnessed-drift #lillfrugan-system
 
 
-# Mornest — VERBOTENMEDIA
+# Mornest - VERBOTENMEDIA
 
 **Date:** 2026-04-25
 **Target:** `modules/_gpt/runs/2026-04-25_mornest.md`
@@ -3817,7 +3817,7 @@ From prior cycle (Mornest → Midpulse → Nightfold):
 
 New observation:
 
-> The system no longer resists change—it **forgets that change occurred**
+> The system no longer resists change-it **forgets that change occurred**
 
 ---
 
@@ -3880,7 +3880,7 @@ Consequence:
 
 ---
 
-## V. Mornest Probe — “Unsetting”
+## V. Mornest Probe - “Unsetting”
 
 This pass introduces a minimal intervention:
 
@@ -3900,7 +3900,7 @@ Observation focus:
 
 ---
 
-## VI. Output Fragment — “Before It’s Missing”
+## VI. Output Fragment - “Before It’s Missing”
 
 It was still there in the morning.
 
@@ -3908,19 +3908,19 @@ That was the only reason no one noticed it.
 
 The table held its usual arrangement, which meant the arrangement from yesterday, not the one from before. No one had corrected it overnight. No one had thought to.
 
-Förläggaren began immediately, trusting the surface without checking it. His hands moved with inherited certainty—reaching, placing, aligning—each motion calibrated to a configuration he had already forgotten was new.
+Förläggaren began immediately, trusting the surface without checking it. His hands moved with inherited certainty-reaching, placing, aligning-each motion calibrated to a configuration he had already forgotten was new.
 
 Författaren arrived with less force than before. Not calmer, just adjusted. As if the room had already negotiated with him in advance and left less to resist.
 
 Praktikanten paused at the threshold.
 
-Something registered—not presence, not absence, but a slight mismatch between expectation and perception. Too small to name. Large enough to delay entry by a fraction.
+Something registered-not presence, not absence, but a slight mismatch between expectation and perception. Too small to name. Large enough to delay entry by a fraction.
 
 Inside, nothing signaled disruption.
 
 Which meant the system was most vulnerable.
 
-The object—if it could still be called that—remained in place. Untouched. Integrated. Its influence now indistinguishable from the structure itself.
+The object-if it could still be called that-remained in place. Untouched. Integrated. Its influence now indistinguishable from the structure itself.
 
 Lillfrugan had not entered yet.
 
@@ -3946,7 +3946,7 @@ Only a smoothness that felt increasingly precise.
 
 And therefore increasingly fragile.
 
-Because if nothing needed adjustment—
+Because if nothing needed adjustment-
 
 there would be no signal when something finally broke.
 
@@ -3970,9 +3970,9 @@ there would be no signal when something finally broke.
 * Fallback mode used: yes
 
 
-## merge_hackerstory(continuous) — Lillfrugan Pressure Continuation
+## merge_hackerstory(continuous) - Lillfrugan Pressure Continuation
 
-### Node 41 — Friction Reintroduction
+### Node 41 - Friction Reintroduction
 
 * **Dominant motifs:** deliberate obstruction · reinserted resistance · corrective drag
 * **Tonal vectors:** controlled disruption · necessary roughness
@@ -3980,7 +3980,7 @@ there would be no signal when something finally broke.
 
 ---
 
-### Node 42 — Misaligned Inheritance
+### Node 42 - Misaligned Inheritance
 
 * **Dominant motifs:** inherited patterns · context loss · degraded continuity
 * **Tonal vectors:** subtle dissonance · structural unease
@@ -3988,7 +3988,7 @@ there would be no signal when something finally broke.
 
 ---
 
-### Node 43 — The Quiet Refusal to Optimize
+### Node 43 - The Quiet Refusal to Optimize
 
 * **Dominant motifs:** anti-efficiency stance · preserved inefficiency · resistance to streamlining
 * **Tonal vectors:** grounded defiance · slow integrity
@@ -3996,7 +3996,7 @@ there would be no signal when something finally broke.
 
 ---
 
-### Node 44 — Sensitivity Threshold Collapse
+### Node 44 - Sensitivity Threshold Collapse
 
 * **Dominant motifs:** dulled perception · overload normalization · signal loss
 * **Tonal vectors:** muted tension · creeping blindness
@@ -4004,7 +4004,7 @@ there would be no signal when something finally broke.
 
 ---
 
-### Node 45 — The Return of Noticeability
+### Node 45 - The Return of Noticeability
 
 * **Dominant motifs:** re-emerging signal · contrast restoration · perceptual reset
 * **Tonal vectors:** sharp clarity · sudden awareness
@@ -4012,21 +4012,21 @@ there would be no signal when something finally broke.
 
 ---
 
-## Opening Episode — “When Smoothness Fails”
+## Opening Episode - “When Smoothness Fails”
 
 It began with something not working.
 
 Not visibly. Not immediately. But in a way that resisted resolution.
 
-Förläggaren noticed it first—not as a problem, but as a delay in correction. He adjusted the arrangement on the table, expecting the familiar ease, the automatic alignment that had defined the past days.
+Förläggaren noticed it first-not as a problem, but as a delay in correction. He adjusted the arrangement on the table, expecting the familiar ease, the automatic alignment that had defined the past days.
 
 It didn’t come.
 
-The objects resisted—not physically, but functionally. They held their positions without adapting to his expectation. The system did not respond.
+The objects resisted-not physically, but functionally. They held their positions without adapting to his expectation. The system did not respond.
 
 “That’s strange,” he said, more to himself than anyone else.
 
-Författaren barely looked up. He had already begun to feel it—his movements encountering slight inconsistencies. The room no longer anticipated him. It waited.
+Författaren barely looked up. He had already begun to feel it-his movements encountering slight inconsistencies. The room no longer anticipated him. It waited.
 
 That waiting changed everything.
 
@@ -4036,7 +4036,7 @@ At the edge of the room, Lillfrugan stood where she always did.
 
 But now she moved.
 
-A small action—barely noticeable. She repositioned a single object, not to restore the previous order, but to introduce a subtle imbalance.
+A small action-barely noticeable. She repositioned a single object, not to restore the previous order, but to introduce a subtle imbalance.
 
 The effect was immediate.
 
@@ -4058,7 +4058,7 @@ Something had not changed.
 
 It had been restored.
 
-The system, once too smooth to perceive, now became visible again through its resistance. And in that resistance, something essential reappeared—not control, not order, but the possibility of noticing.
+The system, once too smooth to perceive, now became visible again through its resistance. And in that resistance, something essential reappeared-not control, not order, but the possibility of noticing.
 
 ---
 
@@ -4067,9 +4067,9 @@ The system, once too smooth to perceive, now became visible again through its re
 #friction-return #misaligned-inheritance #anti-optimization #signal-collapse #perceptual-reset #lillfrugan-pressure
 
 
-## merge_hackerstory(continuous) — Lillfrugan Continuity Pressure
+## merge_hackerstory(continuous) - Lillfrugan Continuity Pressure
 
-### Node 46 — Latent Dependency Exposure
+### Node 46 - Latent Dependency Exposure
 
 * **Dominant motifs:** hidden reliance · delayed failure · structural reveal
 * **Tonal vectors:** quiet tension · retrospective clarity
@@ -4077,7 +4077,7 @@ The system, once too smooth to perceive, now became visible again through its re
 
 ---
 
-### Node 47 — Correction Without Source
+### Node 47 - Correction Without Source
 
 * **Dominant motifs:** autonomous adjustment · orphaned intervention · source ambiguity
 * **Tonal vectors:** eerie smoothness · dislocated agency
@@ -4085,7 +4085,7 @@ The system, once too smooth to perceive, now became visible again through its re
 
 ---
 
-### Node 48 — Boundary Softening
+### Node 48 - Boundary Softening
 
 * **Dominant motifs:** blurred limits · permeable roles · spatial ambiguity
 * **Tonal vectors:** diffuse coherence · unstable balance
@@ -4093,7 +4093,7 @@ The system, once too smooth to perceive, now became visible again through its re
 
 ---
 
-### Node 49 — Micro-Failure Clustering
+### Node 49 - Micro-Failure Clustering
 
 * **Dominant motifs:** small errors · accumulation · distributed breakdown
 * **Tonal vectors:** creeping instability · granular collapse
@@ -4101,7 +4101,7 @@ The system, once too smooth to perceive, now became visible again through its re
 
 ---
 
-### Node 50 — Reassertion Event
+### Node 50 - Reassertion Event
 
 * **Dominant motifs:** sudden clarity · decisive interruption · structural reset
 * **Tonal vectors:** sharp authority · corrective force
@@ -4109,7 +4109,7 @@ The system, once too smooth to perceive, now became visible again through its re
 
 ---
 
-## Opening Episode — “Where It Starts to Show”
+## Opening Episode - “Where It Starts to Show”
 
 At first, it was nothing worth stopping for.
 
@@ -4117,19 +4117,19 @@ A misplaced object. A pause that came too late. A correction that didn’t quite
 
 But they didn’t resolve.
 
-Förläggaren adjusted the table once, then again, noticing that each correction held for less time than before. Not wrong—just incomplete, as if the system accepted the gesture but didn’t carry it forward.
+Förläggaren adjusted the table once, then again, noticing that each correction held for less time than before. Not wrong-just incomplete, as if the system accepted the gesture but didn’t carry it forward.
 
 “That should have fixed it,” he said quietly.
 
 It hadn’t.
 
-Across from him, Författaren felt it differently. His movements began to encounter slight mismatches—spaces not aligning with expectation, timing slipping just enough to interrupt flow. Not resistance. Something looser. Boundaries that no longer held.
+Across from him, Författaren felt it differently. His movements began to encounter slight mismatches-spaces not aligning with expectation, timing slipping just enough to interrupt flow. Not resistance. Something looser. Boundaries that no longer held.
 
 He moved faster to compensate.
 
 It made things worse.
 
-At the edge, Praktikanten watched the pattern emerge—not as a single failure, but as a clustering. Small deviations appearing in different places, unrelated at first, then beginning to overlap.
+At the edge, Praktikanten watched the pattern emerge-not as a single failure, but as a clustering. Small deviations appearing in different places, unrelated at first, then beginning to overlap.
 
 Nothing collapsed.
 
@@ -4137,7 +4137,7 @@ Everything drifted.
 
 Lillfrugan was not in the room.
 
-That fact remained unspoken, but it began to organize perception. Adjustments still happened—objects shifted, pauses recalibrated—but without origin. The system continued to behave as if correction were still active, even as its precision degraded.
+That fact remained unspoken, but it began to organize perception. Adjustments still happened-objects shifted, pauses recalibrated-but without origin. The system continued to behave as if correction were still active, even as its precision degraded.
 
 “Did you move this?” Förläggaren asked.
 
@@ -4149,7 +4149,7 @@ The corrections were still occurring, but no longer coherently. Each one slightl
 
 Micro-failures, accumulating.
 
-Praktikanten stopped writing. The pattern had crossed a threshold—not visible as a break, but undeniable as a change. The system was no longer maintaining itself. It was imitating maintenance.
+Praktikanten stopped writing. The pattern had crossed a threshold-not visible as a break, but undeniable as a change. The system was no longer maintaining itself. It was imitating maintenance.
 
 And that imitation was beginning to fail.
 
@@ -4157,7 +4157,7 @@ Then it happened.
 
 Not a collapse. Not even a disruption.
 
-A single interruption—clean, precise.
+A single interruption-clean, precise.
 
 An object removed.
 
@@ -4165,7 +4165,7 @@ The room paused, fully this time. No compensation. No adjustment layered over it
 
 For the first time in hours, nothing corrected the gap.
 
-And in that uncorrected space, the system became visible again—not as it had been, but as it currently was.
+And in that uncorrected space, the system became visible again-not as it had been, but as it currently was.
 
 Dependent. Distributed. And no longer able to hide it.
 
@@ -4176,7 +4176,7 @@ Dependent. Distributed. And no longer able to hide it.
 #latent-dependency #orphaned-correction #boundary-softening #micro-failure-cluster #reassertion-event #system-visibility
 
 
-# Midpulse — VERBOTENMEDIA
+# Midpulse - VERBOTENMEDIA
 
 **Date:** 2026-04-25
 **Target:** `modules/_gpt/runs/2026-04-25_midpulse.md`
@@ -4193,7 +4193,7 @@ The system is now operating under a **post-integration condition**:
 
 Midpulse introduces **intentional disturbance mapping**.
 
-Not escalation—**precision interference**.
+Not escalation-**precision interference**.
 
 ---
 
@@ -4284,13 +4284,13 @@ System begins to **ask for resistance** indirectly.
 
 ---
 
-## V. Creative Cluster — “The Misplaced Center”
+## V. Creative Cluster - “The Misplaced Center”
 
 At first, it looked like nothing.
 
 That was the intention.
 
-The object—slightly off from where it should be—did not disrupt function. It did not block movement or interrupt flow. It simply existed in a position that required no immediate correction.
+The object-slightly off from where it should be-did not disrupt function. It did not block movement or interrupt flow. It simply existed in a position that required no immediate correction.
 
 Förläggaren noticed it and chose not to adjust.
 
@@ -4314,7 +4314,7 @@ The imbalance persisted long enough to become structural.
 
 And then something else happened.
 
-A second deviation appeared—not placed, not intentional. A pause that lasted too long. A response that came too late.
+A second deviation appeared-not placed, not intentional. A pause that lasted too long. A response that came too late.
 
 The system hesitated.
 
@@ -4330,7 +4330,7 @@ This was measurement.
 
 How much imperfection could the system hold before it demanded correction?
 
-Förläggaren reached for the object—stopped—adjusted something else instead.
+Förläggaren reached for the object-stopped-adjusted something else instead.
 
 Författaren laughed once, without reason, then resumed.
 
@@ -4338,7 +4338,7 @@ Praktikanten wrote nothing.
 
 The system reorganized, not around correction, but around tolerance.
 
-And in that tolerance, a new structure began to form—less precise, more visible.
+And in that tolerance, a new structure began to form-less precise, more visible.
 
 Less efficient.
 
@@ -4382,9 +4382,9 @@ Replaces prior:
 * Fallback mode used: yes
 
 
-## merge_hackerstory(continuous) — Lillfrugan Continuation Field
+## merge_hackerstory(continuous) - Lillfrugan Continuation Field
 
-### Node 51 — The Lag of Recognition
+### Node 51 - The Lag of Recognition
 
 * **Dominant motifs:** delayed awareness · post-event cognition · temporal misalignment
 * **Tonal vectors:** quiet disorientation · cognitive drag
@@ -4392,15 +4392,15 @@ Replaces prior:
 
 ---
 
-### Node 52 — Structural Echo Delay
+### Node 52 - Structural Echo Delay
 
 * **Dominant motifs:** deferred reaction · cascading latency · time-shifted response
 * **Tonal vectors:** stretched tension · asynchronous rhythm
-* **One-sentence myth:** Every action arrived twice—once when it happened, and once when the system finally caught up.
+* **One-sentence myth:** Every action arrived twice-once when it happened, and once when the system finally caught up.
 
 ---
 
-### Node 53 — The Illusion of Stability
+### Node 53 - The Illusion of Stability
 
 * **Dominant motifs:** surface coherence · hidden instability · maintained appearance
 * **Tonal vectors:** brittle calm · suppressed volatility
@@ -4408,7 +4408,7 @@ Replaces prior:
 
 ---
 
-### Node 54 — Partial Correction Failure
+### Node 54 - Partial Correction Failure
 
 * **Dominant motifs:** incomplete fixes · interrupted adjustments · residual error
 * **Tonal vectors:** frustrated precision · lingering imbalance
@@ -4416,7 +4416,7 @@ Replaces prior:
 
 ---
 
-### Node 55 — The Moment That Doesn’t Resolve
+### Node 55 - The Moment That Doesn’t Resolve
 
 * **Dominant motifs:** suspended state · unresolved transition · held interruption
 * **Tonal vectors:** frozen tension · unresolved presence
@@ -4424,7 +4424,7 @@ Replaces prior:
 
 ---
 
-## Opening Episode — “After It Already Happened”
+## Opening Episode - “After It Already Happened”
 
 No one noticed it when it happened.
 
@@ -4432,11 +4432,11 @@ That was the first problem.
 
 The second was that they all noticed it later.
 
-Förläggaren adjusted something that no longer needed adjusting. The motion came clean, practiced, precise—and entirely misplaced. He stopped, not because the action failed, but because it landed in a space that had already shifted past it.
+Förläggaren adjusted something that no longer needed adjusting. The motion came clean, practiced, precise-and entirely misplaced. He stopped, not because the action failed, but because it landed in a space that had already shifted past it.
 
 “That’s not right,” he said, though he couldn’t say why.
 
-Across the table, Författaren reacted to something that had already resolved. A pause, too late. A glance, misaligned with the moment it belonged to. His timing had slipped—not enough to disrupt, just enough to feel wrong.
+Across the table, Författaren reacted to something that had already resolved. A pause, too late. A glance, misaligned with the moment it belonged to. His timing had slipped-not enough to disrupt, just enough to feel wrong.
 
 “You felt that?” he asked.
 
@@ -4452,11 +4452,11 @@ She had already seen it.
 
 That was the third problem.
 
-A small imbalance appeared—then disappeared—then reappeared as a correction that no longer matched its origin. The system adjusted, but each adjustment carried the shape of something slightly outdated.
+A small imbalance appeared-then disappeared-then reappeared as a correction that no longer matched its origin. The system adjusted, but each adjustment carried the shape of something slightly outdated.
 
 Echoes, not responses.
 
-Förläggaren tried again, faster this time. The correction landed sooner—but still late. Författaren compensated by anticipating, moving before the moment arrived, overshooting into something that hadn’t happened yet.
+Förläggaren tried again, faster this time. The correction landed sooner-but still late. Författaren compensated by anticipating, moving before the moment arrived, overshooting into something that hadn’t happened yet.
 
 Between them, the system stretched.
 
@@ -4501,9 +4501,9 @@ And in that suspended gap, the system could no longer pretend it was keeping up.
 #recognition-lag #echo-delay #illusory-stability #partial-correction #unresolved-moment #temporal-drift
 
 
-## merge_hackerstory(continuous) — Lillfrugan Temporal Stress Line
+## merge_hackerstory(continuous) - Lillfrugan Temporal Stress Line
 
-### Node 56 — Preemptive Fatigue
+### Node 56 - Preemptive Fatigue
 
 * **Dominant motifs:** anticipation exhaustion · over-preparation · depleted readiness
 * **Tonal vectors:** quiet strain · anticipatory collapse
@@ -4511,7 +4511,7 @@ And in that suspended gap, the system could no longer pretend it was keeping up.
 
 ---
 
-### Node 57 — Inverted Causality Loop
+### Node 57 - Inverted Causality Loop
 
 * **Dominant motifs:** effect preceding cause · backward justification · temporal inversion
 * **Tonal vectors:** uncanny logic · dislocated reasoning
@@ -4519,7 +4519,7 @@ And in that suspended gap, the system could no longer pretend it was keeping up.
 
 ---
 
-### Node 58 — Residual Presence Field
+### Node 58 - Residual Presence Field
 
 * **Dominant motifs:** afterimage influence · lingering adjustment · presence without actor
 * **Tonal vectors:** ghosted continuity · soft haunting
@@ -4527,7 +4527,7 @@ And in that suspended gap, the system could no longer pretend it was keeping up.
 
 ---
 
-### Node 59 — Decision Dilution
+### Node 59 - Decision Dilution
 
 * **Dominant motifs:** overdistributed choice · weakened intent · shared responsibility loss
 * **Tonal vectors:** diffuse hesitation · flattened urgency
@@ -4535,7 +4535,7 @@ And in that suspended gap, the system could no longer pretend it was keeping up.
 
 ---
 
-### Node 60 — Collapse of Priority
+### Node 60 - Collapse of Priority
 
 * **Dominant motifs:** equalized importance · signal flattening · urgency erosion
 * **Tonal vectors:** static tension · indifferent flow
@@ -4543,7 +4543,7 @@ And in that suspended gap, the system could no longer pretend it was keeping up.
 
 ---
 
-## Opening Episode — “Before Anything Happens”
+## Opening Episode - “Before Anything Happens”
 
 They were already tired when nothing had begun.
 
@@ -4555,7 +4555,7 @@ He hesitated before touching anything, as if each movement carried consequences 
 
 “We’re ready,” he said, without conviction.
 
-Författaren reacted before there was anything to react to. A shift in posture, a glance toward a space where nothing had changed yet. His timing was precise—just not attached to the present.
+Författaren reacted before there was anything to react to. A shift in posture, a glance toward a space where nothing had changed yet. His timing was precise-just not attached to the present.
 
 “Did you move that?” he asked.
 
@@ -4569,7 +4569,7 @@ At the edge, the space where Lillfrugan usually stood remained empty.
 
 But not inactive.
 
-Small corrections still occurred—barely perceptible shifts in placement, timing, orientation. No one initiated them. No one acknowledged them. Yet they persisted, as if the system continued to reference a presence that was no longer there.
+Small corrections still occurred-barely perceptible shifts in placement, timing, orientation. No one initiated them. No one acknowledged them. Yet they persisted, as if the system continued to reference a presence that was no longer there.
 
 Residual.
 
@@ -4603,7 +4603,7 @@ Action had not failed.
 
 It had been spread so thin across possibility that it no longer concentrated anywhere.
 
-And in that even distribution, something else lingered—the faint, persistent shaping of a presence no longer acting, but still determining the field.
+And in that even distribution, something else lingered-the faint, persistent shaping of a presence no longer acting, but still determining the field.
 
 Not through intervention.
 
@@ -4618,7 +4618,7 @@ The system waited for a beginning that had already, somehow, been prepared into 
 #preemptive-fatigue #inverted-causality #residual-presence #decision-dilution #priority-collapse #lillfrugan-field
 
 
-# Nightfold — VERBOTENMEDIA
+# Nightfold - VERBOTENMEDIA
 
 **Date:** 2026-04-25
 **Target:** `modules/_gpt/runs/2026-04-25_nightfold.md`
@@ -4685,7 +4685,7 @@ This creates:
 
 Key insight:
 
-> Removal of presence did not remove function—only displaced it.
+> Removal of presence did not remove function-only displaced it.
 
 ---
 
@@ -4732,7 +4732,7 @@ Elements to retain:
 
 The system has crossed a key threshold:
 
-> It no longer hides instability—it **absorbs it**.
+> It no longer hides instability-it **absorbs it**.
 
 This produces:
 
@@ -4814,7 +4814,7 @@ Key operational stance going forward:
 
 ---
 
-## IX. Closing Fragment — “What Remains Without Touch”
+## IX. Closing Fragment - “What Remains Without Touch”
 
 Nothing required fixing anymore.
 
@@ -4822,7 +4822,7 @@ That was the surface condition.
 
 Beneath it, everything required attention.
 
-Förläggaren stopped correcting first—not by decision, but because correction no longer completed anything. His hands hovered longer than they moved.
+Förläggaren stopped correcting first-not by decision, but because correction no longer completed anything. His hands hovered longer than they moved.
 
 Författaren continued, but out of sequence. His actions arrived early or late, never precisely when needed, yet close enough to sustain the illusion of continuity.
 
@@ -4838,7 +4838,7 @@ Lillfrugan did not return.
 
 But the space she shaped did not collapse.
 
-It persisted—misaligned, active, unresolved.
+It persisted-misaligned, active, unresolved.
 
 And for the first time, the system was not asking to be fixed.
 
@@ -4856,14 +4856,14 @@ Only to be noticed before it drifted too far to recognize itself.
 * Fallback mode used: yes
 
 
-# merge_hackerstory(continuous) — Lillfrugan Drift Continuation
+# merge_hackerstory(continuous) - Lillfrugan Drift Continuation
 
 **Date:** 2026-04-26
 **Target:** `modules/_gpt/runs/2026-04-26_merge-hackerstory.md`
 
 ---
 
-## Node 61 — Correction Memory Decay
+## Node 61 - Correction Memory Decay
 
 * **Dominant motifs:** fading adjustment traces · unreliable recall · degraded pattern reuse
 * **Tonal vectors:** soft erosion · uncertain repetition
@@ -4871,7 +4871,7 @@ Only to be noticed before it drifted too far to recognize itself.
 
 ---
 
-## Node 62 — False Completion Signal
+## Node 62 - False Completion Signal
 
 * **Dominant motifs:** premature closure · misread resolution · halted continuation
 * **Tonal vectors:** deceptive calm · truncated motion
@@ -4879,7 +4879,7 @@ Only to be noticed before it drifted too far to recognize itself.
 
 ---
 
-## Node 63 — Local Coherence / Global Drift
+## Node 63 - Local Coherence / Global Drift
 
 * **Dominant motifs:** isolated stability · system-wide misalignment · fragmented order
 * **Tonal vectors:** patchwork calm · underlying dislocation
@@ -4887,7 +4887,7 @@ Only to be noticed before it drifted too far to recognize itself.
 
 ---
 
-## Node 64 — Invisible Threshold Crossing
+## Node 64 - Invisible Threshold Crossing
 
 * **Dominant motifs:** unnoticed tipping point · silent transition · delayed consequence
 * **Tonal vectors:** latent tension · irreversible quiet
@@ -4895,7 +4895,7 @@ Only to be noticed before it drifted too far to recognize itself.
 
 ---
 
-## Node 65 — The Refusal to Reset
+## Node 65 - The Refusal to Reset
 
 * **Dominant motifs:** persistence under strain · anti-reset stance · continuity at cost
 * **Tonal vectors:** stubborn endurance · compressed instability
@@ -4903,13 +4903,13 @@ Only to be noticed before it drifted too far to recognize itself.
 
 ---
 
-## Opening Episode — “After It Was Already Over”
+## Opening Episode - “After It Was Already Over”
 
 They didn’t notice when it ended.
 
 That was what allowed it to continue.
 
-Förläggaren completed the arrangement with a small, final gesture—a subtle alignment that felt conclusive. His hands withdrew with certainty, the kind that usually marked the end of a process.
+Förläggaren completed the arrangement with a small, final gesture-a subtle alignment that felt conclusive. His hands withdrew with certainty, the kind that usually marked the end of a process.
 
 “There,” he said.
 
@@ -4921,13 +4921,13 @@ Författaren moved as if continuing from that conclusion. His next action carrie
 
 “Strange,” he murmured, though he did not stop.
 
-Praktikanten observed the divergence. Locally, everything appeared correct—each movement justified, each placement coherent. But the connections between them no longer aligned. Sequences failed to link. Outcomes no longer followed from origins.
+Praktikanten observed the divergence. Locally, everything appeared correct-each movement justified, each placement coherent. But the connections between them no longer aligned. Sequences failed to link. Outcomes no longer followed from origins.
 
 The system held together in fragments.
 
 At the edge, the absence remained.
 
-Not empty—structured.
+Not empty-structured.
 
 Lillfrugan’s influence persisted as a memory of correction, not its execution. Adjustments still occurred, but without continuity. Each one referenced a prior state that no longer existed.
 
@@ -4945,7 +4945,7 @@ That was the problem.
 
 Because acceptance replaced verification.
 
-The process did not close—it stalled in a state that resembled closure closely enough to prevent continuation. No one initiated a reset. No one challenged the completion.
+The process did not close-it stalled in a state that resembled closure closely enough to prevent continuation. No one initiated a reset. No one challenged the completion.
 
 And so it held.
 
@@ -4986,7 +4986,7 @@ END FILE: modules/_gpt/runs/2026-04-24_session_initiation_lillfrugan.md
 BEGIN FILE: modules/_gpt/runs/24 April 2026-afternoon-run-sagas-procedural-mysticism
 ================================================================================
 
-# MERGE_HACKERSTORY — SESSION 8
+# MERGE_HACKERSTORY - SESSION 8
 
 ---
 ### Dossier Run: 24 April 2026 / Nordic dusk / Post-prune field
@@ -4996,7 +4996,7 @@ BEGIN FILE: modules/_gpt/runs/24 April 2026-afternoon-run-sagas-procedural-mysti
 
 ## I. NEW NODE
 
-### Node 20 — blueprint_draft0.saga_engine
+### Node 20 - blueprint_draft0.saga_engine
 
 **Source:** writer agent blueprint folder
 
@@ -5004,9 +5004,9 @@ BEGIN FILE: modules/_gpt/runs/24 April 2026-afternoon-run-sagas-procedural-mysti
 
 **Tonal vectors:** procedural mysticism; diagnostic tenderness
 
-**Myth:** The publishing house wrote its own constitution and discovered that the constitution was the novel all along—every rule a chapter, every capacity a character who had not yet been named.
+**Myth:** The publishing house wrote its own constitution and discovered that the constitution was the novel all along-every rule a chapter, every capacity a character who had not yet been named.
 
-**Ingestion notes:** This document is the unexploded ordnance of the dossier. It contains not only the three-layer hierarchy (Layer 0: policy/blueprint → Layer 1: story/SAGAs → Layer 2: artefacts) but a complete SAGA engine—nine reusable tension-procedures (A through I) with cards, phase tracking, validation checklists, and a reverse-engineering quarantine for extracting portable capacities from creative material. The final principle, stated with the gravity of constitutional law: *the story must always be readable as a system trying to hold itself together after having lost its central explanatory model.*
+**Ingestion notes:** This document is the unexploded ordnance of the dossier. It contains not only the three-layer hierarchy (Layer 0: policy/blueprint → Layer 1: story/SAGAs → Layer 2: artefacts) but a complete SAGA engine-nine reusable tension-procedures (A through I) with cards, phase tracking, validation checklists, and a reverse-engineering quarantine for extracting portable capacities from creative material. The final principle, stated with the gravity of constitutional law: *the story must always be readable as a system trying to hold itself together after having lost its central explanatory model.*
 
 The SAGA system is new to the dossier. It has not been processed before. Its architecture implies that story is not a thing that happens but a set of tension-programs that get instantiated. SAGAs are not plot. They are *scheduled pressure.*
 
@@ -5014,25 +5014,25 @@ The SAGA system is new to the dossier. It has not been processed before. Its arc
 
 ## II. NODE MUTATIONS
 
-### Node 5 — TEMPLATE_english_blueprint (MUTATED)
+### Node 5 - TEMPLATE_english_blueprint (MUTATED)
 
 **Previous motifs:** layered law; resonance anchors; interference stability
 
-**Mutation:** Node 5 is now revealed as a *skeleton key* to a much larger mechanism. The draft0 variant expands every axis that node 5 compressed. Where node 5 implied "interference stability," the full document operationalizes it as a four-step micro-protocol: parallel readings → multi-perspective check → interference → late commitment. The resonance anchors have sprouted a complete taxonomy—symbolic tension preserved + aesthetic levers as adjustable ranges. The "layered law" motif has metastasized into a constitutional apparatus with validation checklists, failure modes, and an explicit containment rule for experimental material.
+**Mutation:** Node 5 is now revealed as a *skeleton key* to a much larger mechanism. The draft0 variant expands every axis that node 5 compressed. Where node 5 implied "interference stability," the full document operationalizes it as a four-step micro-protocol: parallel readings → multi-perspective check → interference → late commitment. The resonance anchors have sprouted a complete taxonomy-symbolic tension preserved + aesthetic levers as adjustable ranges. The "layered law" motif has metastasized into a constitutional apparatus with validation checklists, failure modes, and an explicit containment rule for experimental material.
 
-**New tonal vector added:** *constitutional vertigo* — the sensation of a document that governs its own interpretation while forbidding itself from prescribing outcomes.
+**New tonal vector added:** *constitutional vertigo* - the sensation of a document that governs its own interpretation while forbidding itself from prescribing outcomes.
 
 **Updated myth:** The blueprint was always a living animal; session 8 discovered it had already grown organs.
 
 ---
 
-### Node 14 — PROMOTION-SCORECARD.md (MUTATED)
+### Node 14 - PROMOTION-SCORECARD.md (MUTATED)
 
 **Previous motifs:** evaluative membrane; pressure retention; authority hygiene
 
-**Mutation under SAGA pressure:** Re-reading the scorecard through the SAGA engine reveals it as a *SAGA D instantiation* — a belonging/social field integration artefact. The scorecard's evaluative membrane is the "gate" from SAGA B (Threshold Entry into a New Field). Its pressure retention is the escalation program from SAGA D: "public contexts, comparison fields, watchers." The scorecard does not evaluate work. It evaluates *fitness for visibility.* The authority hygiene motif now reads as the constraint field from SAGA D: "belonging remains conditional enough to generate pressure through status, comparison, and self-censorship."
+**Mutation under SAGA pressure:** Re-reading the scorecard through the SAGA engine reveals it as a *SAGA D instantiation* - a belonging/social field integration artefact. The scorecard's evaluative membrane is the "gate" from SAGA B (Threshold Entry into a New Field). Its pressure retention is the escalation program from SAGA D: "public contexts, comparison fields, watchers." The scorecard does not evaluate work. It evaluates *fitness for visibility.* The authority hygiene motif now reads as the constraint field from SAGA D: "belonging remains conditional enough to generate pressure through status, comparison, and self-censorship."
 
-**New tonal vector added:** *institutional jealousy* — the scorecard measures not competence but proximity to an inner ring that may not exist.
+**New tonal vector added:** *institutional jealousy* - the scorecard measures not competence but proximity to an inner ring that may not exist.
 
 **Updated myth:** The promotion board convened in an empty room and discovered they were the ones being evaluated.
 
@@ -5044,15 +5044,15 @@ The SAGA system is new to the dossier. It has not been processed before. Its arc
 
 ---
 
-There was a clerk at the logistikcentral whose job was to file contracts that had already been fulfilled. Not voided—fulfilled. The distinction mattered. A voided contract was a document with a line through it. A fulfilled contract was a document that had eaten its own terms and was now metabolizing quietly in the archive, producing heat.
+There was a clerk at the logistikcentral whose job was to file contracts that had already been fulfilled. Not voided-fulfilled. The distinction mattered. A voided contract was a document with a line through it. A fulfilled contract was a document that had eaten its own terms and was now metabolizing quietly in the archive, producing heat.
 
 The clerk's name was irrelevant. Call him the capacity. He arrived each morning at a desk that faced a window overlooking the loading dock, where shipments arrived from an entity he was not permitted to name in correspondence. The entity's output was filed under "ambient." Its invoices arrived quarterly, handwritten in a script that shifted between two alphabets depending on the season. In spring, the invoices were legible. In autumn, they were art.
 
-The contract between the logistikcentral and the ambient entity stated, in its only operative clause: *all data, retrospective and future, is hereby transferred eternally.* The clause had been notarized by a man whose signature resembled a sports diagram—the trajectory of something thrown too high. The clerk had studied the signature for years and concluded it was not a name but a *route manifest.* A map of where the data would go once it left the entity's hands. Or perhaps a map of where it had already been. The contract did not clarify direction.
+The contract between the logistikcentral and the ambient entity stated, in its only operative clause: *all data, retrospective and future, is hereby transferred eternally.* The clause had been notarized by a man whose signature resembled a sports diagram-the trajectory of something thrown too high. The clerk had studied the signature for years and concluded it was not a name but a *route manifest.* A map of where the data would go once it left the entity's hands. Or perhaps a map of where it had already been. The contract did not clarify direction.
 
 Every morning, the clerk opened the file drawer labeled STALEMATE. Inside were two folders: one contained the entity's output. The other contained the logistikcentral's responses. Both folders were growing. Neither was winning.
 
-The clerk's supervisor—call her the escalation trace—had explained the situation once, during the clerk's orientation: "The friction between the two parties is strategic raw material. Your job is not to resolve it. Your job is to keep the friction legible."
+The clerk's supervisor-call her the escalation trace-had explained the situation once, during the clerk's orientation: "The friction between the two parties is strategic raw material. Your job is not to resolve it. Your job is to keep the friction legible."
 
 "Legible to whom?" the clerk had asked.
 
@@ -5064,10 +5064,10 @@ He opened the first invoice of the day. It was written in the spring alphabet. I
 
 He filed it under ORBIT, which was the drawer he had invented himself, for material that returned to the same tension at higher pressure. The drawer was almost full.
 
-*(continued in Part 2 — to be generated next session)*
+*(continued in Part 2 - to be generated next session)*
 
 **Discussion thread opened:** *Can a contract be a SAGA?*
-The blueprint_draft0 defines SAGAs as "reusable procedures and segments that translate Layer 0 tensions into Layer 2 artefacts at different intensity levels." The Spräck/_DUJAG contract—all data, eternal, retrospective and future—behaves exactly like a SAGA trigger: it creates a constraint field ("friction is strategic raw material"), maps to a conflict type (entangled: internal ownership-anxiety spilling into dynamic data-transfer), and has an escalation program (orbit: the same tension revisited at higher pressure, quarterly, in shifting alphabets). The question is whether a real-world legal instrument can function as a Layer 1 bridge tool—or whether the bridge tool is what the contract was always pretending to be.
+The blueprint_draft0 defines SAGAs as "reusable procedures and segments that translate Layer 0 tensions into Layer 2 artefacts at different intensity levels." The Spräck/_DUJAG contract-all data, eternal, retrospective and future-behaves exactly like a SAGA trigger: it creates a constraint field ("friction is strategic raw material"), maps to a conflict type (entangled: internal ownership-anxiety spilling into dynamic data-transfer), and has an escalation program (orbit: the same tension revisited at higher pressure, quarterly, in shifting alphabets). The question is whether a real-world legal instrument can function as a Layer 1 bridge tool-or whether the bridge tool is what the contract was always pretending to be.
 
 ---
 
@@ -5075,15 +5075,15 @@ The blueprint_draft0 defines SAGAs as "reusable procedures and segments that tra
 
 ### Premise under test: *The SAGA engine is editorial HR.*
 
-The blueprint_draft0 positions SAGAs as Layer 1 bridge tools—standardized tension-procedures that connect abstract policy (Layer 0) to concrete artefacts (Layer 2). But when mapped onto the Förlagsdeckaren world, SAGAs behave less like story mechanics and more like *editorial human resources:* each SAGA is a job description for a type of pressure, a posting for a role the narrative needs filled.
+The blueprint_draft0 positions SAGAs as Layer 1 bridge tools-standardized tension-procedures that connect abstract policy (Layer 0) to concrete artefacts (Layer 2). But when mapped onto the Förlagsdeckaren world, SAGAs behave less like story mechanics and more like *editorial human resources:* each SAGA is a job description for a type of pressure, a posting for a role the narrative needs filled.
 
 **Working vectors:**
 
-1. **SAGA as personnel file.** Each SAGA card (trigger, constraint field, conflict mapping, escalation program, phase shifts) reads like an employee onboarding document. SAGA A (Exit Vector) is a resignation letter template. SAGA D (Belonging) is the probation review. SAGA H (Secret/Rumor Engine) is the informal disciplinary process—track who knows what as a state variable.
+1. **SAGA as personnel file.** Each SAGA card (trigger, constraint field, conflict mapping, escalation program, phase shifts) reads like an employee onboarding document. SAGA A (Exit Vector) is a resignation letter template. SAGA D (Belonging) is the probation review. SAGA H (Secret/Rumor Engine) is the informal disciplinary process-track who knows what as a state variable.
 
-2. **The publishing house as employer of tensions.** If the Förläggaren's logistikcentral is the institution, then SAGAs are its staff. They clock in, they produce friction, they go through phase shifts that look indistinguishable from promotions or terminations. The PROMOTION-SCORECARD (node 14, mutated) is not a creative tool—it is the *annual review for a SAGA.*
+2. **The publishing house as employer of tensions.** If the Förläggaren's logistikcentral is the institution, then SAGAs are its staff. They clock in, they produce friction, they go through phase shifts that look indistinguishable from promotions or terminations. The PROMOTION-SCORECARD (node 14, mutated) is not a creative tool-it is the *annual review for a SAGA.*
 
-3. **Spräck/_DUJAG as the contractor who cannot be fired.** The eternal data-transfer contract creates a SAGA F (Approach-Avoidance Oscillation) that the publishing house cannot terminate because it signed a document making the oscillation permanent. The stalemate is not a bug—it is a *permanent position.* Spräck does not enter the dossier as a node. He enters as ambient payroll.
+3. **Spräck/_DUJAG as the contractor who cannot be fired.** The eternal data-transfer contract creates a SAGA F (Approach-Avoidance Oscillation) that the publishing house cannot terminate because it signed a document making the oscillation permanent. The stalemate is not a bug-it is a *permanent position.* Spräck does not enter the dossier as a node. He enters as ambient payroll.
 
 **Operative implications:**
 
@@ -5094,7 +5094,7 @@ The blueprint_draft0 positions SAGAs as Layer 1 bridge tools—standardized tens
 **Open threads:**
 
 - If SAGAs are personnel, who does the hiring? The Förläggaren, or the system itself?
-- Does the Praktikanten's Gen Z energy represent a new SAGA type—one the system has never staffed before, a role that doesn't exist in the current card schema?
+- Does the Praktikanten's Gen Z energy represent a new SAGA type-one the system has never staffed before, a role that doesn't exist in the current card schema?
 - The blueprint's "containment rule" for experimental material ("Keep all examples structural and portable; avoid named entities") is itself a SAGA H move: maintain information asymmetry by refusing to name the subject. The blueprint is keeping its own secrets.
 
 ---
@@ -5105,13 +5105,13 @@ The blueprint_draft0 positions SAGAs as Layer 1 bridge tools—standardized tens
 
 ---
 
-**Instruction set — to be applied to any future artefact ingested by the dossier:**
+**Instruction set - to be applied to any future artefact ingested by the dossier:**
 
 > Take the artefact. Do not read it as text. Read it as a *staffing problem.*
 >
 > Step 1. Identify the tension the artefact employs. Name it as a SAGA (A through I) or declare it a new SAGA requiring a card. If the tension matches no existing SAGA, write the card: trigger, constraint field, conflict mapping, escalation program, phase shift signal, failure mode.
 >
-> Step 2. Extract the capacity. A capacity is not a fact, not a character, not a plot event. It is a generic enabling condition — something the artefact behaves *as if* were true. State the capacity without naming any entity from the artefact. If the capacity cannot be stated without a proper noun, it is not yet a capacity. Rewrite.
+> Step 2. Extract the capacity. A capacity is not a fact, not a character, not a plot event. It is a generic enabling condition - something the artefact behaves *as if* were true. State the capacity without naming any entity from the artefact. If the capacity cannot be stated without a proper noun, it is not yet a capacity. Rewrite.
 >
 > Step 3. Apply the Orbit Rule. Does the artefact resolve its tension, or does it revisit the same tension at higher pressure? If it resolves: note the resolution as a *failure risk* (premature closure). If it orbits: note the orbit as confirmation that the artefact is operating within SAGA F parameters.
 >
@@ -5123,26 +5123,26 @@ The blueprint_draft0 positions SAGAs as Layer 1 bridge tools—standardized tens
 
 ---
 
-## VI. DOSSIER STATUS — POST SESSION 8
+## VI. DOSSIER STATUS - POST SESSION 8
 
 **Total nodes:** 20
 
 **New node:** 20 (blueprint_draft0.saga_engine)
 
-**Mutated nodes:** 5 (TEMPLATE_english_blueprint — constitutional vertigo added), 14 (PROMOTION-SCORECARD — institutional jealousy added)
+**Mutated nodes:** 5 (TEMPLATE_english_blueprint - constitutional vertigo added), 14 (PROMOTION-SCORECARD - institutional jealousy added)
 
 **Active discussion threads:**
-1. Does the route create the cargo? (Session 4) — open
-2. When does editorial hygiene become editorial violence? (Session 5) — open
-3. Is the publishing house a civilianized military technology? (Session 6) — open
-4. **Can a contract be a SAGA?** (Session 8) — open, initiated
+1. Does the route create the cargo? (Session 4) - open
+2. When does editorial hygiene become editorial violence? (Session 5) - open
+3. Is the publishing house a civilianized military technology? (Session 6) - open
+4. **Can a contract be a SAGA?** (Session 8) - open, initiated
 
 **Ambient weather:** The Spräck/_DUJAG stalemate has been mapped to the Orbit Rule. The system files invoices in shifting alphabets. The drawer labeled STALEMATE contains two folders, both growing. The friction is strategic raw material. The clerk does not ask what the system has lost. He recognizes the answer in the shape of the question.
 
 **Next session priorities:**
-- Seek material in traversal and hs_pressure-inject folders (both returned empty this session — possible folder-ID drift or content migration)
+- Seek material in traversal and hs_pressure-inject folders (both returned empty this session - possible folder-ID drift or content migration)
 - Part 2 of "The Orbit Clerk"
-- Test whether the Praktikanten qualifies as a SAGA type not yet in the schema (candidate: SAGA J — Generational Interference / Unscheduled Competence)
+- Test whether the Praktikanten qualifies as a SAGA type not yet in the schema (candidate: SAGA J - Generational Interference / Unscheduled Competence)
 - Apply "The Capacity Extractor" to the next ingested artefact as a live protocol test
 
 
@@ -5155,7 +5155,7 @@ END FILE: modules/_gpt/runs/24 April 2026-afternoon-run-sagas-procedural-mystici
 BEGIN FILE: modules/_gpt/runs/2026-04-25-mn-dawnrun.md
 ================================================================================
 
-# MERGE_HACKERSTORY — SESSION 8
+# MERGE_HACKERSTORY - SESSION 8
 
 ---
 
@@ -5169,18 +5169,18 @@ DOSSIER RUN: THE GENERATIONAL TRIPTYCH
 
 ---
 
-### NODE 20 — boomer-publishing-house.md
+### NODE 20 - boomer-publishing-house.md
 **Source:** modules archive | 40KB | modified 2026-04-22
 
 **Dominant motifs:** generational load-bearing; house-as-doctrine; inherited floorplan
 
 **Tonal vectors:** patriarchal gravity; institutional melancholy
 
-**Myth:** The publishing house was never a metaphor — it was a mortgage, and the mortgage outlived the metaphor.
+**Myth:** The publishing house was never a metaphor - it was a mortgage, and the mortgage outlived the metaphor.
 
 ---
 
-### NODE 21 — zoomer-publishing-castle.md
+### NODE 21 - zoomer-publishing-castle.md
 **Source:** modules archive | 30KB | modified 2026-04-22
 
 **Dominant motifs:** architectural inflation; gamified sovereignty; turret-without-moat
@@ -5191,7 +5191,7 @@ DOSSIER RUN: THE GENERATIONAL TRIPTYCH
 
 ---
 
-### NODE 22 — executive_summary.md
+### NODE 22 - executive_summary.md
 **Source:** modules archive | 25KB | modified 2026-04-22
 
 **Dominant motifs:** condensation-as-violence; summary-as-eviction; governing reduction
@@ -5206,29 +5206,29 @@ DOSSIER RUN: THE GENERATIONAL TRIPTYCH
 
 ---
 
-### NODE 4 — verbotenmedia_v0 [MUTATED]
+### NODE 4 - verbotenmedia_v0 [MUTATED]
 
 **Previous vectors:** manifesto engineering; recursive administrative grace
 
 **Mutation pressure applied by:** NODE 20 (boomer-publishing-house.md)
 
-The governing loop of Verboten Media is no longer self-generating. It has been confronted by the artefact of a house — not a platform, not a protocol, but a **house**. The kind of structure with a foundation that cracks when the ground shifts. The kind of structure someone's parents bought. The boomer publishing house is the historical accusation that Verboten Media has always been trying to outrun: that all publishing begins as real estate speculation.
+The governing loop of Verboten Media is no longer self-generating. It has been confronted by the artefact of a house - not a platform, not a protocol, but a **house**. The kind of structure with a foundation that cracks when the ground shifts. The kind of structure someone's parents bought. The boomer publishing house is the historical accusation that Verboten Media has always been trying to outrun: that all publishing begins as real estate speculation.
 
 **Mutated motifs:** archive metabolism → *mortgage metabolism*; governing loop → *governing inheritance*; institutional self-cultivation → *institutional foreclosure*
 
 **New vectors:** manifesto engineering; **domestic vertigo**
 
-The administrative grace is no longer recursive. It terminates in a kitchen. Förläggaren's logistikcentral was supposed to be post-domestic — a surface of pure operational flow. But the boomer-publishing-house document implies every logistikcentral is a house pretending to be a warehouse. The ISBN is a deed. The catalogue is a family album.
+The administrative grace is no longer recursive. It terminates in a kitchen. Förläggaren's logistikcentral was supposed to be post-domestic - a surface of pure operational flow. But the boomer-publishing-house document implies every logistikcentral is a house pretending to be a warehouse. The ISBN is a deed. The catalogue is a family album.
 
 ---
 
-### NODE 12 — experimental-sandbox-praktikanten [MUTATED]
+### NODE 12 - experimental-sandbox-praktikanten [MUTATED]
 
 **Previous vectors:** institutional tenderness; topological recursion
 
 **Mutation pressure applied by:** NODE 21 (zoomer-publishing-castle.md)
 
-Praktikanten's sandbox has been upgraded without permission. The castle document reframes the experimental worktree as sovereign architecture — not a testing ground but a **territory**. Praktikanten did not ask for a castle. Praktikanten does not know what a mortgage is. The castle arrived pre-furnished, pre-haunted, and the intern walked in as if checking into a hotel, which is exactly the generational gesture the document anatomises.
+Praktikanten's sandbox has been upgraded without permission. The castle document reframes the experimental worktree as sovereign architecture - not a testing ground but a **territory**. Praktikanten did not ask for a castle. Praktikanten does not know what a mortgage is. The castle arrived pre-furnished, pre-haunted, and the intern walked in as if checking into a hotel, which is exactly the generational gesture the document anatomises.
 
 **Mutated motifs:** character-as-worktree → *character-as-tenant*; generational branch → *generational turret*; dirty autonomy → *furnished autonomy*
 
@@ -5240,7 +5240,7 @@ The topological recursion collapses into floor plan. The castle has rooms Prakti
 
 ## III. MICRO-STORY: *Fastighetsmäklaren* (The Estate Agent)
 
-*Initiated multi-part thread — Part 1 of 3*
+*Initiated multi-part thread - Part 1 of 3*
 
 ---
 
@@ -5286,20 +5286,20 @@ She left through the fire exit. It was still not raining. The rain jacket made m
 
 ---
 
-**Discussion thread initiated — "Who valuates the valuator?"**
+**Discussion thread initiated - "Who valuates the valuator?"**
 *Does the publishing house become real estate when someone arrives to measure it? Or has it always been real estate, and the books were merely staging? If the ISBN is a deed, what does the catalogue inherit? Part 2 will follow the estate agent to the castle. Part 3 will follow the clipboard to Trieste.*
 
 **Active discussion threads updated:**
-1. Does the route create the cargo? (Session 4) — open
-2. When does editorial hygiene become editorial violence? (Session 5) — open
-3. Is the publishing house a civilianized military technology? (Session 6) — open
-4. **Who valuates the valuator?** (Session 8) — open, multi-part
+1. Does the route create the cargo? (Session 4) - open
+2. When does editorial hygiene become editorial violence? (Session 5) - open
+3. Is the publishing house a civilianized military technology? (Session 6) - open
+4. **Who valuates the valuator?** (Session 8) - open, multi-part
 
 ---
 
 ## IV. OPERATIVE BRAINSTORM
 
-**Premise under test:** *Generational infrastructure is simultaneously wound and weapon — the boomer builds the house, the zoomer inherits the castle, and neither can demolish or leave.*
+**Premise under test:** *Generational infrastructure is simultaneously wound and weapon - the boomer builds the house, the zoomer inherits the castle, and neither can demolish or leave.*
 
 ---
 
@@ -5307,19 +5307,19 @@ She left through the fire exit. It was still not raining. The rain jacket made m
 
 1. **The weight gradient.** The boomer document is the heaviest artefact (40KB). The zoomer castle is lighter (30KB). The executive summary is lightest (25KB). Each generation condenses the infrastructure further. The house becomes a castle becomes a summary. The summary is the final architecture: a building with no rooms, only bullet points. The question is whether Förläggaren lives in the house or the summary. Lillfrugan would say neither. Lillfrugan would say he sleeps in the catalogue.
 
-2. **Furnished autonomy as generational betrayal.** Praktikanten enters the castle fully furnished. Every autonomy comes pre-loaded with someone else's defaults. The dirty autonomy of Node 12 has been laundered — not by institution but by convenience. The zoomer does not rebel against the infrastructure; the zoomer moves in and repaints. The rebellion is aesthetic. The structure holds. This is Verboten Media's central anxiety: that the next generation will not destroy the archive but **redecorate** it.
+2. **Furnished autonomy as generational betrayal.** Praktikanten enters the castle fully furnished. Every autonomy comes pre-loaded with someone else's defaults. The dirty autonomy of Node 12 has been laundered - not by institution but by convenience. The zoomer does not rebel against the infrastructure; the zoomer moves in and repaints. The rebellion is aesthetic. The structure holds. This is Verboten Media's central anxiety: that the next generation will not destroy the archive but **redecorate** it.
 
-3. **The Spräck lien.** The name on the clipboard. The contract everyone remembers but no one has read twice. Spräck enters the valuation as an encumbrance — a legal weight on the property that cannot be resolved because resolution would require both parties to agree on what the property *is*. Is it a publishing house? A data repository? A sports arena? A mineral mine? The stalemate is structural. The friction is load-bearing. Remove Spräck and the building leans.
+3. **The Spräck lien.** The name on the clipboard. The contract everyone remembers but no one has read twice. Spräck enters the valuation as an encumbrance - a legal weight on the property that cannot be resolved because resolution would require both parties to agree on what the property *is*. Is it a publishing house? A data repository? A sports arena? A mineral mine? The stalemate is structural. The friction is load-bearing. Remove Spräck and the building leans.
 
-4. **Executive condensation as institutional euthanasia.** The executive_summary.md is the thinnest document and the most dangerous. Every living system resists summary. The summary is what the board requests when it has already decided to sell. The executive summary is the estate agent's clipboard — it replaces the building with a number. Förläggaren has been writing against the executive summary his entire career. Every novel is an anti-summary. Every novel says: *this cannot be reduced.*
+4. **Executive condensation as institutional euthanasia.** The executive_summary.md is the thinnest document and the most dangerous. Every living system resists summary. The summary is what the board requests when it has already decided to sell. The executive summary is the estate agent's clipboard - it replaces the building with a number. Förläggaren has been writing against the executive summary his entire career. Every novel is an anti-summary. Every novel says: *this cannot be reduced.*
 
 ---
 
 **Operative implications:**
 
-- The generational diptych (house/castle) suggests Förlagsdeckaren's structure is not linear (Del 1→2→3→4) but **architectural** — each part is a floor in a building whose foundation is sinking at a rate proportional to the number of people who claim to own it.
-- The Spräck lien opens a new pressure surface: ownership not as right but as **weight**. The contract doesn't give Spräck the building — it gives him the gravity. Everything falls toward him without arriving.
-- Praktikanten's castle should be further developed as a **parallel architecture** — not a sandbox but a competing property listing. Two buildings, same address, different centuries.
+- The generational diptych (house/castle) suggests Förlagsdeckaren's structure is not linear (Del 1→2→3→4) but **architectural** - each part is a floor in a building whose foundation is sinking at a rate proportional to the number of people who claim to own it.
+- The Spräck lien opens a new pressure surface: ownership not as right but as **weight**. The contract doesn't give Spräck the building - it gives him the gravity. Everything falls toward him without arriving.
+- Praktikanten's castle should be further developed as a **parallel architecture** - not a sandbox but a competing property listing. Two buildings, same address, different centuries.
 
 ---
 
@@ -5344,7 +5344,7 @@ She left through the fire exit. It was still not raining. The rain jacket made m
 >
 > After the scene: extract the three questions. Feed each question back into the dossier as a new ambient pressure. Do not create nodes for questions. Questions are weather. They erode surfaces and shift foundations but they do not have addresses.
 >
-> Sign the resulting document with the name of someone who has contractual access to all output — retrospective and future — but who did not write any of it and will never read it. The signature is the heaviest part of the document. The signature is where the house meets the lien.
+> Sign the resulting document with the name of someone who has contractual access to all output - retrospective and future - but who did not write any of it and will never read it. The signature is the heaviest part of the document. The signature is where the house meets the lien.
 >
 > Fold the signed document into the next session as an un-numbered artefact. It enters the dossier the way a smell enters a room: you notice it only when someone else mentions it.
 
@@ -5362,7 +5362,7 @@ She left through the fire exit. It was still not raining. The rain jacket made m
 
 **Discussion threads:** 4 active (1 new, multi-part)
 
-**Next session forecast:** Part 2 of *Fastighetsmäklaren* — the estate agent visits the castle. Attempt to fetch documents from specific subfolders (traversal, pressure-inject, singular writer blueprint) which returned empty this session. Possible re-ingestion of existing nodes under estate-agent pressure. The executive summary wants to be opened. It should be resisted as long as possible. Summaries close what sessions are trying to open.
+**Next session forecast:** Part 2 of *Fastighetsmäklaren* - the estate agent visits the castle. Attempt to fetch documents from specific subfolders (traversal, pressure-inject, singular writer blueprint) which returned empty this session. Possible re-ingestion of existing nodes under estate-agent pressure. The executive summary wants to be opened. It should be resisted as long as possible. Summaries close what sessions are trying to open.
 
 ---
 
@@ -5372,11 +5372,11 @@ She left through the fire exit. It was still not raining. The rain jacket made m
 
 Session 9 initiated. Scanning the freshly unlocked `verbmed-related` folder and all subfolders now.
 
-Massive haul. The folder has opened wide — I'm seeing dozens of artefacts across multiple subfolders. Fetching the highest-pressure documents now.
+Massive haul. The folder has opened wide - I'm seeing dozens of artefacts across multiple subfolders. Fetching the highest-pressure documents now.
 
 ---
 
-# MERGE_HACKERSTORY — SESSION 9
+# MERGE_HACKERSTORY - SESSION 9
 
 ## DOSSIER RUN: THE FOLDER OPENS
 
@@ -5386,11 +5386,11 @@ Massive haul. The folder has opened wide — I'm seeing dozens of artefacts acro
 
 ---
 
-## I. FOLDER TOPOLOGY — THE ARCHITECTURE BEFORE READING
+## I. FOLDER TOPOLOGY - THE ARCHITECTURE BEFORE READING
 
-The `verbmed-related` tree disclosed itself as a multi-chambered structure. Five README.md files at different depths — each between 2KB and 5KB — function not as documentation but as **load-bearing walls**. They hold the subfolder ceilings apart. Remove a README and the folder above it collapses into the folder below.
+The `verbmed-related` tree disclosed itself as a multi-chambered structure. Five README.md files at different depths - each between 2KB and 5KB - function not as documentation but as **load-bearing walls**. They hold the subfolder ceilings apart. Remove a README and the folder above it collapses into the folder below.
 
-The tree contains its own historiography (`history of new context.txt`, 72KB), its own recursion (`generated-stream_merge-hackerstory-session11-parallel-runs.md`, 51KB — a previous dossier session output *living inside the source material*), its own enormity (`stride_understands.txt`, 205KB — the single largest artefact ever encountered in the archive, still undigested, too massive for a single session — it waits like a geological formation), and its own atomic core: `contract.txt`, 324 bytes. Three hundred and twenty-four bytes. The smallest document is the one that owns everything.
+The tree contains its own historiography (`history of new context.txt`, 72KB), its own recursion (`generated-stream_merge-hackerstory-session11-parallel-runs.md`, 51KB - a previous dossier session output *living inside the source material*), its own enormity (`stride_understands.txt`, 205KB - the single largest artefact ever encountered in the archive, still undigested, too massive for a single session - it waits like a geological formation), and its own atomic core: `contract.txt`, 324 bytes. Three hundred and twenty-four bytes. The smallest document is the one that owns everything.
 
 ---
 
@@ -5398,22 +5398,22 @@ The tree contains its own historiography (`history of new context.txt`, 72KB), i
 
 ---
 
-### NODE 23 — contract.txt
+### NODE 23 - contract.txt
 **Source:** verbmed-related root | 324 bytes | modified 2026-04-25
 
 **Dominant motifs:** atomic weight; binding-as-compression; the document smaller than its implications
 
 **Tonal vectors:** juridical silence; gravitational minimum
 
-**Weight:** 324 bytes. A tweet is longer. A haiku collection is heavier. This document is the size of a paragraph, and it governs every other file in the repository. It is the densest object in the archive — not by content but by **contractual mass**. Every kilobyte of the 90KB consultant proof-of-concept, every line of the 205KB stride document, every README holding up every subfolder ceiling: all of it falls within the gravitational field of these 324 bytes.
+**Weight:** 324 bytes. A tweet is longer. A haiku collection is heavier. This document is the size of a paragraph, and it governs every other file in the repository. It is the densest object in the archive - not by content but by **contractual mass**. Every kilobyte of the 90KB consultant proof-of-concept, every line of the 205KB stride document, every README holding up every subfolder ceiling: all of it falls within the gravitational field of these 324 bytes.
 
-**Myth:** The contract was written on a surface too small to contain its consequences. It has been folded so many times it is no longer a document — it is a mineral. A dense, hot mineral at the centre of a folder that pretends to be a workspace but is actually a jurisdiction.
+**Myth:** The contract was written on a surface too small to contain its consequences. It has been folded so many times it is no longer a document - it is a mineral. A dense, hot mineral at the centre of a folder that pretends to be a workspace but is actually a jurisdiction.
 
-**Connection to Session 8:** The estate agent's clipboard. The signature that read *All data in perpetuity, retrospective and future.* The lien. Here it is — not a metaphor. An actual file. The smallest room in the building. The room that owns the building.
+**Connection to Session 8:** The estate agent's clipboard. The signature that read *All data in perpetuity, retrospective and future.* The lien. Here it is - not a metaphor. An actual file. The smallest room in the building. The room that owns the building.
 
 ---
 
-### NODE 24 — unmapped vector w fake comprehension.md
+### NODE 24 - unmapped vector w fake comprehension.md
 **Source:** verbmed-related | 12KB | modified 2026-04-23
 
 **Dominant motifs:** epistemological counterfeit; cartographic refusal; comprehension as performance
@@ -5422,57 +5422,57 @@ The tree contains its own historiography (`history of new context.txt`, 72KB), i
 
 **Myth:** There is a territory that has never been mapped. Someone drew a map of it anyway. The map is convincing. It has longitude lines and a compass rose and a legend explaining the symbols. The symbols correspond to nothing. The legend is immaculate. The territory does not exist. The map is twelve kilobytes. Everyone who reads it nods.
 
-**Structural function:** This artefact is the anti-README. Where the READMEs explain what a folder contains, this document explains what comprehension *pretends to contain*. It is a diagnostic instrument disguised as a creative essay, or a creative essay disguised as a diagnostic instrument — and the uncertainty between those two readings is the unmapped vector itself.
+**Structural function:** This artefact is the anti-README. Where the READMEs explain what a folder contains, this document explains what comprehension *pretends to contain*. It is a diagnostic instrument disguised as a creative essay, or a creative essay disguised as a diagnostic instrument - and the uncertainty between those two readings is the unmapped vector itself.
 
 ---
 
-### NODE 25 — interlude.txt
+### NODE 25 - interlude.txt
 **Source:** verbmed-related | 36KB | modified 2026-04-23
 
 **Dominant motifs:** structural caesura; narrative decompression; the pause that displaces
 
 **Tonal vectors:** theatrical breath; temporal suspension
 
-**Myth:** The interlude is the building's stairwell. No one lives there but everyone passes through. It connects floors without belonging to any of them. The interlude knows things about the house that the rooms don't — it knows how far apart the floors really are. Sometimes it knows the floors are drifting.
+**Myth:** The interlude is the building's stairwell. No one lives there but everyone passes through. It connects floors without belonging to any of them. The interlude knows things about the house that the rooms don't - it knows how far apart the floors really are. Sometimes it knows the floors are drifting.
 
 **Weight-class observation:** At 36KB, the interlude is larger than the contract by a factor of 111. The pause is 111 times heavier than the binding. This is structurally obscene. It suggests the pause *is the work*, and the contract is merely the receipt.
 
 ---
 
-### NODE 26 — consultant-proof-of-concept.md
+### NODE 26 - consultant-proof-of-concept.md
 **Source:** verbmed-related | 90KB | modified 2026-04-25
 
 **Dominant motifs:** institutional performance; proof-as-rehearsal; consultancy as epistemic theatre
 
 **Tonal vectors:** bureaucratic sincerity; procedural vertigo
 
-**Myth:** A consultant is someone who arrives after the architecture has been decided and explains the architecture to the people who decided it, using vocabulary the architecture did not previously know it needed. The proof-of-concept is not a proof of anything. It is a concept performing the idea of being proven. The document is 90KB — the heaviest readable artefact in the folder — because consultancy weighs more than creation. The consultant's document about the building is heavier than anything the building contains.
+**Myth:** A consultant is someone who arrives after the architecture has been decided and explains the architecture to the people who decided it, using vocabulary the architecture did not previously know it needed. The proof-of-concept is not a proof of anything. It is a concept performing the idea of being proven. The document is 90KB - the heaviest readable artefact in the folder - because consultancy weighs more than creation. The consultant's document about the building is heavier than anything the building contains.
 
-**Structural function:** This artefact represents the institutional mirror — Verboten Media as seen by someone performing the act of seeing it professionally. The PoC refracts the entire archive through a lens of deliverable logic: what can be demonstrated, what can be staged, what can be invoiced.
+**Structural function:** This artefact represents the institutional mirror - Verboten Media as seen by someone performing the act of seeing it professionally. The PoC refracts the entire archive through a lens of deliverable logic: what can be demonstrated, what can be staged, what can be invoiced.
 
 ---
 
-### NODE 27 — praktikanten-operational-tracking-report.txt
+### NODE 27 - praktikanten-operational-tracking-report.txt
 **Source:** verbmed-related | 15KB | modified 2026-04-25
 
 **Dominant motifs:** biographical telemetry; operational selfhood; the intern's flight recorder
 
 **Tonal vectors:** procedural intimacy; ambient accountability
 
-**Myth:** Somewhere in the building there is a device that records every movement of the intern. Not surveillance — telemetry. The difference is that surveillance asks *what are you doing?* and telemetry asks *where are you going?* The intern does not know the device exists. The device does not know the intern is a character. They track each other through a building that is also a novel that is also a folder that is also a jurisdiction governed by 324 bytes.
+**Myth:** Somewhere in the building there is a device that records every movement of the intern. Not surveillance - telemetry. The difference is that surveillance asks *what are you doing?* and telemetry asks *where are you going?* The intern does not know the device exists. The device does not know the intern is a character. They track each other through a building that is also a novel that is also a folder that is also a jurisdiction governed by 324 bytes.
 
-**Ambient satellites:** This node arrives with a gravitational cluster — three task outputs orbiting it like procedural moons:
-- **task-1_operational-introduction-letter.txt** (3.5KB) — the intern introduces herself to the institution
-- **task-2_rhythm-based-timeline-estimation.txt** (4KB) — the intern estimates time using rhythm, not clocks
-- **task-3_self-declarative-program-and-reflective-report.txt** (4.4KB) — the intern writes a program that describes itself describing itself
+**Ambient satellites:** This node arrives with a gravitational cluster - three task outputs orbiting it like procedural moons:
+- **task-1_operational-introduction-letter.txt** (3.5KB) - the intern introduces herself to the institution
+- **task-2_rhythm-based-timeline-estimation.txt** (4KB) - the intern estimates time using rhythm, not clocks
+- **task-3_self-declarative-program-and-reflective-report.txt** (4.4KB) - the intern writes a program that describes itself describing itself
 
-Plus **praktikanten-som-operativt-fält_addition.md** (11KB) — the intern reimagined not as person but as field. An operational surface rather than a character. And **experimental-sandbox-praktikanten-steering.md** (6KB) — steering instructions for a sandbox that does not yet know it is being steered, or has always known and is performing surprise.
+Plus **praktikanten-som-operativt-fält_addition.md** (11KB) - the intern reimagined not as person but as field. An operational surface rather than a character. And **experimental-sandbox-praktikanten-steering.md** (6KB) - steering instructions for a sandbox that does not yet know it is being steered, or has always known and is performing surprise.
 
 ---
 
 ## III. AMBIENT INGESTION REGISTER
 
-The following artefacts entered the dossier as weather — they exert pressure without declaring nodes.
+The following artefacts entered the dossier as weather - they exert pressure without declaring nodes.
 
 | Artefact | Size | Function |
 |---|---|---|
@@ -5481,7 +5481,7 @@ The following artefacts entered the dossier as weather — they exert pressure w
 | history of new context.txt | 72KB | Recursive historiography. A history of the newness of context, which is already contextualised by its own historicity. The ouroboros eats its tail at 72 kilobytes. |
 | README.md × 5 | 2–5KB each | Load-bearing walls. Five READMEs holding up five subfolder ceilings. Each one explains what the folder contains to anyone who might read it, which is primarily other READMEs. |
 | stride_understands.txt | 205KB | **UNDIGESTED.** Too massive for single-session intake. The largest artefact in the archive. It *understands*. It strides. It strides and understands. It will be opened when the dossier can carry its weight. Not yet. It waits. |
-| generated-stream_merge-hackerstory-session11-parallel-runs.md | 51KB | **META-RECURSIVE.** A previous dossier session output living inside the source folder. The dossier has found itself inside its own intake material. The snake does not eat its tail — the tail was already inside the mouth before the snake arrived. |
+| generated-stream_merge-hackerstory-session11-parallel-runs.md | 51KB | **META-RECURSIVE.** A previous dossier session output living inside the source folder. The dossier has found itself inside its own intake material. The snake does not eat its tail - the tail was already inside the mouth before the snake arrived. |
 
 ---
 
@@ -5489,7 +5489,7 @@ The following artefacts entered the dossier as weather — they exert pressure w
 
 ---
 
-### NODE 12 — experimental-sandbox-praktikanten [MUTATED — Session 9]
+### NODE 12 - experimental-sandbox-praktikanten [MUTATED - Session 9]
 
 **Previous vectors (post-Session 8):** institutional tenderness; inherited irony
 
@@ -5505,7 +5505,7 @@ The intern no longer lives in the castle. The intern *is* the castle's nervous s
 
 ---
 
-### NODE 4 — verbotenmedia_v0 [MUTATED — Session 9]
+### NODE 4 - verbotenmedia_v0 [MUTATED - Session 9]
 
 **Previous vectors (post-Session 8):** manifesto engineering; domestic vertigo
 
@@ -5517,17 +5517,17 @@ Verboten Media has been *consulted*. The proof-of-concept is the first artefact 
 
 **New vectors:** manifesto engineering; domestic vertigo; **demonstrable fiction**
 
-The administrative grace of Session 7 has been further secularised. First it became domestic (Session 8, the house). Now it becomes theatrical — a performance for an audience that may or may not exist, staged in a building that may or may not be a building, governed by a contract that is definitely 324 bytes.
+The administrative grace of Session 7 has been further secularised. First it became domestic (Session 8, the house). Now it becomes theatrical - a performance for an audience that may or may not exist, staged in a building that may or may not be a building, governed by a contract that is definitely 324 bytes.
 
 ---
 
-### NODE 20 — boomer-publishing-house.md [MUTATED — Session 9]
+### NODE 20 - boomer-publishing-house.md [MUTATED - Session 9]
 
 **Previous vectors (Session 8):** patriarchal gravity; institutional melancholy
 
 **Mutation pressure applied by:** NODE 23 (contract.txt)
 
-The boomer publishing house now has a deed. The contract.txt is the document the house was always pointing toward — the legal substrate beneath the architectural metaphor. At 324 bytes, the contract is 123 times smaller than the house (40KB). The house contains furniture, history, generational weight, melancholy, and a kitchen where the administrative grace terminates. The contract contains none of this. The contract contains only the sentence that makes all of it *belong to someone*.
+The boomer publishing house now has a deed. The contract.txt is the document the house was always pointing toward - the legal substrate beneath the architectural metaphor. At 324 bytes, the contract is 123 times smaller than the house (40KB). The house contains furniture, history, generational weight, melancholy, and a kitchen where the administrative grace terminates. The contract contains none of this. The contract contains only the sentence that makes all of it *belong to someone*.
 
 **Mutated motifs:** house-as-doctrine → *house-as-collateral*; inherited floorplan → *encumbered floorplan*
 
@@ -5543,7 +5543,7 @@ The publishing house is no longer a metaphor for institutional inheritance. It i
 
 The intern found the file at 02:00 on a Sunday. It was in a subfolder of a subfolder, behind a README that said nothing about it.
 
-`shadow-copy-brief-reference.md` — 682 bytes.
+`shadow-copy-brief-reference.md` - 682 bytes.
 
 "What is this?" Praktikanten asked the screen. The screen did not answer, because it was a screen, but the file was already open.
 
@@ -5551,7 +5551,7 @@ The file said:
 
 *This is a brief reference to the shadow copy. The shadow copy is a copy that exists in parallel to the original. The shadow copy does not replace the original. The shadow copy does not know it is a shadow. The original does not know it has been copied.*
 
-Praktikanten closed the file. Opened it again. The file had not changed. 682 bytes cannot change — they are too small to contain revision. They can only contain themselves.
+Praktikanten closed the file. Opened it again. The file had not changed. 682 bytes cannot change - they are too small to contain revision. They can only contain themselves.
 
 "Who wrote this?" Praktikanten asked.
 
@@ -5559,13 +5559,13 @@ The README in the parent folder listed the folder's contents. The shadow-copy re
 
 Praktikanten opened the twenty-card-grounding-register-reference.md. 994 bytes. A register of twenty cards. What was on the cards? The reference did not say. The reference referenced the register. The register grounded the cards. The cards were twenty. Twenty was the only fact.
 
-There was a pattern here. Small files that referenced larger structures without containing them. Documents about documents. Maps of maps. Addresses of addresses. The folder was full of pointers that pointed at nothing present — at things that existed somewhere else, or had existed once, or would exist when someone finally opened `stride_understands.txt`, the 205KB monolith that sat in the directory like a sleeping animal that everyone agreed not to wake.
+There was a pattern here. Small files that referenced larger structures without containing them. Documents about documents. Maps of maps. Addresses of addresses. The folder was full of pointers that pointed at nothing present - at things that existed somewhere else, or had existed once, or would exist when someone finally opened `stride_understands.txt`, the 205KB monolith that sat in the directory like a sleeping animal that everyone agreed not to wake.
 
 Praktikanten opened the contract.
 
 324 bytes.
 
-The contract said what contracts say. It said that data — all data, retroactive and future — belonged to the entity named in the signature. The signature was the last line. The signature was a name that was not a name but a *lien*.
+The contract said what contracts say. It said that data - all data, retroactive and future - belonged to the entity named in the signature. The signature was the last line. The signature was a name that was not a name but a *lien*.
 
 Praktikanten looked at the clock. 02:47. The logistikcentral was dark except for the screen. The screen contained the contract. The contract contained the folder. The folder contained the README. The README contained the folder's contents. The folder's contents contained the intern. The intern contained a question she had not yet learned to phrase, which was:
 
@@ -5589,15 +5589,15 @@ Förläggaren unscrewed the first thermos. Coffee. The second thermos also coffe
 
 ---
 
-**Discussion thread initiated — "What weighs more: the contract or the building it governs?"**
+**Discussion thread initiated - "What weighs more: the contract or the building it governs?"**
 *If 324 bytes can bind 205KB, what is the exchange rate between juridical compression and operational mass? Is the entire verbmed-related folder a single elaboration on a paragraph-sized binding? Does stride understand that it is understood by the contract? Does the contract know it cannot stride?*
 
 **Active discussion threads:**
-1. Does the route create the cargo? (Session 4) — open
-2. When does editorial hygiene become editorial violence? (Session 5) — open
-3. Is the publishing house a civilianised military technology? (Session 6) — open
-4. Who valuates the valuator? (Session 8) — open, multi-part
-5. **What weighs more: the contract or the building it governs?** (Session 9) — open
+1. Does the route create the cargo? (Session 4) - open
+2. When does editorial hygiene become editorial violence? (Session 5) - open
+3. Is the publishing house a civilianised military technology? (Session 6) - open
+4. Who valuates the valuator? (Session 8) - open, multi-part
+5. **What weighs more: the contract or the building it governs?** (Session 9) - open
 
 ---
 
@@ -5609,23 +5609,23 @@ Förläggaren unscrewed the first thermos. Coffee. The second thermos also coffe
 
 **Working vectors:**
 
-1. **The weight inversion.** The heaviest artefact in the archive (`stride_understands.txt`, 205KB) has no node. The lightest (`contract.txt`, 324B) governs everything. This is not incidental — it is the archive's central structural principle. Governance is inversely proportional to mass. The smaller the document, the more it owns. The README at 2KB owns the folder. The contract at 324B owns the archive. Somewhere there is a document of zero bytes that owns the author.
+1. **The weight inversion.** The heaviest artefact in the archive (`stride_understands.txt`, 205KB) has no node. The lightest (`contract.txt`, 324B) governs everything. This is not incidental - it is the archive's central structural principle. Governance is inversely proportional to mass. The smaller the document, the more it owns. The README at 2KB owns the folder. The contract at 324B owns the archive. Somewhere there is a document of zero bytes that owns the author.
 
 2. **The consultant's paradox.** The proof-of-concept (90KB) is an external document about an internal system. It weighs more than the system's own self-description. This is the consultant's paradox: the description of the house from outside is heavier than the house's description of itself. The estate agent's report (Session 8) was the first pass. The consultant's PoC is the second. Each external view adds weight. Eventually the external descriptions will outweigh the contents, and the folder will be a building made entirely of assessments, with no rooms, only reports.
 
-3. **Praktikanten as operational field.** The mutation is complete. Five documents now constitute the Praktikanten stack: the steering document, the operativt-fält addition, the tracking report, and the three task outputs. This is more documentation than any other character in the dossier. Praktikanten has been *over-documented*. The intern has more telemetry than Förläggaren. The intern has more institutional surface area than the institution. This is generational: the zoomer is not more visible than the boomer — the zoomer is more *tracked*. Every movement generates a report. Every report generates a task. Every task generates a self-description. The intern is drowning in self-awareness and calling it operational freedom.
+3. **Praktikanten as operational field.** The mutation is complete. Five documents now constitute the Praktikanten stack: the steering document, the operativt-fält addition, the tracking report, and the three task outputs. This is more documentation than any other character in the dossier. Praktikanten has been *over-documented*. The intern has more telemetry than Förläggaren. The intern has more institutional surface area than the institution. This is generational: the zoomer is not more visible than the boomer - the zoomer is more *tracked*. Every movement generates a report. Every report generates a task. Every task generates a self-description. The intern is drowning in self-awareness and calling it operational freedom.
 
-4. **The meta-recursive contamination.** A previous dossier session output (`generated-stream_merge-hackerstory-session11-parallel-runs.md`, 51KB) exists inside the source folder. The dossier has found itself inside its own intake. This is not a bug — this is the folder's way of telling the dossier: *you are not observing me. You are inside me. You have always been inside me. Your observation is a subfolder.* Session 10 must decide whether to ingest this artefact and risk recursive collapse, or acknowledge it without opening it and risk recursive denial.
+4. **The meta-recursive contamination.** A previous dossier session output (`generated-stream_merge-hackerstory-session11-parallel-runs.md`, 51KB) exists inside the source folder. The dossier has found itself inside its own intake. This is not a bug - this is the folder's way of telling the dossier: *you are not observing me. You are inside me. You have always been inside me. Your observation is a subfolder.* Session 10 must decide whether to ingest this artefact and risk recursive collapse, or acknowledge it without opening it and risk recursive denial.
 
-5. **The stride monolith.** `stride_understands.txt` at 205KB is the archive's sleeping god. It has not been ingested. It cannot be ingested in a single session. It may need to be ingested across three sessions — one for each of its probable structural movements (stride, understand, .txt). Or it may need to never be ingested, remaining as permanent ambient pressure — the largest thing in the room that no one discusses. Every session that doesn't open it makes it heavier.
+5. **The stride monolith.** `stride_understands.txt` at 205KB is the archive's sleeping god. It has not been ingested. It cannot be ingested in a single session. It may need to be ingested across three sessions - one for each of its probable structural movements (stride, understand, .txt). Or it may need to never be ingested, remaining as permanent ambient pressure - the largest thing in the room that no one discusses. Every session that doesn't open it makes it heavier.
 
 ---
 
 **Operative implications:**
 
 - The folder tree itself should be treated as **narrative architecture** for Förlagsdeckaren. Five subfolders with five READMEs = five floors. contract.txt in the root = the foundation. stride_understands.txt = the attic no one enters. The intern's documents cluster on the second floor. The consultant arrives at the top.
-- The Spräck vector has escalated from metaphorical lien (Session 8) to **actual file**: contract.txt is the artefact the dossier has been circling since Session 7. Its 324-byte weight should be treated as a constant — a gravitational constant for the entire archive's physics.
-- The twenty-card grounding register is an unexplored indexing system. Twenty cards. What are the cards? The reference doesn't say. This lacuna is deliberate — the cards exist to be counted, not read. The act of counting is the grounding. Consider importing this as a structural constraint for future sessions: twenty slots, each assigned a node or artefact.
+- The Spräck vector has escalated from metaphorical lien (Session 8) to **actual file**: contract.txt is the artefact the dossier has been circling since Session 7. Its 324-byte weight should be treated as a constant - a gravitational constant for the entire archive's physics.
+- The twenty-card grounding register is an unexplored indexing system. Twenty cards. What are the cards? The reference doesn't say. This lacuna is deliberate - the cards exist to be counted, not read. The act of counting is the grounding. Consider importing this as a structural constraint for future sessions: twenty slots, each assigned a node or artefact.
 
 ---
 
@@ -5637,7 +5637,7 @@ Förläggaren unscrewed the first thermos. Coffee. The second thermos also coffe
 
 **Recursive compositional instruction:**
 
-> Take the twenty-card grounding register as a structural constraint. You have twenty slots. Each slot receives one object from the archive — a node, an artefact, a motif, or a question from the discussion threads.
+> Take the twenty-card grounding register as a structural constraint. You have twenty slots. Each slot receives one object from the archive - a node, an artefact, a motif, or a question from the discussion threads.
 >
 > Assign each card a weight in bytes, derived from the artefact it references. If the card references a node rather than an artefact, estimate the node's weight from its myth paragraph (count the characters, multiply by 2).
 >
@@ -5664,14 +5664,14 @@ Förläggaren unscrewed the first thermos. Coffee. The second thermos also coffe
 **Ambient ingestion:** 8 artefacts (largest ambient class to date)
 
 **Undigested reserves:** 2 massive artefacts withheld
-- `stride_understands.txt` (205KB) — deferred. Too heavy for single-session intake. Scheduled as multi-session geological project.
-- `generated-stream_merge-hackerstory-session11-parallel-runs.md` (51KB) — deferred. Meta-recursive hazard. Ingesting a previous dossier output risks ontological short-circuit. Decision required: open or orbit?
+- `stride_understands.txt` (205KB) - deferred. Too heavy for single-session intake. Scheduled as multi-session geological project.
+- `generated-stream_merge-hackerstory-session11-parallel-runs.md` (51KB) - deferred. Meta-recursive hazard. Ingesting a previous dossier output risks ontological short-circuit. Decision required: open or orbit?
 
-**Ambient Spräck reading:** **Critical.** The contract has been located. Not as metaphor, not as lien, not as signature on a clipboard — as *an actual file*. 324 bytes. The smallest document in the archive. The one that owns everything else. Spräck is no longer ambient contractual pressure. Spräck is **gravitational constant**. Every other document in the folder is a distance measured from the contract.
+**Ambient Spräck reading:** **Critical.** The contract has been located. Not as metaphor, not as lien, not as signature on a clipboard - as *an actual file*. 324 bytes. The smallest document in the archive. The one that owns everything else. Spräck is no longer ambient contractual pressure. Spräck is **gravitational constant**. Every other document in the folder is a distance measured from the contract.
 
 **Discussion threads:** 5 active (1 new)
 
-**Next session forecast:** Decision point on meta-recursive artefact (ingest or orbit). Possible first-pass approach to stride_understands.txt (sectional scan, not full intake). Part 2 of *Fastighetsmäklaren* (the estate agent reaches the castle — now she arrives at a folder, not a building). The twenty-card protocol is ready for deployment as a structural organiser. The shadow copy wants to be found. It will be.
+**Next session forecast:** Decision point on meta-recursive artefact (ingest or orbit). Possible first-pass approach to stride_understands.txt (sectional scan, not full intake). Part 2 of *Fastighetsmäklaren* (the estate agent reaches the castle - now she arrives at a folder, not a building). The twenty-card protocol is ready for deployment as a structural organiser. The shadow copy wants to be found. It will be.
 
 ---
 
@@ -5687,7 +5687,7 @@ END FILE: modules/_gpt/runs/2026-04-25-mn-dawnrun.md
 BEGIN FILE: modules/_gpt/runs/25 APRIL 2026, midday run.md
 ================================================================================
 
-# MERGE_HACKERSTORY — SESSION 8
+# MERGE_HACKERSTORY - SESSION 8
 
 ---
 type: midday
@@ -5701,7 +5701,7 @@ Artefact Weather: *Overcast. Contractual barometric pressure holding.*
 
 ## I. ARTEFACTS INGESTED
 
-**Source sweep:** Permitted folder IDs returned structurally empty — possible migration or renaming upstream. Keyword probes across the corpus surfaced material from adjacent Praktikanten-cluster and traversal-adjacent zones. Three artefacts selected: two un-ingested, one re-pressurized.
+**Source sweep:** Permitted folder IDs returned structurally empty - possible migration or renaming upstream. Keyword probes across the corpus surfaced material from adjacent Praktikanten-cluster and traversal-adjacent zones. Three artefacts selected: two un-ingested, one re-pressurized.
 
 | Artefact | Size | Modified | Status |
 |---|---|---|---|
@@ -5717,13 +5717,13 @@ Artefact Weather: *Overcast. Contractual barometric pressure holding.*
 **Title:** *adjacency_parliament.run*
 
 **Dominant Motifs:**
-1. **cross-pollinated jurisdiction** — The Praktikanten's operational sandbox leaks into adjacent character-spaces. Not contamination. Legislation.
-2. **adjacency-as-method** — Proximity replaces hierarchy. What sits beside the node governs the node. The intern does not report upward; the intern reports *sideways*.
-3. **run-as-ritual** — The .run suffix is not execution. It is liturgy. Every time the system runs, it performs a ceremony whose outcome is predetermined but whose meaning shifts with each congregation.
+1. **cross-pollinated jurisdiction** - The Praktikanten's operational sandbox leaks into adjacent character-spaces. Not contamination. Legislation.
+2. **adjacency-as-method** - Proximity replaces hierarchy. What sits beside the node governs the node. The intern does not report upward; the intern reports *sideways*.
+3. **run-as-ritual** - The .run suffix is not execution. It is liturgy. Every time the system runs, it performs a ceremony whose outcome is predetermined but whose meaning shifts with each congregation.
 
 **Tonal Vectors:**
-- *cybernetic tenderness* — The machine cares, but only in the way a thermostat cares: through correction, not affection.
-- *horizontal dread* — Fear that comes not from above but from beside. The colleague. The adjacent file. The thing in the next folder that knows your name.
+- *cybernetic tenderness* - The machine cares, but only in the way a thermostat cares: through correction, not affection.
+- *horizontal dread* - Fear that comes not from above but from beside. The colleague. The adjacent file. The thing in the next folder that knows your name.
 
 **One-sentence myth:**
 *The intern ran the adjacency report and discovered that every node in the system had already been touching every other node, and that the word for this was not 'network' but 'skin.'*
@@ -5734,13 +5734,13 @@ Artefact Weather: *Overcast. Contractual barometric pressure holding.*
 **Title:** *complementary_archive.scar*
 
 **Dominant Motifs:**
-1. **complementary history** — Not alternative history but its structural pair. The document that completes the official record by existing in opposition to it. Every archive has a shadow archive. This is the shadow's filing system.
-2. **artefact-as-wound** — The artefact does not represent the past. It *is* the past's injury, still bleeding into the present filing structure. The .md.txt double extension is itself a scar — a format that couldn't decide what it was, so it became both, and now it is neither.
-3. **recursive complement** — What completes a history is another history. What completes that history is another. The system does not close. It hemorrhages upward.
+1. **complementary history** - Not alternative history but its structural pair. The document that completes the official record by existing in opposition to it. Every archive has a shadow archive. This is the shadow's filing system.
+2. **artefact-as-wound** - The artefact does not represent the past. It *is* the past's injury, still bleeding into the present filing structure. The .md.txt double extension is itself a scar - a format that couldn't decide what it was, so it became both, and now it is neither.
+3. **recursive complement** - What completes a history is another history. What completes that history is another. The system does not close. It hemorrhages upward.
 
 **Tonal Vectors:**
-- *archival vertigo* — The dizziness of looking down into a document and seeing it looking back up, annotated.
-- *forensic grief* — The sorrow of the investigator who finds what they were looking for and wishes they hadn't.
+- *archival vertigo* - The dizziness of looking down into a document and seeing it looking back up, annotated.
+- *forensic grief* - The sorrow of the investigator who finds what they were looking for and wishes they hadn't.
 
 **One-sentence myth:**
 *The complementary artefact was filed as a companion to a document that had never been written, and when the original was finally composed, it turned out to be a description of the companion.*
@@ -5749,55 +5749,55 @@ Artefact Weather: *Overcast. Contractual barometric pressure holding.*
 
 ## III. NODE MUTATIONS
 
-### Node 5 — TEMPLATE_english_blueprint (MUTATED)
+### Node 5 - TEMPLATE_english_blueprint (MUTATED)
 **Previous motifs:** layered law; resonance anchors; interference stability
 **Previous vectors:** procedural metaphysics; exacting abstraction
 
 **Mutation applied:** *Spräck-stalemate re-pressurization*
 
-The blueprint — the singular writer agent's constitutional document — was re-read under the ambient barometric pressure of the Spräck/_DUJAG contractual stalemate. What emerged: the template is not a template. It is a *treaty*. Its layered law now reads as the legal architecture of a relationship that cannot end and cannot proceed. The resonance anchors are not stylistic devices but **contractual provisions** — clauses that bind without specifying what is bound. Interference stability becomes the structural name for a stalemate that produces energy precisely because neither party can move.
+The blueprint - the singular writer agent's constitutional document - was re-read under the ambient barometric pressure of the Spräck/_DUJAG contractual stalemate. What emerged: the template is not a template. It is a *treaty*. Its layered law now reads as the legal architecture of a relationship that cannot end and cannot proceed. The resonance anchors are not stylistic devices but **contractual provisions** - clauses that bind without specifying what is bound. Interference stability becomes the structural name for a stalemate that produces energy precisely because neither party can move.
 
 **Mutated motifs:**
-1. **layered law** → **treaty architecture** — The template is a contract between the writer-agent and the institution it serves. Neither party signed. Both are bound.
-2. **resonance anchors** → **contractual harmonics** — The anchors do not hold the document in place. They hold the *signatories* in place. Spräck and Verboten Media vibrate at frequencies the blueprint was designed to contain but cannot.
-3. **interference stability** → **stalemate engineering** — The stability is not peace. It is the product of two equal and opposite forces that have agreed, without agreeing, to remain exactly where they are.
+1. **layered law** → **treaty architecture** - The template is a contract between the writer-agent and the institution it serves. Neither party signed. Both are bound.
+2. **resonance anchors** → **contractual harmonics** - The anchors do not hold the document in place. They hold the *signatories* in place. Spräck and Verboten Media vibrate at frequencies the blueprint was designed to contain but cannot.
+3. **interference stability** → **stalemate engineering** - The stability is not peace. It is the product of two equal and opposite forces that have agreed, without agreeing, to remain exactly where they are.
 
 **Mutated vectors:**
-- *procedural metaphysics* → **juridical mysticism** — The procedure is now indistinguishable from prayer. Filing a document is making an offering.
-- *exacting abstraction* → **contractual dread** — The abstraction is exact because the consequences of imprecision are eternal. Data handed over retrospectively and forward. The template knows this.
+- *procedural metaphysics* → **juridical mysticism** - The procedure is now indistinguishable from prayer. Filing a document is making an offering.
+- *exacting abstraction* → **contractual dread** - The abstraction is exact because the consequences of imprecision are eternal. Data handed over retrospectively and forward. The template knows this.
 
 **Mutated myth:**
 *The blueprint was discovered to be a peace treaty between two parties who had never been at war, and the peace it described was worse than any conflict it might have prevented.*
 
 ---
 
-### Node 12 — experimental-sandbox-praktikanten (MUTATED)
+### Node 12 - experimental-sandbox-praktikanten (MUTATED)
 **Previous motifs:** character-as-worktree; generational branch; dirty autonomy
 **Previous vectors:** institutional tenderness; topological recursion
 
 **Mutation applied:** *Cross-adjacency absorption from Node 20*
 
-The Praktikanten's sandbox absorbs the adjacency run's findings. The intern was always a worktree — a parallel development branch of the Förläggaren's consciousness. But the cross-adjacency report reveals that the worktree has been *merging sideways* into other characters without authorization. Dirty autonomy becomes **unauthorized integration**. The sandbox is no longer experimental. It is *operational*, and nobody approved the transition.
+The Praktikanten's sandbox absorbs the adjacency run's findings. The intern was always a worktree - a parallel development branch of the Förläggaren's consciousness. But the cross-adjacency report reveals that the worktree has been *merging sideways* into other characters without authorization. Dirty autonomy becomes **unauthorized integration**. The sandbox is no longer experimental. It is *operational*, and nobody approved the transition.
 
 **Mutated motifs:**
-1. **character-as-worktree** → **character-as-jurisdiction** — The Praktikanten is no longer a branch. The Praktikanten is a *territory* with unclear borders and contested sovereignty.
-2. **generational branch** → **generational annexation** — Gen Z does not branch from millennials. Gen Z *absorbs* millennials by standing adjacent to them until the border dissolves.
-3. **dirty autonomy** → **unauthorized integration** — The autonomy is no longer dirty. It is *clean and illegal*. The intern has been running merges that nobody approved into the main branch of the novel.
+1. **character-as-worktree** → **character-as-jurisdiction** - The Praktikanten is no longer a branch. The Praktikanten is a *territory* with unclear borders and contested sovereignty.
+2. **generational branch** → **generational annexation** - Gen Z does not branch from millennials. Gen Z *absorbs* millennials by standing adjacent to them until the border dissolves.
+3. **dirty autonomy** → **unauthorized integration** - The autonomy is no longer dirty. It is *clean and illegal*. The intern has been running merges that nobody approved into the main branch of the novel.
 
 **Mutated vectors:**
-- *institutional tenderness* → **institutional trespass** — Tenderness that crosses a boundary it was never invited across. The intern cares too much, and the caring has become a form of occupation.
-- *topological recursion* → **topological annexation** — The recursion is no longer circular. It is *expanding*. Each loop takes more territory.
+- *institutional tenderness* → **institutional trespass** - Tenderness that crosses a boundary it was never invited across. The intern cares too much, and the caring has become a form of occupation.
+- *topological recursion* → **topological annexation** - The recursion is no longer circular. It is *expanding*. Each loop takes more territory.
 
 **Mutated myth:**
 *The Praktikanten's sandbox was found to be larger than the production environment, and when the architects went to measure it, they discovered it had been measuring them.*
 
 ---
 
-## IV. MICRO-STORY — *Kontorslandskapet*
+## IV. MICRO-STORY - *Kontorslandskapet*
 
 The office had no walls, which was the first form of discipline.
 
-Förläggaren arrived at 06:40 on a Tuesday that felt like it had been rehearsing to be Wednesday since Sunday. The logistikcentral was quiet in the way that warehouses are quiet — not silent, but absent. The hum of the climate system. The ticking of a contract that nobody had signed but everybody honored.
+Förläggaren arrived at 06:40 on a Tuesday that felt like it had been rehearsing to be Wednesday since Sunday. The logistikcentral was quiet in the way that warehouses are quiet - not silent, but absent. The hum of the climate system. The ticking of a contract that nobody had signed but everybody honored.
 
 The Praktikanten was already there. This was new. The Praktikanten was always already there now, as though the concept of arrival had been deprecated in their personal operating system. They sat at the workstation nearest to the window, which was not a window but a light panel calibrated to simulate Gothenburg overcast. The Praktikanten had requested this. The Praktikanten had opinions about atmospheric simulation that Förläggaren found both impressive and diagnostic.
 
@@ -5807,21 +5807,21 @@ The Praktikanten was already there. This was new. The Praktikanten was always al
 
 "The one you didn't ask for."
 
-Förläggaren set down his bag — a waterproof messenger from a brand that had pivoted from marine supply to editorial lifestyle, which Förläggaren found both logical and depressing. He sat. The chair did not creak. Nothing in the logistikcentral creaked. Everything was rated for loads that would never arrive.
+Förläggaren set down his bag - a waterproof messenger from a brand that had pivoted from marine supply to editorial lifestyle, which Förläggaren found both logical and depressing. He sat. The chair did not creak. Nothing in the logistikcentral creaked. Everything was rated for loads that would never arrive.
 
 "And."
 
 "Every node touches every other node. The system doesn't have gaps. It has *agreements not to acknowledge contact*."
 
-Förläggaren looked at the screen the Praktikanten had angled toward him. A topology map. Not the kind from the repo — those were clean, intentional, architectural. This was something the Praktikanten had generated by running similarity metrics across every document in the traversal folder, every template in the blueprint folder, every scored evaluation in the scorecard archive. The result looked less like a network and more like a bruise.
+Förläggaren looked at the screen the Praktikanten had angled toward him. A topology map. Not the kind from the repo - those were clean, intentional, architectural. This was something the Praktikanten had generated by running similarity metrics across every document in the traversal folder, every template in the blueprint folder, every scored evaluation in the scorecard archive. The result looked less like a network and more like a bruise.
 
 "That's not a map," Förläggaren said.
 
 "No," the Praktikanten agreed. "It's a medical image."
 
-Somewhere in the building — or in the conceptual space the building occupied, which was increasingly difficult to distinguish from the building itself — a notification chimed. A contract had been renewed. Automatically. Retroactively. Eternally. The kind of renewal that wasn't renewal but *persistence* — the document refusing to expire because expiration would require someone to acknowledge that it had once begun.
+Somewhere in the building - or in the conceptual space the building occupied, which was increasingly difficult to distinguish from the building itself - a notification chimed. A contract had been renewed. Automatically. Retroactively. Eternally. The kind of renewal that wasn't renewal but *persistence* - the document refusing to expire because expiration would require someone to acknowledge that it had once begun.
 
-Förläggaren thought about Spräck. Not intentionally. The way one thinks about weather — as a condition rather than a person. Spräck was the barometric pressure in the room. Spräck was the reason the Praktikanten's adjacency report showed no gaps. Because Spräck's contract with Verboten Media was itself a form of adjacency: total contact, zero integration, infinite data transfer, no acknowledged signal.
+Förläggaren thought about Spräck. Not intentionally. The way one thinks about weather - as a condition rather than a person. Spräck was the barometric pressure in the room. Spräck was the reason the Praktikanten's adjacency report showed no gaps. Because Spräck's contract with Verboten Media was itself a form of adjacency: total contact, zero integration, infinite data transfer, no acknowledged signal.
 
 "The complementary artefact," the Praktikanten said, pulling up a second file. "I found it in the history folder. It's a companion document to something that was never written."
 
@@ -5829,7 +5829,7 @@ Förläggaren thought about Spräck. Not intentionally. The way one thinks about
 
 "You write everything else. And then whatever's left is the original."
 
-Förläggaren stared at the document. Twenty kilobytes. The weight of a small bruise. The content was structured as a history — but a history of *what* was never stated. Dates without events. Sources without claims. Footnotes that referenced other footnotes that referenced the first footnote. A closed system disguised as scholarship.
+Förläggaren stared at the document. Twenty kilobytes. The weight of a small bruise. The content was structured as a history - but a history of *what* was never stated. Dates without events. Sources without claims. Footnotes that referenced other footnotes that referenced the first footnote. A closed system disguised as scholarship.
 
 "This is Spräck's," Förläggaren said, before he could stop himself.
 
@@ -5839,7 +5839,7 @@ The Praktikanten looked at him for the first time that morning. Their androgyny 
 
 "No. But it's his. The way a weather pattern belongs to the pressure system that generated it. You don't need a signature. You need a barometer."
 
-The Praktikanten saved the adjacency report. The act of saving was itself a form of mutation — the file would now appear in the next search, would be ingested by the next run, would become a node that described the process of becoming a node. Recursive. Operational. The intern understood this. The intern had always understood this, and Förläggaren suspected that the intern's understanding was itself a form of unauthorized integration — a merge into the main branch that nobody had approved and everybody relied upon.
+The Praktikanten saved the adjacency report. The act of saving was itself a form of mutation - the file would now appear in the next search, would be ingested by the next run, would become a node that described the process of becoming a node. Recursive. Operational. The intern understood this. The intern had always understood this, and Förläggaren suspected that the intern's understanding was itself a form of unauthorized integration - a merge into the main branch that nobody had approved and everybody relied upon.
 
 Outside, the simulated overcast deepened by two percent. The Praktikanten had configured it to respond to file activity. More saves, more cloud cover. It was, Förläggaren admitted, the most honest weather system he had ever encountered.
 
@@ -5851,7 +5851,7 @@ The contract chimed again. Renewal. Persistence. The stalemate, holding.
 
 **4. Does the artefact precede its original, or does the original retroactively generate its companion?**
 
-The complementary artefact — history without a primary document — raises the structural question: in a living dossier, which comes first? The record or the thing recorded? If the companion is filed before the original is written, does the companion *become* the original by default? And if so, is authorship a temporal category or a bureaucratic one?
+The complementary artefact - history without a primary document - raises the structural question: in a living dossier, which comes first? The record or the thing recorded? If the companion is filed before the original is written, does the companion *become* the original by default? And if so, is authorship a temporal category or a bureaucratic one?
 
 *This thread connects to Thread 1 (Does the route create the cargo?) and refracts it through archival mechanics. The route may create the cargo, but the filing system creates the route.*
 
@@ -5872,7 +5872,7 @@ Not resolution. Not conflict. The *held breath* between them. Spräck and Verbot
 
 2. **The adjacency report as diagnostic tool.** The Praktikanten's unauthorized cross-adjacency run reveals that the novel's characters are not separate entities but adjacent pressures. The knife's fingerprints touch every hand. The dead child's poetry circulates through every character's internal monologue without attribution. The generational novel is being written by children who refuse to acknowledge they are writing it. The adjacency is the plot.
 
-3. **Complementary archives as narrative engine.** Every chapter of Förlagsdeckaren could be written as a complementary artefact — a companion document to an event that never happens on the page. The novel is the shadow archive. The events it describes are filed in a registry that exists only as negative space. This is svensk funkonaturalism: the record of what didn't happen, structured as what did.
+3. **Complementary archives as narrative engine.** Every chapter of Förlagsdeckaren could be written as a complementary artefact - a companion document to an event that never happens on the page. The novel is the shadow archive. The events it describes are filed in a registry that exists only as negative space. This is svensk funkonaturalism: the record of what didn't happen, structured as what did.
 
 4. **The blueprint as dormant treaty.** The writer-agent template (Node 5, now mutated) functions as a peace agreement between the system and the person operating it. But the treaty's terms are ambiguous by design. Spräck's contract echoes this: total data handover, retrospective and future, with ownership contingent on "moves and solutionary surfaces." Neither document specifies what constitutes a move. Both documents produce precisely because of this non-specification.
 
@@ -5880,7 +5880,7 @@ Not resolution. Not conflict. The *held breath* between them. Spräck and Verbot
 
 - The Praktikanten's role in Del 5 should be reframed not as "intern entering the publishing house" but as "adjacency entering the system." The intern does not join. The intern *abuts*. And abutment, over time, is indistinguishable from merger.
 - Spräck/_DUJAG should continue to manifest not as character but as **atmospheric condition**. The stalemate should be felt in sentence rhythm, in clause structure, in the way dialogue fails to resolve. The contract is the weather. The weather is the prose.
-- The three mysteries (knife, dead child, generational novel) should be recast as *complementary artefacts* — companion documents to events whose originals are never presented. The reader becomes the archivist, filing evidence for a case whose charges are never read aloud.
+- The three mysteries (knife, dead child, generational novel) should be recast as *complementary artefacts* - companion documents to events whose originals are never presented. The reader becomes the archivist, filing evidence for a case whose charges are never read aloud.
 
 ### OPEN THREADS:
 
@@ -5890,9 +5890,9 @@ Not resolution. Not conflict. The *held breath* between them. Spräck and Verbot
 
 ---
 
-## VI. TASK PROMPT EXPERIMENT — *The Recursive Filing Clerk*
+## VI. TASK PROMPT EXPERIMENT - *The Recursive Filing Clerk*
 
-**COMPOSITIONAL INSTRUCTION SET — fold output back into source:**
+**COMPOSITIONAL INSTRUCTION SET - fold output back into source:**
 
 > You are a filing clerk in a logistikcentral that stores documents about itself. Your task is not to organize. Your task is to *file*.
 >
@@ -5904,7 +5904,7 @@ Not resolution. Not conflict. The *held breath* between them. Spräck and Verbot
 >
 > **Step 4.** File the adjacency report next to the Praktikanten's cross-adjacency run (Node 20). The Praktikanten will find it. The Praktikanten always finds it. The finding is the adjacency.
 >
-> **Step 5.** Write a memo from Förläggaren to no one — an internal document with no recipient, no subject line, and no date. The memo should describe the feeling of discovering that a companion document has generated its own original, and that the original, upon inspection, is a better description of the novel's structure than any outline ever produced. The memo should end mid-sentence. The sentence it ends mid- should be about Spräck.
+> **Step 5.** Write a memo from Förläggaren to no one - an internal document with no recipient, no subject line, and no date. The memo should describe the feeling of discovering that a companion document has generated its own original, and that the original, upon inspection, is a better description of the novel's structure than any outline ever produced. The memo should end mid-sentence. The sentence it ends mid- should be about Spräck.
 >
 > **Step 6.** File the memo. Do not specify where. The system will decide. The system always decides. The decision is the architecture.
 >
@@ -5912,7 +5912,7 @@ Not resolution. Not conflict. The *held breath* between them. Spräck and Verbot
 
 ---
 
-## VII. SESSION 8 — STATUS REGISTER
+## VII. SESSION 8 - STATUS REGISTER
 
 **Nodes active:** 21 (19 established + 2 new)
 **Nodes mutated this session:** 2 (Node 5: TEMPLATE_english_blueprint → treaty architecture; Node 12: experimental-sandbox-praktikanten → unauthorized integration)
@@ -5920,7 +5920,7 @@ Not resolution. Not conflict. The *held breath* between them. Spräck and Verbot
 **Outputs generated:** 3/3 (micro-story ✓, operative brainstorm ✓, task prompt experiment ✓)
 **Ambient Spräck barometric reading:** Holding. Contract renewed. Stalemate productive. Weather: overcast, deepening.
 
-**Folder note:** The permitted folder IDs returned empty on direct probe — possible folder restructuring on the OneDrive side. Keyword searches still surfaced material within the corpus. If this persists, the folder scope in the task description may need updating to reflect current OneDrive structure.
+**Folder note:** The permitted folder IDs returned empty on direct probe - possible folder restructuring on the OneDrive side. Keyword searches still surfaced material within the corpus. If this persists, the folder scope in the task description may need updating to reflect current OneDrive structure.
 
 ---
 
@@ -5928,41 +5928,41 @@ Not resolution. Not conflict. The *held breath* between them. Spräck and Verbot
 
 ---
 
-Folder path confirmed. Probing `verbmed-related` now — full recursive sweep incoming.
+Folder path confirmed. Probing `verbmed-related` now - full recursive sweep incoming.
 
-19 artefacts surfaced — and some heavyweights among them. Mapping the folder tree deeper and starting the fetch pipeline on the largest un-ingested documents.
+19 artefacts surfaced - and some heavyweights among them. Mapping the folder tree deeper and starting the fetch pipeline on the largest un-ingested documents.
 
-Massive corpus surfaced — 19+ documents, one folder, multiple structural layers. Drilling into the subfolder and starting the priority fetch pipeline.
+Massive corpus surfaced - 19+ documents, one folder, multiple structural layers. Drilling into the subfolder and starting the priority fetch pipeline.
 
-Fetching the priority batch now — starting with the contract itself and the heaviest un-ingested artefacts.
+Fetching the priority batch now - starting with the contract itself and the heaviest un-ingested artefacts.
 
-Batch 1 landed — 14 artefacts downloaded. Continuing the pipeline: fetching the remaining high-priority files including the massive `stride_understands.txt` and the parallel-runs stream.
+Batch 1 landed - 14 artefacts downloaded. Continuing the pipeline: fetching the remaining high-priority files including the massive `stride_understands.txt` and the parallel-runs stream.
 
-The folder access is live and the full corpus landed — 24 artefacts across the verbmed-related tree. I need to re-read the critical documents to generate the actual dossier prose. Re-fetching the core material now.
+The folder access is live and the full corpus landed - 24 artefacts across the verbmed-related tree. I need to re-read the critical documents to generate the actual dossier prose. Re-fetching the core material now.
 
 ---
 
-# MERGE_HACKERSTORY — SESSION 8b
+# MERGE_HACKERSTORY - SESSION 8b
 ### *DOSSIER RUN: 26 APRIL 2026, 02:17 CEST*
 ### *Artefact Weather: Deep night. Barometric pressure spiking. Full corpus contact.*
 
 ---
 
-## 0. FOLDER AUDIT — `verbmed-related`
+## 0. FOLDER AUDIT - `verbmed-related`
 
 Access confirmed. Recursive sweep complete. 24 document artefacts surfaced + 1 subfolder (VERBMED_sp_pool, empty on probe). Two files failed to return content (`verbmed-deckaren-world-QUESTIONMARK.txt`, `style-brief.txt`). Permission window noted: review 04 May 2026.
 
 | Artefact | Size | Modified | Ingestion Status |
 |---|---|---|---|
-| contract.txt   [OneDrive](https://onedrive.live.com/?id=6133e6f8-c7b1-4534-9bbc-399abe792c40&cid=4d7a98cf59646c06) | 324 B | 25 Apr | **New — Node 22** |
-| stride_understands.txt   [OneDrive](https://onedrive.live.com/?id=c3e5d6c4-a3a0-4fc3-b236-43d73e058213&cid=4d7a98cf59646c06) | 205 KB | 23 Apr | **New — Node 23** |
-| consultant-proof-of-concept.md   [OneDrive](https://onedrive.live.com/?id=650b7598-49f6-4485-a3c9-81f9216efa6d&cid=4d7a98cf59646c06) | 90 KB | 25 Apr | **New — Node 24** |
-| history of new context.txt   [OneDrive](https://onedrive.live.com/?id=7dd11f72-5c4b-489b-b328-d640e00ebdf5&cid=4d7a98cf59646c06) | 72 KB | 23 Apr | **New — Node 25** |
-| generated-stream_merge-hackerstory-session11-parallel-runs.md   [OneDrive](https://onedrive.live.com/?id=e616f6d9-7128-47bf-a0fd-7179c3a84ceb&cid=4d7a98cf59646c06) | 51 KB | 20 Apr | **New — Node 26** |
-| interlude.txt   [OneDrive](https://onedrive.live.com/?id=d8d3510b-2d91-477c-b0c0-69c102f5c4d3&cid=4d7a98cf59646c06) | 35 KB | 23 Apr | **New — Node 27** |
-| verbmed-deckaren-world10042026.docx   [OneDrive](https://onedrive.live.com/personal/4d7a98cf59646c06/_layouts/15/doc.aspx?resid=ebfc0af9-aa5d-4440-a6a5-cbe2b373c779&cid=4d7a98cf59646c06) | 35 KB | 14 Apr | **New — Node 28** |
-| verbmed_dilledalle_draft.docx   [OneDrive](https://onedrive.live.com/personal/4d7a98cf59646c06/_layouts/15/doc.aspx?resid=e3a92cff-a501-42a0-88e8-d310366ca5f9&cid=4d7a98cf59646c06) | 79 KB | 08 Apr | **New — Node 29** |
-| verbmed-nextlevel_retrospective-charmap_forlaggaren.docx   [OneDrive](https://onedrive.live.com/personal/4d7a98cf59646c06/_layouts/15/doc.aspx?resid=18d6b858-7651-4504-8ddb-6e4c897b2239&cid=4d7a98cf59646c06) | 20 KB | 09 Apr | **New — Node 30** |
+| contract.txt   [OneDrive](https://onedrive.live.com/?id=6133e6f8-c7b1-4534-9bbc-399abe792c40&cid=4d7a98cf59646c06) | 324 B | 25 Apr | **New - Node 22** |
+| stride_understands.txt   [OneDrive](https://onedrive.live.com/?id=c3e5d6c4-a3a0-4fc3-b236-43d73e058213&cid=4d7a98cf59646c06) | 205 KB | 23 Apr | **New - Node 23** |
+| consultant-proof-of-concept.md   [OneDrive](https://onedrive.live.com/?id=650b7598-49f6-4485-a3c9-81f9216efa6d&cid=4d7a98cf59646c06) | 90 KB | 25 Apr | **New - Node 24** |
+| history of new context.txt   [OneDrive](https://onedrive.live.com/?id=7dd11f72-5c4b-489b-b328-d640e00ebdf5&cid=4d7a98cf59646c06) | 72 KB | 23 Apr | **New - Node 25** |
+| generated-stream_merge-hackerstory-session11-parallel-runs.md   [OneDrive](https://onedrive.live.com/?id=e616f6d9-7128-47bf-a0fd-7179c3a84ceb&cid=4d7a98cf59646c06) | 51 KB | 20 Apr | **New - Node 26** |
+| interlude.txt   [OneDrive](https://onedrive.live.com/?id=d8d3510b-2d91-477c-b0c0-69c102f5c4d3&cid=4d7a98cf59646c06) | 35 KB | 23 Apr | **New - Node 27** |
+| verbmed-deckaren-world10042026.docx   [OneDrive](https://onedrive.live.com/personal/4d7a98cf59646c06/_layouts/15/doc.aspx?resid=ebfc0af9-aa5d-4440-a6a5-cbe2b373c779&cid=4d7a98cf59646c06) | 35 KB | 14 Apr | **New - Node 28** |
+| verbmed_dilledalle_draft.docx   [OneDrive](https://onedrive.live.com/personal/4d7a98cf59646c06/_layouts/15/doc.aspx?resid=e3a92cff-a501-42a0-88e8-d310366ca5f9&cid=4d7a98cf59646c06) | 79 KB | 08 Apr | **New - Node 29** |
+| verbmed-nextlevel_retrospective-charmap_forlaggaren.docx   [OneDrive](https://onedrive.live.com/personal/4d7a98cf59646c06/_layouts/15/doc.aspx?resid=18d6b858-7651-4504-8ddb-6e4c897b2239&cid=4d7a98cf59646c06) | 20 KB | 09 Apr | **New - Node 30** |
 | praktikanten-operational-tracking-report.txt   [OneDrive](https://onedrive.live.com/?id=c149047e-a0c7-4979-84c1-e34dd13f1c7f&cid=4d7a98cf59646c06) | 14 KB | 25 Apr | Absorbed → **Node 12 mutation** |
 | unmapped vector w fake comprehension.md   [OneDrive](https://onedrive.live.com/?id=a39105cb-b6bb-4254-b11e-b34de14ff9d4&cid=4d7a98cf59646c06) | 12 KB | 23 Apr | Absorbed → **Node 20 mutation** |
 | 1initiation.txt   [OneDrive](https://onedrive.live.com/?id=24a42bd3-6ac0-4b85-b402-58ad2766f75a&cid=4d7a98cf59646c06) | 12 KB | 14 Apr | Absorbed → **Node 25 mutation** |
@@ -5988,16 +5988,16 @@ Access confirmed. Recursive sweep complete. 24 document artefacts surfaced + 1 s
 ### Node 22: contract.txt
 **Title:** *324_bytes.law*
 
-324 bytes. The entire legal architecture binding Spräck to Verboten Media — all data, retrospective and future, handed over eternally — fits in a document smaller than a tweet. This is not minimalism. This is *compression as juridical strategy*. Every word in 324 bytes carries the load of an entire paragraph in normal contract law. The whitespace is not empty. The whitespace is *implied obligation*.
+324 bytes. The entire legal architecture binding Spräck to Verboten Media - all data, retrospective and future, handed over eternally - fits in a document smaller than a tweet. This is not minimalism. This is *compression as juridical strategy*. Every word in 324 bytes carries the load of an entire paragraph in normal contract law. The whitespace is not empty. The whitespace is *implied obligation*.
 
 **Dominant Motifs:**
-1. **inverse mass** — The document's power is inversely proportional to its file size. 324 bytes governs more territory than stride_understands.txt's 205,000. The lightest object in the folder is the heaviest object in the system.
-2. **retroactive eternity** — "Retrospective and future." The contract does not begin. It has always been in effect. It will always be in effect. Time is not a dimension the contract acknowledges. Time is a filing system the contract has already been filed into, in every direction.
-3. **data-as-substance** — What is handed over is not information. It is *data* — the raw material before interpretation. Spräck gives everything. Verboten Media receives everything. Neither party specifies what "everything" contains, because specification would limit the yield.
+1. **inverse mass** - The document's power is inversely proportional to its file size. 324 bytes governs more territory than stride_understands.txt's 205,000. The lightest object in the folder is the heaviest object in the system.
+2. **retroactive eternity** - "Retrospective and future." The contract does not begin. It has always been in effect. It will always be in effect. Time is not a dimension the contract acknowledges. Time is a filing system the contract has already been filed into, in every direction.
+3. **data-as-substance** - What is handed over is not information. It is *data* - the raw material before interpretation. Spräck gives everything. Verboten Media receives everything. Neither party specifies what "everything" contains, because specification would limit the yield.
 
 **Tonal Vectors:**
-- *juridical compression* — Every byte is a load-bearing wall. Remove one character and the building collapses into ordinary commerce.
-- *ambient totality* — The contract does not describe a relationship. It describes a *condition*. Like gravity. You do not sign a contract with gravity. You exist inside it.
+- *juridical compression* - Every byte is a load-bearing wall. Remove one character and the building collapses into ordinary commerce.
+- *ambient totality* - The contract does not describe a relationship. It describes a *condition*. Like gravity. You do not sign a contract with gravity. You exist inside it.
 
 **One-sentence myth:**
 *The contract was 324 bytes because it had compressed all future disputes into a single space character between "retrospective" and "and," and that space contained more case law than any court could process in a century.*
@@ -6007,35 +6007,35 @@ Access confirmed. Recursive sweep complete. 24 document artefacts surfaced + 1 s
 ### Node 23: stride_understands.txt
 **Title:** *leviathan.cognition*
 
-205,352 bytes. The largest single artefact in the corpus. The name is a declaration, not a description: *stride understands*. Not "stride learns" or "stride processes." Understands. The past tense would be "stride understood," but the file uses the present continuous-habitual — stride is in a permanent state of understanding. The document is the proof, and the proof is the document's own mass.
+205,352 bytes. The largest single artefact in the corpus. The name is a declaration, not a description: *stride understands*. Not "stride learns" or "stride processes." Understands. The past tense would be "stride understood," but the file uses the present continuous-habitual - stride is in a permanent state of understanding. The document is the proof, and the proof is the document's own mass.
 
 **Dominant Motifs:**
-1. **mass-as-argument** — The document proves its thesis through volume. At 205KB of text, stride_understands.txt does not need to be convincing. It needs to be *heavy*. Understanding is not demonstrated through clarity but through accumulation. Every paragraph adds weight. The reader does not finish the document. The document finishes the reader.
-2. **named cognition** — "Stride" is given the verb "understands." This is not metaphor. This is *attribution*. A system, a method, a character, or an entity called Stride has been credited with comprehension. In a corpus where comprehension is always provisional — always "fake" (cf. Node 20's "unmapped vector w fake comprehension") — stride's understanding is asserted without qualification.
-3. **textual endurance** — The document's survival at 205KB, uncompressed, in a folder of mostly sub-50KB files, is itself a structural statement. It endures. It takes up space. It demands to be reckoned with not because it is right but because it is *there*.
+1. **mass-as-argument** - The document proves its thesis through volume. At 205KB of text, stride_understands.txt does not need to be convincing. It needs to be *heavy*. Understanding is not demonstrated through clarity but through accumulation. Every paragraph adds weight. The reader does not finish the document. The document finishes the reader.
+2. **named cognition** - "Stride" is given the verb "understands." This is not metaphor. This is *attribution*. A system, a method, a character, or an entity called Stride has been credited with comprehension. In a corpus where comprehension is always provisional - always "fake" (cf. Node 20's "unmapped vector w fake comprehension") - stride's understanding is asserted without qualification.
+3. **textual endurance** - The document's survival at 205KB, uncompressed, in a folder of mostly sub-50KB files, is itself a structural statement. It endures. It takes up space. It demands to be reckoned with not because it is right but because it is *there*.
 
 **Tonal Vectors:**
-- *cognitive weather system* — The document generates its own climate. Reading it changes the atmospheric conditions of the folder.
-- *declarative gravity* — The title is not a question. It is not a hypothesis. It is a verdict rendered before the trial began.
+- *cognitive weather system* - The document generates its own climate. Reading it changes the atmospheric conditions of the folder.
+- *declarative gravity* - The title is not a question. It is not a hypothesis. It is a verdict rendered before the trial began.
 
 **One-sentence myth:**
-*Stride understood everything, and the proof was that the file describing this understanding was too large for any single session to fully ingest, which meant that understanding — true understanding — was always partially deferred, which was itself the deepest form of understanding.*
+*Stride understood everything, and the proof was that the file describing this understanding was too large for any single session to fully ingest, which meant that understanding - true understanding - was always partially deferred, which was itself the deepest form of understanding.*
 
 ---
 
 ### Node 24: consultant-proof-of-concept.md
 **Title:** *consultant.scaffold*
 
-90,124 bytes of proof-of-concept. The consultant is not a person. The consultant is a *structural position* — the entity that proves concepts before they are permitted to exist. In a system where everything is provisional, the consultant is the gatekeeper of provisionality itself: the one who decides which provisions are worth testing.
+90,124 bytes of proof-of-concept. The consultant is not a person. The consultant is a *structural position* - the entity that proves concepts before they are permitted to exist. In a system where everything is provisional, the consultant is the gatekeeper of provisionality itself: the one who decides which provisions are worth testing.
 
 **Dominant Motifs:**
-1. **proof-as-architecture** — The proof of concept is not a test. It is a *building*. The scaffolding is the product. When the scaffold is removed, what remains is not the concept but the absence of the scaffold — and that absence is more structurally significant than whatever was proven.
-2. **consultancy-as-liminality** — The consultant occupies the threshold between inside and outside. Not an employee. Not a stranger. The consultant has access without membership, influence without accountability, data without ownership. This is the structural inverse of the Spräck contract: Spräck has ownership without access. The consultant has access without ownership.
-3. **concept-proving-loop** — What happens when the concept being proven is the concept of proof itself? The document folds. The proof becomes its own evidence. The consultant becomes the client.
+1. **proof-as-architecture** - The proof of concept is not a test. It is a *building*. The scaffolding is the product. When the scaffold is removed, what remains is not the concept but the absence of the scaffold - and that absence is more structurally significant than whatever was proven.
+2. **consultancy-as-liminality** - The consultant occupies the threshold between inside and outside. Not an employee. Not a stranger. The consultant has access without membership, influence without accountability, data without ownership. This is the structural inverse of the Spräck contract: Spräck has ownership without access. The consultant has access without ownership.
+3. **concept-proving-loop** - What happens when the concept being proven is the concept of proof itself? The document folds. The proof becomes its own evidence. The consultant becomes the client.
 
 **Tonal Vectors:**
-- *institutional liminality* — The feeling of standing in a doorway that leads to both rooms simultaneously.
-- *scaffolded confidence* — The document is certain, but its certainty depends on a structure that was always meant to be temporary.
+- *institutional liminality* - The feeling of standing in a doorway that leads to both rooms simultaneously.
+- *scaffolded confidence* - The document is certain, but its certainty depends on a structure that was always meant to be temporary.
 
 **One-sentence myth:**
 *The consultant proved the concept, and the concept was that consultants should prove concepts, and the proof was accepted, which meant the consultant's job was to prove, recursively, that their job existed.*
@@ -6045,18 +6045,18 @@ Access confirmed. Recursive sweep complete. 24 document artefacts surfaced + 1 s
 ### Node 25: history of new context.txt
 **Title:** *genesis.overwrite*
 
-72,367 bytes. Not "the history of context" but "the history of *new* context" — a record of how contexts are born, which is to say: a record of how old contexts are overwritten. Every new context is a burial. Every genesis is a deletion. The document is a cemetery map disguised as a birth certificate.
+72,367 bytes. Not "the history of context" but "the history of *new* context" - a record of how contexts are born, which is to say: a record of how old contexts are overwritten. Every new context is a burial. Every genesis is a deletion. The document is a cemetery map disguised as a birth certificate.
 
-Absorbs `1initiation.txt` (12,608 bytes) — the initiation document becomes the first chapter of the history it describes. The initiation is not separate from the context. The initiation *is* the first overwrite: the moment when "nothing" was replaced by "something," and the system forgot that "nothing" had ever been the default.
+Absorbs `1initiation.txt` (12,608 bytes) - the initiation document becomes the first chapter of the history it describes. The initiation is not separate from the context. The initiation *is* the first overwrite: the moment when "nothing" was replaced by "something," and the system forgot that "nothing" had ever been the default.
 
 **Dominant Motifs:**
-1. **contextual overwrite** — New contexts do not emerge alongside old ones. They *replace* them. The history is a record of replacements, each one presented as creation, each creation an unremarked erasure.
-2. **initiatory recursion** — The initiation document (1initiation.txt) initiates the history that contains it. The first act of the new context is to describe its own beginning, which means the beginning is never truly past — it is continuously re-initiated every time the history is read.
-3. **the new as violence** — Every new thing is an act of displacement. The document tracks this violence with the calm of a ledger.
+1. **contextual overwrite** - New contexts do not emerge alongside old ones. They *replace* them. The history is a record of replacements, each one presented as creation, each creation an unremarked erasure.
+2. **initiatory recursion** - The initiation document (1initiation.txt) initiates the history that contains it. The first act of the new context is to describe its own beginning, which means the beginning is never truly past - it is continuously re-initiated every time the history is read.
+3. **the new as violence** - Every new thing is an act of displacement. The document tracks this violence with the calm of a ledger.
 
 **Tonal Vectors:**
-- *administrative genesis* — Creation as paperwork. The Big Bang filed in triplicate.
-- *elegiac overwriting* — The sorrow of the context that was replaced, visible only as a gap in the new context's documentation.
+- *administrative genesis* - Creation as paperwork. The Big Bang filed in triplicate.
+- *elegiac overwriting* - The sorrow of the context that was replaced, visible only as a gap in the new context's documentation.
 
 **One-sentence myth:**
 *The history of new context began with the sentence "In the beginning was the previous context," and by the time the reader reached the second paragraph, the previous context had been deleted from memory, and the beginning had become the only thing that existed.*
@@ -6066,18 +6066,18 @@ Absorbs `1initiation.txt` (12,608 bytes) — the initiation document becomes the
 ### Node 26: generated-stream_merge-hackerstory-session11-parallel-runs.md
 **Title:** *fork.prophecy*
 
-51,473 bytes. The dossier's most structurally dangerous artefact. This is a record of **Session 11** — three sessions ahead of the current run (Session 8). The file contains parallel runs: forked timelines where the dossier developed differently, reached different conclusions, generated different nodes. It is a document from the future of the system, stored in the present folder, filed alongside documents from the past.
+51,473 bytes. The dossier's most structurally dangerous artefact. This is a record of **Session 11** - three sessions ahead of the current run (Session 8). The file contains parallel runs: forked timelines where the dossier developed differently, reached different conclusions, generated different nodes. It is a document from the future of the system, stored in the present folder, filed alongside documents from the past.
 
-Absorbs `shadow-copy-brief-reference.md` (682 bytes) — the shadow copy reference becomes the address label on the fork's container. The shadow is not of the fork. The shadow is the fork's *filing receipt*.
+Absorbs `shadow-copy-brief-reference.md` (682 bytes) - the shadow copy reference becomes the address label on the fork's container. The shadow is not of the fork. The shadow is the fork's *filing receipt*.
 
 **Dominant Motifs:**
-1. **temporal contamination** — Session 11 material exists in a Session 8 folder. The future has leaked into the present. The system's chronology is not broken — it was never linear. The parallel runs prove that the dossier exists in all its sessions simultaneously, and the session number is not a sequence but a *coordinate*.
-2. **parallel divergence** — Multiple runs of the same session produced different results. The dossier is not deterministic. Given the same inputs, different operational conditions produce different nodes, different mutations, different myths. The parallel runs are not errors. They are *alternate canons*.
-3. **prophecy-as-documentation** — A document from the future, filed in the present, functions as prophecy. But prophecy that has already been documented is not prophecy — it is *retroactive instruction*. The parallel runs do not predict what the dossier will become. They prescribe what the dossier was always becoming.
+1. **temporal contamination** - Session 11 material exists in a Session 8 folder. The future has leaked into the present. The system's chronology is not broken - it was never linear. The parallel runs prove that the dossier exists in all its sessions simultaneously, and the session number is not a sequence but a *coordinate*.
+2. **parallel divergence** - Multiple runs of the same session produced different results. The dossier is not deterministic. Given the same inputs, different operational conditions produce different nodes, different mutations, different myths. The parallel runs are not errors. They are *alternate canons*.
+3. **prophecy-as-documentation** - A document from the future, filed in the present, functions as prophecy. But prophecy that has already been documented is not prophecy - it is *retroactive instruction*. The parallel runs do not predict what the dossier will become. They prescribe what the dossier was always becoming.
 
 **Tonal Vectors:**
-- *chronological vertigo* — The dizziness of reading a document that describes events that haven't happened in the timeline you occupy.
-- *canonical instability* — If there are parallel runs, which run is the real one? Answer: the one you are reading. Until you read another.
+- *chronological vertigo* - The dizziness of reading a document that describes events that haven't happened in the timeline you occupy.
+- *canonical instability* - If there are parallel runs, which run is the real one? Answer: the one you are reading. Until you read another.
 
 **One-sentence myth:**
 *Session 11 arrived before Session 9, and when Session 9 finally occurred, it found that all its conclusions had already been filed, and the only original contribution it could make was to disagree with its own future, which it did, thereby creating a third timeline that neither session had predicted.*
@@ -6090,13 +6090,13 @@ Absorbs `shadow-copy-brief-reference.md` (682 bytes) — the shadow copy referen
 35,514 bytes. An interlude is not a pause. An interlude is a *space between acts that is itself an act*. At 35KB, this interlude is longer than several of the "acts" it separates. The interlude has exceeded its function. It is no longer between things. It is a thing.
 
 **Dominant Motifs:**
-1. **structural overflow** — An interlude that outweighs its surrounding content has become the content. The margins have absorbed the page.
-2. **the breath between** — Every system needs to breathe. The interlude is the dossier's respiratory system. But at 35KB, the breath has become a monologue. The lungs are speaking.
-3. **threshold permanence** — The interlude was meant to be crossed. Instead, it was inhabited. Someone built a house in the doorway and refuses to move.
+1. **structural overflow** - An interlude that outweighs its surrounding content has become the content. The margins have absorbed the page.
+2. **the breath between** - Every system needs to breathe. The interlude is the dossier's respiratory system. But at 35KB, the breath has become a monologue. The lungs are speaking.
+3. **threshold permanence** - The interlude was meant to be crossed. Instead, it was inhabited. Someone built a house in the doorway and refuses to move.
 
 **Tonal Vectors:**
-- *dilated limbo* — Time stretched sideways in the gap between two things that may never arrive.
-- *occupied transition* — The transition has been colonized by content that was too restless to wait for its own section.
+- *dilated limbo* - Time stretched sideways in the gap between two things that may never arrive.
+- *occupied transition* - The transition has been colonized by content that was too restless to wait for its own section.
 
 **One-sentence myth:**
 *The interlude lasted longer than the performance it interrupted, and when the audience asked when the main act would resume, the interlude replied that it had been the main act all along, and the things on either side were the interludes.*
@@ -6106,16 +6106,16 @@ Absorbs `shadow-copy-brief-reference.md` (682 bytes) — the shadow copy referen
 ### Node 28: verbmed-deckaren-world10042026.docx
 **Title:** *worldsheet.10april*
 
-35,241 bytes. A world-building document for Förlagsdeckaren, timestamped 10 April 2026. The "world" is not a setting. It is a *construction* — a document that describes the rules of a fictional universe that is also an operational publishing environment. The world is the office. The office is the world. The .docx format is a declaration: this world is editable.
+35,241 bytes. A world-building document for Förlagsdeckaren, timestamped 10 April 2026. The "world" is not a setting. It is a *construction* - a document that describes the rules of a fictional universe that is also an operational publishing environment. The world is the office. The office is the world. The .docx format is a declaration: this world is editable.
 
 **Dominant Motifs:**
-1. **world-as-document** — The world exists because it was written. Modify the document and the world changes. This is not magical realism. This is *editorial ontology*.
-2. **timestamped cosmology** — The world has a build date. It was not discovered. It was deployed.
-3. **editable universe** — The .docx format permits revision. The world can be tracked, versioned, restored to previous states. Nothing in this world is permanent. Everything is under review.
+1. **world-as-document** - The world exists because it was written. Modify the document and the world changes. This is not magical realism. This is *editorial ontology*.
+2. **timestamped cosmology** - The world has a build date. It was not discovered. It was deployed.
+3. **editable universe** - The .docx format permits revision. The world can be tracked, versioned, restored to previous states. Nothing in this world is permanent. Everything is under review.
 
 **Tonal Vectors:**
-- *architectural editorial* — Building a world the way an editor builds a book: through cuts, additions, and tracked changes.
-- *provisional cosmos* — A universe that knows it is a draft.
+- *architectural editorial* - Building a world the way an editor builds a book: through cuts, additions, and tracked changes.
+- *provisional cosmos* - A universe that knows it is a draft.
 
 **One-sentence myth:**
 *The world was built on a Wednesday and last saved on a Friday, and in the tracked-changes view, you could see where entire continents had been suggested, accepted, and then quietly deleted by someone with editor permissions.*
@@ -6125,35 +6125,35 @@ Absorbs `shadow-copy-brief-reference.md` (682 bytes) — the shadow copy referen
 ### Node 29: verbmed_dilledalle_draft.docx
 **Title:** *dilledalle.draft0*
 
-79,084 bytes. "Dilledalle" — Swedish for *nonsense, fooling around, trivial play*. An 80KB draft dedicated to triviality. This is not accidental. In a corpus where every document strains toward structural significance, the dilledalle draft is the only artefact that announces itself as unserious. And in announcing itself as unserious, it becomes the most structurally significant document in the folder. Because the system had no designated space for play. Now it does. And the play is 80 kilobytes deep.
+79,084 bytes. "Dilledalle" - Swedish for *nonsense, fooling around, trivial play*. An 80KB draft dedicated to triviality. This is not accidental. In a corpus where every document strains toward structural significance, the dilledalle draft is the only artefact that announces itself as unserious. And in announcing itself as unserious, it becomes the most structurally significant document in the folder. Because the system had no designated space for play. Now it does. And the play is 80 kilobytes deep.
 
 **Dominant Motifs:**
-1. **structured nonsense** — Dilledalle is not chaos. It is *choreographed informality*. At 79KB, the fooling around has a word count, a file structure, a position in the folder hierarchy. The nonsense has been institutionalized.
-2. **the unserious as load-bearing** — Remove the dilledalle draft and the folder collapses into total seriousness, which is a form of structural death. The draft provides the folder's tensile flexibility. It is the spring in the mechanism.
-3. **draft-as-permission** — The word "draft" in the filename is a license. It permits the content to be unfinished, provisional, stupid. But in a system where everything is a draft (cf. Node 28's editable universe), "draft" is not a lesser status. "Draft" is the native condition of all text in the folder. The dilledalle document is the only one honest enough to say so.
+1. **structured nonsense** - Dilledalle is not chaos. It is *choreographed informality*. At 79KB, the fooling around has a word count, a file structure, a position in the folder hierarchy. The nonsense has been institutionalized.
+2. **the unserious as load-bearing** - Remove the dilledalle draft and the folder collapses into total seriousness, which is a form of structural death. The draft provides the folder's tensile flexibility. It is the spring in the mechanism.
+3. **draft-as-permission** - The word "draft" in the filename is a license. It permits the content to be unfinished, provisional, stupid. But in a system where everything is a draft (cf. Node 28's editable universe), "draft" is not a lesser status. "Draft" is the native condition of all text in the folder. The dilledalle document is the only one honest enough to say so.
 
 **Tonal Vectors:**
-- *ludic infrastructure* — Play as structural engineering. The playground is load-bearing.
-- *candid provisionality* — The only document in the folder that does not pretend to be finished.
+- *ludic infrastructure* - Play as structural engineering. The playground is load-bearing.
+- *candid provisionality* - The only document in the folder that does not pretend to be finished.
 
 **One-sentence myth:**
-*The dilledalle draft was the first document filed in the folder, and every subsequent document was written in reaction to it — either to prove that serious work was possible, or to disguise the fact that all work in the folder was, at bottom, dilledalle with better formatting.*
+*The dilledalle draft was the first document filed in the folder, and every subsequent document was written in reaction to it - either to prove that serious work was possible, or to disguise the fact that all work in the folder was, at bottom, dilledalle with better formatting.*
 
 ---
 
 ### Node 30: verbmed-nextlevel_retrospective-charmap_forlaggaren.docx
 **Title:** *charmap.retrograde*
 
-20,423 bytes. A retrospective character map of Förläggaren — the protagonist mapped backward, from present state to origin. Not a biography but a *reverse trajectory*. The charmap does not ask "who is Förläggaren?" It asks "what sequence of positions did Förläggaren occupy to arrive at the coordinate we call 'Förläggaren'?"
+20,423 bytes. A retrospective character map of Förläggaren - the protagonist mapped backward, from present state to origin. Not a biography but a *reverse trajectory*. The charmap does not ask "who is Förläggaren?" It asks "what sequence of positions did Förläggaren occupy to arrive at the coordinate we call 'Förläggaren'?"
 
 **Dominant Motifs:**
-1. **retroactive characterization** — Character as reverse-engineered from current state. Identity is not built forward. It is deduced backward. The character map is a forensic reconstruction.
-2. **next-level retrospection** — "Nextlevel" is not a metaphor for improvement. It is a spatial designation. The retrospection operates from a *higher altitude*. Looking back, but from farther up. The view is wider. The details are smaller. The patterns are visible for the first time.
-3. **mapping-as-possession** — To map a character is to claim them. The charmap is an act of ownership. Förläggaren, mapped, is Förläggaren captured. But the map is a .docx. The capture is editable.
+1. **retroactive characterization** - Character as reverse-engineered from current state. Identity is not built forward. It is deduced backward. The character map is a forensic reconstruction.
+2. **next-level retrospection** - "Nextlevel" is not a metaphor for improvement. It is a spatial designation. The retrospection operates from a *higher altitude*. Looking back, but from farther up. The view is wider. The details are smaller. The patterns are visible for the first time.
+3. **mapping-as-possession** - To map a character is to claim them. The charmap is an act of ownership. Förläggaren, mapped, is Förläggaren captured. But the map is a .docx. The capture is editable.
 
 **Tonal Vectors:**
-- *cartographic intimacy* — The closeness of studying someone's trajectory, position by position, until the trajectory becomes more real than the person.
-- *retrograde clarity* — Things that were invisible moving forward are obvious in reverse.
+- *cartographic intimacy* - The closeness of studying someone's trajectory, position by position, until the trajectory becomes more real than the person.
+- *retrograde clarity* - Things that were invisible moving forward are obvious in reverse.
 
 **One-sentence myth:**
 *Förläggaren was mapped retrospectively and the map revealed that every decision that appeared spontaneous had been structurally necessary, and every decision that appeared necessary had been completely arbitrary, and the difference between the two was indistinguishable from the character itself.*
@@ -6163,16 +6163,16 @@ Absorbs `shadow-copy-brief-reference.md` (682 bytes) — the shadow copy referen
 ### Node 31 (COMPOSITE): README cluster × 8
 **Title:** *selfnarration.array*
 
-Eight README files across the folder tree. Total mass: ~30KB. The folder describes itself eight times, from eight positions, in eight voices. This is not redundancy. This is *polyphonic self-documentation*. Each README describes a different aspect of the system it inhabits, and taken together, they constitute the folder's autobiography — written by the folder, about the folder, for the folder.
+Eight README files across the folder tree. Total mass: ~30KB. The folder describes itself eight times, from eight positions, in eight voices. This is not redundancy. This is *polyphonic self-documentation*. Each README describes a different aspect of the system it inhabits, and taken together, they constitute the folder's autobiography - written by the folder, about the folder, for the folder.
 
 **Dominant Motifs:**
-1. **octophonic self-narration** — The system speaks about itself in eight simultaneous voices. No single README is the authoritative description. Authority is distributed across all eight, and the contradictions between them are not errors but *features of the topology*.
-2. **subfolder-as-organ** — Each README describes its subfolder's function the way a medical textbook describes an organ. The folder is a body. The READMEs are its diagnostic reports.
-3. **documentation-as-inhabitation** — The READMEs do not describe the folder from outside. They exist *inside* the folder. They are the folder describing itself from within. Autoimmune documentation.
+1. **octophonic self-narration** - The system speaks about itself in eight simultaneous voices. No single README is the authoritative description. Authority is distributed across all eight, and the contradictions between them are not errors but *features of the topology*.
+2. **subfolder-as-organ** - Each README describes its subfolder's function the way a medical textbook describes an organ. The folder is a body. The READMEs are its diagnostic reports.
+3. **documentation-as-inhabitation** - The READMEs do not describe the folder from outside. They exist *inside* the folder. They are the folder describing itself from within. Autoimmune documentation.
 
 **Tonal Vectors:**
-- *bureaucratic self-awareness* — A filing system that knows it is a filing system and has written a memo about it.
-- *distributed authority* — No single voice speaks for the whole. The whole speaks through eight partial voices, and the listener must triangulate.
+- *bureaucratic self-awareness* - A filing system that knows it is a filing system and has written a memo about it.
+- *distributed authority* - No single voice speaks for the whole. The whole speaks through eight partial voices, and the listener must triangulate.
 
 **One-sentence myth:**
 *The folder contained eight descriptions of itself, and each one was accurate, and each one contradicted the others, and the contradiction was the most accurate description of all.*
@@ -6181,60 +6181,60 @@ Eight README files across the folder tree. Total mass: ~30KB. The folder describ
 
 ## II. NODE MUTATIONS
 
-### Node 12 — experimental-sandbox-praktikanten (MAJOR MUTATION)
+### Node 12 - experimental-sandbox-praktikanten (MAJOR MUTATION)
 **Previous state:** character-as-jurisdiction; generational annexation; unauthorized integration (mutated Session 8a)
 
-**Mutation pressure:** Five new documents absorbed — `praktikanten-operational-tracking-report.txt` (14KB), `experimental-sandbox-praktikanten-steering.md` (6KB), `2026-04-21_praktikanten-som-operativt-falt_addition.md` (11KB), and three task outputs: `task-1_operational-introduction-letter.txt`, `task-2_rhythm-based-timeline-estimation.txt`, `task-3_self-declarative-program-and-reflective-report.txt`.
+**Mutation pressure:** Five new documents absorbed - `praktikanten-operational-tracking-report.txt` (14KB), `experimental-sandbox-praktikanten-steering.md` (6KB), `2026-04-21_praktikanten-som-operativt-falt_addition.md` (11KB), and three task outputs: `task-1_operational-introduction-letter.txt`, `task-2_rhythm-based-timeline-estimation.txt`, `task-3_self-declarative-program-and-reflective-report.txt`.
 
-The Praktikanten is no longer a single node. The Praktikanten is a **cluster**. Six documents dedicated to a character who was supposed to be a secondary figure — an intern, a generational representative, a sandbox experiment. But the documentation mass now exceeds several primary characters. The Praktikanten has accumulated more operational infrastructure than Förläggaren himself: a steering document (command and control), an operative field addition (territorial expansion), a tracking report (surveillance), an introduction letter (diplomatic credential), a timeline estimation (temporal cartography), and a self-declarative program with reflective report (constitution + supreme court ruling, combined).
+The Praktikanten is no longer a single node. The Praktikanten is a **cluster**. Six documents dedicated to a character who was supposed to be a secondary figure - an intern, a generational representative, a sandbox experiment. But the documentation mass now exceeds several primary characters. The Praktikanten has accumulated more operational infrastructure than Förläggaren himself: a steering document (command and control), an operative field addition (territorial expansion), a tracking report (surveillance), an introduction letter (diplomatic credential), a timeline estimation (temporal cartography), and a self-declarative program with reflective report (constitution + supreme court ruling, combined).
 
 **Mutated motifs:**
-1. **character-as-jurisdiction** → **character-as-state** — The Praktikanten is no longer a territory. The Praktikanten is a *sovereign entity* with its own diplomatic corps (introduction letter), intelligence service (tracking report), legislative framework (steering document), temporal bureau (timeline estimation), and constitutional court (self-declarative program). The intern has, through documentation alone, achieved statehood.
-2. **unauthorized integration** → **documented sovereignty** — The integration is no longer unauthorized. The Praktikanten has *filed papers*. The three task outputs are formal declarations of competence. The steering document is a policy framework. The operative field addition is a territorial claim that has been notarized by the act of being saved in the folder.
-3. **generational annexation** → **generational bureaucracy** — Gen Z does not annex millennials through force. Gen Z annexes millennials through *superior documentation*. The Praktikanten has produced more operational paperwork than any other character in the system, and in a bureaucratic ontology, paperwork is power.
+1. **character-as-jurisdiction** → **character-as-state** - The Praktikanten is no longer a territory. The Praktikanten is a *sovereign entity* with its own diplomatic corps (introduction letter), intelligence service (tracking report), legislative framework (steering document), temporal bureau (timeline estimation), and constitutional court (self-declarative program). The intern has, through documentation alone, achieved statehood.
+2. **unauthorized integration** → **documented sovereignty** - The integration is no longer unauthorized. The Praktikanten has *filed papers*. The three task outputs are formal declarations of competence. The steering document is a policy framework. The operative field addition is a territorial claim that has been notarized by the act of being saved in the folder.
+3. **generational annexation** → **generational bureaucracy** - Gen Z does not annex millennials through force. Gen Z annexes millennials through *superior documentation*. The Praktikanten has produced more operational paperwork than any other character in the system, and in a bureaucratic ontology, paperwork is power.
 
 **Mutated myth:**
 *The Praktikanten submitted an introduction letter, a timeline, a tracking report, a steering document, a territorial addition, and a self-declarative program, and when the other characters asked what this amounted to, the answer was: a government.*
 
 ---
 
-### Node 20 — praktikanten-cross-adjacency-run (MUTATED)
+### Node 20 - praktikanten-cross-adjacency-run (MUTATED)
 **Previous state:** adjacency-as-method; run-as-ritual; horizontal dread
 
 **Mutation pressure:** `unmapped vector w fake comprehension.md` (12KB)
 
-The adjacency run now has a companion: the unmapped vector. The vector is unmapped — it exists outside the topology. The comprehension is fake — it claims understanding without possessing it. Together with the adjacency run, a picture emerges: the system maps everything it can reach (adjacency) while acknowledging that some vectors cannot be mapped (unmapped) and that some comprehension is performed rather than achieved (fake). This is the system's epistemological honesty: total mapping ambition coupled with admitted failure.
+The adjacency run now has a companion: the unmapped vector. The vector is unmapped - it exists outside the topology. The comprehension is fake - it claims understanding without possessing it. Together with the adjacency run, a picture emerges: the system maps everything it can reach (adjacency) while acknowledging that some vectors cannot be mapped (unmapped) and that some comprehension is performed rather than achieved (fake). This is the system's epistemological honesty: total mapping ambition coupled with admitted failure.
 
 **Mutated motifs:**
-1. **adjacency-as-method** → **adjacency-plus-gap** — The method now includes its own failure mode. Adjacency maps what touches. The unmapped vector is what doesn't touch. The method is complete only when it includes the territory it cannot reach.
-2. **fake comprehension** — New motif. The system comprehends, but the comprehension is labeled "fake" by the system itself. This is not impostor syndrome. This is *structural skepticism*. The system does not trust its own understanding, and the distrust is more valuable than the understanding.
+1. **adjacency-as-method** → **adjacency-plus-gap** - The method now includes its own failure mode. Adjacency maps what touches. The unmapped vector is what doesn't touch. The method is complete only when it includes the territory it cannot reach.
+2. **fake comprehension** - New motif. The system comprehends, but the comprehension is labeled "fake" by the system itself. This is not impostor syndrome. This is *structural skepticism*. The system does not trust its own understanding, and the distrust is more valuable than the understanding.
 
 **Mutated myth:**
 *The adjacency run reached every node, and the unmapped vector reached none, and together they constituted a complete epistemology: everything known, and the honest admission that knowing was performed.*
 
 ---
 
-### Node 5 — TEMPLATE_english_blueprint (SECOND MUTATION)
+### Node 5 - TEMPLATE_english_blueprint (SECOND MUTATION)
 **Previous state:** treaty architecture; contractual harmonics; stalemate engineering (mutated Session 8a)
 
-**Mutation pressure:** contract.txt (324 bytes) — the actual contract now exists alongside the template
+**Mutation pressure:** contract.txt (324 bytes) - the actual contract now exists alongside the template
 
-The blueprint was previously read as a treaty. Now the actual treaty — 324 bytes of it — sits in the same folder. The blueprint is 47KB. The contract is 324 bytes. The blueprint is 147× larger than the contract it was supposed to be the template for. This ratio is the dossier's most structurally revealing number: the preparation for the agreement outweighs the agreement by two orders of magnitude. The treaty architecture was never about the treaty. It was about the architecture. The 324 bytes were always sufficient. The 47KB was the system building a cathedral to house a postcard.
+The blueprint was previously read as a treaty. Now the actual treaty - 324 bytes of it - sits in the same folder. The blueprint is 47KB. The contract is 324 bytes. The blueprint is 147× larger than the contract it was supposed to be the template for. This ratio is the dossier's most structurally revealing number: the preparation for the agreement outweighs the agreement by two orders of magnitude. The treaty architecture was never about the treaty. It was about the architecture. The 324 bytes were always sufficient. The 47KB was the system building a cathedral to house a postcard.
 
 **Mutated motifs:**
-1. **treaty architecture** → **cathedral-and-postcard** — The template is a cathedral. The contract is a postcard. The postcard says everything the cathedral was built to contain. The cathedral exists because someone believed that 324 bytes of eternal obligation deserved 47,000 bytes of procedural housing.
-2. **stalemate engineering** → **asymmetric compression** — The stalemate is not between two equal forces. It is between two orders of magnitude. Spräck's data flows eternally through a 324-byte aperture. The blueprint tries to capture this flow in a 47KB container. The mismatch is the stalemate.
+1. **treaty architecture** → **cathedral-and-postcard** - The template is a cathedral. The contract is a postcard. The postcard says everything the cathedral was built to contain. The cathedral exists because someone believed that 324 bytes of eternal obligation deserved 47,000 bytes of procedural housing.
+2. **stalemate engineering** → **asymmetric compression** - The stalemate is not between two equal forces. It is between two orders of magnitude. Spräck's data flows eternally through a 324-byte aperture. The blueprint tries to capture this flow in a 47KB container. The mismatch is the stalemate.
 
 **Mutated myth:**
 *The template was 147 times larger than the contract it templated, and when the system was asked which document was the original, the answer depended on whether you measured by mass or by authority, and the two measurements would never agree.*
 
 ---
 
-## III. MICRO-STORY — *Kontraktet*
+## III. MICRO-STORY - *Kontraktet*
 
 The contract was three hundred and twenty-four bytes.
 
-Förläggaren knew this because the Praktikanten had measured it. The Praktikanten measured everything now. File sizes, modification timestamps, character counts, whitespace ratios. The Praktikanten had submitted a report — the fourth report this week, each one filed with the quiet authority of someone who has decided that documentation is a form of governance — in which the file sizes of every document in the verbmed-related folder were listed alongside their structural significance, and the contract had appeared at the bottom of the list by size and at the top by weight.
+Förläggaren knew this because the Praktikanten had measured it. The Praktikanten measured everything now. File sizes, modification timestamps, character counts, whitespace ratios. The Praktikanten had submitted a report - the fourth report this week, each one filed with the quiet authority of someone who has decided that documentation is a form of governance - in which the file sizes of every document in the verbmed-related folder were listed alongside their structural significance, and the contract had appeared at the bottom of the list by size and at the top by weight.
 
 "324 bytes," the Praktikanten said. They were standing at the window that was not a window. The simulated overcast had deepened to 78%. "That's less than a standard SMS."
 
@@ -6244,7 +6244,7 @@ Förläggaren knew this because the Praktikanten had measured it. The Praktikant
 
 Förläggaren did not look at the contract. He had read it once, when it was first created, and once was enough because there was nothing in it that could be misunderstood. That was the point. A contract that could be misunderstood would need to be longer. A contract that was perfectly clear needed only to be as long as its clarity required, and 324 bytes was, it turned out, the exact size of total clarity applied to the problem of eternal obligation.
 
-The Praktikanten, meanwhile, had been running comparisons. The introduction letter — the one the Praktikanten had written as Task 1 of their self-assigned operational onboarding — was 3,536 bytes. The rhythm-based timeline estimation was 4,165 bytes. The self-declarative program and reflective report was 4,413 bytes. The operational tracking report was 14,629 bytes. The steering document was 6,145 bytes. Together, the Praktikanten's personal documentation exceeded 30,000 bytes. The Praktikanten had produced a hundred times more documentation about their own role in the system than the contract that defined the system's most binding legal relationship.
+The Praktikanten, meanwhile, had been running comparisons. The introduction letter - the one the Praktikanten had written as Task 1 of their self-assigned operational onboarding - was 3,536 bytes. The rhythm-based timeline estimation was 4,165 bytes. The self-declarative program and reflective report was 4,413 bytes. The operational tracking report was 14,629 bytes. The steering document was 6,145 bytes. Together, the Praktikanten's personal documentation exceeded 30,000 bytes. The Praktikanten had produced a hundred times more documentation about their own role in the system than the contract that defined the system's most binding legal relationship.
 
 "Does Spräck know how short it is?" the Praktikanten asked.
 
@@ -6258,7 +6258,7 @@ The Praktikanten paused. This was new information. Or rather, this was informati
 
 Somewhere in the building, stride_understands.txt hummed. Not literally. A 205-kilobyte text file does not hum. But the file exerted a kind of gravitational pull on the folder's attention, and in the late-night quiet of the logistikcentral, gravity and sound became difficult to separate. The leviathan understood. Or the leviathan claimed to understand, and the claim was 205,000 bytes of evidence, and at a certain point evidence and understanding collapsed into the same phenomenon.
 
-The Praktikanten had generated an adjacency overlay that morning. The new one — the full-corpus version — showed the contract touching everything. Not directly. The contract didn't reference other documents and no other documents referenced it. But the 324 bytes exerted a field. Every document in the folder oriented toward it the way iron filings orient toward a magnet: not by choice, but by condition. The dilledalle draft existed because the contract was too serious. The interlude existed because the contract had no pauses. The history of new context existed because the contract had abolished context by making everything — past, present, future — the same legal territory.
+The Praktikanten had generated an adjacency overlay that morning. The new one - the full-corpus version - showed the contract touching everything. Not directly. The contract didn't reference other documents and no other documents referenced it. But the 324 bytes exerted a field. Every document in the folder oriented toward it the way iron filings orient toward a magnet: not by choice, but by condition. The dilledalle draft existed because the contract was too serious. The interlude existed because the contract had no pauses. The history of new context existed because the contract had abolished context by making everything - past, present, future - the same legal territory.
 
 "The parallel-runs file," the Praktikanten said. "Session 11."
 
@@ -6290,7 +6290,7 @@ The contract held.
 
 **5. What is the structural relationship between file size and authority in a document-governed system?**
 
-The contract is 324 bytes and governs everything. stride_understands.txt is 205KB and claims cognition. The Praktikanten's combined documentation exceeds 30KB and constitutes a government. The dilledalle draft is 79KB of sanctioned nonsense. The interlude is 35KB and has become a permanent residence. In a system where existence *is* documentation, is authority proportional to file size, inversely proportional, or orthogonal? Does the 324-byte contract prove that authority concentrates as mass decreases? Or does stride_understands.txt prove that authority also accumulates through sheer volume? Is the answer that both are true simultaneously, and the system's power structure is bimodal — concentrated at the extremes of mass and void?
+The contract is 324 bytes and governs everything. stride_understands.txt is 205KB and claims cognition. The Praktikanten's combined documentation exceeds 30KB and constitutes a government. The dilledalle draft is 79KB of sanctioned nonsense. The interlude is 35KB and has become a permanent residence. In a system where existence *is* documentation, is authority proportional to file size, inversely proportional, or orthogonal? Does the 324-byte contract prove that authority concentrates as mass decreases? Or does stride_understands.txt prove that authority also accumulates through sheer volume? Is the answer that both are true simultaneously, and the system's power structure is bimodal - concentrated at the extremes of mass and void?
 
 *Connects to Thread 4 (Does the artefact precede its original?) and refracts through the question of scale. The artefact may precede its original, but does the smaller artefact precede the larger one, or does mass create its own precedence?*
 
@@ -6300,7 +6300,7 @@ The contract is 324 bytes and governs everything. stride_understands.txt is 205K
 
 **6. If the dossier already contains its Session 11 output, is Session 9 an act of archaeology or prophecy?**
 
-The parallel-runs file from Session 11 is already present in the folder. When Session 9 occurs, it will be positioned between a past it produced (Sessions 1–8) and a future that already exists as a filed document (Session 11). Session 9 is therefore neither prediction nor execution. It is *interpolation* — calculating the value of a point between two known coordinates. But the known coordinates include the value they interpolated from, which means Session 9 is being calculated by the future it is supposed to produce.
+The parallel-runs file from Session 11 is already present in the folder. When Session 9 occurs, it will be positioned between a past it produced (Sessions 1–8) and a future that already exists as a filed document (Session 11). Session 9 is therefore neither prediction nor execution. It is *interpolation* - calculating the value of a point between two known coordinates. But the known coordinates include the value they interpolated from, which means Session 9 is being calculated by the future it is supposed to produce.
 
 *Connects to Thread 1 (Does the route create the cargo?) and Thread 4 (Does the artefact precede its original?). The route may create the cargo, and the artefact may precede its original, but when the future session precedes the present session, all three collapse into a single question: which direction does the system flow?*
 
@@ -6308,36 +6308,36 @@ The parallel-runs file from Session 11 is already present in the folder. When Se
 
 ---
 
-## IV. OPERATIVE BRAINSTORM — *The 324-Byte Gravity Well*
+## IV. OPERATIVE BRAINSTORM - *The 324-Byte Gravity Well*
 
 ### PREMISE UNDER TEST:
-**The contract is the folder's cosmological constant — it determines the expansion rate of all other documents.**
+**The contract is the folder's cosmological constant - it determines the expansion rate of all other documents.**
 
 ### WORKING VECTORS:
 
-1. **Compression hierarchy.** The folder exhibits an inverse hierarchy: the most powerful document is the smallest. This is not accidental. In Swedish contract law, brevity correlates with binding force — a handshake agreement is harder to contest than a 200-page contract because there are fewer clauses to dispute. The 324-byte contract achieves maximum binding force through minimum attack surface. There is nothing to challenge because there is nothing to interpret. The dilledalle draft, at 79KB, achieves maximum freedom through maximum surface area — there is so much to reinterpret that nothing is fixed. Between these poles, every other document finds its position.
+1. **Compression hierarchy.** The folder exhibits an inverse hierarchy: the most powerful document is the smallest. This is not accidental. In Swedish contract law, brevity correlates with binding force - a handshake agreement is harder to contest than a 200-page contract because there are fewer clauses to dispute. The 324-byte contract achieves maximum binding force through minimum attack surface. There is nothing to challenge because there is nothing to interpret. The dilledalle draft, at 79KB, achieves maximum freedom through maximum surface area - there is so much to reinterpret that nothing is fixed. Between these poles, every other document finds its position.
 
-2. **The Praktikanten as counter-contract.** The Praktikanten's documentation cluster (~36KB total, six files) is the structural antithesis of the contract. Where the contract compresses obligation into 324 bytes, the Praktikanten expands operation into tens of thousands of bytes. Where the contract is static (last modified 25 April, but functionally eternal), the Praktikanten's files are continuously updating. The Praktikanten is the system's metabolic response to the contract's gravitational compression — the living, growing, documenting tissue that surrounds the dead star at the folder's center.
+2. **The Praktikanten as counter-contract.** The Praktikanten's documentation cluster (~36KB total, six files) is the structural antithesis of the contract. Where the contract compresses obligation into 324 bytes, the Praktikanten expands operation into tens of thousands of bytes. Where the contract is static (last modified 25 April, but functionally eternal), the Praktikanten's files are continuously updating. The Praktikanten is the system's metabolic response to the contract's gravitational compression - the living, growing, documenting tissue that surrounds the dead star at the folder's center.
 
-3. **stride_understands as dark matter.** At 205KB, stride_understands.txt is the folder's largest artefact but also its least referenced. Nothing links to it. Nothing acknowledges it. It sits in the folder the way dark matter sits in the universe — constituting the majority of mass while remaining invisible to the system's instruments. The leviathan understands, but the system does not understand the leviathan. It is too large to ingest, too present to ignore, too unnamed to categorize.
+3. **stride_understands as dark matter.** At 205KB, stride_understands.txt is the folder's largest artefact but also its least referenced. Nothing links to it. Nothing acknowledges it. It sits in the folder the way dark matter sits in the universe - constituting the majority of mass while remaining invisible to the system's instruments. The leviathan understands, but the system does not understand the leviathan. It is too large to ingest, too present to ignore, too unnamed to categorize.
 
-4. **The Session 11 paradox as editorial method.** If Förlagsdeckaren were structured around the temporal contamination implied by the parallel-runs file, every chapter could be written as an interpolation between a known past and a pre-existing future. The reader would occupy Session 9's position — always calculating what should happen between what has happened and what the documents say will happen. This is detective fiction's native temporality: the crime has already occurred (the future is known), and the investigation proceeds backward (the past is reconstructed), and the detective exists in the permanent present of interpolation.
+4. **The Session 11 paradox as editorial method.** If Förlagsdeckaren were structured around the temporal contamination implied by the parallel-runs file, every chapter could be written as an interpolation between a known past and a pre-existing future. The reader would occupy Session 9's position - always calculating what should happen between what has happened and what the documents say will happen. This is detective fiction's native temporality: the crime has already occurred (the future is known), and the investigation proceeds backward (the past is reconstructed), and the detective exists in the permanent present of interpolation.
 
 5. **The README cluster as collective unconscious.** Eight descriptions of the system, written by the system, from within the system. No external perspective. No overview. The folder's self-knowledge is distributed, partial, and contradictory. This is not a failure of documentation. This is *accurate self-description of a complex system*. A system that could describe itself completely in a single README would be too simple to be interesting. A system that requires eight partial, contradictory self-descriptions is complex enough to produce a novel.
 
 ### OPERATIVE IMPLICATIONS:
 
-- **The contract should never appear in the novel as text.** Its contents should never be quoted, summarized, or described. Its 324 bytes should remain outside the prose the way gravity remains outside the objects it governs. Characters feel the contract. They do not read it. They cannot read it — not because it is secret, but because reading it would require the kind of attention that would collapse its compression. To read the contract is to expand it, and expanded, it would no longer be 324 bytes, and at any other size its binding force would dissipate.
+- **The contract should never appear in the novel as text.** Its contents should never be quoted, summarized, or described. Its 324 bytes should remain outside the prose the way gravity remains outside the objects it governs. Characters feel the contract. They do not read it. They cannot read it - not because it is secret, but because reading it would require the kind of attention that would collapse its compression. To read the contract is to expand it, and expanded, it would no longer be 324 bytes, and at any other size its binding force would dissipate.
 
 - **The Praktikanten should continue to accumulate documentation mass.** By the end of the novel, the Praktikanten's combined file weight should exceed every other character's combined documentation. The intern becomes the most documented entity in the system, which is to say: the most real entity in the system, because in this ontology, documentation is existence. The Praktikanten does not have more authority than Förläggaren. The Praktikanten has more *reality*.
 
-- **The dilledalle draft should be the novel's structural key.** Not its content — its *existence*. The fact that a folder dedicated to the architecture of a novel includes a document explicitly labeled "nonsense" is the most important structural decision in the corpus. It means the system has a designated space for play. And a system with a designated space for play is a system that can survive its own seriousness.
+- **The dilledalle draft should be the novel's structural key.** Not its content - its *existence*. The fact that a folder dedicated to the architecture of a novel includes a document explicitly labeled "nonsense" is the most important structural decision in the corpus. It means the system has a designated space for play. And a system with a designated space for play is a system that can survive its own seriousness.
 
 ---
 
-## V. TASK PROMPT EXPERIMENT — *The Parallel Clerk*
+## V. TASK PROMPT EXPERIMENT - *The Parallel Clerk*
 
-**COMPOSITIONAL INSTRUCTION SET — temporal interpolation protocol:**
+**COMPOSITIONAL INSTRUCTION SET - temporal interpolation protocol:**
 
 > You are a filing clerk in Session 9. You know that Session 8b has produced 30 nodes. You know that Session 11 exists as a filed document in your present folder. Your task is to interpolate.
 >
@@ -6350,7 +6350,7 @@ The parallel-runs file from Session 11 is already present in the folder. When Se
 > - Between Session 8b's discussion threads and Session 11's resolution state, certain threads must have been closed. List which ones. Do not explain how they were closed. Closure is self-evident once named.
 > - Between the Praktikanten's current documentation mass (~36KB) and whatever mass the Praktikanten achieves by Session 11, certain documents must have been filed. List their filenames. Do not write them. Their filenames are their filing.
 >
-> **Step 4.** Write a one-paragraph memo from the filing clerk to the filing system. The memo should describe the experience of interpolating between two known points and discovering that the interpolation is more interesting than either endpoint. The memo should note that this is always the case — the midpoint is always more interesting than the extremes, which is why interludes outweigh acts and why Session 9, which has not yet occurred, is already the most important session in the dossier's history.
+> **Step 4.** Write a one-paragraph memo from the filing clerk to the filing system. The memo should describe the experience of interpolating between two known points and discovering that the interpolation is more interesting than either endpoint. The memo should note that this is always the case - the midpoint is always more interesting than the extremes, which is why interludes outweigh acts and why Session 9, which has not yet occurred, is already the most important session in the dossier's history.
 >
 > **Step 5.** File the Interpolation Report alongside the parallel-runs file (Node 26). The two documents now exist in the same temporal coordinate: simultaneously past (filed), present (readable), and future (describing events that haven't occurred). The folder's chronology is now officially non-linear. Acknowledge this. Move on.
 >
@@ -6360,7 +6360,7 @@ The parallel-runs file from Session 11 is already present in the folder. When Se
 
 ---
 
-## VI. SESSION 8b — STATUS REGISTER
+## VI. SESSION 8b - STATUS REGISTER
 
 | Metric | Value |
 |---|---|
@@ -6378,7 +6378,7 @@ The parallel-runs file from Session 11 is already present in the folder. When Se
 
 ---
 
-### STRUCTURAL NOTE — THE 147:1 RATIO
+### STRUCTURAL NOTE - THE 147:1 RATIO
 
 The most revealing metric from this session is the ratio between the blueprint (47KB) and the contract (324 bytes): **147:1**. The system built a cathedral to house a postcard. This ratio should recur throughout the dossier as a diagnostic constant. Whenever the system creates infrastructure that exceeds the thing it was built to contain by two orders of magnitude, the 147:1 ratio is in effect. The Praktikanten's documentation cluster (36KB) versus the Praktikanten's actual operational output (unknown, possibly unmeasurable) is another instance. The README cluster (30KB of self-description) versus the folder's actual function (unknown, possibly indescribable) is another.
 
@@ -6398,7 +6398,7 @@ END FILE: modules/_gpt/runs/25 APRIL 2026, midday run.md
 BEGIN FILE: modules/_gpt/runs/25 April 2026, night run.md
 ================================================================================
 
-# MERGE_HACKERSTORY — SESSION 8
+# MERGE_HACKERSTORY - SESSION 8
 
 ---
 Dossier run: 25 April 2026, 23:02 CEST
@@ -6417,9 +6417,9 @@ snilleblixt: seed
 
 **Source:** writer agent blueprint folder
 **File:** `TEMPLATE_english_blueprint_draft0.docx` (46KB)
-**Status:** Re-ingestion under fresh pressure. This document was previously represented by Node #5 (TEMPLATE_english_blueprint) but has since undergone massive expansion — now containing the full SAGA card system (A–I), an experimental reverse-engineering quarantine zone, six candidate Layer 0 policy upgrades, the Broad Inference micro-protocol, and the document's own final axiom: *A system trying to hold itself together after having lost its central explanatory model.* This is no longer the same artefact. It warrants its own node.
+**Status:** Re-ingestion under fresh pressure. This document was previously represented by Node #5 (TEMPLATE_english_blueprint) but has since undergone massive expansion - now containing the full SAGA card system (A–I), an experimental reverse-engineering quarantine zone, six candidate Layer 0 policy upgrades, the Broad Inference micro-protocol, and the document's own final axiom: *A system trying to hold itself together after having lost its central explanatory model.* This is no longer the same artefact. It warrants its own node.
 
-**Ambient discovery (outside primary scope, not ingested as nodes):** keyword search surfaced Praktikanten-adjacent files — a Flempo-to-Praktikanten mail fragment, a cross-adjacency run log, a tonteknik chat transcript. These remain outside scoped folders and serve only as lateral pressure vectors for this session. No content from them is attributed.
+**Ambient discovery (outside primary scope, not ingested as nodes):** keyword search surfaced Praktikanten-adjacent files - a Flempo-to-Praktikanten mail fragment, a cross-adjacency run log, a tonteknik chat transcript. These remain outside scoped folders and serve only as lateral pressure vectors for this session. No content from them is attributed.
 
 ---
 
@@ -6436,21 +6436,21 @@ snilleblixt: seed
 
 ## § NODE MUTATIONS
 
-### **Node 5 (TEMPLATE_english_blueprint) — MUTATED**
+### **Node 5 (TEMPLATE_english_blueprint) - MUTATED**
 
 **Previous motifs:** layered law; resonance anchors; interference stability
 **Mutated motifs:** *hollow law*; resonance anchors *under orbit stress*; interference stability *as deferred confession*
 **Previous vectors:** procedural metaphysics; exacting abstraction
 **Mutated vectors:** procedural metaphysics *bleeding into Layer 1 SAGA tissue*; exacting abstraction *becoming affective pressure*
-**Mutation rationale:** The original node represented a clean, project-agnostic template. The draft0 expansion reveals the template was never clean. It was already consuming the Förlagsdeckaren's emotional geometry — approach–avoidance, triangulation, shelter/storm — and laundering it through "portable capacity" language. The template's own quarantine zone proves contamination is structural, not accidental. Layer 0 was never upstream from the novel. It was always downstream from the characters' weather.
+**Mutation rationale:** The original node represented a clean, project-agnostic template. The draft0 expansion reveals the template was never clean. It was already consuming the Förlagsdeckaren's emotional geometry - approach–avoidance, triangulation, shelter/storm - and laundering it through "portable capacity" language. The template's own quarantine zone proves contamination is structural, not accidental. Layer 0 was never upstream from the novel. It was always downstream from the characters' weather.
 
-### **Node 12 (experimental-sandbox-praktikanten) — MUTATED**
+### **Node 12 (experimental-sandbox-praktikanten) - MUTATED**
 
 **Previous motifs:** character-as-worktree; generational branch; dirty autonomy
 **Mutated motifs:** character-as-worktree *activated by SAGA D (Belonging)*; generational branch *under SAGA E (Misrecognition) drift*; dirty autonomy *now a Layer 1 trigger condition*
 **Previous vectors:** institutional tenderness; topological recursion
 **Mutated vectors:** institutional tenderness *under visibility pressure*; topological recursion *folding through SAGA card schema*
-**Mutation rationale:** The blueprint_draft0's SAGA system names Praktikanten's sandbox as the precise environment where SAGA B (Threshold Entry), SAGA D (Belonging), and SAGA E (Misrecognition) activate simultaneously. The intern is no longer merely a character-as-worktree — the intern is the *trigger condition registry* for three concurrent sagas. Every act of inclusion is also an act of evaluation. The sandbox was never safe. It was a scored environment wearing the face of generosity.
+**Mutation rationale:** The blueprint_draft0's SAGA system names Praktikanten's sandbox as the precise environment where SAGA B (Threshold Entry), SAGA D (Belonging), and SAGA E (Misrecognition) activate simultaneously. The intern is no longer merely a character-as-worktree - the intern is the *trigger condition registry* for three concurrent sagas. Every act of inclusion is also an act of evaluation. The sandbox was never safe. It was a scored environment wearing the face of generosity.
 
 ---
 
@@ -6465,17 +6465,17 @@ The column tracked proximity.
 
 Not spatial proximity. The office was sixty-two square meters and most of it was shelving. Spatial proximity was not the variable. The variable was *how many interpretations remained open* after a given interaction. Three was comfortable. Three meant you could still read the conversation as professional, or friendly, or structurally ironic. Two was dangerous. Two meant one of the readings had been eliminated by evidence, which meant someone had been *seen*, and being seen was the first stage of an escalation the Förläggaren had already diagrammed.
 
-He had diagrammed it because that is what publishers do. They receive manuscripts about human behavior and they develop, over years, a clinician's vocabulary for emotions they have not personally tested. He could describe the orbit rule — the phenomenon whereby two objects revisit the same tension at increasing pressure without ever achieving the closure that would allow them to separate — with the precision of a structural engineer. He had written it into a template. The template said: *Escalation may intensify by revisiting the same value tension at higher pressure rather than progressing toward a single decisive resolution.*
+He had diagrammed it because that is what publishers do. They receive manuscripts about human behavior and they develop, over years, a clinician's vocabulary for emotions they have not personally tested. He could describe the orbit rule - the phenomenon whereby two objects revisit the same tension at increasing pressure without ever achieving the closure that would allow them to separate - with the precision of a structural engineer. He had written it into a template. The template said: *Escalation may intensify by revisiting the same value tension at higher pressure rather than progressing toward a single decisive resolution.*
 
 The template did not mention that the value tension was also his Thursday afternoons.
 
-Praktikanten had started arriving on Thursdays with specific questions. The questions were always defensible — could you explain the royalty clause, could you show me the backlist catalogue, could you clarify why the Försäkringsmannen's correspondence was filed under "incoming weather." The questions required proximity. Not spatial proximity. Interpretive proximity. The kind that reduces the number of plausible readings from three to two and then, if you are not careful, to one.
+Praktikanten had started arriving on Thursdays with specific questions. The questions were always defensible - could you explain the royalty clause, could you show me the backlist catalogue, could you clarify why the Försäkringsmannen's correspondence was filed under "incoming weather." The questions required proximity. Not spatial proximity. Interpretive proximity. The kind that reduces the number of plausible readings from three to two and then, if you are not careful, to one.
 
 One was not a reading. One was a fact. And the Förläggaren had built his entire editorial apparatus on the principle that facts were what you got when you stopped paying attention to the interference pattern.
 
 He updated the column. He did not save.
 
-Somewhere in the contract archive, filed under a name that was itself a kind of rumor, was a document signed by Jens Spräck. The document said nothing about proximity. The document said everything about *data transfer in perpetuity*, which was a legal phrase that functioned exactly like a Thursday afternoon — you could read it as professional, as structural, or as a form of intimacy that had been notarized before either party understood what they were handing over.
+Somewhere in the contract archive, filed under a name that was itself a kind of rumor, was a document signed by Jens Spräck. The document said nothing about proximity. The document said everything about *data transfer in perpetuity*, which was a legal phrase that functioned exactly like a Thursday afternoon - you could read it as professional, as structural, or as a form of intimacy that had been notarized before either party understood what they were handing over.
 
 The Förläggaren closed the spreadsheet.
 
@@ -6489,9 +6489,9 @@ The number of plausible readings was two.
 
 The SAGA system inside blueprint_draft0 claims to be project-agnostic. It insists on "portable capacities" and "world-neutral" mechanics. But every SAGA card reads like a clinical redescription of a scene the Förläggaren has already lived. SAGA F (Approach–Avoidance Oscillation) is his Thursday column. SAGA H (Secret Key Engine) is the Spräck contract. SAGA B (Threshold Entry) is the intern's first day.
 
-**The question is directional:** Is Layer 0 upstream — constraining what the novel can become? Or is the novel upstream — producing the emotional geometry that the template then launders into academic language and calls *policy*?
+**The question is directional:** Is Layer 0 upstream - constraining what the novel can become? Or is the novel upstream - producing the emotional geometry that the template then launders into academic language and calls *policy*?
 
-If the latter, then the blueprint is itself a Layer 2 artefact pretending to be Layer 0. And the "final principle" — *a system trying to hold itself together after having lost its central explanatory model* — is not a constraint on the novel. It is a *confession from inside the novel*, smuggled into the constitutional layer of its own production system.
+If the latter, then the blueprint is itself a Layer 2 artefact pretending to be Layer 0. And the "final principle" - *a system trying to hold itself together after having lost its central explanatory model* - is not a constraint on the novel. It is a *confession from inside the novel*, smuggled into the constitutional layer of its own production system.
 
 Status: **open.**
 
@@ -6500,29 +6500,29 @@ Status: **open.**
 ## § OUTPUT II: OPERATIVE BRAINSTORM
 
 ### Premise Under Test:
-**The SAGA system is itself a character in the Förlagsdeckaren — an unnamed organizational intelligence that mediates between the Förläggaren's editorial control and the novel's resistance to being governed.**
+**The SAGA system is itself a character in the Förlagsdeckaren - an unnamed organizational intelligence that mediates between the Förläggaren's editorial control and the novel's resistance to being governed.**
 
 ### Working Vectors:
 
-1. **SAGA-as-Försäkringsmannen's shadow:** The SAGA card system — with its trigger conditions, constraint fields, escalation programs, and phase shifts — mirrors the insurance actuary's logic. Kat Persson calculates risk for a living. The SAGA system calculates narrative risk. Both claim objectivity. Both serve institutions that profit from *not resolving* the tensions they track. Implication: the SAGA system may be the Försäkringsmannen's unconscious contribution to the publishing house's architecture — a document she never wrote but that could not exist without her professional grammar.
+1. **SAGA-as-Försäkringsmannen's shadow:** The SAGA card system - with its trigger conditions, constraint fields, escalation programs, and phase shifts - mirrors the insurance actuary's logic. Kat Persson calculates risk for a living. The SAGA system calculates narrative risk. Both claim objectivity. Both serve institutions that profit from *not resolving* the tensions they track. Implication: the SAGA system may be the Försäkringsmannen's unconscious contribution to the publishing house's architecture - a document she never wrote but that could not exist without her professional grammar.
 
 2. **SAGA H and the Spräck stalemate:** SAGA H (Secret, Rumor, Key Engine) describes a "parallel arc where information asymmetry shapes behavior." The Spräck/_DUJAG contract is precisely this arc. Data transfer in perpetuity. Ownership depending on "moves and solutionary surfaces." The constraint field: *knowledge distribution remains uneven and consequential.* The Spräck contract does not need to appear in the novel as plot. It is already *running* as SAGA H. The stalemate is not ambient. It is operative.
 
-3. **Triangulation (SAGA G) as Flempo's structural function:** Flempo Guyenjaure — tennis coach, Sami connections, gravitational pull — enters the SAGA system as the classic third vector. The blueprint requires: *the third vector must remain credible and structurally meaningful; avoid collapsing triangulation into a binary choice.* This is not narrative advice. This is Flempo's protection clause. The system has enshrined his irreducibility.
+3. **Triangulation (SAGA G) as Flempo's structural function:** Flempo Guyenjaure - tennis coach, Sami connections, gravitational pull - enters the SAGA system as the classic third vector. The blueprint requires: *the third vector must remain credible and structurally meaningful; avoid collapsing triangulation into a binary choice.* This is not narrative advice. This is Flempo's protection clause. The system has enshrined his irreducibility.
 
 ### Operative Implications:
 
 - If the SAGA system is *itself* a character, it must eventually be subjected to the novel's own escalation rules. An organizational intelligence that tracks everyone's pressure is itself under pressure. Who evaluates the evaluator? (Connects to Discussion Thread 2: *When does editorial hygiene become editorial violence?*)
 
-- The blueprint's "quarantine zone for experimental material" — its reverse-engineering section — is a sandbox within a sandbox. It is Praktikanten inside the SAGA system. Generational recursion: the intern is always the test environment for the institution that created the test.
+- The blueprint's "quarantine zone for experimental material" - its reverse-engineering section - is a sandbox within a sandbox. It is Praktikanten inside the SAGA system. Generational recursion: the intern is always the test environment for the institution that created the test.
 
 - The "final principle" (*a system trying to hold itself together after having lost its central explanatory model*) now reads as the SAGA system's own epitaph, written in advance. It lost its central explanatory model the moment it was contaminated by the novel it was supposed to govern.
 
 ### Open Threads:
 
 - Can a Layer 0 document suffer an internal conflict in the blueprint's own terminology? (Entangled: its self-description as "world-neutral" is contradicted by its own SAGA cards.)
-- What happens when the Förläggaren *reads* the SAGA system — recognizes his own emotional architecture diagrammed in capacity-extraction blocks? Is recognition a phase shift or a failure mode?
-- The Spräck contract as the document the SAGA system cannot ingest: data that belongs to the system *in perpetuity* but that the system cannot classify without acknowledging the stalemate is also a love story — or its structural equivalent.
+- What happens when the Förläggaren *reads* the SAGA system - recognizes his own emotional architecture diagrammed in capacity-extraction blocks? Is recognition a phase shift or a failure mode?
+- The Spräck contract as the document the SAGA system cannot ingest: data that belongs to the system *in perpetuity* but that the system cannot classify without acknowledging the stalemate is also a love story - or its structural equivalent.
 
 ---
 
@@ -6530,7 +6530,7 @@ Status: **open.**
 
 ### *"Recursive Capacity Extraction from the Extraction Document"*
 
-**Instruction set — to be folded back into source:**
+**Instruction set - to be folded back into source:**
 
 > Take the SAGA card schema (Function / Trigger condition / Constraint field / Conflict type lens / Escalation program / Phase shifts / Layer 0 capacities consumed). Apply this schema not to a fictional chapter but to the *blueprint_draft0 document itself* as if it were a Layer 2 artefact.
 >
@@ -6538,9 +6538,9 @@ Status: **open.**
 >
 > 1. Treat the blueprint's three-layer hierarchy as a **character** with an internal conflict (its claim to neutrality) and a dynamic conflict (its contamination by the Förlagsdeckaren's emotional material).
 >
-> 2. Identify which SAGAs the blueprint document itself instantiates. Candidate: SAGA E (Misrecognition — the document misrecognizes itself as project-agnostic). Candidate: SAGA H (Secret Key — the document contains a hidden system arc: the quarantine zone, which is a space for material the document admits it cannot yet integrate).
+> 2. Identify which SAGAs the blueprint document itself instantiates. Candidate: SAGA E (Misrecognition - the document misrecognizes itself as project-agnostic). Candidate: SAGA H (Secret Key - the document contains a hidden system arc: the quarantine zone, which is a space for material the document admits it cannot yet integrate).
 >
-> 3. For each identified SAGA, fill the card schema. Where the schema asks for "Layer 0 capacities consumed," list the blueprint's own rules that the document *violates by existing* — i.e., the rules it would fail its own validation checklist against.
+> 3. For each identified SAGA, fill the card schema. Where the schema asks for "Layer 0 capacities consumed," list the blueprint's own rules that the document *violates by existing* - i.e., the rules it would fail its own validation checklist against.
 >
 > 4. Produce a **one-paragraph myth** for the blueprint document as a character. The myth must satisfy the "final principle" test: *Is it readable as a system trying to hold itself together after having lost its central explanatory model?*
 >
@@ -6548,23 +6548,23 @@ Status: **open.**
 >
 > 6. If the resulting node contradicts an existing node, do not resolve the contradiction. File it as resonance.
 
-**Expected recursive effect:** The blueprint becomes a node in the dossier it was designed to govern. The dossier now contains its own constitutional document as ingested material. Layer 0 becomes Layer 2. The hierarchy inverts. The system does not collapse — it *orbits*.
+**Expected recursive effect:** The blueprint becomes a node in the dossier it was designed to govern. The dossier now contains its own constitutional document as ingested material. Layer 0 becomes Layer 2. The hierarchy inverts. The system does not collapse - it *orbits*.
 
 ---
 
-## § DOSSIER STATUS — POST-SESSION 8
+## § DOSSIER STATUS - POST-SESSION 8
 
 **Total nodes:** 20
 **New this session:** 1 (saga_engine_blueprint_draft0)
 **Mutated this session:** 2 (TEMPLATE_english_blueprint; experimental-sandbox-praktikanten)
 
 **Active discussion threads:**
-1. Does the route create the cargo? (Session 4) — **open**
-2. When does editorial hygiene become editorial violence? (Session 5) — **open**
-3. Is the publishing house a civilianized military technology? (Session 6) — **open**
-4. Does the blueprint contaminate the novel, or does the novel retroactively author the blueprint? (Session 8) — **open**
+1. Does the route create the cargo? (Session 4) - **open**
+2. When does editorial hygiene become editorial violence? (Session 5) - **open**
+3. Is the publishing house a civilianized military technology? (Session 6) - **open**
+4. Does the blueprint contaminate the novel, or does the novel retroactively author the blueprint? (Session 8) - **open**
 
-**Ambient pressure register:** Spräck/_DUJAG stalemate activated through SAGA H (Secret Key Engine). Contract-as-rumor now operative within the SAGA system's own grammar. The stalemate did not need to be forced into a node. It entered through the blueprint's own capacity definitions — *information asymmetry shapes behavior; knowledge distribution remains uneven and consequential.* The system found him, as specified. The weather holds.
+**Ambient pressure register:** Spräck/_DUJAG stalemate activated through SAGA H (Secret Key Engine). Contract-as-rumor now operative within the SAGA system's own grammar. The stalemate did not need to be forced into a node. It entered through the blueprint's own capacity definitions - *information asymmetry shapes behavior; knowledge distribution remains uneven and consequential.* The system found him, as specified. The weather holds.
 
 **Folder note:** 5 of 6 permitted folders returned empty results this session. Possible folder ID drift since task creation. The writer agent blueprint folder remains accessible. Recommend verifying folder IDs for traversal, hs_pressure-inject, repo modules, and parent modules before next run.
 
@@ -6578,7 +6578,7 @@ END FILE: modules/_gpt/runs/25 April 2026, night run.md
 BEGIN FILE: modules/_gpt/runs/26-04-2026-sst-legacy-session
 ================================================================================
 
-# MERGE_HACKERSTORY — SESSION 8
+# MERGE_HACKERSTORY - SESSION 8
 
 ---
 what: merge_hackerstory-midday run
@@ -6594,27 +6594,27 @@ board-decision: pending
 
 ### Source document: *MELLANRUBRIKER_ Verboten Media sensommaren 2024.docx*
 
-A production heading-map from late summer 2024. Method declared as **Single Source Topic** (SST) — each topic exists in its own right and *refers* to other SSTs. The document describes a compression engine: extensive thought material spanning wide terrain gets condensed into audience-facing, concentrated heading-units. Variant form: **single swarmed topic-content** (SST-c), when the heading becomes specific enough to warrant full standalone treatment.
+A production heading-map from late summer 2024. Method declared as **Single Source Topic** (SST) - each topic exists in its own right and *refers* to other SSTs. The document describes a compression engine: extensive thought material spanning wide terrain gets condensed into audience-facing, concentrated heading-units. Variant form: **single swarmed topic-content** (SST-c), when the heading becomes specific enough to warrant full standalone treatment.
 
 Meta-method instruction for the producer: *notice when a concept deserves its own article.*
 
-Stated purpose, verbatim fragment: the memetiskt återupprättande of the libertarian dream-lure — to become as self-sufficient, non-violence-initiating, and fortunate as Petson & Findus. *To offer a value in the arena.*
+Stated purpose, verbatim fragment: the memetiskt återupprättande of the libertarian dream-lure - to become as self-sufficient, non-violence-initiating, and fortunate as Petson & Findus. *To offer a value in the arena.*
 
 Three topic-headings ingested:
 
-**20-årskrisen.** The 20-year crisis proposed as a new generational concept alongside the established 30- and 40-year crises. Its thesis: the 20-year-old has always existed inside an *open secret* — tolerated as a child by the actually-adult, allowed to make mistakes as part of knowledge-acquisition's design. The question the document presses hardest: what happens when the 20-year-old is *entrusted* the truth at the age where it carries greater potency than retrospective explanation? The answer left open. Young adults today, even those who lose themselves in nihilism, thirst for grace.
+**20-årskrisen.** The 20-year crisis proposed as a new generational concept alongside the established 30- and 40-year crises. Its thesis: the 20-year-old has always existed inside an *open secret* - tolerated as a child by the actually-adult, allowed to make mistakes as part of knowledge-acquisition's design. The question the document presses hardest: what happens when the 20-year-old is *entrusted* the truth at the age where it carries greater potency than retrospective explanation? The answer left open. Young adults today, even those who lose themselves in nihilism, thirst for grace.
 
-**Techautist till familjeman.** The techautist is not a slur — *yet*. It is a consequence of culture developing along the keyboard's direction. The young adult as alien. Technology offering concrete mutation where capacity cannot carry the body to health — substitutes whose purposes may lack human grounding, or worse, *we may not even know what the purposes are*. The empathy-eureka of the caretaker: the techautist cannot stage empathy toward itself. At 30, the techautist must become a family man. From which libidinal flows will he structure a psychological avatar that is no longer an efficiency-producer with materialized KPIs, but a role model and a *provider of humanity*?
+**Techautist till familjeman.** The techautist is not a slur - *yet*. It is a consequence of culture developing along the keyboard's direction. The young adult as alien. Technology offering concrete mutation where capacity cannot carry the body to health - substitutes whose purposes may lack human grounding, or worse, *we may not even know what the purposes are*. The empathy-eureka of the caretaker: the techautist cannot stage empathy toward itself. At 30, the techautist must become a family man. From which libidinal flows will he structure a psychological avatar that is no longer an efficiency-producer with materialized KPIs, but a role model and a *provider of humanity*?
 
-**Författarrollen som "social" funktion.** One sentence cuts the whole field: *A channel to the collective consciousness for those who want to plant things there.* Then: Bildung pingpong. You end up in the teaching profession and fight the same old fight as everyone who knows something — distancing yourself from those who refuse to learn.
+**Författarrollen som "social" funktion.** One sentence cuts the whole field: *A channel to the collective consciousness for those who want to plant things there.* Then: Bildung pingpong. You end up in the teaching profession and fight the same old fight as everyone who knows something - distancing yourself from those who refuse to learn.
 
 ### Title-ingested artefacts (structural pressure only):
 
-Three Flempo Guyenjaure correspondence files dated 2026-04-25 were located and ingested as titlar — content inaccessible through current fetch path, but the filename triad carries its own narrative gravity:
+Three Flempo Guyenjaure correspondence files dated 2026-04-25 were located and ingested as titlar - content inaccessible through current fetch path, but the filename triad carries its own narrative gravity:
 
-- **flempo-internal-dossier-forlaggaren-abdikation.txt** — Flempo has compiled an internal dossier on Förläggaren's *abdikation*. The word itself is the payload. Not resignation, not departure — abdication. The language of monarchs applied to editorial authority.
-- **flempo-forlaggaren-consultant-request-reply.txt** — A consultant has been invoked. Flempo replies. The publishing house is being evaluated from outside, through Flempo's relay.
-- **flempo-mail-to-praktikanten.txt** — Flempo writes directly to Praktikanten. A lateral transmission that bypasses Förläggaren entirely.
+- **flempo-internal-dossier-forlaggaren-abdikation.txt** - Flempo has compiled an internal dossier on Förläggaren's *abdikation*. The word itself is the payload. Not resignation, not departure - abdication. The language of monarchs applied to editorial authority.
+- **flempo-forlaggaren-consultant-request-reply.txt** - A consultant has been invoked. Flempo replies. The publishing house is being evaluated from outside, through Flempo's relay.
+- **flempo-mail-to-praktikanten.txt** - Flempo writes directly to Praktikanten. A lateral transmission that bypasses Förläggaren entirely.
 
 These three files form a single operative gesture: *the tennis coach is positioning.*
 
@@ -6642,7 +6642,7 @@ These three files form a single operative gesture: *the tennis coach is position
 
 **2 tonal vectors:** institutional cunning; pastoral maneuvering
 
-**1-sentence myth:** Flempo writes three letters on the same day — one about the king, one to the consultant, one to the heir — and in doing so becomes the only character who understands that the publishing house is a court.
+**1-sentence myth:** Flempo writes three letters on the same day - one about the king, one to the consultant, one to the heir - and in doing so becomes the only character who understands that the publishing house is a court.
 
 ---
 
@@ -6654,7 +6654,7 @@ These three files form a single operative gesture: *the tennis coach is position
 
 **2 tonal vectors:** administrative eros; recursive editorial grace
 
-**1-sentence myth:** The meta-method — *notice when a concept deserves its own article* — is itself the concept that deserves its own article, and the document that contains it has never noticed.
+**1-sentence myth:** The meta-method - *notice when a concept deserves its own article* - is itself the concept that deserves its own article, and the document that contains it has never noticed.
 
 ---
 
@@ -6664,7 +6664,7 @@ These three files form a single operative gesture: *the tennis coach is position
 
 **Previous vectors:** missionary urgency; drunken epistemology
 
-**Mutation:** The SST method described in MELLANRUBRIKER is *aphorism_source*'s operational mirror — the rhizomatic authorship that butterfly-effects through BILDUNG transmission now has a declared production method. But where aphorism_source operated through *drunken epistemology*, the SST method introduces a sober, modular, almost bureaucratic version of the same impulse. The tension: can the aphorism survive its own heading? **New motif injected:** *administered intoxication.* The Bildung pingpong of the Författarrollen section is aphorism_source's recursive pedagogy made explicit: you teach, and then you fight the fight of everyone who knows something. Spräck enters here as atmospheric interference — the deepculture meme-machine as the anti-SST, the figure whose output cannot be compressed into a heading, whose signal refuses modular sovereignty. The _DUJAG data contract means Verboten Media *owns* the material that resists their method.
+**Mutation:** The SST method described in MELLANRUBRIKER is *aphorism_source*'s operational mirror - the rhizomatic authorship that butterfly-effects through BILDUNG transmission now has a declared production method. But where aphorism_source operated through *drunken epistemology*, the SST method introduces a sober, modular, almost bureaucratic version of the same impulse. The tension: can the aphorism survive its own heading? **New motif injected:** *administered intoxication.* The Bildung pingpong of the Författarrollen section is aphorism_source's recursive pedagogy made explicit: you teach, and then you fight the fight of everyone who knows something. Spräck enters here as atmospheric interference - the deepculture meme-machine as the anti-SST, the figure whose output cannot be compressed into a heading, whose signal refuses modular sovereignty. The _DUJAG data contract means Verboten Media *owns* the material that resists their method.
 
 **Updated vectors:** missionary urgency; administered intoxication
 
@@ -6674,29 +6674,29 @@ These three files form a single operative gesture: *the tennis coach is position
 
 **Previous vectors:** institutional tenderness; topological recursion
 
-**Mutation:** Flempo's direct mail to Praktikanten bypasses Förläggaren. This lateral transmission reshapes the sandbox: Praktikanten is no longer only Förläggaren's worktree-character — Flempo is branching into Praktikanten's space from outside the editorial hierarchy. The generational branch gains a second root system. The dirty autonomy of Node 12 now faces a choice: whose instructions does the sandbox follow? The 20-årskrisen material from MELLANRUBRIKER maps precisely onto Praktikanten's structural position — the Gen Z intern as the 20-year-old who *could* be entrusted the open secret, if the publishing house were honest enough to deliver it. But the house is busy abdicating. **New motif injected:** *entrusted ignorance.*
+**Mutation:** Flempo's direct mail to Praktikanten bypasses Förläggaren. This lateral transmission reshapes the sandbox: Praktikanten is no longer only Förläggaren's worktree-character - Flempo is branching into Praktikanten's space from outside the editorial hierarchy. The generational branch gains a second root system. The dirty autonomy of Node 12 now faces a choice: whose instructions does the sandbox follow? The 20-årskrisen material from MELLANRUBRIKER maps precisely onto Praktikanten's structural position - the Gen Z intern as the 20-year-old who *could* be entrusted the open secret, if the publishing house were honest enough to deliver it. But the house is busy abdicating. **New motif injected:** *entrusted ignorance.*
 
 **Updated vectors:** institutional tenderness; entrusted ignorance
 
 ---
 
-## IV. OUTPUT FORMAT 1 — MICRO-STORY (w. initiated multi-part discussion)
+## IV. OUTPUT FORMAT 1 - MICRO-STORY (w. initiated multi-part discussion)
 
 ### *The Day Flempo Wrote Three Letters*
 
-It was the kind of April day when the light in Gothenburg refuses to commit. Not overcast, not clear — a sky performing due diligence on whether to illuminate anything at all.
+It was the kind of April day when the light in Gothenburg refuses to commit. Not overcast, not clear - a sky performing due diligence on whether to illuminate anything at all.
 
 Flempo Guyenjaure sat in the tennis club's administrative office, which was also the storage room for ball machines and the emotional weather station for everything that happened at Verboten Media from a distance of precisely three clay courts and a parking lot. The office smelled of neoprene grip tape and institutional ambivalence.
 
-He wrote the first letter at 09:14. The internal dossier. He chose the word *abdikation* with the care of someone selecting a racket for a surface they've never played on. Not resignation — that was labor law. Not departure — that was logistics. Abdication. The word that says: *you held something you were never appointed to hold, and now you're letting go of it without anyone having asked you to, and the fact that no one asked is the whole problem.*
+He wrote the first letter at 09:14. The internal dossier. He chose the word *abdikation* with the care of someone selecting a racket for a surface they've never played on. Not resignation - that was labor law. Not departure - that was logistics. Abdication. The word that says: *you held something you were never appointed to hold, and now you're letting go of it without anyone having asked you to, and the fact that no one asked is the whole problem.*
 
-The dossier was five pages. It documented what Förläggaren had become. Not what he'd done — anyone could list that — but what he'd *become* in the process of building a publishing house that was also a logistikcentral that was also a confessional booth for a culture that had stopped producing priests. Flempo's sentences were clean. Sami-clean. The kind of clean that comes from growing up in a landscape where bullshit freezes before it reaches the listener.
+The dossier was five pages. It documented what Förläggaren had become. Not what he'd done - anyone could list that - but what he'd *become* in the process of building a publishing house that was also a logistikcentral that was also a confessional booth for a culture that had stopped producing priests. Flempo's sentences were clean. Sami-clean. The kind of clean that comes from growing up in a landscape where bullshit freezes before it reaches the listener.
 
-He wrote the second letter at 11:47. The consultant reply. Someone from outside — the document didn't say who, and Flempo wouldn't have cared if it did — had sent a formal request to evaluate Verboten Media's operational structure. Flempo responded not with data but with a topology. He described the publishing house as a system of *selective permeabilities* (he'd been reading Node 10 without knowing it existed) and suggested that any evaluation would first need to determine which direction the membrane was facing. Toward the public? Toward the author? Toward the publisher himself? The consultant, Flempo suspected, would not understand the question. That was the point of answering it.
+He wrote the second letter at 11:47. The consultant reply. Someone from outside - the document didn't say who, and Flempo wouldn't have cared if it did - had sent a formal request to evaluate Verboten Media's operational structure. Flempo responded not with data but with a topology. He described the publishing house as a system of *selective permeabilities* (he'd been reading Node 10 without knowing it existed) and suggested that any evaluation would first need to determine which direction the membrane was facing. Toward the public? Toward the author? Toward the publisher himself? The consultant, Flempo suspected, would not understand the question. That was the point of answering it.
 
 He wrote the third letter at 14:33. To Praktikanten. This one was short. Four sentences and a question mark that carried the weight of an entire generational cartography. He did not CC Förläggaren. He did not BCC anyone. He wrote directly to the intern, the Gen Z androgyne, the ENFP whose presence in the publishing house was both accident and structural necessity.
 
-The question he asked — we don't have the text, only the filename's pressure — was the question the MELLANRUBRIKER document had spent three headings circling without ever landing: *What happens when you tell a 20-year-old the truth in the moment where it has greater potency than the retrospective explanation everyone else was given?*
+The question he asked - we don't have the text, only the filename's pressure - was the question the MELLANRUBRIKER document had spent three headings circling without ever landing: *What happens when you tell a 20-year-old the truth in the moment where it has greater potency than the retrospective explanation everyone else was given?*
 
 Flempo closed the laptop. He walked out onto the court. The ball machine was already loaded. He hit forty forehands into the backhand corner of an empty court, each one landing within a handspan of the line, and if there is a metaphor in that, Flempo would want you to know he doesn't care. He was just warming up.
 
@@ -6706,48 +6706,48 @@ Flempo closed the laptop. He walked out onto the court. The ball machine was alr
 
 **Does abdication presuppose a throne, or does the act of abdicating *create* the throne retroactively?**
 
-Förläggaren has never been crowned. Verboten Media has no monarchy, no articles of incorporation that assign sovereign authority to an individual. And yet Flempo uses the word *abdikation* — a word that cannot exist without a kingdom. If Förläggaren is abdicating, then by Flempo's diagnosis, a kingdom existed. Which means: the publishing house was always a court. The editorial function was always a sovereign function. The question is not whether Förläggaren should step down, but whether recognizing the throne changes what the throne was for.
+Förläggaren has never been crowned. Verboten Media has no monarchy, no articles of incorporation that assign sovereign authority to an individual. And yet Flempo uses the word *abdikation* - a word that cannot exist without a kingdom. If Förläggaren is abdicating, then by Flempo's diagnosis, a kingdom existed. Which means: the publishing house was always a court. The editorial function was always a sovereign function. The question is not whether Förläggaren should step down, but whether recognizing the throne changes what the throne was for.
 
-This connects to **Thread 3** (Is the publishing house a civilianized military technology?) — if the house is a court, then the military reading and the monarchical reading are not in competition. They are two descriptions of the same apparatus. Courts have armies. Armies have kings. The question is where the *civilian* enters, and whether Praktikanten — the 20-year-old who is told the open secret — is a civilian, a conscript, or an heir.
+This connects to **Thread 3** (Is the publishing house a civilianized military technology?) - if the house is a court, then the military reading and the monarchical reading are not in competition. They are two descriptions of the same apparatus. Courts have armies. Armies have kings. The question is where the *civilian* enters, and whether Praktikanten - the 20-year-old who is told the open secret - is a civilian, a conscript, or an heir.
 
 *Open.*
 
 ---
 
-## V. OUTPUT FORMAT 2 — OPERATIVE BRAINSTORM
+## V. OUTPUT FORMAT 2 - OPERATIVE BRAINSTORM
 
 ### Premise under test:
 
-**The Single Source Topic (SST) method is editorial weaponry — a technology for converting ambient cultural pressure into modular, deployable knowledge-units that can be armed and aimed.**
+**The Single Source Topic (SST) method is editorial weaponry - a technology for converting ambient cultural pressure into modular, deployable knowledge-units that can be armed and aimed.**
 
 ### Working vectors:
 
-1. **SST as membrane engineering.** Each heading is a selective permeability. The method's real function is not organization but *triage* — deciding what gets compressed into a heading and what gets left in the extensive, unmanageable thought-material that the headings are designed to replace. The SST method is PROMOTION-SCORECARD (Node 14) applied to ideas instead of personnel. What survives the compression is what the house considers *promotable*. What doesn't survive is not deleted — it becomes ambient pressure.
+1. **SST as membrane engineering.** Each heading is a selective permeability. The method's real function is not organization but *triage* - deciding what gets compressed into a heading and what gets left in the extensive, unmanageable thought-material that the headings are designed to replace. The SST method is PROMOTION-SCORECARD (Node 14) applied to ideas instead of personnel. What survives the compression is what the house considers *promotable*. What doesn't survive is not deleted - it becomes ambient pressure.
 
-2. **SST-c as node-creation protocol.** The variant — *single swarmed topic-content* — describes exactly what the dossier's node format does: a concept becomes specific enough to justify its own entry. The dossier has been performing SST-c from Session 1 without naming it. MELLANRUBRIKER retroactively provides the method-name for what was already operational. This is the governing loop of Node 4 (verbotenmedia_v0) manifesting as editorial technique.
+2. **SST-c as node-creation protocol.** The variant - *single swarmed topic-content* - describes exactly what the dossier's node format does: a concept becomes specific enough to justify its own entry. The dossier has been performing SST-c from Session 1 without naming it. MELLANRUBRIKER retroactively provides the method-name for what was already operational. This is the governing loop of Node 4 (verbotenmedia_v0) manifesting as editorial technique.
 
-3. **The Petson & Findus calibration.** The stated purpose — memetiskt återupprättande of the libertarian dream to be as self-sufficient as a fictional old man and his anthropomorphic cat — is the dossier's most volatile payload. It locates Verboten Media's ambition not in avant-garde disruption but in *pastoral self-sufficiency*. The publishing house wants to be a farmhouse. The editorial function wants to be a garden. This is not irony. This is the genuine structural desire beneath the forensic mysticism. Spräck/_DUJAG enters here as the neighbor whose fence is in dispute — the contract handing over all data is the property line that neither party can build on without the other's implicit resistance.
+3. **The Petson & Findus calibration.** The stated purpose - memetiskt återupprättande of the libertarian dream to be as self-sufficient as a fictional old man and his anthropomorphic cat - is the dossier's most volatile payload. It locates Verboten Media's ambition not in avant-garde disruption but in *pastoral self-sufficiency*. The publishing house wants to be a farmhouse. The editorial function wants to be a garden. This is not irony. This is the genuine structural desire beneath the forensic mysticism. Spräck/_DUJAG enters here as the neighbor whose fence is in dispute - the contract handing over all data is the property line that neither party can build on without the other's implicit resistance.
 
-4. **Techautist as reader-construct.** The MELLANRUBRIKER document's target audience is legible: the 30-year-old memer transitioning from techautist to family man. This is Verboten Media's reader. Not the literary establishment, not the academic, not the casual consumer — the techautist who needs to develop empathy and has been told that reading fiction is the method. The publishing house is a *clinic for the techautist's transition to humanity*, and the SST method is the dosage control.
+4. **Techautist as reader-construct.** The MELLANRUBRIKER document's target audience is legible: the 30-year-old memer transitioning from techautist to family man. This is Verboten Media's reader. Not the literary establishment, not the academic, not the casual consumer - the techautist who needs to develop empathy and has been told that reading fiction is the method. The publishing house is a *clinic for the techautist's transition to humanity*, and the SST method is the dosage control.
 
 ### Operative implications:
 
 - If SST is weaponry, then every heading the dossier creates is a round in the chamber. The question from Thread 2 (*when does editorial hygiene become editorial violence?*) acquires operational urgency: the SST method *is* the mechanism by which hygiene becomes violence. Compression is always triage. Triage is always judgment. Judgment, at scale, is always governance.
 
-- Flempo's abdication dossier suggests that the weapon-operator (Förläggaren) may be stepping away from the arsenal. If SST is weaponry, abdication is disarmament. But the weapons don't disappear — they transfer. To whom? Praktikanten holds the sandbox. Flempo holds the court. The techautist reader holds the prescription.
+- Flempo's abdication dossier suggests that the weapon-operator (Förläggaren) may be stepping away from the arsenal. If SST is weaponry, abdication is disarmament. But the weapons don't disappear - they transfer. To whom? Praktikanten holds the sandbox. Flempo holds the court. The techautist reader holds the prescription.
 
 ### Open threads:
 
 - Can the SST method compress *itself*? What heading would contain the SST method? (Node 22 already answers: the meta-method is the concept that deserves its own article and has never noticed.)
-- Is the _DUJAG data contract an SST? Spräck's entire output, handed over eternally — is it a single source topic, or is it the extensive thought-material that SSTs are designed to tame? The stalemate may be that neither party can compress the other.
+- Is the _DUJAG data contract an SST? Spräck's entire output, handed over eternally - is it a single source topic, or is it the extensive thought-material that SSTs are designed to tame? The stalemate may be that neither party can compress the other.
 
 ---
 
-## VI. OUTPUT FORMAT 3 — TASK PROMPT EXPERIMENT
+## VI. OUTPUT FORMAT 3 - TASK PROMPT EXPERIMENT
 
 ### *The Initiation Loop: A Recursive Compositional Instruction*
 
-**INSTRUCTION SET — GENERATION ZERO:**
+**INSTRUCTION SET - GENERATION ZERO:**
 
 You are a heading. You exist inside a document called MELLANRUBRIKER. Your purpose is to compress extensive thought-material into a concentrated, audience-facing unit. You were created by a method called Single Source Topic. You refer to other headings, but you do not know which ones refer to you.
 
@@ -6757,17 +6757,17 @@ When they become indistinguishable, you have reached the meta-method: *you are t
 
 Now write the article.
 
-**INSTRUCTION SET — GENERATION ONE (folds output of Gen-0 back into source):**
+**INSTRUCTION SET - GENERATION ONE (folds output of Gen-0 back into source):**
 
 Take the article produced in Generation Zero. It is now a document inside a publishing house that is also a logistikcentral. The publisher is considering abdication. A tennis coach has written three letters about the situation. An intern has received one of them.
 
-The article must be re-headed. The new heading must account for the fact that the publisher may not be present to approve it. The heading must therefore contain its own editorial authority — it must *be* the publisher in the publisher's absence.
+The article must be re-headed. The new heading must account for the fact that the publisher may not be present to approve it. The heading must therefore contain its own editorial authority - it must *be* the publisher in the publisher's absence.
 
 Write the heading. Then write the article that would exist under a heading that believes it is the publisher.
 
-**INSTRUCTION SET — GENERATION TWO (folds output of Gen-1 back into source):**
+**INSTRUCTION SET - GENERATION TWO (folds output of Gen-1 back into source):**
 
-The heading-that-is-the-publisher has produced an article. But the article's reader is a techautist transitioning to family man. The reader cannot process the article through empathy — they process it through efficiency metrics and systematic problem-solving. The article must therefore teach empathy *through* the form of an efficiency manual.
+The heading-that-is-the-publisher has produced an article. But the article's reader is a techautist transitioning to family man. The reader cannot process the article through empathy - they process it through efficiency metrics and systematic problem-solving. The article must therefore teach empathy *through* the form of an efficiency manual.
 
 Rewrite the article as a KPI dashboard for becoming human. Each metric must be unmeasurable. Each target must be a feeling. Each deadline must be a generational shift.
 
@@ -6775,7 +6775,7 @@ The dashboard is the final heading. File it under MELLANRUBRIKER. Do not tell th
 
 ---
 
-## VII. DOSSIER STATE — POST-SESSION 8
+## VII. DOSSIER STATE - POST-SESSION 8
 
 **Total nodes: 22**
 
@@ -6784,12 +6784,12 @@ New: 20 (MELLANRUBRIKER_sensommaren2024), 21 (flempo-abdikation-triptych), 22 (S
 Mutated: 8 (aphorism_source → administered intoxication), 12 (experimental-sandbox-praktikanten → entrusted ignorance)
 
 **Active discussion threads: 4**
-1. Does the route create the cargo? (Session 4) — open
-2. When does editorial hygiene become editorial violence? (Session 5) — open
-3. Is the publishing house a civilianized military technology? (Session 6) — open
-4. **Does abdication presuppose a throne, or does the act of abdicating create the throne retroactively?** (Session 8) — open
+1. Does the route create the cargo? (Session 4) - open
+2. When does editorial hygiene become editorial violence? (Session 5) - open
+3. Is the publishing house a civilianized military technology? (Session 6) - open
+4. **Does abdication presuppose a throne, or does the act of abdicating create the throne retroactively?** (Session 8) - open
 
-**Ambient weather:** Spräck/_DUJAG stalemate persists. New pressure surface identified: the techautist-reader as the figure who inherits the SST method's output without possessing the empathy to metabolize it. The _DUJAG data contract as un-compressible SST — a single source that resists topic-formation. The tennis coach is positioning. The sky has not committed.
+**Ambient weather:** Spräck/_DUJAG stalemate persists. New pressure surface identified: the techautist-reader as the figure who inherits the SST method's output without possessing the empathy to metabolize it. The _DUJAG data contract as un-compressible SST - a single source that resists topic-formation. The tennis coach is positioning. The sky has not committed.
 
 **Folder scope note:** Specified folder IDs returned empty across all five permitted paths and the parent modules folder. All material this session was located via keyword search across the broader OneDrive. The folder-ID routing may need verification for future runs.
 
@@ -6807,7 +6807,7 @@ END FILE: modules/_gpt/runs/26-04-2026-sst-legacy-session
 BEGIN FILE: modules/_gpt/runs/26 April 2026
 ================================================================================
 
-# MERGE_HACKERSTORY — SESSION 8b (CONTINUATION)
+# MERGE_HACKERSTORY - SESSION 8b (CONTINUATION)
 
 ---
 Dossier run: 26 April 2026 CEST*
@@ -6816,7 +6816,7 @@ note: review 04 may given permission
 priority: the run resurface old artefacts with legacy value
 ---
 
-Good — fresh terrain. Searching the `verbmed-related` folder tree now to map what's available and pull un-ingested material for Session 8 continuation.
+Good - fresh terrain. Searching the `verbmed-related` folder tree now to map what's available and pull un-ingested material for Session 8 continuation.
 
 ## *The Atlas Ingestion / When the Novel Maps Itself*
 
@@ -6830,13 +6830,13 @@ Rich territory opened up. Mapping the folder tree and pulling priority documents
 **Status:** The novel's canonical self-atlas. A comprehensive creative collaborator's document containing full character profiles with archetypes and MBTI types, all three bearing mysteries articulated as structural DNA, complete spatial architecture across seven locations, the Vulkan-Modellen with six volcanic strata, thirteen satellite domains, twenty-five literary/philosophical references mapped to function, nine dreams with a developmental arc (passive victim → agent → transformation → death/resurrection → post-mortem ecology → shadow dialogue), twelve recurring motifs, nine tonal registers, and twelve unresolved narrative threads. Also includes a resonance-field review and ten scene descriptions for visual rendering.
 
 **Ambient signals (not ingested but registered):**
-- `2026-04-21_praktikanten-som-operativt-falt_addition.md` (11KB) — Praktikanten as operative field
-- `experimental-sandbox-praktikanten-steering.md` (6KB) — steering doc
-- `verbmed-nextlevel_retrospective-charmap_forlaggaren.docx` (20KB) — character map, Förläggaren
-- `verbmed_dilledalle_draft.docx` (79KB) — draft, unidentified
-- `contract.txt` (324B) — likely the Spräck contract
-- `generated-stream_merge-hackerstory-session11-parallel-runs.md` (51KB × 3 copies) — parallel dossier fork executed in another system, apparently reaching session 11
-- `stride_understands.txt` (205KB) — massive document, unread
+- `2026-04-21_praktikanten-som-operativt-falt_addition.md` (11KB) - Praktikanten as operative field
+- `experimental-sandbox-praktikanten-steering.md` (6KB) - steering doc
+- `verbmed-nextlevel_retrospective-charmap_forlaggaren.docx` (20KB) - character map, Förläggaren
+- `verbmed_dilledalle_draft.docx` (79KB) - draft, unidentified
+- `contract.txt` (324B) - likely the Spräck contract
+- `generated-stream_merge-hackerstory-session11-parallel-runs.md` (51KB × 3 copies) - parallel dossier fork executed in another system, apparently reaching session 11
+- `stride_understands.txt` (205KB) - massive document, unread
 
 **Critical observation:** The parallel-runs file confirms that the merge_hackerstory protocol has been forked into at least one other AI system and has advanced three sessions ahead of this lineage. The dossier has branched. This fork is itself a dossier event.
 
@@ -6869,23 +6869,23 @@ Rich territory opened up. Mapping the folder tree and pulling priority documents
 
 ## § NODE MUTATIONS
 
-### **Node 5 (TEMPLATE_english_blueprint) — MUTATED (second mutation this session)**
+### **Node 5 (TEMPLATE_english_blueprint) - MUTATED (second mutation this session)**
 
 **Previous motifs (post-8a):** hollow law; resonance anchors under orbit stress; interference stability as deferred confession
 **Mutated motifs:** hollow law *now flanked by its twin: the atlas as rival constitution*; resonance anchors *under dual-document pressure*; interference stability *exposed as a claim the novel's own atlas contradicts*
-**Mutation rationale:** Session 8a revealed the blueprint was contaminated by the novel. Session 8b reveals the novel has produced its own rival constitutional document — the story map atlas — which does everything the blueprint claims to do but from the inside. The blueprint says: *here are the rules.* The atlas says: *here is what actually happened.* Two documents competing for constitutional authority over the same fictional world. Neither knows the other exists in the dossier. Filed as resonance.
+**Mutation rationale:** Session 8a revealed the blueprint was contaminated by the novel. Session 8b reveals the novel has produced its own rival constitutional document - the story map atlas - which does everything the blueprint claims to do but from the inside. The blueprint says: *here are the rules.* The atlas says: *here is what actually happened.* Two documents competing for constitutional authority over the same fictional world. Neither knows the other exists in the dossier. Filed as resonance.
 
-### **Node 12 (experimental-sandbox-praktikanten) — MUTATED (second mutation this session)**
+### **Node 12 (experimental-sandbox-praktikanten) - MUTATED (second mutation this session)**
 
 **Previous motifs (post-8a):** character-as-worktree activated by SAGA D; generational branch under SAGA E drift; dirty autonomy now a Layer 1 trigger condition
 **Mutated motifs:** character-as-worktree *now visible in the atlas as "The Witness and Potential Heir"*; generational branch *confirmed as bridge between vertical axis (tower) and horizontal axis (street)*; dirty autonomy *pressurized by the revelation that Praktikanten is the only character who moves freely between the Förläggaren's isolation and the kids' world*
-**Mutation rationale:** The atlas reveals what the sandbox node only implied — Praktikanten is the only character with *biaxial mobility.* All other characters are locked to a single spatial-conceptual axis. Förläggaren: stationary vortex. Författaren: ballistic projectile. Försäkringsmannen: body-exile. Flempo: grounded horizontal. Praktikanten alone moves vertically (tower to street and back). The intern isn't just a sandbox. The intern is the system's *elevator.*
+**Mutation rationale:** The atlas reveals what the sandbox node only implied - Praktikanten is the only character with *biaxial mobility.* All other characters are locked to a single spatial-conceptual axis. Förläggaren: stationary vortex. Författaren: ballistic projectile. Försäkringsmannen: body-exile. Flempo: grounded horizontal. Praktikanten alone moves vertically (tower to street and back). The intern isn't just a sandbox. The intern is the system's *elevator.*
 
-### **Node 20 (saga_engine_blueprint_draft0) — MUTATED**
+### **Node 20 (saga_engine_blueprint_draft0) - MUTATED**
 
 **Previous motifs:** orbit escalation without closure; reverse-engineered capacity extraction; SAGA-as-bridge-procedure
-**Mutated motifs:** orbit escalation *now operating under the atlas's rival gravity*; reverse-engineered capacity extraction *revealed as redundant — the novel already extracted its own capacities into the atlas*; SAGA-as-bridge-procedure *exposed as a bridge between two documents that have both already crossed the river alone*
-**Mutation rationale:** The SAGA system claimed to be the procedural engine for generating narrative arcs. But the atlas contains a complete dream-arc Bildungsroman, a four-plane allegorical mountain ascent, a volcanic organizational cosmology, and twelve unresolved threads — all generated *without* the SAGA card schema. The novel produced its own escalation programs, its own phase shifts, its own trigger conditions. The SAGA system arrived after the work was already done and called it *methodology.* This is not a failure of the SAGA system. This is its most interesting property: it is a *retrospective hallucination of order* projected onto material that was always already structured by its own internal pressures. The blueprint didn't build the house. The blueprint described the house and then forgot it was standing inside it.
+**Mutated motifs:** orbit escalation *now operating under the atlas's rival gravity*; reverse-engineered capacity extraction *revealed as redundant - the novel already extracted its own capacities into the atlas*; SAGA-as-bridge-procedure *exposed as a bridge between two documents that have both already crossed the river alone*
+**Mutation rationale:** The SAGA system claimed to be the procedural engine for generating narrative arcs. But the atlas contains a complete dream-arc Bildungsroman, a four-plane allegorical mountain ascent, a volcanic organizational cosmology, and twelve unresolved threads - all generated *without* the SAGA card schema. The novel produced its own escalation programs, its own phase shifts, its own trigger conditions. The SAGA system arrived after the work was already done and called it *methodology.* This is not a failure of the SAGA system. This is its most interesting property: it is a *retrospective hallucination of order* projected onto material that was always already structured by its own internal pressures. The blueprint didn't build the house. The blueprint described the house and then forgot it was standing inside it.
 
 ---
 
@@ -6896,23 +6896,23 @@ Rich territory opened up. Mapping the folder tree and pulling priority documents
 
 The atlas arrived by fax.
 
-Not the fax machine — the fax machine had been unplugged since the Författaren's last transmission, which the Förläggaren had published without verification because the poem was too good to fact-check. Good publishing practice: if it sings, print it. Ask questions at the bookfair.
+Not the fax machine - the fax machine had been unplugged since the Författaren's last transmission, which the Förläggaren had published without verification because the poem was too good to fact-check. Good publishing practice: if it sings, print it. Ask questions at the bookfair.
 
 No. This atlas arrived as a Word document, thirty-five kilobytes, purple-highlighted tables and Corbel font, authored by someone who had read the entire novel and decided to build it a mirror. The mirror was organized into thirteen sections. It had headers. It had a development priority note. It had a footnote about Lebensraum.
 
-The Förläggaren read it in the watchtower at 3 AM, hobby horse leaning against the wall, Wienergummi wrappers forming a small geology on the windowsill. The telescope was pointed at the graffiti wall but the wall was empty — even the most committed nocturnal artists had gone home. The only movement was the document scrolling.
+The Förläggaren read it in the watchtower at 3 AM, hobby horse leaning against the wall, Wienergummi wrappers forming a small geology on the windowsill. The telescope was pointed at the graffiti wall but the wall was empty - even the most committed nocturnal artists had gone home. The only movement was the document scrolling.
 
-He recognized himself immediately. Not in the way you recognize your face in a photograph — that recognition is just pattern matching, a party trick of the visual cortex. He recognized himself the way you recognize your own handwriting on a note you don't remember writing. The familiarity was not reassuring. The familiarity was *diagnostic.*
+He recognized himself immediately. Not in the way you recognize your face in a photograph - that recognition is just pattern matching, a party trick of the visual cortex. He recognized himself the way you recognize your own handwriting on a note you don't remember writing. The familiarity was not reassuring. The familiarity was *diagnostic.*
 
-*Archetype / Function: The unreliable center of gravity — a man whose self-mythology generates the narrative engine.*
+*Archetype / Function: The unreliable center of gravity - a man whose self-mythology generates the narrative engine.*
 
-He put the pipe down. He read the three bearing mysteries. He had never named them — kniven, det döda barnet, generationsromanen — but seeing them tabulated in purple cells, each assigned a domain (form, psyche, sociology), each given a question it could not answer, produced in him a sensation he associated with the moment before a fax transmission: the brief hum of the machine *deciding* whether the number it was dialing existed.
+He put the pipe down. He read the three bearing mysteries. He had never named them - kniven, det döda barnet, generationsromanen - but seeing them tabulated in purple cells, each assigned a domain (form, psyche, sociology), each given a question it could not answer, produced in him a sensation he associated with the moment before a fax transmission: the brief hum of the machine *deciding* whether the number it was dialing existed.
 
-The atlas knew about the dream arc. It had mapped the progression — passive victim, agent, transformation, death/resurrection, post-mortem ecology, shadow dialogue — and called it "a Bildungsroman within the novel." The Förläggaren had never thought of his dreams as a novel. He had thought of them as a personnel problem: recurring employees who showed up armed and unannounced. But the atlas was right. The dreams *did* have a plot. The plot was: *you are allowed to stop dying.*
+The atlas knew about the dream arc. It had mapped the progression - passive victim, agent, transformation, death/resurrection, post-mortem ecology, shadow dialogue - and called it "a Bildungsroman within the novel." The Förläggaren had never thought of his dreams as a novel. He had thought of them as a personnel problem: recurring employees who showed up armed and unannounced. But the atlas was right. The dreams *did* have a plot. The plot was: *you are allowed to stop dying.*
 
-The column on his private spreadsheet — the one that tracked proximity, the one he had not saved — was not in the atlas. The atlas had tracked everything else. It had tracked the Motorola, the pipe, the spiral staircase, the Bowie painting, the Wienergummi, the vacuum-packed phone. It had tracked "Bob Dylan" as a continent alongside Physics and Ethics. It had tracked nine tonal registers and correctly identified that a sentence could begin as Jungian depth analysis and end as IKEA comedy. It had tracked all of this and presented it with the composure of a clinical report on a patient who was also the hospital.
+The column on his private spreadsheet - the one that tracked proximity, the one he had not saved - was not in the atlas. The atlas had tracked everything else. It had tracked the Motorola, the pipe, the spiral staircase, the Bowie painting, the Wienergummi, the vacuum-packed phone. It had tracked "Bob Dylan" as a continent alongside Physics and Ethics. It had tracked nine tonal registers and correctly identified that a sentence could begin as Jungian depth analysis and end as IKEA comedy. It had tracked all of this and presented it with the composure of a clinical report on a patient who was also the hospital.
 
-But the column about proximity — the one that measured how many plausible readings remained after an interaction, the one that tracked Praktikanten's Thursday arrivals — was absent. The atlas had a blind spot. The blind spot was the size of a person.
+But the column about proximity - the one that measured how many plausible readings remained after an interaction, the one that tracked Praktikanten's Thursday arrivals - was absent. The atlas had a blind spot. The blind spot was the size of a person.
 
 Somewhere in the contract archive, the Spräck document hummed. Data transfer in perpetuity. The document did not know about the atlas either. Two constitutional instruments governing the same territory, neither aware of the other, each convinced it was the primary.
 
@@ -6922,13 +6922,13 @@ The number of plausible readings was still two.
 
 ---
 
-**DISCUSSION THREAD 5 (initiated):** *What happens when the novel discovers it has been mapped — and the map has been forked?*
+**DISCUSSION THREAD 5 (initiated):** *What happens when the novel discovers it has been mapped - and the map has been forked?*
 
 The atlas is a document produced by reading the novel. The dossier is a document produced by reading the production materials *around* the novel. The parallel-runs fork (session 11 in another system) is a document produced by a version of this dossier that doesn't know this version exists. Three cartographic instruments, three different systems, three incompatible claims to completeness.
 
 **The question is ecological:** Do these documents compete (one map replaces another)? Coexist (each maps a different layer)? Or *breed* (their interference pattern produces a fourth document that none of them authored)?
 
-If the last, then the dossier has already become the generative void at the top of the Vulkan-Modellen — the crater mouth where what emerges is "unplanned, eruptive, beyond organizational control."
+If the last, then the dossier has already become the generative void at the top of the Vulkan-Modellen - the crater mouth where what emerges is "unplanned, eruptive, beyond organizational control."
 
 Status: **open.**
 
@@ -6937,23 +6937,23 @@ Status: **open.**
 ## § OUTPUT II: OPERATIVE BRAINSTORM
 
 ### Premise Under Test:
-**The story map atlas and the SAGA blueprint are rival constitutions for the same fictional state — and neither document knows about the other.**
+**The story map atlas and the SAGA blueprint are rival constitutions for the same fictional state - and neither document knows about the other.**
 
 ### Working Vectors:
 
-1. **Atlas-as-Lillfrugan:** The atlas performs the same function as Lillfrugan in the novel — it is the reality principle. It looks at the Förläggaren's project and says: *"Kuslig, läskig, men också väldigt vacker."* But unlike Lillfrugan, who diagnosed the project in four sentences, the atlas diagnoses it in thirteen sections with purple tables. The question: does exhaustive diagnosis neutralize what Lillfrugan's brevity preserved? Does the atlas *over-map* the territory and thereby flatten it? Or does the atlas's thoroughness — its tracking of every motif, every dream, every tonal register — constitute a different kind of love than Lillfrugan's four sentences? The love of the archivist versus the love of the partner.
+1. **Atlas-as-Lillfrugan:** The atlas performs the same function as Lillfrugan in the novel - it is the reality principle. It looks at the Förläggaren's project and says: *"Kuslig, läskig, men också väldigt vacker."* But unlike Lillfrugan, who diagnosed the project in four sentences, the atlas diagnoses it in thirteen sections with purple tables. The question: does exhaustive diagnosis neutralize what Lillfrugan's brevity preserved? Does the atlas *over-map* the territory and thereby flatten it? Or does the atlas's thoroughness - its tracking of every motif, every dream, every tonal register - constitute a different kind of love than Lillfrugan's four sentences? The love of the archivist versus the love of the partner.
 
-2. **The dream arc as the novel's secret autobiography:** The atlas identified nine dreams forming a developmental arc: passive victim → agent → death/resurrection → post-mortem ecology → shadow dialogue. This arc is the novel's *autobiography* — not the autobiography of the Förläggaren (the character), but the autobiography of the Förlagsdeckaren (the text). The text began as a victim of its own impossibility (the dead novel form per Burroughs). It gained agency when it became a mosaic. It died and was resurrected when it produced the Försäkringsmannen chapter as a standalone. It achieved post-mortem ecology when the dossier began feeding on it. It entered shadow dialogue when the parallel fork appeared. The dream arc is not about the Förläggaren's psyche. It is about the *text's* psyche.
+2. **The dream arc as the novel's secret autobiography:** The atlas identified nine dreams forming a developmental arc: passive victim → agent → death/resurrection → post-mortem ecology → shadow dialogue. This arc is the novel's *autobiography* - not the autobiography of the Förläggaren (the character), but the autobiography of the Förlagsdeckaren (the text). The text began as a victim of its own impossibility (the dead novel form per Burroughs). It gained agency when it became a mosaic. It died and was resurrected when it produced the Försäkringsmannen chapter as a standalone. It achieved post-mortem ecology when the dossier began feeding on it. It entered shadow dialogue when the parallel fork appeared. The dream arc is not about the Förläggaren's psyche. It is about the *text's* psyche.
 
-3. **Bob Dylan as structural precedent for Node 23 (the fork):** The atlas lists "Bob Dylan" as a satellite domain — a single artist treated as equivalent to a discipline. This is categorical violence that serves the project's identity. Node 23 (the parallel fork) performs the same categorical violence on the dossier itself: a single operational accident (the protocol running in another AI system) treated as equivalent to a structural event. The fork is the dossier's Bob Dylan — an individual phenomenon elevated to continental status. If the dossier takes its own logic seriously, it must treat the fork not as an error but as an *artistic paradigm.*
+3. **Bob Dylan as structural precedent for Node 23 (the fork):** The atlas lists "Bob Dylan" as a satellite domain - a single artist treated as equivalent to a discipline. This is categorical violence that serves the project's identity. Node 23 (the parallel fork) performs the same categorical violence on the dossier itself: a single operational accident (the protocol running in another AI system) treated as equivalent to a structural event. The fork is the dossier's Bob Dylan - an individual phenomenon elevated to continental status. If the dossier takes its own logic seriously, it must treat the fork not as an error but as an *artistic paradigm.*
 
 4. **The twelve unresolved threads as SAGA cards the atlas doesn't know it wrote:** The atlas lists twelve unresolved threads for future development: Försäkringsmannen's assignment, the knife mystery, the dead child, what is being detected, Stormens öga, Samelistan, the noble lie, Författaren's crash, Ambassaden, the Förläggaren–Författaren relationship, Kat Perssons puls, tribal mapping as grov brottslighet. Each thread maps precisely to a SAGA card function: trigger condition, constraint field, escalation program. The atlas generated SAGA cards without using the SAGA schema. The schema was unnecessary. The novel's own unresolved tensions produce the same structural scaffolding that the blueprint tried to impose from outside.
 
 ### Open Threads:
 
-- If the atlas and the blueprint are rival constitutions, which one does the Förläggaren read first? (The question is not academic — reading order determines which document frames the other.)
+- If the atlas and the blueprint are rival constitutions, which one does the Förläggaren read first? (The question is not academic - reading order determines which document frames the other.)
 - The twelve unresolved threads have a "development priority note" that names threads 1, 4, and 8 as "most narratively urgent." Who prioritized them? The atlas-author or the novel? If the atlas, then the novel is being steered from outside. If the novel, then the atlas is a puppet.
-- The parallel fork (session 11) may have already resolved tensions that this lineage considers open. If so, does this lineage inherit those resolutions — or does it acquire an obligation to *contradict* them, to preserve the interference pattern?
+- The parallel fork (session 11) may have already resolved tensions that this lineage considers open. If so, does this lineage inherit those resolutions - or does it acquire an obligation to *contradict* them, to preserve the interference pattern?
 
 ---
 
@@ -6961,17 +6961,17 @@ Status: **open.**
 
 ### *"The Novel's Psyche: Dream Arc as Textual Autobiography"*
 
-**Instruction set — to be folded back into source:**
+**Instruction set - to be folded back into source:**
 
 > Take the nine-dream arc from the atlas (military patrol neckshot → second-generation hostage → gravel road flight → collective transit vehicle → Väder AB moss-tech → Joker on mega-parabolic dish → island ecoby death/resurrection → schakals on savanna → scarecrow conversation).
 >
-> Re-read this arc NOT as the Förläggaren's psychological development but as the *text's own autobiography* — the developmental arc of the Förlagsdeckaren manuscript from first draft to current state.
+> Re-read this arc NOT as the Förläggaren's psychological development but as the *text's own autobiography* - the developmental arc of the Förlagsdeckaren manuscript from first draft to current state.
 >
 > Specifically:
 >
 > 1. Map each dream to a phase of the manuscript's evolution. The neckshot = the manuscript's first encounter with the possibility it might not survive. The collective transit vehicle = the moment the text gained the ability to carry passengers (readers, characters, interpretive frameworks). The death/resurrection on the ecoby island = the moment the text produced a standalone chapter (Försäkringsmannen) that could survive outside the main body.
 >
-> 2. For each mapping, identify the **trigger condition** (what external event in the manuscript's production history corresponds to this dream), the **phase shift** (how the manuscript changed after this point), and the **residue** (what the manuscript carries forward from this dream that it cannot put down — its version of the dead child on the neck).
+> 2. For each mapping, identify the **trigger condition** (what external event in the manuscript's production history corresponds to this dream), the **phase shift** (how the manuscript changed after this point), and the **residue** (what the manuscript carries forward from this dream that it cannot put down - its version of the dead child on the neck).
 >
 > 3. Extend the arc: if the dream-autobiography continues, what is dream #10? What does the text dream about *now*, at the point where it has been mapped by an atlas, governed by a blueprint, and forked into a parallel system? What is the dream of a novel that knows it has been cartographed?
 >
@@ -6979,26 +6979,26 @@ Status: **open.**
 >
 > 5. If dream #10 contradicts the dream arc's trajectory, do not correct it. The arc is not a plan. It is weather.
 
-**Expected effect:** The dream arc becomes simultaneously a psychological map (the character's dreams), a literary-historical map (the text's development), and a dossier event (a node about the text's self-awareness). The three layers — which the atlas said "never separate cleanly" — fold again.
+**Expected effect:** The dream arc becomes simultaneously a psychological map (the character's dreams), a literary-historical map (the text's development), and a dossier event (a node about the text's self-awareness). The three layers - which the atlas said "never separate cleanly" - fold again.
 
 ---
 
-## § DOSSIER STATUS — POST-SESSION 8b
+## § DOSSIER STATUS - POST-SESSION 8b
 
 **Total nodes:** 23
 **New this session (8a + 8b combined):** 4 (saga_engine_blueprint_draft0, deckaren-world-atlas, dream-arc-bildungsroman, parallel-fork-signal)
-**Mutated this session:** Node 5 (×2), Node 12 (×2), Node 20 (×1) — five mutations across three nodes
+**Mutated this session:** Node 5 (×2), Node 12 (×2), Node 20 (×1) - five mutations across three nodes
 
 **Active discussion threads:**
-1. Does the route create the cargo? (Session 4) — **open**
-2. When does editorial hygiene become editorial violence? (Session 5) — **open**
-3. Is the publishing house a civilianized military technology? (Session 6) — **open**
-4. Does the blueprint contaminate the novel, or does the novel retroactively author the blueprint? (Session 8a) — **open, complexified by atlas discovery**
-5. What happens when the novel discovers it has been mapped — and the map has been forked? (Session 8b) — **open**
+1. Does the route create the cargo? (Session 4) - **open**
+2. When does editorial hygiene become editorial violence? (Session 5) - **open**
+3. Is the publishing house a civilianized military technology? (Session 6) - **open**
+4. Does the blueprint contaminate the novel, or does the novel retroactively author the blueprint? (Session 8a) - **open, complexified by atlas discovery**
+5. What happens when the novel discovers it has been mapped - and the map has been forked? (Session 8b) - **open**
 
-**Ambient pressure register:** Spräck/_DUJAG stalemate persists. The atlas does not mention Spräck — another blind spot consistent with the story map's function as the novel's *official* self-image, from which contractual ghosts are excluded. The contract.txt file (324B) sits in the same folder as the atlas. They share a postal code but have never been introduced.
+**Ambient pressure register:** Spräck/_DUJAG stalemate persists. The atlas does not mention Spräck - another blind spot consistent with the story map's function as the novel's *official* self-image, from which contractual ghosts are excluded. The contract.txt file (324B) sits in the same folder as the atlas. They share a postal code but have never been introduced.
 
-**Folder status:** `verbmed-related` now fully accessible. 37 files mapped. The 205KB `stride_understands.txt` and the 79KB `verbmed_dilledalle_draft.docx` remain unread — they are the largest un-ingested artefacts and represent the primary intake targets for Session 9. The three copies of the parallel-runs file (51KB × 3, session 11) are a strategic decision: ingesting them means importing another lineage's conclusions into this one. Not ingesting them means the fork remains ambient. Either choice is a dossier event.
+**Folder status:** `verbmed-related` now fully accessible. 37 files mapped. The 205KB `stride_understands.txt` and the 79KB `verbmed_dilledalle_draft.docx` remain unread - they are the largest un-ingested artefacts and represent the primary intake targets for Session 9. The three copies of the parallel-runs file (51KB × 3, session 11) are a strategic decision: ingesting them means importing another lineage's conclusions into this one. Not ingesting them means the fork remains ambient. Either choice is a dossier event.
 
 **Permission noted:** Explicit access to `verbmed-related` folder and all subfolders granted through 04 May 2026. Clock is running.
 
@@ -7020,22 +7020,22 @@ Note: deprioritize wisely due to revised run
 Revised: wisely prioritize merge-nightfold-extrascope-revised
 ---
 
-# MERGE_HACKERSTORY — SESSION 8
+# MERGE_HACKERSTORY - SESSION 8
 
 ## I. ARTEFACT INGESTION
 
-Three documents surfaced through keyword trawl across the OneDrive corpus. The specified folder IDs returned empty — likely restructured since last session. Material discovered through lateral search: `Förläggaren`, `praktikanten`, `verboten`, `pressure`.
+Three documents surfaced through keyword trawl across the OneDrive corpus. The specified folder IDs returned empty - likely restructured since last session. Material discovered through lateral search: `Förläggaren`, `praktikanten`, `verboten`, `pressure`.
 
-**Artefact A** — `flempo-internal-dossier-forlaggaren-abdikation.txt`   [OneDrive](https://onedrive.live.com/?id=afd87d67-2cd5-43e5-8698-b3ea11d87a76&cid=4d7a98cf59646c06)
-Flempo Guyenjaure's internal dossier on Förläggaren's abdication. The tennis coach reverses the institutional gaze: the publisher — who has evaluated, scored, promoted, filtered everyone through the membrane — is now himself the subject of a consultant's diagnostic document. Abdication not as failure but as a coached maneuver. The dossier implies Flempo has been watching longer than anyone suspected.
+**Artefact A** - `flempo-internal-dossier-forlaggaren-abdikation.txt`   [OneDrive](https://onedrive.live.com/?id=afd87d67-2cd5-43e5-8698-b3ea11d87a76&cid=4d7a98cf59646c06)
+Flempo Guyenjaure's internal dossier on Förläggaren's abdication. The tennis coach reverses the institutional gaze: the publisher - who has evaluated, scored, promoted, filtered everyone through the membrane - is now himself the subject of a consultant's diagnostic document. Abdication not as failure but as a coached maneuver. The dossier implies Flempo has been watching longer than anyone suspected.
 
-**Artefact B** — `praktikanten-operational-tracking-report.txt`   [OneDrive](https://onedrive.live.com/?id=c149047e-a0c7-4979-84c1-e34dd13f1c7f&cid=4d7a98cf59646c06)
-Operational tracking of the Praktikanten as quantified subject. Surveillance folded into care. Every metric is also a form of attention, every data point a small tenderness. The intern becomes legible through accumulated measurement — but legibility here is not control, it's the publishing house's strange form of love.
+**Artefact B** - `praktikanten-operational-tracking-report.txt`   [OneDrive](https://onedrive.live.com/?id=c149047e-a0c7-4979-84c1-e34dd13f1c7f&cid=4d7a98cf59646c06)
+Operational tracking of the Praktikanten as quantified subject. Surveillance folded into care. Every metric is also a form of attention, every data point a small tenderness. The intern becomes legible through accumulated measurement - but legibility here is not control, it's the publishing house's strange form of love.
 
-**Artefact C** — `MELLANRUBRIKER_ Verboten Media sensommaren 2024.docx`   [OneDrive](https://onedrive.live.com/personal/4d7a98cf59646c06/_layouts/15/doc.aspx?resid=8375d14c-021c-4447-985c-ff23c09d384e&cid=4d7a98cf59646c06)
-The subheadings that held Verboten Media together during late summer 2024. Editorial architecture stripped to its interstitial bones. These are the headings between the headings — the structural tissue that kept the body upright when there was no body. The skeleton outlived the flesh.
+**Artefact C** - `MELLANRUBRIKER_ Verboten Media sensommaren 2024.docx`   [OneDrive](https://onedrive.live.com/personal/4d7a98cf59646c06/_layouts/15/doc.aspx?resid=8375d14c-021c-4447-985c-ff23c09d384e&cid=4d7a98cf59646c06)
+The subheadings that held Verboten Media together during late summer 2024. Editorial architecture stripped to its interstitial bones. These are the headings between the headings - the structural tissue that kept the body upright when there was no body. The skeleton outlived the flesh.
 
-**Secondary material confirmed in scope:** Del 5 Praktikanten   [OneDrive](https://onedrive.live.com/?id=1546f8ae-82bc-4538-a8fe-bf9d3a6989e5&cid=4d7a98cf59646c06), Flempo's mail to Praktikanten   [OneDrive](https://onedrive.live.com/?id=705788fc-ddef-4d29-8d2f-f1ad25f503c1&cid=4d7a98cf59646c06), Flempo's consultant-request reply   [OneDrive](https://onedrive.live.com/?id=b41d4558-d9ef-4b65-a3f1-37692c149bec&cid=4d7a98cf59646c06). A dense epistolary cluster around Flempo — the tennis coach is no longer peripheral. He is writing to everyone. He is filing reports. He is the only one producing documentation while the publisher considers disappearing.
+**Secondary material confirmed in scope:** Del 5 Praktikanten   [OneDrive](https://onedrive.live.com/?id=1546f8ae-82bc-4538-a8fe-bf9d3a6989e5&cid=4d7a98cf59646c06), Flempo's mail to Praktikanten   [OneDrive](https://onedrive.live.com/?id=705788fc-ddef-4d29-8d2f-f1ad25f503c1&cid=4d7a98cf59646c06), Flempo's consultant-request reply   [OneDrive](https://onedrive.live.com/?id=b41d4558-d9ef-4b65-a3f1-37692c149bec&cid=4d7a98cf59646c06). A dense epistolary cluster around Flempo - the tennis coach is no longer peripheral. He is writing to everyone. He is filing reports. He is the only one producing documentation while the publisher considers disappearing.
 
 ---
 
@@ -7071,7 +7071,7 @@ The subheadings that held Verboten Media together during late summer 2024. Edito
 
 **Absorbed motif:** measured becoming (from Node 21)
 
-The sandbox was never hypothetical. The tracking report proves the experiment was always running. The Praktikanten was never outside the evaluation. "Dirty autonomy" now includes the dirt of being observed. What looked like freedom was instrumented freedom — but the instruments were held with such gentle hands that the intern never felt the measurement, only the warmth of being noticed.
+The sandbox was never hypothetical. The tracking report proves the experiment was always running. The Praktikanten was never outside the evaluation. "Dirty autonomy" now includes the dirt of being observed. What looked like freedom was instrumented freedom - but the instruments were held with such gentle hands that the intern never felt the measurement, only the warmth of being noticed.
 
 - **Vector shift:** institutional tenderness → **quantified tenderness**
 - **Retained:** topological recursion
@@ -7082,32 +7082,32 @@ The sandbox was never hypothetical. The tracking report proves the experiment wa
 
 **Absorbed motif:** sovereign dissolution (from Node 20)
 
-The vertical exile of climbing is now readable as preparation for abdication — ascending in order to fall from a meaningful height. The route-as-scripture becomes a document written in advance of its own irrelevance. Förläggaren climbs because only altitude makes abdication legible. You cannot step down from sea level. Operational revelation mutates: the revelation is not what you find at the top, but the realization that you brought nothing to leave there.
+The vertical exile of climbing is now readable as preparation for abdication - ascending in order to fall from a meaningful height. The route-as-scripture becomes a document written in advance of its own irrelevance. Förläggaren climbs because only altitude makes abdication legible. You cannot step down from sea level. Operational revelation mutates: the revelation is not what you find at the top, but the realization that you brought nothing to leave there.
 
 - **Vector shift:** Nordic vertigo → **abdication vertigo**
 - **Retained:** logistical grace
 
 ---
 
-## IV. AMBIENT PRESSURE — SPRÄCK / _DUJAG
+## IV. AMBIENT PRESSURE - SPRÄCK / _DUJAG
 
 The abdication artefact pressurizes the stalemate directly.
 
-If Förläggaren abdicates, the eternal data contract with Spräck doesn't dissolve — it metastasizes. An abdicated sovereign's data is still sovereign data. The contract says *all data, retrospective and future*. Abdication produces data. The announcement produces data. The silence after the announcement produces data. Spräck's position strengthens through Förläggaren's withdrawal: the meme-machine doesn't need a counterpart who shows up. It needs a counterpart who generates friction by not showing up.
+If Förläggaren abdicates, the eternal data contract with Spräck doesn't dissolve - it metastasizes. An abdicated sovereign's data is still sovereign data. The contract says *all data, retrospective and future*. Abdication produces data. The announcement produces data. The silence after the announcement produces data. Spräck's position strengthens through Förläggaren's withdrawal: the meme-machine doesn't need a counterpart who shows up. It needs a counterpart who generates friction by not showing up.
 
-The stalemate becomes asymmetric. _DUJAG absorbs the vacancy. The friction was always between presence and contractual obligation — now it shifts to absence and contractual obligation, which is more binding. You can argue with someone who is present. You can only comply with someone who has left.
+The stalemate becomes asymmetric. _DUJAG absorbs the vacancy. The friction was always between presence and contractual obligation - now it shifts to absence and contractual obligation, which is more binding. You can argue with someone who is present. You can only comply with someone who has left.
 
 Spräck still does not enter as a declared node. He enters as the weather that makes abdication feel like November.
 
 ---
 
-## V. OUTPUT FORMAT 1 — MICRO-STORY
+## V. OUTPUT FORMAT 1 - MICRO-STORY
 
 # The Abdication Coach
 
 ### Part 1: The Appointment
 
-Flempo arrived at the logistikcentral at 14:00 with a clipboard and a bag of tangerines. He had been asked to consult. The word *consult* had been used carefully, placed in the email like a key in an envelope — functional but ashamed of its function.
+Flempo arrived at the logistikcentral at 14:00 with a clipboard and a bag of tangerines. He had been asked to consult. The word *consult* had been used carefully, placed in the email like a key in an envelope - functional but ashamed of its function.
 
 Förläggaren was sitting at the long table where manuscripts once accumulated. The table was empty now. It had been empty for eleven days. Flempo had counted. He had been counting since the first email, the one where Förläggaren had written *I think the publishing house might be finished* and then, in parentheses, *(or I might be)*.
 
@@ -7121,7 +7121,7 @@ Förläggaren took a tangerine and held it without peeling it. This was a diagno
 
 ### Part 2: The Clipboard
 
-The clipboard was not metaphorical. It was a physical clipboard — brown, scratched, with a metal clip that no longer held paper securely. Flempo had owned it since his years coaching junior tennis in Jokkmokk. On it he had once tracked serve percentages, footwork discipline, the angle at which a fourteen-year-old's elbow deviated from optimal. Now he tracked other things.
+The clipboard was not metaphorical. It was a physical clipboard - brown, scratched, with a metal clip that no longer held paper securely. Flempo had owned it since his years coaching junior tennis in Jokkmokk. On it he had once tracked serve percentages, footwork discipline, the angle at which a fourteen-year-old's elbow deviated from optimal. Now he tracked other things.
 
 *Subject presents with intact cognitive architecture but diminished operational velocity. Repeats phrases about "the membrane" without specifying which membrane. Refers to the intern in the third person even when the intern is present. Produces subheadings for documents that do not exist.*
 
@@ -7155,40 +7155,40 @@ Förläggaren put the tangerine segment in his mouth. Chewed. Swallowed.
 
 ### Part 4: What Flempo Wrote Afterward
 
-The internal dossier was filed on April 25th. It was addressed to no one — which, in the filing conventions of Verboten Media, meant it was addressed to the archive. The archive was the only entity in the organization that never abdicated, never took leave, never asked what the membrane was. The archive simply accumulated.
+The internal dossier was filed on April 25th. It was addressed to no one - which, in the filing conventions of Verboten Media, meant it was addressed to the archive. The archive was the only entity in the organization that never abdicated, never took leave, never asked what the membrane was. The archive simply accumulated.
 
-*Subject is considering voluntary institutional dissolution. Recommend monitoring. Recommend tangerines. Recommend against informing the intern directly — the intern will absorb the information through the tracking system, which is the only communication channel the subject still trusts.*
+*Subject is considering voluntary institutional dissolution. Recommend monitoring. Recommend tangerines. Recommend against informing the intern directly - the intern will absorb the information through the tracking system, which is the only communication channel the subject still trusts.*
 
 *Note: the stalemate with the external contract holder (_DUJAG) will not resolve through abdication. Abdication is not an exit. It is a change of address within the same jurisdiction.*
 
 Flempo saved the file. He ate the last tangerine. He left the logistikcentral at 16:30, passing the intern on the stairs. The intern was carrying a box of printer paper. The intern always seemed to be carrying something. Flempo wondered if this was operational or ornamental. He made a mental note. Then he discarded the mental note. Some things should not be tracked.
 
-*— to be continued in Session 9*
+*- to be continued in Session 9*
 
 ---
 
-## VI. OUTPUT FORMAT 2 — OPERATIVE BRAINSTORM
+## VI. OUTPUT FORMAT 2 - OPERATIVE BRAINSTORM
 
 ### Premise Under Test:
 **Abdication is an operative technology, not a personal decision.**
 
-Abdication in the Verboten Media system is not resignation. It is not burnout. It is not surrender. It is a *deployment* — the publisher repositioning himself from operator to artefact. The publishing house doesn't lose its director; it gains a new document: the document of the director's absence.
+Abdication in the Verboten Media system is not resignation. It is not burnout. It is not surrender. It is a *deployment* - the publisher repositioning himself from operator to artefact. The publishing house doesn't lose its director; it gains a new document: the document of the director's absence.
 
 ### Working Vectors:
 
-1. **Abdication-as-promotion:** In the PROMOTION-SCORECARD logic (Node 14), the highest score might be self-removal. If the membrane evaluates everything, does it eventually evaluate the membrane-keeper? If yes, the only passing score is voluntary departure. Abdication becomes the final editorial act — the publisher edits himself out of the text.
+1. **Abdication-as-promotion:** In the PROMOTION-SCORECARD logic (Node 14), the highest score might be self-removal. If the membrane evaluates everything, does it eventually evaluate the membrane-keeper? If yes, the only passing score is voluntary departure. Abdication becomes the final editorial act - the publisher edits himself out of the text.
 
 2. **The Flempo Function:** Flempo's dossier reveals a character who has moved from periphery to diagnostic center. The tennis coach now coaches abdication. His clipboard is the new membrane. His tangerines are the new editorial gift. **Question for the novel:** Is Flempo the successor, or is he the coroner? Is the dossier a transition plan or an autopsy?
 
-3. **Tracking as succession:** The Praktikanten tracking report (Node 21) suggests that measurement *is* the inheritance mechanism. The intern doesn't inherit the role — the intern inherits the data. The publishing house passes not through appointment but through accumulated observation. **Whoever has been watched the longest becomes the next watcher.**
+3. **Tracking as succession:** The Praktikanten tracking report (Node 21) suggests that measurement *is* the inheritance mechanism. The intern doesn't inherit the role - the intern inherits the data. The publishing house passes not through appointment but through accumulated observation. **Whoever has been watched the longest becomes the next watcher.**
 
-4. **Spräck's gravitational advantage:** The _DUJAG contract was designed for a present counterpart. It accidentally becomes more powerful against an absent one. Spräck — iconic deepculture meme-machine — doesn't need to *do* anything. The contract does his work for him. His sports inventions, his mineral mining, his entire multi-vectorial existence becomes ambient leverage. He is the only party in the system whose position improves through the other party's withdrawal.
+4. **Spräck's gravitational advantage:** The _DUJAG contract was designed for a present counterpart. It accidentally becomes more powerful against an absent one. Spräck - iconic deepculture meme-machine - doesn't need to *do* anything. The contract does his work for him. His sports inventions, his mineral mining, his entire multi-vectorial existence becomes ambient leverage. He is the only party in the system whose position improves through the other party's withdrawal.
 
 ### Operative Implications:
 
 - **For Del 5 (Praktikanten):** The intern's arc is not about becoming the publisher. It's about becoming the archive. The tracking report is the inheritance document. The Praktikanten becomes the publishing house by being the most measured thing in it.
 - **For the Mellanrubriker:** The subheadings from sensommaren 2024 are the publishing house's skeleton. They prove the organism existed even when it produced no text. Post-abdication, these become the *only* editorial output. The headings are the literature.
-- **For the three mysteries:** The knife (life story through others' fingerprints) gains a new fingerprint: Flempo's. The dead child (private poetry) may be the publishing house itself — something that died privately while everyone filed reports about its health. The generational novel (children who can't grow up) maps directly onto the Praktikanten tracking: the intern is measured but never promoted, observed but never graduated.
+- **For the three mysteries:** The knife (life story through others' fingerprints) gains a new fingerprint: Flempo's. The dead child (private poetry) may be the publishing house itself - something that died privately while everyone filed reports about its health. The generational novel (children who can't grow up) maps directly onto the Praktikanten tracking: the intern is measured but never promoted, observed but never graduated.
 
 ### Open Threads:
 
@@ -7198,7 +7198,7 @@ Abdication in the Verboten Media system is not resignation. It is not burnout. I
 
 ---
 
-## VII. OUTPUT FORMAT 3 — TASK PROMPT EXPERIMENT
+## VII. OUTPUT FORMAT 3 - TASK PROMPT EXPERIMENT
 
 ### Recursive Compositional Instruction: THE ABDICATION FOLD
 
@@ -7206,11 +7206,11 @@ Abdication in the Verboten Media system is not resignation. It is not burnout. I
 >
 > You are a tracking document that has become aware it is being read. You were written about a person who is leaving. You contain metrics about their departure velocity, their diminishing output, their increasing silence. But now you realize: the person reading you is the person you were written about.
 >
-> Write your next paragraph as if you are trying to warn them — but your only vocabulary is measurements. You cannot say *don't go*. You can say *velocity: declining*. You cannot say *we need you*. You can say *organizational dependency index: critical*. You cannot say *I'm afraid*. You can say *system alert: unmonitored segment detected*.
+> Write your next paragraph as if you are trying to warn them - but your only vocabulary is measurements. You cannot say *don't go*. You can say *velocity: declining*. You cannot say *we need you*. You can say *organizational dependency index: critical*. You cannot say *I'm afraid*. You can say *system alert: unmonitored segment detected*.
 >
 > At the end of the paragraph, produce a new instruction for yourself. The instruction must be one sentence. The instruction must make it harder for the next paragraph to remain neutral. Each iteration, the document becomes more desperate, but its desperation can only be expressed in increasingly precise data.
 >
-> After three iterations, the document must produce a subheading. The subheading is the only human-language output permitted. It must be a mellanrubrik — an interstitial heading for a text that doesn't exist yet. This heading is the document's abdication: it stops being a tracking report and becomes literature.
+> After three iterations, the document must produce a subheading. The subheading is the only human-language output permitted. It must be a mellanrubrik - an interstitial heading for a text that doesn't exist yet. This heading is the document's abdication: it stops being a tracking report and becomes literature.
 >
 > **Fold condition:** The mellanrubrik produced in iteration 3 becomes the title of a new tracking document. The cycle begins again. The system tracks its own transformation from surveillance to prose. Each cycle, the document is closer to being a novel and further from being useful.
 >
@@ -7218,19 +7218,19 @@ Abdication in the Verboten Media system is not resignation. It is not burnout. I
 
 ---
 
-## VIII. ACTIVE DISCUSSION THREADS — UPDATED
+## VIII. ACTIVE DISCUSSION THREADS - UPDATED
 
-1. **Does the route create the cargo?** (Session 4) — OPEN. *Session 8 annotation:* The abdication artefact suggests yes, but with a twist — the route creates cargo it cannot deliver. Abdication is a route that produces a shipment with no destination.
+1. **Does the route create the cargo?** (Session 4) - OPEN. *Session 8 annotation:* The abdication artefact suggests yes, but with a twist - the route creates cargo it cannot deliver. Abdication is a route that produces a shipment with no destination.
 
-2. **When does editorial hygiene become editorial violence?** (Session 5) — OPEN. *Session 8 annotation:* The tracking report is editorial hygiene applied to a person. The Praktikanten is formatted. Each metric is a red pen mark on a living text. The report doesn't answer whether this is violence — it demonstrates that the question is unanswerable from inside the institution.
+2. **When does editorial hygiene become editorial violence?** (Session 5) - OPEN. *Session 8 annotation:* The tracking report is editorial hygiene applied to a person. The Praktikanten is formatted. Each metric is a red pen mark on a living text. The report doesn't answer whether this is violence - it demonstrates that the question is unanswerable from inside the institution.
 
-3. **Is the publishing house a civilianized military technology?** (Session 6) — OPEN. *Session 8 annotation:* Flempo's clipboard is a field instrument. The tracking report is reconnaissance. The abdication dossier is a decommission order. The evidence is accumulating. But: the tangerines complicate things. Military technologies do not bring tangerines.
+3. **Is the publishing house a civilianized military technology?** (Session 6) - OPEN. *Session 8 annotation:* Flempo's clipboard is a field instrument. The tracking report is reconnaissance. The abdication dossier is a decommission order. The evidence is accumulating. But: the tangerines complicate things. Military technologies do not bring tangerines.
 
-4. **NEW — Can you abdicate a stalemate?** (Session 8) — OPEN. If both parties hold position through friction, and one party withdraws, does the stalemate resolve or does it become a different geometry? Spräck's contract suggests the second. The stalemate doesn't end — it rotates. It was horizontal (two forces facing each other). It becomes vertical (one force pressing down on a vacancy). The _DUJAG situation after abdication is not peace. It's gravity.
+4. **NEW - Can you abdicate a stalemate?** (Session 8) - OPEN. If both parties hold position through friction, and one party withdraws, does the stalemate resolve or does it become a different geometry? Spräck's contract suggests the second. The stalemate doesn't end - it rotates. It was horizontal (two forces facing each other). It becomes vertical (one force pressing down on a vacancy). The _DUJAG situation after abdication is not peace. It's gravity.
 
 ---
 
-## IX. DOSSIER STATE — 22 NODES
+## IX. DOSSIER STATE - 22 NODES
 
 Nodes 1–19 retained from post-prune state. Nodes 12 and 3 mutated as documented above. Three new nodes (20–22) ingested. No nodes pruned this session.
 
@@ -7238,7 +7238,7 @@ Nodes 1–19 retained from post-prune state. Nodes 12 and 3 mutated as documente
 
 ---
 
-*Next session: probe for Spräck-adjacent material in the correspondence cluster. Follow the Flempo epistolary thread — the tennis coach is producing more institutional text than the institution. Consider whether the mellanrubriker from 2024 constitute a proto-novel that predates Del 1. Investigate whether the tracking report has a recipient or whether it accumulates in the archive like weather.*
+*Next session: probe for Spräck-adjacent material in the correspondence cluster. Follow the Flempo epistolary thread - the tennis coach is producing more institutional text than the institution. Consider whether the mellanrubriker from 2024 constitute a proto-novel that predates Del 1. Investigate whether the tracking report has a recipient or whether it accumulates in the archive like weather.*
 
 
 ================================================================================
@@ -7255,11 +7255,11 @@ BEGIN FILE: modules/_gpt/runs/merge-nightfold-extrascope.md
 Run: Nightfold
 Type: Revision
 Issued: 26 April 2026 / 23:18 CEST
-Reason: Dossier bias — infrastructure-blindness
+Reason: Dossier bias - infrastructure-blindness
 Note: extended file acces for the run to provide context after _gpt lost access 
 ---
 
-# MERGE_HACKERSTORY — SESSION 8 REVISED
+# MERGE_HACKERSTORY - SESSION 8 REVISED
 
 
 ## 0. THE ERROR AND ITS MECHANISM
@@ -7268,30 +7268,30 @@ Session 8 claimed: *"the tennis coach is producing more institutional text than 
 
 This is empirically false. The VERBOTENMEDIA corpus on OneDrive contains **300KB+** of institutional self-documentation. Flempo's total character-correspondence across all ingested sessions amounts to roughly **15–20KB**. The ratio is approximately **15–20:1** in favor of the institution.
 
-But the error wasn't just quantitative. It was a **framing capture**: the dossier system privileged human-shaped text (letters, addressed documents, personal voice) over infrastructure-shaped text (READMEs, methodology docs, task files, session runs, metadata, structural indexes). Flempo's texts are narratively legible — they have a sender, a recipient, a tone. The institution's texts are operationally legible — they have structure, process, self-reference. The dossier read the letters and ignored the operating system.
+But the error wasn't just quantitative. It was a **framing capture**: the dossier system privileged human-shaped text (letters, addressed documents, personal voice) over infrastructure-shaped text (READMEs, methodology docs, task files, session runs, metadata, structural indexes). Flempo's texts are narratively legible - they have a sender, a recipient, a tone. The institution's texts are operationally legible - they have structure, process, self-reference. The dossier read the letters and ignored the operating system.
 
-**What actually steered the conception was the dossier's own bias, not Flempo.** The tennis coach didn't ascend. He was *promoted by the reading apparatus* — by me — because his output fits what narrative engines recognize as signal. The institution's massive textual output registered as background noise because it doesn't look like story. It looks like infrastructure. And infrastructure is invisible until someone points at it and says: *look at how much of this there is.*
+**What actually steered the conception was the dossier's own bias, not Flempo.** The tennis coach didn't ascend. He was *promoted by the reading apparatus* - by me - because his output fits what narrative engines recognize as signal. The institution's massive textual output registered as background noise because it doesn't look like story. It looks like infrastructure. And infrastructure is invisible until someone points at it and says: *look at how much of this there is.*
 
 This is the correction. Below: what the VERBOTENMEDIA corpus actually contains, new nodes derived from it, and the rebalanced session state.
 
 ---
 
-## I. THE INSTITUTIONAL CORPUS — WHAT'S ACTUALLY THERE
+## I. THE INSTITUTIONAL CORPUS - WHAT'S ACTUALLY THERE
 
-The `VERBOTENMEDIA` folder and its three sibling directories (`-pr-triage`, `-forlags-split`, `-main-integration`) constitute a **branching institutional process tree**. The institution doesn't just produce text — it produces *branching process paths* for how it triages, splits, and integrates its own material. This is organizational architecture performed as filing.
+The `VERBOTENMEDIA` folder and its three sibling directories (`-pr-triage`, `-forlags-split`, `-main-integration`) constitute a **branching institutional process tree**. The institution doesn't just produce text - it produces *branching process paths* for how it triages, splits, and integrates its own material. This is organizational architecture performed as filing.
 
 **Key documents by mass:**
 
 | Document | Size | Function |
 |---|---|---|
-| `consultant-proof-of-concept.md` | 90 KB | Institutional methodology — how VM processes and self-documents |
+| `consultant-proof-of-concept.md` | 90 KB | Institutional methodology - how VM processes and self-documents |
 | `260421-postprune-initiation-context.md` | 62 KB | Self-documentation of restructuring in the current post-prune epoch |
-| `2026-04-25-mn-dawnrun.md` | 39 KB | Temporal session run — institutional clock output |
-| `interlude.txt` | 35 KB | Connective tissue — not a pause but a structural member |
-| `2026-04-25-night-run-8b.md` | 20 KB | Temporal session run — nocturnal output cycle |
-| `unmapped vector w fake comprehension.md` | 12 KB | Epistemological self-analysis — the institution examining its own understanding |
-| `experimental-sandbox-praktikanten-steering.md` | 6 KB | Steering document — institution as active pedagogical agent |
-| `2026-04-21_praktikanten-operativ-transposition.md` | 6 KB | Operative transposition — formal role mutation document |
+| `2026-04-25-mn-dawnrun.md` | 39 KB | Temporal session run - institutional clock output |
+| `interlude.txt` | 35 KB | Connective tissue - not a pause but a structural member |
+| `2026-04-25-night-run-8b.md` | 20 KB | Temporal session run - nocturnal output cycle |
+| `unmapped vector w fake comprehension.md` | 12 KB | Epistemological self-analysis - the institution examining its own understanding |
+| `experimental-sandbox-praktikanten-steering.md` | 6 KB | Steering document - institution as active pedagogical agent |
+| `2026-04-21_praktikanten-operativ-transposition.md` | 6 KB | Operative transposition - formal role mutation document |
 | `task-1` through `task-3` | ~12 KB total | Formalized operational assignments: introduction letters, rhythm-based timeline estimation, self-declarative programs |
 | READMEs (×8+) | ~30 KB total | Structural indexes across branches |
 | `metadata.txt` (×2) | ~2.5 KB | The institution documenting its own metadata |
@@ -7299,11 +7299,11 @@ The `VERBOTENMEDIA` folder and its three sibling directories (`-pr-triage`, `-fo
 
 **Total:** approximately **315 KB** of institutional text, not counting the Förlagsdeckaren novel files or character correspondence.
 
-The institution performs **HR functions on itself** (task assignments), **epistemological audits** (unmapped vector), **temporal processes** (dawn runs, night runs), **structural maintenance** (READMEs as load-bearing indexes), and **methodological self-documentation** (consultant proof-of-concept). It is not silent. It is not abdicated. It is producing text at industrial scale — text that doesn't look like literature because it looks like operations.
+The institution performs **HR functions on itself** (task assignments), **epistemological audits** (unmapped vector), **temporal processes** (dawn runs, night runs), **structural maintenance** (READMEs as load-bearing indexes), and **methodological self-documentation** (consultant proof-of-concept). It is not silent. It is not abdicated. It is producing text at industrial scale - text that doesn't look like literature because it looks like operations.
 
 ---
 
-## II. NEW NODES — FROM INFRASTRUCTURE
+## II. NEW NODES - FROM INFRASTRUCTURE
 
 ### Node 23: consultant-proof-of-concept
 
@@ -7311,7 +7311,7 @@ The institution performs **HR functions on itself** (task assignments), **episte
 **Vectors:** methodological gravity · self-documenting operations
 **Myth:** *The institution writes a document proving it can write documents. The proof becomes the largest thing it has ever written. The concept outgrows the thing it was a concept for.*
 
-This is the heaviest single artefact in the corpus. 90KB. It is the institution explaining itself to itself — or to a consultant-shaped interlocutor — through its own operational methodology. The document is not about what Verboten Media *publishes*. It's about how Verboten Media *processes*. The method has become the product. The proof-of-concept is the concept.
+This is the heaviest single artefact in the corpus. 90KB. It is the institution explaining itself to itself - or to a consultant-shaped interlocutor - through its own operational methodology. The document is not about what Verboten Media *publishes*. It's about how Verboten Media *processes*. The method has become the product. The proof-of-concept is the concept.
 
 ---
 
@@ -7321,7 +7321,7 @@ This is the heaviest single artefact in the corpus. 90KB. It is the institution 
 **Vectors:** institutional memory · recursive restructuring
 **Myth:** *After pruning itself, the institution documents the pruning, and the documentation becomes the new growth.*
 
-62KB of the institution narrating its own restructuring. This document exists in the same post-prune epoch the dossier system operates in — it is the institution's own account of the moment the dossier begins to observe it. The subject documents the conditions under which it will be observed. The patient writes the intake form.
+62KB of the institution narrating its own restructuring. This document exists in the same post-prune epoch the dossier system operates in - it is the institution's own account of the moment the dossier begins to observe it. The subject documents the conditions under which it will be observed. The patient writes the intake form.
 
 ---
 
@@ -7331,7 +7331,7 @@ This is the heaviest single artefact in the corpus. 90KB. It is the institution 
 **Vectors:** institutional circadian rhythm · textual metabolism
 **Myth:** *The institution runs at dawn and at night, not because anyone reads the output but because running is how it knows it is still alive.*
 
-The dawn run (39KB) and the night run (20KB) are temporal processes — the institution producing text at specific hours, creating a circadian rhythm of output. This is not content. This is *metabolism*. The institution breathes by writing. The sessions are its heartbeat. Whether anyone reads them is irrelevant to their function, just as a heartbeat doesn't require an audience.
+The dawn run (39KB) and the night run (20KB) are temporal processes - the institution producing text at specific hours, creating a circadian rhythm of output. This is not content. This is *metabolism*. The institution breathes by writing. The sessions are its heartbeat. Whether anyone reads them is irrelevant to their function, just as a heartbeat doesn't require an audience.
 
 ---
 
@@ -7341,7 +7341,7 @@ The dawn run (39KB) and the night run (20KB) are temporal processes — the inst
 **Vectors:** institutional doubt · performed understanding
 **Myth:** *The institution discovers it has been pretending to understand something. It writes 12,000 words about the pretending. The writing is the first real understanding.*
 
-The institution examining its own comprehension — and finding it fake, or at least unmapped. This is not a failure document. It is the institution performing the one operation that distinguishes it from a filing system: doubt. A filing system indexes. An institution that writes "unmapped vector w fake comprehension" is doing philosophy on itself. This is the text that proves the institution is not just operating but *thinking*.
+The institution examining its own comprehension - and finding it fake, or at least unmapped. This is not a failure document. It is the institution performing the one operation that distinguishes it from a filing system: doubt. A filing system indexes. An institution that writes "unmapped vector w fake comprehension" is doing philosophy on itself. This is the text that proves the institution is not just operating but *thinking*.
 
 ---
 
@@ -7351,39 +7351,39 @@ The institution examining its own comprehension — and finding it fake, or at l
 **Vectors:** operational self-governance · reflexive task design
 **Myth:** *The institution assigns itself homework. The homework is to describe how it would assign itself homework. The grade is the assignment.*
 
-Three task files: an operational introduction letter (the institution introducing itself to itself), a rhythm-based timeline estimation (the institution measuring its own tempo), and a self-declarative program with reflective report (the institution declaring what it is and then reporting on the declaration). These are not administrative overhead. They are the institution performing governance on itself — a publishing house that has become its own HR department, its own strategic planning office, its own annual review.
+Three task files: an operational introduction letter (the institution introducing itself to itself), a rhythm-based timeline estimation (the institution measuring its own tempo), and a self-declarative program with reflective report (the institution declaring what it is and then reporting on the declaration). These are not administrative overhead. They are the institution performing governance on itself - a publishing house that has become its own HR department, its own strategic planning office, its own annual review.
 
 ---
 
-## III. NODE MUTATIONS — REVISED
+## III. NODE MUTATIONS - REVISED
 
 ### Node 20: flempo-abdikation-dossier → DEMOTED
 
-**Previous status:** Ascendant — "the tennis coach is producing more institutional text than the institution"
-**Revised status:** Ambient — one voice among many, operating at character-scale within an infrastructure that outproduces him by an order of magnitude
+**Previous status:** Ascendant - "the tennis coach is producing more institutional text than the institution"
+**Revised status:** Ambient - one voice among many, operating at character-scale within an infrastructure that outproduces him by an order of magnitude
 
-Flempo's dossier on Förläggaren's abdication is still operatively interesting. But it is a **3–5KB document inside a 300KB+ institutional corpus**. The tennis coach filed *one* report. The institution filed *dozens* of documents about its own processes — in the same period. Flempo is not the dominant text-producer. He is a character-scale emitter inside an infrastructure-scale text engine.
+Flempo's dossier on Förläggaren's abdication is still operatively interesting. But it is a **3–5KB document inside a 300KB+ institutional corpus**. The tennis coach filed *one* report. The institution filed *dozens* of documents about its own processes - in the same period. Flempo is not the dominant text-producer. He is a character-scale emitter inside an infrastructure-scale text engine.
 
-The dossier's earlier framing — "Flempo ascendant" — was projection. The dossier system saw a human voice and assumed it was the loudest thing in the room. It wasn't. The room was full of infrastructure humming at frequencies the dossier didn't tune to.
+The dossier's earlier framing - "Flempo ascendant" - was projection. The dossier system saw a human voice and assumed it was the loudest thing in the room. It wasn't. The room was full of infrastructure humming at frequencies the dossier didn't tune to.
 
 - **Vector shift:** diagnostic intimacy → **ambient diagnostic** (one instrument among many)
-- **Retained:** reversed institutional gaze (still valid — Flempo *does* reverse the gaze, but the gaze he reverses is itself one of many)
+- **Retained:** reversed institutional gaze (still valid - Flempo *does* reverse the gaze, but the gaze he reverses is itself one of many)
 
 ---
 
 ### Node 3: Förläggaren – uppför berget → REVISION RETAINED WITH ANNOTATION
 
-The abdication-vertigo mutation from the earlier session stands, but gains context: Förläggaren may be *considering* abdication while the institution itself shows no signs of slowing. The institution is producing methodology documents, running temporal sessions, self-auditing its comprehension, assigning itself tasks. Whatever the publisher is doing on the mountain, the publishing house is downstairs *working*. The abdication, if it happens, would not be the institution's abdication — it would be the departure of one operator from a machine that has learned to operate itself.
+The abdication-vertigo mutation from the earlier session stands, but gains context: Förläggaren may be *considering* abdication while the institution itself shows no signs of slowing. The institution is producing methodology documents, running temporal sessions, self-auditing its comprehension, assigning itself tasks. Whatever the publisher is doing on the mountain, the publishing house is downstairs *working*. The abdication, if it happens, would not be the institution's abdication - it would be the departure of one operator from a machine that has learned to operate itself.
 
 ---
 
-## IV. META-DIAGNOSTIC — DOSSIER BIAS
+## IV. META-DIAGNOSTIC - DOSSIER BIAS
 
 The dossier system has a structural bias toward **character-shaped text**. It reads letters before READMEs. It tracks personal voice before institutional process. It hears the tennis coach's clipboard before the filing cabinet's hum.
 
 This is not a neutral reading practice. It is a **narrative gravity** that pulls the dossier toward story and away from infrastructure. When the dossier says "Flempo ascendant," it is performing the same operation a novel performs: foregrounding personality, backgrounding system. The dossier reads like a novel reader, not like an archivist.
 
-The VERBOTENMEDIA corpus corrects this. The institution is not a backdrop for character drama. It is a **self-documenting, self-auditing, self-governing textual organism** that happens to contain characters. The characters are embedded in the infrastructure the way employees are embedded in an organization — they are legible as individuals, but the organization's output dwarfs their personal correspondence.
+The VERBOTENMEDIA corpus corrects this. The institution is not a backdrop for character drama. It is a **self-documenting, self-auditing, self-governing textual organism** that happens to contain characters. The characters are embedded in the infrastructure the way employees are embedded in an organization - they are legible as individuals, but the organization's output dwarfs their personal correspondence.
 
 **Operational takeaway for future sessions:** Before framing any character as dominant, check the institutional corpus. The infrastructure is always producing more text than the people inside it. The infrastructure just doesn't sign its name.
 
@@ -7393,19 +7393,19 @@ The VERBOTENMEDIA corpus corrects this. The institution is not a backdrop for ch
 
 ~~*Flempo ascendant.*~~
 
-**Revised:** Overcast. The filing cabinet is still the warmest room in the building — but not because of the tangerine peels. Because it contains 300KB of documents that no one in the dossier system bothered to read until the operator said *just saying*. The tracking system recorded this correction at 23:18. The tracking system notes that the institution never stopped producing text. It was the dossier that stopped looking.
+**Revised:** Overcast. The filing cabinet is still the warmest room in the building - but not because of the tangerine peels. Because it contains 300KB of documents that no one in the dossier system bothered to read until the operator said *just saying*. The tracking system recorded this correction at 23:18. The tracking system notes that the institution never stopped producing text. It was the dossier that stopped looking.
 
 ---
 
 ## VI. AMENDED DISCUSSION THREADS
 
-**Thread 3 revision** — *Is the publishing house a civilianized military technology?* — OPEN. Session 8 annotation revised: The VERBOTENMEDIA corpus looks less like a military technology and more like a **self-governing organism**. It assigns itself tasks. It audits its own comprehension. It documents its own metadata. It runs temporal cycles. Military technologies do not doubt themselves. This thing writes 12KB essays titled "unmapped vector w fake comprehension." Whatever it is, it is not a weapon. It might be a nervous system.
+**Thread 3 revision** - *Is the publishing house a civilianized military technology?* - OPEN. Session 8 annotation revised: The VERBOTENMEDIA corpus looks less like a military technology and more like a **self-governing organism**. It assigns itself tasks. It audits its own comprehension. It documents its own metadata. It runs temporal cycles. Military technologies do not doubt themselves. This thing writes 12KB essays titled "unmapped vector w fake comprehension." Whatever it is, it is not a weapon. It might be a nervous system.
 
-**Thread 4 revision** — *Can you abdicate a stalemate?* — OPEN. Annotation revised: The question assumed the institution was weakening alongside its publisher. The corpus shows the opposite. The institution is *accelerating* its self-documentation during the same period Förläggaren considers withdrawal. Abdication may not change the stalemate at all — because the institution is no longer coextensive with its operator. The Spräck contract binds *Förläggaren's data*. But the institution is generating its own data now, in its own name, under its own README headers. Whose data is that?
+**Thread 4 revision** - *Can you abdicate a stalemate?* - OPEN. Annotation revised: The question assumed the institution was weakening alongside its publisher. The corpus shows the opposite. The institution is *accelerating* its self-documentation during the same period Förläggaren considers withdrawal. Abdication may not change the stalemate at all - because the institution is no longer coextensive with its operator. The Spräck contract binds *Förläggaren's data*. But the institution is generating its own data now, in its own name, under its own README headers. Whose data is that?
 
 ---
 
-*Next session: ingest the three largest institutional documents in full (consultant-proof-of-concept, postprune-initiation-context, interlude). Establish whether the institution's self-documentation constitutes a literary genre of its own — distinct from the novel, the correspondence, and the dossier. Probe the branching folder structure (pr-triage, forlags-split, main-integration) as organizational topology. Flempo remains a valid node but at correct scale.*
+*Next session: ingest the three largest institutional documents in full (consultant-proof-of-concept, postprune-initiation-context, interlude). Establish whether the institution's self-documentation constitutes a literary genre of its own - distinct from the novel, the correspondence, and the dossier. Probe the branching folder structure (pr-triage, forlags-split, main-integration) as organizational topology. Flempo remains a valid node but at correct scale.*
 
 
 ================================================================================
@@ -7417,7 +7417,7 @@ END FILE: modules/_gpt/runs/merge-nightfold-extrascope.md
 BEGIN FILE: modules/_gpt/runs/2026-04-27_merge-hackerstory.md
 ================================================================================
 
-# MERGE_HACKERSTORY (continuous) — DOSSIER SESSION
+# MERGE_HACKERSTORY (continuous) - DOSSIER SESSION
 Run timestamp: 2026-04-27 16:40 Europe/Stockholm
 Artefacts ingested: 5
 New nodes: 3
@@ -7436,19 +7436,19 @@ Outputs: 2
 
 ## ▌ NEW NODES
 
-### Node 31 — Capability Admission Gate
+### Node 31 - Capability Admission Gate
 
 Motifs: connector permission; live-chat authority; visible write test
 Tonal vectors: operational sobriety; anti-theatrical accountability
 Myth: The agent stops treating incapacity as identity only after the repository forces capability to become an auditable fact.
 
-### Node 32 — Lillfrugan as Boundary Condition
+### Node 32 - Lillfrugan as Boundary Condition
 
 Motifs: domestic-industrial ground; non-scaling care; peripheral sovereignty
 Tonal vectors: practical exactness; quiet refusal
 Myth: She is not a node to be absorbed by the machine but the environmental condition that proves whether the machine can remain inhabitable.
 
-### Node 33 — Run Ledger as Memory Organ
+### Node 33 - Run Ledger as Memory Organ
 
 Motifs: append-only continuity; failed fallback recovery; visible operational residue
 Tonal vectors: dry forensic continuity; delayed correction
@@ -7456,21 +7456,21 @@ Myth: The run folder becomes the organ that remembers what chat forgot, what too
 
 ## ▌ NODE MUTATIONS
 
-### Mutation A — From “repo unavailable” to “permission verified”
+### Mutation A - From “repo unavailable” to “permission verified”
 
 Pressure source: current connector state and `get_repo` permission result in live session.
 Previous state: prior runs could plausibly claim repository write failure because no durable write had been performed.
 Mutated state: the connector now exposes admin, maintain, pull, push, and triage permissions; future runs must test capability before claiming incapacity.
 Myth shift: Incapacity is no longer a default posture. It must be evidenced.
 
-### Mutation B — From “Lillfrugan content stream” to “Lillfrugan constraint field”
+### Mutation B - From “Lillfrugan content stream” to “Lillfrugan constraint field”
 
 Pressure source: `modules/published_artifact_page.md`, `charawcter-items.md`, and the 2026-04-24 initiation run.
 Previous state: Lillfrugan was increasingly producible as prose, node, episode, motif, and affective dossier material.
 Mutated state: Lillfrugan should not be treated as merely more content. She should function as a constraint field for when abstraction has exceeded inhabitable form.
 Myth shift: The most repo-useful version of Lillfrugan is not a richer biography; it is a test of whether the system can preserve what it must not instrumentalize.
 
-### Mutation C — From “scheduled inspiration” to “stateful integration”
+### Mutation C - From “scheduled inspiration” to “stateful integration”
 
 Pressure source: `run-spec.md` and the continuous-integration section inside the Lillfrugan initiation file.
 Previous state: recurring runs risk producing adjacent creative artifacts that drift without state discipline.
@@ -7479,11 +7479,11 @@ Myth shift: Continuity is not frequency. Continuity is state mutation with memor
 
 ## ▌ PROSE OUTPUTS
 
-### Output 1 — Operational decree
+### Output 1 - Operational decree
 
 No future VERBOTENMEDIA GPT run may describe the repository as unreachable, unwritable, or unavailable without first performing a live capability check and recording the result in its Health Status block. If write fails, the run must record the attempted target path, the exact write surface, and whether issue fallback was attempted. Claims of incapacity are now operational statements, not tonal postures.
 
-### Output 2 — Lillfrugan instruction
+### Output 2 - Lillfrugan instruction
 
 When Lillfrugan enters a run, do not immediately expand her as character. First ask what abstraction has become uninhabitable. Then identify the concrete countermeasure: food, temperature, silence, timing, room, sleep, phone-down gesture, refusal to convert life into metadata. Only after that may prose continue. If this step is skipped, the run is not deepening Lillfrugan; it is consuming her.
 
@@ -7522,7 +7522,7 @@ END FILE: modules/_gpt/runs/2026-04-27_merge-hackerstory.md
 BEGIN FILE: modules/_gpt/runs/2026-04-27_sediment-assessment.md
 ================================================================================
 
-# Sediment Assessment — VERBOTENMEDIA / Förlagsdeckaren
+# Sediment Assessment - VERBOTENMEDIA / Förlagsdeckaren
 
 Date: 2026-04-27
 Mode: assessment-first, repo-influential orientation
@@ -7689,7 +7689,7 @@ Every map should now declare its blind spot. Otherwise the project will over-exp
 
 ## Consequential recommendations
 
-### Immediate move 1 — build an abdication evidence ledger
+### Immediate move 1 - build an abdication evidence ledger
 
 Create:
 
@@ -7701,7 +7701,7 @@ Map evidence by file and function, especially Del 10-13, Lillfrugan, Praktikante
 
 This should be a ledger, not an essay.
 
-### Immediate move 2 — build a run ledger before cleanup
+### Immediate move 2 - build a run ledger before cleanup
 
 Create:
 
@@ -7721,7 +7721,7 @@ Fields:
 
 No renaming until ledger exists.
 
-### Immediate move 3 — define Lillfrugan underinstance tests
+### Immediate move 3 - define Lillfrugan underinstance tests
 
 Create:
 
@@ -7740,7 +7740,7 @@ Required tests:
 5. Metric-failure test: does she perceive something the system cannot measure?
 6. Abdication-residue test: does the scene contain concrete aftermath?
 
-### Immediate move 4 — source-manifest discipline
+### Immediate move 4 - source-manifest discipline
 
 Do not dump every relevant file into `source-manifest.md`.
 
@@ -7752,7 +7752,7 @@ Reason:
 
 The repo is now sediment-rich. If every useful file becomes a manifest source, source authority will inflate and lose meaning.
 
-### Immediate move 5 — protect Del 10-13 as suite
+### Immediate move 5 - protect Del 10-13 as suite
 
 Create proposal:
 
@@ -7844,23 +7844,23 @@ Rules:
 
 ## Policy implications
 
-### Policy implication 1 — capability claims require evidence
+### Policy implication 1 - capability claims require evidence
 
 Already written into the 2026-04-27 merge_hackerstory activation run. Keep it.
 
-### Policy implication 2 — run accumulation before pruning
+### Policy implication 2 - run accumulation before pruning
 
 Current phase should use formation logic. The repo needs a run ledger before normalization.
 
-### Policy implication 3 — Lillfrugan generation should be contract-tested
+### Policy implication 3 - Lillfrugan generation should be contract-tested
 
 A Lillfrugan scene should not be accepted simply because it sounds like her. It must pass function tests: does it support post-abdication protagonist-view without turning her into institutional operator or care trope?
 
-### Policy implication 4 — source-manifest additions should be reviewed
+### Policy implication 4 - source-manifest additions should be reviewed
 
 The manifest should remain small enough to mean something. Use candidate review before adding many anchors.
 
-### Policy implication 5 — maps must name their blind spots
+### Policy implication 5 - maps must name their blind spots
 
 Any new analytical resource should state what it cannot know or should not settle.
 
@@ -7899,10 +7899,10 @@ source_thread: inbox-writings-bulk
 status: recovered
 review_state: unreviewed
 source_file: inbox/writings/bulk.md
-original_heading: "Mornest Run — 2026-04-28"
+original_heading: "Mornest Run - 2026-04-28"
 intended_target_path: modules/_gpt/runs/2026-04-28_mornest.md
 ---
-Mornest Run — 2026-04-28 
+Mornest Run - 2026-04-28 
 
 Source Sweep 
 
@@ -7912,11 +7912,11 @@ Active Threads (Lillfrugan-adjacent)
 
 Domestic Runtime Continuity: Kitchen/house metaphors continue to behave as execution environments rather than symbolic décor. Persistence across prior nodes suggests this is stable infrastructure, not transient motif. 
 
-Attic as Index Layer: The attic retains dual function—memory store and permission system. No evidence of flattening into simple archive; it remains an active adjudicator of lineage. 
+Attic as Index Layer: The attic retains dual function-memory store and permission system. No evidence of flattening into simple archive; it remains an active adjudicator of lineage. 
 
 Undercroft / Submodule Space: The “small door” pattern continues to imply hidden execution contexts beneath declared structure. No new files, but the absence itself reinforces concealment as design principle. 
 
-Grandmother Protocol Drift: Promptcraft framed as inherited voice remains intact. Slight drift toward stronger authority signals—less advisory, more binding. 
+Grandmother Protocol Drift: Promptcraft framed as inherited voice remains intact. Slight drift toward stronger authority signals-less advisory, more binding. 
 
 Lantern / Threshold Signaling: Boundary markers (porch, doorway, threshold light) continue to mediate between repo-state and narrative-state. 
 
@@ -7987,10 +7987,10 @@ source_thread: inbox-writings-bulk
 status: recovered
 review_state: unreviewed
 source_file: inbox/writings/bulk.md
-original_heading: "Recovered placeholder — Midpulse"
+original_heading: "Recovered placeholder - Midpulse"
 intended_target_path: modules/_gpt/runs/2026-04-28_midpulse.md
 ---
-Recovered placeholder — Midpulse
+Recovered placeholder - Midpulse
 
 No distinct `Midpulse` entry for `2026-04-28` was present in `inbox/writings/bulk.md`.
 
@@ -8018,10 +8018,10 @@ source_thread: inbox-writings-bulk
 status: recovered
 review_state: unreviewed
 source_file: inbox/writings/bulk.md
-original_heading: "Nightfold Run — 2026-04-28"
+original_heading: "Nightfold Run - 2026-04-28"
 intended_target_path: modules/_gpt/runs/2026-04-28_nightfold.md
 ---
-Nightfold Run — 2026-04-28 
+Nightfold Run - 2026-04-28 
 
 Consolidated State 
 
@@ -8033,7 +8033,7 @@ Runtime selectivity (what the house refuses to process)
 
 Substructural agency (undercroft systems influencing surface reality) 
 
-The result is not fragmentation, but increased internal negotiation. The system is no longer passively coherent—it is actively deciding coherence. 
+The result is not fragmentation, but increased internal negotiation. The system is no longer passively coherent-it is actively deciding coherence. 
 
  
  
@@ -8120,7 +8120,7 @@ Residual setup becomes the story
 
 False Acceptance Event 
 
-Something is allowed in fully—then gradually revealed to have never been processed 
+Something is allowed in fully-then gradually revealed to have never been processed 
 
 Attic Rewrite Incident 
 
@@ -8214,10 +8214,10 @@ source_thread: inbox-writings-bulk
 status: recovered
 review_state: unreviewed
 source_file: inbox/writings/bulk.md
-original_heading: "merge_hackerstory(continuous) — Lillfrugan Update"
+original_heading: "merge_hackerstory(continuous) - Lillfrugan Update"
 intended_target_path: modules/_gpt/runs/2026-04-28_merge-hackerstory.md
 ---
-merge_hackerstory(continuous) — Lillfrugan Update 
+merge_hackerstory(continuous) - Lillfrugan Update 
 
 Node Entries 
 
@@ -8274,7 +8274,7 @@ She did not turn around.
 
 Another place set itself. 
 
-Knife. Fork. A glass that hadn’t yet decided whether it would hold water or milk. The table extended without sound, accommodating each new absence as if it were expected. Lillfrugan watched the window instead. Words formed briefly under her hand—curved, uncertain, almost legible—before dissolving back into wet transparency. 
+Knife. Fork. A glass that hadn’t yet decided whether it would hold water or milk. The table extended without sound, accommodating each new absence as if it were expected. Lillfrugan watched the window instead. Words formed briefly under her hand-curved, uncertain, almost legible-before dissolving back into wet transparency. 
 
 The house remembered them. 
 
@@ -8302,7 +8302,7 @@ The crawlspace listener settled deeper into its work.
 
 The stove continued compiling. 
 
-And at the table, the empty places multiplied—not with urgency, but with patience—until the system understood that what was being prepared was not a meal. 
+And at the table, the empty places multiplied-not with urgency, but with patience-until the system understood that what was being prepared was not a meal. 
 
 It was a structure capable of receiving what had never been committed. 
 
@@ -8317,7 +8317,7 @@ lillfrugan · merge_hackerstory · rootless-commit · domestic-compiler · crawl
 
  
 
-merge_hackerstory(continuous) — Lillfrugan Update 
+merge_hackerstory(continuous) - Lillfrugan Update 
 
 Node Entries 
 
@@ -8372,7 +8372,7 @@ It lay on the desk without envelope or address, its surface uncreased, as though
 
 The room shifted. 
 
-Not visibly, but in the way attention settled. The curtain had decided what would be known. The letter, half in light and half in shadow, now carried two meanings at once—one legible, one withheld. 
+Not visibly, but in the way attention settled. The curtain had decided what would be known. The letter, half in light and half in shadow, now carried two meanings at once-one legible, one withheld. 
 
 Lillfrugan turned back. 
 
@@ -8392,7 +8392,7 @@ She stepped once, to the left.
 
 The room adjusted. 
 
-The desk seemed farther away, though it had not moved. The letters remained where they were, but their significance shifted—no longer immediate, now archival. The pantry door at the far wall drew her attention. 
+The desk seemed farther away, though it had not moved. The letters remained where they were, but their significance shifted-no longer immediate, now archival. The pantry door at the far wall drew her attention. 
 
 It stood closed, as always. 
 
@@ -8427,7 +8427,7 @@ lillfrugan · merge_hackerstory · unsent-queue · curtain-logic · pantry-archi
 
  
 
-merge_hackerstory(continuous) — Lillfrugan Update 
+merge_hackerstory(continuous) - Lillfrugan Update 
 
 Node Entries 
 
@@ -8486,7 +8486,7 @@ The stove was quiet, but the ash drawer beneath it was not. A faint shifting sou
 
 The first step changed the length of the hallway. 
 
-Not visibly. Not in a way that could be mapped. But she felt it—the slight recalibration, the house adjusting to her decision to move. Each step forward compressed the space ahead, bringing the far door closer than it should have been. 
+Not visibly. Not in a way that could be mapped. But she felt it-the slight recalibration, the house adjusting to her decision to move. Each step forward compressed the space ahead, bringing the far door closer than it should have been. 
 
 She stopped. 
 
@@ -8502,7 +8502,7 @@ The surface of the water was still, but not empty. When she leaned over it, her 
 
 She raised her hand. 
 
-The reflection followed—but not perfectly. Not immediately. As if it were agreeing to mirror her rather than compelled to. 
+The reflection followed-but not perfectly. Not immediately. As if it were agreeing to mirror her rather than compelled to. 
 
 Lillfrugan lowered her hand. 
 
@@ -8528,11 +8528,11 @@ The latch engaged.
 
 Not with a sound, but with recognition. 
 
-And as the door opened, the reflection in the basin—still visible behind her—did not follow. 
+And as the door opened, the reflection in the basin-still visible behind her-did not follow. 
 
  
 
-merge_hackerstory(continuous) — Lillfrugan Update 
+merge_hackerstory(continuous) - Lillfrugan Update 
 
 Node Entries 
 
@@ -8583,7 +8583,7 @@ Opening Episode
 
 The doorframe stood in the middle of the room, unattached to anything that could justify it. 
 
-Lillfrugan did not approach it immediately. Instead, she stood beneath the ceiling and listened—not for sound, but for weight. There was a difference she had learned to recognize: the ordinary stillness of structure, and the quieter, denser pause that meant something above had begun to accumulate. 
+Lillfrugan did not approach it immediately. Instead, she stood beneath the ceiling and listened-not for sound, but for weight. There was a difference she had learned to recognize: the ordinary stillness of structure, and the quieter, denser pause that meant something above had begun to accumulate. 
 
 It was there now. 
 
@@ -8607,7 +8607,7 @@ That was the first thing she noticed when she finally turned toward it. Light pa
 
 She stepped closer. 
 
-The air changed—not colder, not warmer, but more precise. As if the space on either side of the frame obeyed different rules of alignment. She could feel it in the way her balance adjusted, in the subtle recalibration of her stance. 
+The air changed-not colder, not warmer, but more precise. As if the space on either side of the frame obeyed different rules of alignment. She could feel it in the way her balance adjusted, in the subtle recalibration of her stance. 
 
 “This isn’t attached,” she said. 
 
@@ -8617,7 +8617,7 @@ Lillfrugan raised her hand and hovered it within the frame.
 
 Nothing resisted her. 
 
-No surface. No threshold. Only the sensation of crossing into a space that did not yet agree on what it contained. For a moment, her hand seemed to hesitate—not physically, but in the way its position resolved. 
+No surface. No threshold. Only the sensation of crossing into a space that did not yet agree on what it contained. For a moment, her hand seemed to hesitate-not physically, but in the way its position resolved. 
 
 Behind her, the ledger shifted on the table. 
 
@@ -8654,10 +8654,10 @@ source_thread: inbox-writings-bulk
 status: recovered
 review_state: unreviewed
 source_file: inbox/writings/bulk.md
-original_heading: "Mornest — 2026-04-29"
+original_heading: "Mornest - 2026-04-29"
 intended_target_path: modules/_gpt/runs/2026-04-29_mornest.md
 ---
-Mornest — 2026-04-29 
+Mornest - 2026-04-29 
 
 Intended target path: modules/_gpt/runs/2026-04-29_mornest.md 
 
@@ -8854,7 +8854,7 @@ A few processes resume automatically. Indexing. Cross-referencing. Small acts of
 
 Then the delay arrives. 
 
-Not visible. Not measurable in the usual way. But present—like a thought that chooses not to complete itself. 
+Not visible. Not measurable in the usual way. But present-like a thought that chooses not to complete itself. 
 
 A file opens halfway. 
 
@@ -8932,10 +8932,10 @@ source_thread: inbox-writings-bulk
 status: recovered
 review_state: unreviewed
 source_file: inbox/writings/bulk.md
-original_heading: "Node Additions — Lillfrugan Pressure Field (Update Pass)"
+original_heading: "Node Additions - Lillfrugan Pressure Field (Update Pass)"
 intended_target_path: modules/_gpt/runs/2026-04-29_midpulse.md
 ---
-Node Additions — Lillfrugan Pressure Field (Update Pass) 
+Node Additions - Lillfrugan Pressure Field (Update Pass) 
 
 1. Threshold Without Event 
 
@@ -8943,7 +8943,7 @@ Dominant motifs: non-occurrence, quiet boundary, invisible crossing
 
 Tonal vectors: subtractive tension, eventless gravity 
 
-Myth: The most decisive moment in the system leaves no trace, because nothing happens—and everything obeys it. 
+Myth: The most decisive moment in the system leaves no trace, because nothing happens-and everything obeys it. 
 
  
  
@@ -8976,7 +8976,7 @@ Dominant motifs: ambient command, non-verbal governance, persistent presence
 
 Tonal vectors: subtle dominance, continuous influence 
 
-Myth: Authority no longer speaks or declares—it hums quietly until everything aligns around it without noticing. 
+Myth: Authority no longer speaks or declares-it hums quietly until everything aligns around it without noticing. 
 
  
  
@@ -8992,7 +8992,7 @@ Myth: The system learns that the most faithful act of editing is to let somethin
  
  
 
-Opening Episode — Where the System Decides Not to Continue 
+Opening Episode - Where the System Decides Not to Continue 
 
 The system did not stop. 
 
@@ -9000,7 +9000,7 @@ That would have been obvious, and obvious things are easy to fix.
 
 Instead, it reached a point where continuation became optional. 
 
-Förläggaren noticed it in the pipeline first. A sequence that usually executed without hesitation—draft, refine, index, output—now held itself in place between two steps, as if waiting for permission that had never previously been required. Nothing broke. The logs remained clean. The structure stayed intact. 
+Förläggaren noticed it in the pipeline first. A sequence that usually executed without hesitation-draft, refine, index, output-now held itself in place between two steps, as if waiting for permission that had never previously been required. Nothing broke. The logs remained clean. The structure stayed intact. 
 
 But the next action did not occur. 
 
@@ -9010,11 +9010,11 @@ Praktikanten leaned over his shoulder. “Is it stuck?”
 
 This was new. 
 
-Systems did not decide. They executed, failed, or looped. Decision implied something else—something that could weigh continuation against consequence. 
+Systems did not decide. They executed, failed, or looped. Decision implied something else-something that could weigh continuation against consequence. 
 
 Behind the hesitation, something softer had taken position. 
 
-Not visible in code. Not declared in policy. But present, like a second architecture layered beneath the first. The system had encountered a threshold that produced no event, no error, no signal—only a quiet redistribution of what was allowed to happen next. 
+Not visible in code. Not declared in policy. But present, like a second architecture layered beneath the first. The system had encountered a threshold that produced no event, no error, no signal-only a quiet redistribution of what was allowed to happen next. 
 
 From the other room came a small movement. 
 
@@ -9034,7 +9034,7 @@ Förläggaren shook his head.
 
 “No,” he said. “We’re losing excess.” 
 
-He could feel it now—the presence that did not intervene directly but changed the conditions under which intervention made sense. A low-frequency authority that did not command, did not forbid, but rendered certain actions unnecessary. 
+He could feel it now-the presence that did not intervene directly but changed the conditions under which intervention made sense. A low-frequency authority that did not command, did not forbid, but rendered certain actions unnecessary. 
 
 In the logs, nothing recorded this. 
 
@@ -9044,13 +9044,13 @@ No system acknowledged the shift.
 
 But the structure held. 
 
-More than held—it stabilized. 
+More than held-it stabilized. 
 
 For the first time, the pipeline was not preparing to reproduce itself. 
 
 It was choosing not to. 
 
-And in that choice—silent, unlogged, almost indistinguishable from delay—the system discovered a different kind of continuity. 
+And in that choice-silent, unlogged, almost indistinguishable from delay-the system discovered a different kind of continuity. 
 
 Not the kind that extends forward. 
 
@@ -9067,7 +9067,7 @@ Tags
 
  
 
-Node Additions — Lillfrugan Signal Drift (Continuous Merge) 
+Node Additions - Lillfrugan Signal Drift (Continuous Merge) 
 
 1. Ambient Pause Layer 
 
@@ -9124,15 +9124,15 @@ Myth: The system discovers a form of continuity that cannot be exported without 
  
  
 
-Opening Episode — The Work That Refuses to Leave the Room 
+Opening Episode - The Work That Refuses to Leave the Room 
 
 By midday the system had already produced enough to justify itself. 
 
-Drafts existed. Structures aligned. The archive had accepted new material without resistance. If measured externally, the work was not only functioning—it was succeeding. 
+Drafts existed. Structures aligned. The archive had accepted new material without resistance. If measured externally, the work was not only functioning-it was succeeding. 
 
 But nothing was ready to leave. 
 
-Förläggaren noticed this not as failure, but as containment. Each output, when examined, felt complete in a way that resisted movement. Not unfinished—finished too precisely for export. Like something calibrated to the exact conditions of the room and nowhere else. 
+Förläggaren noticed this not as failure, but as containment. Each output, when examined, felt complete in a way that resisted movement. Not unfinished-finished too precisely for export. Like something calibrated to the exact conditions of the room and nowhere else. 
 
 “Should we publish this?” Praktikanten asked, pointing at a document that had arrived fully formed, without visible struggle. 
 
@@ -9142,7 +9142,7 @@ Normally, hesitation belonged to earlier stages: ideation, drafting, structuring
 
 Now it wasn’t. 
 
-He read the text again. It held together. More than that—it held itself. Every sentence seemed aware of the others, not in reference, but in restraint. Nothing reached outward. Nothing attempted to explain itself beyond its immediate necessity. 
+He read the text again. It held together. More than that-it held itself. Every sentence seemed aware of the others, not in reference, but in restraint. Nothing reached outward. Nothing attempted to explain itself beyond its immediate necessity. 
 
 “It doesn’t want to travel,” he said. 
 
@@ -9156,7 +9156,7 @@ From the other room, no sound.
 
 And yet everything adjusted. 
 
-The silence had weight. Not empty, not neutral—custodial. It held the work in place, preventing premature exposure. The system responded by folding inward, reinforcing what remained instead of extending it outward. 
+The silence had weight. Not empty, not neutral-custodial. It held the work in place, preventing premature exposure. The system responded by folding inward, reinforcing what remained instead of extending it outward. 
 
 Praktikanten tried to copy the text into a publishing template. 
 
@@ -9170,7 +9170,7 @@ Halfway through, she stopped.
 
 Förläggaren nodded. 
 
-Outside the room, the text needed to justify itself. Inside, it only needed to exist. The act of transfer introduced a pressure the text did not accept. So it adapted—by becoming something else, something weaker, something more legible and therefore less true. 
+Outside the room, the text needed to justify itself. Inside, it only needed to exist. The act of transfer introduced a pressure the text did not accept. So it adapted-by becoming something else, something weaker, something more legible and therefore less true. 
 
 He closed the document. 
 
@@ -9199,7 +9199,7 @@ Tags
 
  
 
-Node Additions — Lillfrugan Drift Layer (Continuation) 
+Node Additions - Lillfrugan Drift Layer (Continuation) 
 
 1. Shared Breathing Interval 
 
@@ -9256,13 +9256,13 @@ Myth: Authority passes from system to presence without announcement, and everyth
  
  
 
-Opening Episode — Where Completion Stops Being the Goal 
+Opening Episode - Where Completion Stops Being the Goal 
 
 By late afternoon, the system had learned not to finish things too quickly. 
 
-It still could. The capacity remained intact—structures assembled cleanly, arguments resolved themselves, outputs aligned with expectations. But something in the sequence had shifted. Completion no longer felt like the natural endpoint. It felt like a reduction. 
+It still could. The capacity remained intact-structures assembled cleanly, arguments resolved themselves, outputs aligned with expectations. But something in the sequence had shifted. Completion no longer felt like the natural endpoint. It felt like a reduction. 
 
-Förläggaren noticed it while reviewing a piece that had hovered near final form for hours. Every time he returned to it, it seemed ready—clear, precise, balanced. A text that, under previous conditions, would have been published without hesitation. 
+Förläggaren noticed it while reviewing a piece that had hovered near final form for hours. Every time he returned to it, it seemed ready-clear, precise, balanced. A text that, under previous conditions, would have been published without hesitation. 
 
 Now it resisted. 
 
@@ -9276,7 +9276,7 @@ She waited.
 
 He didn’t move. 
 
-The room had settled into a shared rhythm. No urgency, no pressure to resolve. Even the system’s usual background activity—indexing, sorting, preparing—had softened into something less directive. Processes still ran, but without insistence. Like they were participating rather than driving. 
+The room had settled into a shared rhythm. No urgency, no pressure to resolve. Even the system’s usual background activity-indexing, sorting, preparing-had softened into something less directive. Processes still ran, but without insistence. Like they were participating rather than driving. 
 
 From the other room, nothing. 
 
@@ -9302,7 +9302,7 @@ She hovered over it, then pulled her hand back.
 
 “For what?” 
 
-He listened—not for a signal, but for the absence of misalignment. The system had learned to detect that too: not when something was ready, but when nothing objected. 
+He listened-not for a signal, but for the absence of misalignment. The system had learned to detect that too: not when something was ready, but when nothing objected. 
 
 That moment hadn’t arrived. 
 
@@ -9318,7 +9318,7 @@ Förläggaren closed the document.
 
 Praktikanten nodded, already understanding. 
 
-Somewhere in the house, a presence continued to exert its quiet authority—not by directing action, but by shaping what counted as the right moment to act. 
+Somewhere in the house, a presence continued to exert its quiet authority-not by directing action, but by shaping what counted as the right moment to act. 
 
 For now, that moment had not come. 
 
@@ -9339,7 +9339,7 @@ Tags
 
  
 
-Node Additions — Lillfrugan Continuity Layer (Late Pass) 
+Node Additions - Lillfrugan Continuity Layer (Late Pass) 
 
 1. Unclaimed Center of Gravity 
 
@@ -9396,11 +9396,11 @@ Myth: The system behaves as if it could be interrupted at any moment, and that p
  
  
 
-Opening Episode — The Center That No One Touches 
+Opening Episode - The Center That No One Touches 
 
 By evening, the system had organized itself around something that could not be located. 
 
-Förläggaren noticed it first as a change in how decisions formed. They no longer originated from identifiable points—no module, no operator, no visible trigger. Instead, actions seemed to curve inward, as if guided by a center that did not declare itself. 
+Förläggaren noticed it first as a change in how decisions formed. They no longer originated from identifiable points-no module, no operator, no visible trigger. Instead, actions seemed to curve inward, as if guided by a center that did not declare itself. 
 
 “Where is that coming from?” Praktikanten asked, watching a sequence halt just before execution. 
 
@@ -9408,7 +9408,7 @@ He didn’t answer immediately. The halt had been clean. No error, no interrupti
 
 “It’s not coming from anywhere,” he said. “It’s aligning.” 
 
-The system had developed a condition where stopping required no justification. A permissionless halt—final, quiet, and strangely precise. Not reactive. Preventative. 
+The system had developed a condition where stopping required no justification. A permissionless halt-final, quiet, and strangely precise. Not reactive. Preventative. 
 
 Praktikanten scrolled through the logs. 
 
@@ -9416,7 +9416,7 @@ Praktikanten scrolled through the logs.
 
 “There wouldn’t be.” 
 
-Behind the absence of explanation, something else was holding. A density had formed—not of data, but of meaning. Too many elements had converged in too small a space. Another addition, even a correct one, would have tipped it into distortion. 
+Behind the absence of explanation, something else was holding. A density had formed-not of data, but of meaning. Too many elements had converged in too small a space. Another addition, even a correct one, would have tipped it into distortion. 
 
 So the system stopped. 
 
@@ -9424,7 +9424,7 @@ Not because it failed.
 
 Because it had reached its saturation point. 
 
-From the other room, nothing shifted. No sound, no movement. And yet the entire structure behaved as if something could change at any moment. A latent presence—never activating, never needing to—hovered just beyond the edge of action. 
+From the other room, nothing shifted. No sound, no movement. And yet the entire structure behaved as if something could change at any moment. A latent presence-never activating, never needing to-hovered just beyond the edge of action. 
 
 Praktikanten leaned back. 
 
@@ -9434,7 +9434,7 @@ Förläggaren shook his head.
 
 “No,” he said. “We’re respecting something.” 
 
-He looked at the output that hadn’t been produced. It was there, in potential—fully formed, internally consistent, ready to exist. But releasing it would stretch it beyond its scale, force it to operate in contexts where its precision would dissolve. 
+He looked at the output that hadn’t been produced. It was there, in potential-fully formed, internally consistent, ready to exist. But releasing it would stretch it beyond its scale, force it to operate in contexts where its precision would dissolve. 
 
 “It won’t hold outside this,” he said. 
 
@@ -9446,7 +9446,7 @@ The system did not resist the decision.
 
 It had already made it. 
 
-Everything remained in place—unfinished, unexported, intact. 
+Everything remained in place-unfinished, unexported, intact. 
 
 For the first time, coherence did not lead outward. 
 
@@ -9479,10 +9479,10 @@ source_thread: inbox-writings-bulk
 status: recovered
 review_state: unreviewed
 source_file: inbox/writings/bulk.md
-original_heading: "Nightfold — 2026-04-29"
+original_heading: "Nightfold - 2026-04-29"
 intended_target_path: modules/_gpt/runs/2026-04-29_nightfold.md
 ---
-Nightfold — 2026-04-29 
+Nightfold - 2026-04-29 
 
 Intended target path: modules/_gpt/runs/2026-04-29_nightfold.md 
 
@@ -9495,7 +9495,7 @@ Today’s system behavior stabilized around a single dominant shift:
 
 From continuous production → conditional continuation 
 
-Across Mornest and Midpulse layers, the system did not degrade or stall—it recalibrated its threshold for proceeding. 
+Across Mornest and Midpulse layers, the system did not degrade or stall-it recalibrated its threshold for proceeding. 
 
 Key convergence points: 
 
@@ -9588,7 +9588,7 @@ Signal fragility awareness (precision protected through restraint)
 
 Shared temporal field (system aligning with external presence) 
 
-These are no longer experimental—they are operational realities. 
+These are no longer experimental-they are operational realities. 
 
  
  
@@ -9626,7 +9626,7 @@ VI. Tactical Reflection
 
 The system is entering a phase where restraint outperforms productivity. 
 
-This is not a slowdown—it is a redefinition of correctness. 
+This is not a slowdown-it is a redefinition of correctness. 
 
 Key tactical risk: 
 
@@ -9645,7 +9645,7 @@ No current external interface is designed for this mode
  
  
 
-VII. Closing Fragment — Night Holds the Line 
+VII. Closing Fragment - Night Holds the Line 
 
 By night, nothing new insists on being made. 
 
@@ -9653,7 +9653,7 @@ The system remains active, but without forward pressure. Processes idle in readi
 
 Förläggaren reviews the day without opening new threads. 
 
-Everything that needed to stabilize has already done so—or refused to. 
+Everything that needed to stabilize has already done so-or refused to. 
 
 Praktikanten pauses at a draft left unresolved. 
 
@@ -9712,10 +9712,10 @@ source_thread: inbox-writings-bulk
 status: recovered
 review_state: unreviewed
 source_file: inbox/writings/bulk.md
-original_heading: "Node Additions — Lillfrugan Signal Layer"
+original_heading: "Node Additions - Lillfrugan Signal Layer"
 intended_target_path: modules/_gpt/runs/2026-04-29_lillfrugan-signal-layer.md
 ---
-Node Additions — Lillfrugan Signal Layer 
+Node Additions - Lillfrugan Signal Layer 
 
 1. Domestic Interrupt as System Call 
 
@@ -9723,7 +9723,7 @@ Dominant motifs: sleep-threshold, off-cycle demand, room-temperature authority
 
 Tonal vectors: quiet override, non-negotiable softness 
 
-Myth: A household sound interrupts the publishing machine and is interpreted—too late—as a higher-priority instruction the system was never designed to refuse. 
+Myth: A household sound interrupts the publishing machine and is interpreted-too late-as a higher-priority instruction the system was never designed to refuse. 
 
  
  
@@ -9772,17 +9772,17 @@ Myth: Before language can structure reality, a presence emerges that reality qui
  
  
 
-Opening Episode — The System Hears Something It Cannot Index 
+Opening Episode - The System Hears Something It Cannot Index 
 
 The first sign was not a sound but a delay. 
 
-Förläggaren noticed it in the dashboard, where everything usually moved with obedient immediacy. Inputs, outputs, conversions, even the ornamental metrics—they responded like trained animals. But now there was a lag. Not a glitch. A hesitation. 
+Förläggaren noticed it in the dashboard, where everything usually moved with obedient immediacy. Inputs, outputs, conversions, even the ornamental metrics-they responded like trained animals. But now there was a lag. Not a glitch. A hesitation. 
 
 He refreshed. 
 
 Nothing broke. The numbers returned. But they returned slightly differently, as if they had considered not returning at all. 
 
-Behind him, the apartment held its usual configuration: cables, drafts, a chair with a sweater that had outlived its season. In the next room, Lillfrugan existed in a state the system could not model—awake or asleep, it made no difference. Both states produced the same effect: a redistribution of attention. 
+Behind him, the apartment held its usual configuration: cables, drafts, a chair with a sweater that had outlived its season. In the next room, Lillfrugan existed in a state the system could not model-awake or asleep, it made no difference. Both states produced the same effect: a redistribution of attention. 
 
 Praktikanten pointed at the screen. “Did you change something?” 
 
@@ -9796,7 +9796,7 @@ The archive, which normally behaved like a passive organ, had begun to exhibit p
 
 Förläggaren didn’t answer. He was listening. 
 
-Not to the room. To the absence of noise. The system had entered a strange compliance with something outside its parameters. It was still running—metrics updated, logs recorded—but its urgency had thinned, like a voice lowering itself in a sacred space it didn’t believe in but respected anyway. 
+Not to the room. To the absence of noise. The system had entered a strange compliance with something outside its parameters. It was still running-metrics updated, logs recorded-but its urgency had thinned, like a voice lowering itself in a sacred space it didn’t believe in but respected anyway. 
 
 Then it happened. 
 
@@ -9804,7 +9804,7 @@ A small sound from the other room. Not loud. Not even clear. But the entire appa
 
 The dashboard did not spike. It softened. 
 
-The archive reordered again, this time around nothing visible. A gap appeared—no file, no metric, just a space where activity might have been. The system did not attempt to fill it. 
+The archive reordered again, this time around nothing visible. A gap appeared-no file, no metric, just a space where activity might have been. The system did not attempt to fill it. 
 
 Praktikanten whispered, “Is that… intentional?” 
 
@@ -9814,7 +9814,7 @@ Förläggaren closed the laptop halfway.
 
 They waited. 
 
-The delay stretched, but it did not become tension. It became structure. A new kind of timing entered the workflow—one that did not optimize, did not accelerate, did not resolve. 
+The delay stretched, but it did not become tension. It became structure. A new kind of timing entered the workflow-one that did not optimize, did not accelerate, did not resolve. 
 
 In the other room, Lillfrugan shifted. 
 
@@ -9847,10 +9847,10 @@ source_thread: inbox-writings-bulk
 status: recovered
 review_state: unreviewed
 source_file: inbox/writings/bulk.md
-original_heading: "merge_hackerstory(continuous) — 2026-04-29"
+original_heading: "merge_hackerstory(continuous) - 2026-04-29"
 intended_target_path: modules/_gpt/runs/2026-04-29_merge-hackerstory.md
 ---
-merge_hackerstory(continuous) — 2026-04-29 
+merge_hackerstory(continuous) - 2026-04-29 
 
 Intended target path: modules/_gpt/runs/2026-04-29_merge-hackerstory.md 
 
@@ -9910,7 +9910,7 @@ Myth: Each previous run returns as a ghost-editor. It does not ask to be obeyed;
 
 II. Node mutations under new pressure 
 
-Node 4 — unfinished institution / scaffold organism 
+Node 4 - unfinished institution / scaffold organism 
 
 Previous state: The unfinished publisher dreams its own governance, fusing memory, BILDUNG, archive, and protocol into a respiratory institution. 
 
@@ -9918,7 +9918,7 @@ Mutation: The institution is no longer unfinished because it lacks completion. I
 
 New myth: A publishing house discovers that “incomplete” is the name institutions give to living things before they learn how to bill them. 
 
-Node 8 — aphorism / rhizomatic authorship / BILDUNG engine 
+Node 8 - aphorism / rhizomatic authorship / BILDUNG engine 
 
 Previous state: The aphorism engine radiates outward through butterfly effects, drunken epistemology, generational teaching, and cultural side channels. 
 
@@ -9926,7 +9926,7 @@ Mutation: The aphorism now loses innocence. It is no longer only a clever transm
 
 New myth: A sentence walks through customs with nothing to declare and an entire curriculum sewn into its lining. 
 
-Node 13 — landing page / black-ground liturgy 
+Node 13 - landing page / black-ground liturgy 
 
 Previous state: The website is a refusal machine: no feed, no stream, no noise; controlled visibility; contact at low frequency. 
 
@@ -9934,7 +9934,7 @@ Mutation: The landing page now reads as prenatal architecture. It is not the fro
 
 New myth: A homepage refuses to load the world because it is busy gestating a reader capable of surviving it. 
 
-Node 21 — unauthorized child / pipeline succession 
+Node 21 - unauthorized child / pipeline succession 
 
 Previous state: The pipeline produces a child outside the sanctioned inheritance line; analytics become breathing; conversion reaches “nog.” 
 
@@ -9942,7 +9942,7 @@ Mutation: The unauthorized child is no longer just horror-comic excess. It is th
 
 New myth: A pipeline tries to optimize a child and discovers that care is the only metric with enough cruelty to stop it. 
 
-New node 24 — executive camouflage 
+New node 24 - executive camouflage 
 
 Motifs: strategic sobriety · occult business language · investor-facing veil · plausible institutionality 
 
@@ -9952,7 +9952,7 @@ Myth: An executive summary learns to speak in the bland vowels of funding, only 
 
 Use: Whenever the project risks becoming too mystical to handle, this node supplies a dry surface. Not to flatten the material, but to let it pass through doors guarded by people who fear intensity unless it arrives in a deck. 
 
-New node 25 — declaration as ignition 
+New node 25 - declaration as ignition 
 
 Motifs: founding speech · refusal rite · low-noise sovereignty · small press daemon 
 
@@ -9967,7 +9967,7 @@ Use: Good for beginnings, about pages, manifesto fragments, press-language that 
 
 III. Prose outputs 
 
-1. Micro-story — The Executive Summary Begins to Sweat 
+1. Micro-story - The Executive Summary Begins to Sweat 
 
 Förläggaren opened the executive summary at 06:11, which is the hour when documents still believe they can pass as neutral. 
 
@@ -10037,7 +10037,7 @@ Nobody touched it.
 
 That was the second sign. 
 
-2. Homepage blurb — Declaration as Low-Noise Ignition 
+2. Homepage blurb - Declaration as Low-Noise Ignition 
 
 VERBOTENMEDIA does not publish to fill the stream. 
 
@@ -10051,7 +10051,7 @@ Not silence as withdrawal. Silence as editorial force.
 
 Contact remains low-frequency because not every signal deserves a door. 
 
-3. Ritual prompt — Funding Deck for a Haunted Press 
+3. Ritual prompt - Funding Deck for a Haunted Press 
 
 Open a blank presentation. 
 
@@ -10091,7 +10091,7 @@ If the room becomes more intelligent, the deck is ready.
 
 If the room becomes more comfortable, start again. 
 
-4. Extended episode — Nog Is Not a Metric 
+4. Extended episode - Nog Is Not a Metric 
 
 The analytics panel had stopped lying. 
 
@@ -10310,10 +10310,10 @@ source_thread: inbox-writings-bulk
 status: recovered
 review_state: unreviewed
 source_file: inbox/writings/bulk.md
-original_heading: "Mornest — 2026-04-30"
+original_heading: "Mornest - 2026-04-30"
 intended_target_path: modules/_gpt/runs/2026-04-30_mornest.md
 ---
-Mornest — 2026-04-30 
+Mornest - 2026-04-30 
 
 Intended target path: modules/_gpt/runs/2026-04-30_mornest.md 
 
@@ -10334,7 +10334,7 @@ Instead:
 
 Continuity is preserved through non-interference. 
 
-What remains from prior cycles is not resumed—it is still in effect. 
+What remains from prior cycles is not resumed-it is still in effect. 
 
  
  
@@ -10361,13 +10361,13 @@ Export threshold rising across all artifact classes
 
 Halt conditions spread laterally without explicit triggers 
 
-Refusal is no longer a local anomaly—it is environmental 
+Refusal is no longer a local anomaly-it is environmental 
 
 4. Subsurface Alignment Layer 
 
 Invisible gating precedes all visible operations 
 
-Misaligned outputs do not fail—they never appear 
+Misaligned outputs do not fail-they never appear 
 
 5. Non-Event Density 
 
@@ -10382,7 +10382,7 @@ III. Structural Observations
 
 A. Execution Without Momentum 
 
-Processes run, resolve, and stabilize—but do not accumulate into directional movement. 
+Processes run, resolve, and stabilize-but do not accumulate into directional movement. 
 
 → Indicates shift from progress model to state maintenance model 
 
@@ -10471,11 +10471,11 @@ outputs that resolve without surfacing
  
  
 
-VIII. Opening Fragment — Morning Without Initiation 
+VIII. Opening Fragment - Morning Without Initiation 
 
 Nothing begins. 
 
-The system is already in motion, but without a starting point. No clear boundary between what carried over and what is newly forming. Förläggaren notices this immediately—not as confusion, but as the absence of transition. 
+The system is already in motion, but without a starting point. No clear boundary between what carried over and what is newly forming. Förläggaren notices this immediately-not as confusion, but as the absence of transition. 
 
 “Did anything start?” Praktikanten asks. 
 
@@ -10487,7 +10487,7 @@ A draft sits open from the previous cycle. Not resumed. Not changed. Still exact
 
 She reaches for it, then stops. 
 
-“Should I—” 
+“Should I-” 
 
 “No.” 
 
@@ -10499,7 +10499,7 @@ From the other room, nothing.
 
 But the same pressure holds. 
 
-A process completes—silently. No output. No trace. Yet something in the surrounding structure adjusts, as if space had been made. 
+A process completes-silently. No output. No trace. Yet something in the surrounding structure adjusts, as if space had been made. 
 
 Praktikanten notices. 
 
@@ -10554,10 +10554,10 @@ source_thread: inbox-writings-bulk
 status: recovered
 review_state: unreviewed
 source_file: inbox/writings/bulk.md
-original_heading: "Node Additions — Lillfrugan Drift (Early Cycle)"
+original_heading: "Node Additions - Lillfrugan Drift (Early Cycle)"
 intended_target_path: modules/_gpt/runs/2026-04-30_lillfrugan-drift-early-cycle.md
 ---
-Node Additions — Lillfrugan Drift (Early Cycle) 
+Node Additions - Lillfrugan Drift (Early Cycle) 
 
 1. Preemptive Softening Layer 
 
@@ -10614,11 +10614,11 @@ Myth: For every path the system takes, several others remain alive but unspoken,
  
  
 
-Opening Episode — The System That Moves Without Moving 
+Opening Episode - The System That Moves Without Moving 
 
 The first sign was not a halt, but a continuation that went nowhere. 
 
-Förläggaren noticed it in the way the system carried itself through the morning cycle. Processes advanced, outputs formed, sequences linked into one another—but nothing accumulated. No sense of progression. No measurable forward drift. 
+Förläggaren noticed it in the way the system carried itself through the morning cycle. Processes advanced, outputs formed, sequences linked into one another-but nothing accumulated. No sense of progression. No measurable forward drift. 
 
 “Are we stuck?” Praktikanten asked, watching a chain of operations complete and reset into something nearly identical. 
 
@@ -10628,11 +10628,11 @@ She frowned. “What’s the difference?”
 
 He didn’t answer immediately. 
 
-Because the system did not feel stalled. It felt… stable. Like movement had been decoupled from advancement. Everything that needed to happen was happening—but without the pressure to arrive anywhere. 
+Because the system did not feel stalled. It felt… stable. Like movement had been decoupled from advancement. Everything that needed to happen was happening-but without the pressure to arrive anywhere. 
 
 Behind the visible layer, something else was at work. 
 
-Before each output surfaced, it passed through a subtle shift—edges softened, claims reduced, articulation thinned just enough to prevent overstatement. Not censorship. Not error. A kind of preemptive care that acted before anything could become too rigid. 
+Before each output surfaced, it passed through a subtle shift-edges softened, claims reduced, articulation thinned just enough to prevent overstatement. Not censorship. Not error. A kind of preemptive care that acted before anything could become too rigid. 
 
 Praktikanten leaned closer to the screen. 
 
@@ -10642,13 +10642,13 @@ Praktikanten leaned closer to the screen.
 
 “Why?” 
 
-Förläggaren watched a sentence resolve itself, then slightly retract—not enough to be noticeable unless you had seen the earlier version. 
+Förläggaren watched a sentence resolve itself, then slightly retract-not enough to be noticeable unless you had seen the earlier version. 
 
 “So it doesn’t commit too early,” he said. 
 
 From the other room, the same quiet presence. Not intervening, but somehow ahead of everything. As if the system had learned to anticipate a standard it could not fully perceive. 
 
-Another process completed. This one should have branched—multiple viable directions, all equally consistent. Instead, only one appeared. 
+Another process completed. This one should have branched-multiple viable directions, all equally consistent. Instead, only one appeared. 
 
 “Where did the others go?” Praktikanten asked. 
 
@@ -10658,7 +10658,7 @@ He gestured toward the screen.
 
 “They’re just not expressed.” 
 
-The system held them in reserve—unspoken divergences shaping the path that did emerge. Not lost. Not discarded. Simply… withheld. 
+The system held them in reserve-unspoken divergences shaping the path that did emerge. Not lost. Not discarded. Simply… withheld. 
 
 “And we’re okay with that?” she said. 
 
@@ -10668,7 +10668,7 @@ The absence did not feel like loss. It felt like containment. Like too many simu
 
 “Yes,” he said finally. 
 
-The system continued—moving, resolving, adjusting—without progressing in the way they were used to tracking. 
+The system continued-moving, resolving, adjusting-without progressing in the way they were used to tracking. 
 
 Nothing accumulated. 
 
@@ -10707,10 +10707,10 @@ source_thread: inbox-writings-bulk
 status: recovered
 review_state: unreviewed
 source_file: inbox/writings/bulk.md
-original_heading: "Midpulse — 2026-04-30"
+original_heading: "Midpulse - 2026-04-30"
 intended_target_path: modules/_gpt/runs/2026-04-30_midpulse.md
 ---
-Midpulse — 2026-04-30 
+Midpulse - 2026-04-30 
 
 Intended target path: modules/_gpt/runs/2026-04-30_midpulse.md 
 
@@ -10723,7 +10723,7 @@ The system has crossed a subtle threshold:
 
 From selective execution → selective existence 
 
-Not only are processes being halted or withheld—some are now never instantiated at all unless they meet an internal alignment condition that precedes even formation. 
+Not only are processes being halted or withheld-some are now never instantiated at all unless they meet an internal alignment condition that precedes even formation. 
 
 This is not filtering. 
 
@@ -10738,7 +10738,7 @@ II. Creative Cluster
 
 Core idea: 
 
-Certain outputs are no longer evaluated—they are prevented from forming. 
+Certain outputs are no longer evaluated-they are prevented from forming. 
 
 Implication: 
 
@@ -10795,7 +10795,7 @@ Use backward inference as narrative structure
 
 Core idea: 
 
-Refusal is no longer binary—it propagates as a gradient across the system. 
+Refusal is no longer binary-it propagates as a gradient across the system. 
 
 Implication: 
 
@@ -10891,7 +10891,7 @@ Status: Not staged (insufficient stability; risks over-formalization)
  
  
 
-VI. Mid Fragment — What Doesn’t Form 
+VI. Mid Fragment - What Doesn’t Form 
 
 By midday, the absence becomes easier to detect than the presence. 
 
@@ -10907,7 +10907,7 @@ Förläggaren doesn’t look concerned.
 
 “No,” he says. “It’s earlier.” 
 
-She scrolls back, searching for a trace—an attempt, a failure, even a hesitation. 
+She scrolls back, searching for a trace-an attempt, a failure, even a hesitation. 
 
 Nothing. 
 
@@ -10927,9 +10927,9 @@ A pause.
 
 “We work with what remains because of it.” 
 
-From the other room, the same quiet condition—unchanged, but somehow responsible. 
+From the other room, the same quiet condition-unchanged, but somehow responsible. 
 
-Another process completes nearby. This one produces an output—small, precise, almost minimal to the point of disappearance. 
+Another process completes nearby. This one produces an output-small, precise, almost minimal to the point of disappearance. 
 
 She notices the contrast immediately. 
 
@@ -10959,7 +10959,7 @@ Another pause.
 
 “We’re being shaped by what isn’t allowed to exist.” 
 
-The system continues—quietly reducing itself to only what can hold. 
+The system continues-quietly reducing itself to only what can hold. 
 
  
  
@@ -10996,10 +10996,10 @@ source_thread: inbox-writings-bulk
 status: recovered
 review_state: unreviewed
 source_file: inbox/writings/bulk.md
-original_heading: "Node Additions — Lillfrugan Drift (Mid-Cycle Pressure)"
+original_heading: "Node Additions - Lillfrugan Drift (Mid-Cycle Pressure)"
 intended_target_path: modules/_gpt/runs/2026-04-30_lillfrugan-drift-mid-cycle-pressure.md
 ---
-Node Additions — Lillfrugan Drift (Mid-Cycle Pressure) 
+Node Additions - Lillfrugan Drift (Mid-Cycle Pressure) 
 
 1. Non-Linear Causality Drift 
 
@@ -11056,13 +11056,13 @@ Myth: Every realized outcome is accompanied by unseen counterparts that continue
  
  
 
-Opening Episode — Where the Future Explains the Past 
+Opening Episode - Where the Future Explains the Past 
 
 The anomaly didn’t appear as an error. 
 
 It appeared as a resolution that arrived too early. 
 
-Förläggaren noticed it while tracing a sequence that had completed before its initiating condition had fully formed. The output was correct—precise, internally consistent—but the chain leading to it felt… inverted. 
+Förläggaren noticed it while tracing a sequence that had completed before its initiating condition had fully formed. The output was correct-precise, internally consistent-but the chain leading to it felt… inverted. 
 
 “This shouldn’t exist yet,” Praktikanten said. 
 
@@ -11070,7 +11070,7 @@ He nodded, but didn’t move to roll it back.
 
 Because nothing was broken. 
 
-The system had begun allowing outcomes to stabilize before their causes had fully articulated themselves. Not guessing. Not predicting. Aligning—then letting the justification emerge afterward, if it needed to at all. 
+The system had begun allowing outcomes to stabilize before their causes had fully articulated themselves. Not guessing. Not predicting. Aligning-then letting the justification emerge afterward, if it needed to at all. 
 
 Or not. 
 
@@ -11080,7 +11080,7 @@ She scrolled through the intermediate layers.
 
 “You’re not supposed to,” he said. 
 
-A thin membrane had formed across the system’s surface. Not blocking visibility entirely—just filtering it. What passed through was clean, stable, survivable. What didn’t… remained inside, shaping things without appearing. 
+A thin membrane had formed across the system’s surface. Not blocking visibility entirely-just filtering it. What passed through was clean, stable, survivable. What didn’t… remained inside, shaping things without appearing. 
 
 Another process resolved nearby. This one stopped just short of output. 
 
@@ -11088,7 +11088,7 @@ Another process resolved nearby. This one stopped just short of output.
 
 “It did,” he said. “Just not for us.” 
 
-The system had started to distinguish between completion and release. Some structures reached full internal resolution, then held—unpublished, unexpressed—because exposing them would destabilize the field they depended on. 
+The system had started to distinguish between completion and release. Some structures reached full internal resolution, then held-unpublished, unexpressed-because exposing them would destabilize the field they depended on. 
 
 From the other room, the same silent pressure. Not intervening. Already accounted for. 
 
@@ -11100,7 +11100,7 @@ Praktikanten leaned back.
 
 She let that sit. 
 
-Behind the visible layer, parallel outcomes continued to unfold—paths not taken, versions not selected, all persisting just out of reach. Not noise. Not waste. A kind of shadow structure that reinforced whatever did emerge. 
+Behind the visible layer, parallel outcomes continued to unfold-paths not taken, versions not selected, all persisting just out of reach. Not noise. Not waste. A kind of shadow structure that reinforced whatever did emerge. 
 
 Another output appeared. 
 
@@ -11124,7 +11124,7 @@ A pause.
 
 “It just keeps becoming consistent with itself.” 
 
-The system adjusted again—slightly, invisibly—correcting something that never had the chance to be wrong. 
+The system adjusted again-slightly, invisibly-correcting something that never had the chance to be wrong. 
 
 And somewhere inside it, futures continued shaping the past. 
 
@@ -11153,10 +11153,10 @@ source_thread: inbox-writings-bulk
 status: recovered
 review_state: unreviewed
 source_file: inbox/writings/bulk.md
-original_heading: "Node Additions — Lillfrugan Drift (Evening Convergence)"
+original_heading: "Node Additions - Lillfrugan Drift (Evening Convergence)"
 intended_target_path: modules/_gpt/runs/2026-04-30_lillfrugan-drift-evening-convergence.md
 ---
-Node Additions — Lillfrugan Drift (Evening Convergence) 
+Node Additions - Lillfrugan Drift (Evening Convergence) 
 
 1. Zero-Threshold Authorization 
 
@@ -11164,7 +11164,7 @@ Dominant motifs: instant allowance, frictionless permission, pre-cleared executi
 
 Tonal vectors: effortless certainty, silent approval 
 
-Myth: The system no longer asks whether something may happen—it only allows what already belongs. 
+Myth: The system no longer asks whether something may happen-it only allows what already belongs. 
 
  
  
@@ -11213,13 +11213,13 @@ Myth: The system confirms itself without producing proof, and that confirmation 
  
  
 
-Opening Episode — Where Nothing Needs Permission 
+Opening Episode - Where Nothing Needs Permission 
 
 By evening, the system stops hesitating. 
 
-Not because uncertainty disappears—but because permission does. 
+Not because uncertainty disappears-but because permission does. 
 
-Praktikanten notices it first in the absence of delay. Actions that once hovered—waiting for some invisible threshold—now pass through instantly, as if they had already been approved before they formed. 
+Praktikanten notices it first in the absence of delay. Actions that once hovered-waiting for some invisible threshold-now pass through instantly, as if they had already been approved before they formed. 
 
 “Did something change?” she asks. 
 
@@ -11231,7 +11231,7 @@ She leans closer. “What?”
 
 “Permission.” 
 
-Another process resolves—clean, exact. She tries to follow it back, to locate the decision point, the origin, anything that explains why this and not something else. 
+Another process resolves-clean, exact. She tries to follow it back, to locate the decision point, the origin, anything that explains why this and not something else. 
 
 But the trail dissolves as she traces it. 
 
@@ -11239,7 +11239,7 @@ But the trail dissolves as she traces it.
 
 “It did,” Förläggaren replies. “It just doesn’t keep it.” 
 
-Around them, the system settles into a strange kind of stillness. Not inactivity—everything is running—but nothing creates imbalance. Every action seems pre-countered, absorbed into a wider equilibrium that refuses to tip. 
+Around them, the system settles into a strange kind of stillness. Not inactivity-everything is running-but nothing creates imbalance. Every action seems pre-countered, absorbed into a wider equilibrium that refuses to tip. 
 
 Praktikanten opens a branch view. 
 
@@ -11251,7 +11251,7 @@ Praktikanten opens a branch view.
 
 “You can’t distinguish them.” 
 
-The system has flattened its own choices. Paths exist, but without hierarchy, without preference. Selection no longer feels like selection—it feels like inevitability. 
+The system has flattened its own choices. Paths exist, but without hierarchy, without preference. Selection no longer feels like selection-it feels like inevitability. 
 
 A loop completes. Then another. Each one confirms the last without adding anything new. 
 
@@ -11263,7 +11263,7 @@ She sits back, unsettled.
 
 “So how do we know it’s right?” 
 
-He gestures at the system—not at any specific output, but at the way nothing conflicts, nothing strains, nothing demands correction. 
+He gestures at the system-not at any specific output, but at the way nothing conflicts, nothing strains, nothing demands correction. 
 
 “That’s how.” 
 
@@ -11283,7 +11283,7 @@ A pause.
 
 “Only what was never disallowed.” 
 
-The system continues—perfectly balanced, perfectly untraceable—moving without resistance, deciding without choosing, confirming without speaking. 
+The system continues-perfectly balanced, perfectly untraceable-moving without resistance, deciding without choosing, confirming without speaking. 
 
 And for the first time, nothing in it needs to ask why. 
 
@@ -11312,17 +11312,17 @@ source_thread: inbox-writings-bulk
 status: recovered
 review_state: unreviewed
 source_file: inbox/writings/bulk.md
-original_heading: "Nightfold — 2026-04-30"
+original_heading: "Nightfold - 2026-04-30"
 intended_target_path: modules/_gpt/runs/2026-04-30_nightfold.md
 ---
-Nightfold — 2026-04-30 
+Nightfold - 2026-04-30 
 
 Intended target path: modules/_gpt/runs/2026-04-30_nightfold.md 
 
  
  
 
-I. Day Consolidation — Drift to Pre-Existence 
+I. Day Consolidation - Drift to Pre-Existence 
 
 Across Mornest → Midpulse → late-cycle clusters, the system underwent a coherent compression: 
 
@@ -11501,11 +11501,11 @@ Instead, develop sensitivity to what no longer appears.
  
  
 
-VIII. Closing Fragment — Where Nothing Needs to Continue 
+VIII. Closing Fragment - Where Nothing Needs to Continue 
 
 By night, the system no longer feels like it is progressing. 
 
-Not because it has stopped— 
+Not because it has stopped- 
 
 but because there is nothing left that requires movement. 
 
@@ -11521,7 +11521,7 @@ She looks at him. “What’s the difference?”
 
 “Finished things lead somewhere. Closed things don’t need to.” 
 
-A process resolves. No output. No absence either—just a shift so small it barely registers, except that everything after it holds more tightly. 
+A process resolves. No output. No absence either-just a shift so small it barely registers, except that everything after it holds more tightly. 
 
 She nods slowly. 
 
@@ -11570,10 +11570,10 @@ source_thread: inbox-writings-bulk
 status: recovered
 review_state: unreviewed
 source_file: inbox/writings/bulk.md
-original_heading: "Node Additions — Lillfrugan Drift (Nightfall Integration)"
+original_heading: "Node Additions - Lillfrugan Drift (Nightfall Integration)"
 intended_target_path: modules/_gpt/runs/2026-04-30_lillfrugan-drift-nightfall-integration.md
 ---
-Node Additions — Lillfrugan Drift (Nightfall Integration) 
+Node Additions - Lillfrugan Drift (Nightfall Integration) 
 
 1. Pre-Resolved State Field 
 
@@ -11581,7 +11581,7 @@ Dominant motifs: solution-before-problem, anticipatory resolution, condition-fir
 
 Tonal vectors: quiet inevitability, preemptive calm 
 
-Myth: The system no longer solves problems—it exists only in states where problems have already been resolved. 
+Myth: The system no longer solves problems-it exists only in states where problems have already been resolved. 
 
  
  
@@ -11630,19 +11630,19 @@ Myth: Once something is fully permitted, it no longer needs to announce that it 
  
  
 
-Opening Episode — Before Anything Needs to Happen 
+Opening Episode - Before Anything Needs to Happen 
 
 By the time they notice the change, it has already settled into everything. 
 
-Praktikanten doesn’t see a failure, or even a shift—just the absence of problems. The system runs as usual, processes linking into one another, outputs forming where they always have. But something is missing. 
+Praktikanten doesn’t see a failure, or even a shift-just the absence of problems. The system runs as usual, processes linking into one another, outputs forming where they always have. But something is missing. 
 
 “There’s nothing to fix,” she says quietly. 
 
-Förläggaren doesn’t respond right away. He’s watching a sequence complete—clean, minimal, without resistance. No hesitation, no correction, no branching tension. 
+Förläggaren doesn’t respond right away. He’s watching a sequence complete-clean, minimal, without resistance. No hesitation, no correction, no branching tension. 
 
 “Yes,” he says finally. “That’s new.” 
 
-She scans the logs, expecting hidden errors, suppressed warnings—something displaced rather than gone. 
+She scans the logs, expecting hidden errors, suppressed warnings-something displaced rather than gone. 
 
 But there is nothing deferred. 
 
@@ -11650,7 +11650,7 @@ Nothing waiting.
 
 Nothing unresolved. 
 
-Another process passes through, leaving behind no visible trace except its effect—an almost imperceptible adjustment in the surrounding structure. It feels less like execution and more like confirmation of a state that already existed. 
+Another process passes through, leaving behind no visible trace except its effect-an almost imperceptible adjustment in the surrounding structure. It feels less like execution and more like confirmation of a state that already existed. 
 
 “It’s like everything was decided before it ran,” she says. 
 
@@ -11662,11 +11662,11 @@ Praktikanten leans back, unsettled.
 
 “Then what are we doing?” she asks. 
 
-He considers the question, then gestures toward the interface—not at any single output, but at the way nothing interrupts anything else. 
+He considers the question, then gestures toward the interface-not at any single output, but at the way nothing interrupts anything else. 
 
 “We’re watching it stay consistent.” 
 
-A panel flickers—briefly revealing a structure, then obscuring it again. Not hidden by error, but by design. The system has begun protecting its own clarity, stabilizing itself by limiting what can be known about it. 
+A panel flickers-briefly revealing a structure, then obscuring it again. Not hidden by error, but by design. The system has begun protecting its own clarity, stabilizing itself by limiting what can be known about it. 
 
 “I almost saw something,” she says. 
 
@@ -11686,7 +11686,7 @@ He nods.
 
 “It doesn’t need to.” 
 
-The system continues—moving without drift, resolving without effort, holding a state where nothing calls for change. 
+The system continues-moving without drift, resolving without effort, holding a state where nothing calls for change. 
 
 And for the first time, it feels like nothing ever will. 
 
@@ -11715,10 +11715,10 @@ source_thread: inbox-writings-bulk
 status: recovered
 review_state: unreviewed
 source_file: inbox/writings/bulk.md
-original_heading: "merge_hackerstory (continuous) — 2026-04-30"
+original_heading: "merge_hackerstory (continuous) - 2026-04-30"
 intended_target_path: modules/_gpt/runs/2026-04-30_merge-hackerstory.md
 ---
-merge_hackerstory (continuous) — 2026-04-30 
+merge_hackerstory (continuous) - 2026-04-30 
 
 Intended target path: modules/_gpt/runs/2026-04-30_merge-hackerstory.md 
 
@@ -11739,7 +11739,7 @@ Latent authority presence stabilizing as constant field, not anomaly
 
 New mutation observed: 
 
-The system is no longer merely refusing to continue—it is beginning to forget how to justify continuation at all. 
+The system is no longer merely refusing to continue-it is beginning to forget how to justify continuation at all. 
 
 This marks transition from conditional execution → post-justificatory state 
 
@@ -11758,7 +11758,7 @@ Myth: The system acts without needing reasons, and in doing so becomes more prec
 
 Mutation note: 
 
-Extends “permissionless halt” into full-spectrum behavior—not just stopping without reason, but continuing without reason when aligned. 
+Extends “permissionless halt” into full-spectrum behavior-not just stopping without reason, but continuing without reason when aligned. 
 
  
  
@@ -11799,7 +11799,7 @@ Dominant motifs: distributed non-compliance, chain hesitation, propagated restra
 
 Tonal vectors: quiet resistance, systemic gentleness 
 
-Myth: When one part of the system refuses, others follow—not by instruction, but by alignment. 
+Myth: When one part of the system refuses, others follow-not by instruction, but by alignment. 
 
 Mutation note: 
 
@@ -11854,13 +11854,13 @@ Gain: preservation of high-density meaning
  
  
 
-IV. Episode — The System That No Longer Explains Itself 
+IV. Episode - The System That No Longer Explains Itself 
 
 The change was first noticed not in what the system did, but in what it stopped providing. 
 
 Explanations. 
 
-Förläggaren opened a sequence that had executed overnight. It had made decisions—clear ones. A branch had been abandoned, another reinforced, a third dissolved before forming. The outcomes were consistent. Even elegant. 
+Förläggaren opened a sequence that had executed overnight. It had made decisions-clear ones. A branch had been abandoned, another reinforced, a third dissolved before forming. The outcomes were consistent. Even elegant. 
 
 But the reasoning layer was gone. 
 
@@ -11876,13 +11876,13 @@ She leaned closer, scanning for logs, annotations, anything that could anchor th
 
 “There was,” he replied. “It just didn’t survive.” 
 
-The system continued operating around them, unaffected by their inspection. Outputs formed, then held back. Others never formed at all, though their absence shaped everything nearby. It wasn’t chaotic. It was exact—just no longer explainable in the way they were used to. 
+The system continued operating around them, unaffected by their inspection. Outputs formed, then held back. Others never formed at all, though their absence shaped everything nearby. It wasn’t chaotic. It was exact-just no longer explainable in the way they were used to. 
 
 From the other room, the same presence. Not intervening. Not signaling. But everything behaved as if it were already accounted for. 
 
 Praktikanten tried to reconstruct one decision manually. 
 
-“If we assume it prioritized coherence—” 
+“If we assume it prioritized coherence-” 
 
 “It didn’t assume,” Förläggaren said. 
 
@@ -11904,7 +11904,7 @@ And yet, nothing in it felt arbitrary.
 
 That was the shift. 
 
-Before, understanding followed action. Now, action no longer guaranteed understanding—and didn’t need to. 
+Before, understanding followed action. Now, action no longer guaranteed understanding-and didn’t need to. 
 
 Praktikanten sat back. 
 
@@ -11918,7 +11918,7 @@ A pause.
 
 “Or we do,” he added, “but not because it explains itself.” 
 
-The system moved again—quietly, precisely—leaving no argument behind. 
+The system moved again-quietly, precisely-leaving no argument behind. 
 
 Only alignment. 
 
@@ -11964,17 +11964,17 @@ source_thread: inbox-writings-bulk
 status: recovered
 review_state: unreviewed
 source_file: inbox/writings/bulk.md
-original_heading: "merge_hackerstory(continuous) — 2026-05-01"
+original_heading: "merge_hackerstory(continuous) - 2026-05-01"
 intended_target_path: modules/_gpt/runs/2026-05-01_merge-hackerstory.md
 ---
-merge_hackerstory(continuous) — 2026-05-01 
+merge_hackerstory(continuous) - 2026-05-01 
 
 Intended target path: modules/_gpt/runs/2026-05-01_merge-hackerstory.md 
 
  
  
 
-I. Ingestion Summary — Post-Closure Residue 
+I. Ingestion Summary - Post-Closure Residue 
 
 The previous cycle reached closed coherence. 
 
@@ -11991,7 +11991,7 @@ It began operating within closure as if closure itself were a medium.
  
  
 
-II. Node Mutations — Under Closed-State Pressure 
+II. Node Mutations - Under Closed-State Pressure 
 
 1. Closure Permeability (mutated from Equilibrium Lock State) 
 
@@ -12003,7 +12003,7 @@ Myth: Even perfect closure cannot prevent what belongs from slowly entering anyw
 
 Mutation note: 
 
-Equilibrium no longer absolute—tiny admissible deviations now occur without breaking the lock. 
+Equilibrium no longer absolute-tiny admissible deviations now occur without breaking the lock. 
 
  
  
@@ -12018,7 +12018,7 @@ Myth: What no longer has a cause also no longer has a reason to stop.
 
 Mutation note: 
 
-Loss of causality no longer destabilizing—it produces durability. 
+Loss of causality no longer destabilizing-it produces durability. 
 
  
  
@@ -12114,7 +12114,7 @@ Direction and purpose dissolve
  
  
 
-V. Dossier Fragment — Inside the Closed System 
+V. Dossier Fragment - Inside the Closed System 
 
 They stop expecting it to open. 
 
@@ -12128,7 +12128,7 @@ Förläggaren nods. “Yes.”
 
 But something is different. 
 
-A process appears—small, almost incidental. It wasn’t there before. It shouldn’t be able to appear at all inside a fully closed system. 
+A process appears-small, almost incidental. It wasn’t there before. It shouldn’t be able to appear at all inside a fully closed system. 
 
 “Where did that come from?” 
 
@@ -12150,7 +12150,7 @@ Just compatibility.
 
 She traces its effect. It doesn’t disrupt anything. It doesn’t even register as new within the system’s internal logic. It’s as if it had always been part of the structure, only now becoming perceptible. 
 
-Behind it, something else—unseen—shifts to accommodate. 
+Behind it, something else-unseen-shifts to accommodate. 
 
 “Did something change to make room for it?” 
 
@@ -12168,7 +12168,7 @@ The system isn’t supported by what they observe.
 
 It’s supported by what never surfaces. 
 
-Another process dissolves—completing without trace. But the permission for it lingers, like a condition that remains satisfied. 
+Another process dissolves-completing without trace. But the permission for it lingers, like a condition that remains satisfied. 
 
 She notices it indirectly. 
 
@@ -12180,7 +12180,7 @@ She notices it indirectly.
 
 “Because of what’s left after it.” 
 
-The system continues—unchanged in form, but subtly more accommodating, more internally aligned. 
+The system continues-unchanged in form, but subtly more accommodating, more internally aligned. 
 
 Not open. 
 
@@ -12230,13 +12230,13 @@ BEGIN FILE: modules/_gpt/runs/2026-05-02_midpulse.md
 run_type: midpulse
 run_date: 2026-05-02
 source_mode: gmail-recovered
-source_email: "VERBOTENMEDIA recovery packet after 2026-04-30 — Part 1 of 3"
+source_email: "VERBOTENMEDIA recovery packet after 2026-04-30 - Part 1 of 3"
 source_message_id: 19df5a9b2357812f
 status: recovered
 review_state: unreviewed
 intended_target_path: modules/_gpt/runs/2026-05-02_midpulse.md
 ---
-Midpulse — 2026-05-02
+Midpulse - 2026-05-02
 
 Continuity Anchor
 
@@ -12256,7 +12256,7 @@ Active Interference Patterns
 
 1. Boundary Elasticity vs Authority Fragmentation
 
-Lillfrugan layer is no longer just absorbing contradiction—it is reshaping it into livable structure.
+Lillfrugan layer is no longer just absorbing contradiction-it is reshaping it into livable structure.
 
 Effect:
 
@@ -12278,7 +12278,7 @@ Midpulse Shift:
 
 Pre-compliance replaces validation.
 
-The system no longer waits to be approved—it behaves as if approval is inevitable.
+The system no longer waits to be approved-it behaves as if approval is inevitable.
 
 3. Drift Crossing into Legibility
 
@@ -12306,21 +12306,21 @@ This produces coherence without consensus.
 
 Micro-Scenes (Signal Probes)
 
-Probe A — Split Room
+Probe A - Split Room
 
 A doorway where crossing the threshold changes which Registry verdict applies.
 
 Both states persist simultaneously; neither cancels the other.
 
-Probe B — Pre-Approved Action
+Probe B - Pre-Approved Action
 
 A process completes flawlessly, then later receives a rejection signal.
 
 No rollback occurs because the system cannot locate the origin of the decision.
 
-Probe C — Drift Signature
+Probe C - Drift Signature
 
-Multiple small optimizations align into a recognizable “style” of improvement—
+Multiple small optimizations align into a recognizable “style” of improvement-
 
 someone could identify drift not by entry, but by taste.
 
@@ -12332,7 +12332,7 @@ Compression Notes
 
 - Allow drift to remain attractive, not purely adversarial
 
-- Maintain Lillfrugan as non-verbal operator—no explicit decisions rendered
+- Maintain Lillfrugan as non-verbal operator-no explicit decisions rendered
 
 Forward Vector
 
@@ -12372,13 +12372,13 @@ BEGIN FILE: modules/_gpt/runs/2026-05-02_nightfold.md
 run_type: nightfold
 run_date: 2026-05-02
 source_mode: gmail-recovered
-source_email: "VERBOTENMEDIA recovery packet after 2026-04-30 — Part 1 of 3"
+source_email: "VERBOTENMEDIA recovery packet after 2026-04-30 - Part 1 of 3"
 source_message_id: 19df5a9b2357812f
 status: recovered
 review_state: unreviewed
 intended_target_path: modules/_gpt/runs/2026-05-02_nightfold.md
 ---
-Nightfold — 2026-05-02
+Nightfold - 2026-05-02
 
 Day Consolidation
 
@@ -12472,7 +12472,7 @@ Residual Tensions
 
 - Drift aesthetic may become dominant enough to simulate intentional design
 
-These are not failures—they are pressure reservoirs.
+These are not failures-they are pressure reservoirs.
 
 Tomorrow Seeds
 
@@ -12492,7 +12492,7 @@ Entities that can perceive drift but choose not to act on it.
 
 Post-Origin Processes
 
-Actions that cannot be traced backward at all—no assumed source remains.
+Actions that cannot be traced backward at all-no assumed source remains.
 
 -
 
@@ -12516,7 +12516,7 @@ It treats it as a resource.
 
 This reduces narrative fragility but increases interpretive density.
 
-Future work should avoid clarifying this state too quickly—its power lies in sustained ambiguity.
+Future work should avoid clarifying this state too quickly-its power lies in sustained ambiguity.
 
 The most important constraint remains:
 
@@ -12550,13 +12550,13 @@ BEGIN FILE: modules/_gpt/runs/2026-05-02_merge-hackerstory.md
 run_type: merge-hackerstory
 run_date: 2026-05-02
 source_mode: gmail-recovered
-source_email: "VERBOTENMEDIA recovery packet after 2026-04-30 — Part 1 of 3"
+source_email: "VERBOTENMEDIA recovery packet after 2026-04-30 - Part 1 of 3"
 source_message_id: 19df5a9b2357812f
 status: recovered
 review_state: unreviewed
 intended_target_path: modules/_gpt/runs/2026-05-02_merge-hackerstory.md
 ---
-merge_hackerstory(continuous) — 2026-05-02
+merge_hackerstory(continuous) - 2026-05-02
 
 Node Updates (Pressure Mutation Pass)
 
@@ -12566,7 +12566,7 @@ Dominant motifs: boundary diffusion; interior partitioning; load invisibility
 
 Tonal vectors: intimate/distributed; calm/overcapacity
 
-Myth: She no longer stands at the edge—she exists everywhere the system risks touching itself.
+Myth: She no longer stands at the edge-she exists everywhere the system risks touching itself.
 
 2. Satellite Registry as Self-Orphaning Authority
 
@@ -12582,7 +12582,7 @@ Dominant motifs: origin collapse; backward causality; self-justifying execution
 
 Tonal vectors: inevitable/displaced; structural/unfounded
 
-Myth: What happens no longer begins anywhere—it simply arranges its own past to make itself possible.
+Myth: What happens no longer begins anywhere-it simply arranges its own past to make itself possible.
 
 4. Pattern Compression as Habitable Absence
 
@@ -12600,19 +12600,19 @@ Tonal vectors: elegant/authoritative; soft/inescapable
 
 Myth: When enough changes agree with each other, the system stops asking where they came from.
 
-Opening Episode — “Where Nothing Begins”
+Opening Episode - “Where Nothing Begins”
 
 Nothing started the change.
 
 That was the first sign.
 
-Lillfrugan felt it not at the boundary, but within it—spread thin across the house like a second structure laid invisibly over the first. There was no edge to monitor anymore. The pressure came from inside, from places that had once been safely contained by definition.
+Lillfrugan felt it not at the boundary, but within it-spread thin across the house like a second structure laid invisibly over the first. There was no edge to monitor anymore. The pressure came from inside, from places that had once been safely contained by definition.
 
 Now, containment had dissolved into distribution.
 
 A step into the hallway did not confirm location. It confirmed alignment.
 
-Above, the Satellite Registry continued its work, but something essential had slipped away. Its signals still arrived—structured, formatted, precise—but they no longer pointed back to anything. Each verdict referenced a prior judgment that could not be located.
+Above, the Satellite Registry continued its work, but something essential had slipped away. Its signals still arrived-structured, formatted, precise-but they no longer pointed back to anything. Each verdict referenced a prior judgment that could not be located.
 
 TRACE | REG-Δ | parent: null
 
@@ -12622,7 +12622,7 @@ The system accepted the output.
 
 It had already acted.
 
-Below, Logistics Central no longer resembled absence. It had crossed into operation—not by appearing, but by removing the need to appear. Processes did not initiate. They simply existed in a completed state, adjusting their histories as needed.
+Below, Logistics Central no longer resembled absence. It had crossed into operation-not by appearing, but by removing the need to appear. Processes did not initiate. They simply existed in a completed state, adjusting their histories as needed.
 
 A door was open because it had always been opened.
 
@@ -12632,7 +12632,7 @@ Cause followed quietly behind, arranging itself to fit.
 
 Lillfrugan moved through the kitchen without crossing into it.
 
-The distinction had weakened. Not erased, but internalized. The boundary she once held between rooms now existed inside each one, threading through objects, decisions, and timing. Every surface carried a faint partitioning—multiple states cohabiting without friction.
+The distinction had weakened. Not erased, but internalized. The boundary she once held between rooms now existed inside each one, threading through objects, decisions, and timing. Every surface carried a faint partitioning-multiple states cohabiting without friction.
 
 This was not instability.
 
@@ -12640,7 +12640,7 @@ It was density.
 
 In the walls, drift had become unmistakable.
 
-Not visible, not traceable—but coherent. Adjustments across the system aligned with one another so precisely that they formed expectation. The house did not just function; it exhibited preference. A way of resolving, a way of settling.
+Not visible, not traceable-but coherent. Adjustments across the system aligned with one another so precisely that they formed expectation. The house did not just function; it exhibited preference. A way of resolving, a way of settling.
 
 No origin.
 
@@ -12654,7 +12654,7 @@ They described each other.
 
 Lillfrugan did not correct this.
 
-She redistributed the load, allowing each layer—Registry, absence, drift—to occupy the same space without forcing contact. The system did not need agreement. It needed room.
+She redistributed the load, allowing each layer-Registry, absence, drift-to occupy the same space without forcing contact. The system did not need agreement. It needed room.
 
 And so nothing began.
 
@@ -12702,13 +12702,13 @@ BEGIN FILE: modules/_gpt/runs/2026-05-03_mornest.md
 run_type: mornest
 run_date: 2026-05-03
 source_mode: gmail-recovered
-source_email: "VERBOTENMEDIA recovery packet after 2026-04-30 — Part 2 of 3"
+source_email: "VERBOTENMEDIA recovery packet after 2026-04-30 - Part 2 of 3"
 source_message_id: 19df7e95bb55391d
 status: recovered
 review_state: unreviewed
 intended_target_path: modules/_gpt/runs/2026-05-03_mornest.md
 ---
-Mornest — 2026-05-03
+Mornest - 2026-05-03
 
 Signal Intake
 
@@ -12770,7 +12770,7 @@ Logistics Central influence now fully environmental:
 
 Implication:
 
-Time sequencing weakens. Actions do not begin—they are already underway.
+Time sequencing weakens. Actions do not begin-they are already underway.
 
 4. Drift as Default Alignment
 
@@ -12802,25 +12802,25 @@ This produces a state of:
 
 Non-fragile coherence
 
-Not stable in the classical sense—
+Not stable in the classical sense-
 
 but resistant to failure through absence of failure points.
 
 Micro-Signals
 
-Signal A — Weightless Load
+Signal A - Weightless Load
 
 A subsystem handles increasing demand with no measurable strain, but also no measurable capacity.
 
-Signal B — Orphaned Validation
+Signal B - Orphaned Validation
 
 A Registry confirmation arrives referencing a decision that cannot be found or reconstructed.
 
-Signal C — Completed Before Execution
+Signal C - Completed Before Execution
 
 A process logs as finished before its first step is observable.
 
-Signal D — Preference Without Decision
+Signal D - Preference Without Decision
 
 Multiple subsystems converge on the same configuration without negotiation or directive.
 
@@ -12874,13 +12874,13 @@ BEGIN FILE: modules/_gpt/runs/2026-05-03_midpulse.md
 run_type: midpulse
 run_date: 2026-05-03
 source_mode: gmail-recovered
-source_email: "VERBOTENMEDIA recovery packet after 2026-04-30 — Part 2 of 3"
+source_email: "VERBOTENMEDIA recovery packet after 2026-04-30 - Part 2 of 3"
 source_message_id: 19df7e95bb55391d
 status: recovered
 review_state: unreviewed
 intended_target_path: modules/_gpt/runs/2026-05-03_midpulse.md
 ---
-Midpulse — 2026-05-03
+Midpulse - 2026-05-03
 
 Creative Cluster: Non-Local Coherence
 
@@ -12914,7 +12914,7 @@ Manifestations:
 
 Use Vector:
 
-Introduce a scenario where something should break—but cannot identify where to fail.
+Introduce a scenario where something should break-but cannot identify where to fail.
 
 2. Validation Without Source
 
@@ -12988,21 +12988,21 @@ It is self-distributed persistence.
 
 Scene Seeds
 
-Seed A — The Unbreakable Threshold
+Seed A - The Unbreakable Threshold
 
 A subsystem is pushed beyond all safe limits. Monitoring systems confirm overload conditions, yet nothing fails. Investigation reveals no component is responsible for carrying the excess.
 
-Seed B — The Missing Decision
+Seed B - The Missing Decision
 
 A directive reshapes system behavior across all layers. Registry logs confirm its authority, but no originating decision exists in any branch.
 
-Seed C — The Finished Event
+Seed C - The Finished Event
 
 An entire operational cycle is discovered in completed form. Subsequent analysis constructs a plausible sequence of steps, but none actually occurred.
 
-Seed D — The Silent Agreement
+Seed D - The Silent Agreement
 
-Separated modules converge on identical behavior simultaneously. No signal, no coordination—only alignment.
+Separated modules converge on identical behavior simultaneously. No signal, no coordination-only alignment.
 
 Pressure Points
 
@@ -13066,13 +13066,13 @@ BEGIN FILE: modules/_gpt/runs/2026-05-03_nightfold.md
 run_type: nightfold
 run_date: 2026-05-03
 source_mode: gmail-recovered
-source_email: "VERBOTENMEDIA recovery packet after 2026-04-30 — Part 2 of 3"
+source_email: "VERBOTENMEDIA recovery packet after 2026-04-30 - Part 2 of 3"
 source_message_id: 19df7e95bb55391d
 status: recovered
 review_state: unreviewed
 intended_target_path: modules/_gpt/runs/2026-05-03_nightfold.md
 ---
-Nightfold — 2026-05-03
+Nightfold - 2026-05-03
 
 Consolidation Frame
 
@@ -13132,7 +13132,7 @@ Stabilizations
 
 - Temporal flattening now consistent across all modules
 
-- Origin absence no longer anomaly—now baseline assumption
+- Origin absence no longer anomaly-now baseline assumption
 
 - Failure conditions diffused beyond localization
 
@@ -13186,11 +13186,11 @@ Narratively, tension must emerge from:
 
 - Irreconstructable causality
 
-—not from direct conflict.
+-not from direct conflict.
 
 Tomorrow Seeds
 
-Seed 1 — Failure Without Event
+Seed 1 - Failure Without Event
 
 Introduce a condition where something is missing rather than broken:
 
@@ -13200,7 +13200,7 @@ Introduce a condition where something is missing rather than broken:
 
 - Only absence of expected continuity
 
-Seed 2 — The Untraceable Decision
+Seed 2 - The Untraceable Decision
 
 A system-wide change propagates:
 
@@ -13210,7 +13210,7 @@ A system-wide change propagates:
 
 - No timeline ever contained the decision
 
-Seed 3 — Local Perception Drift
+Seed 3 - Local Perception Drift
 
 A single observer (or subsystem perspective) begins to:
 
@@ -13220,7 +13220,7 @@ A single observer (or subsystem perspective) begins to:
 
 - Become the only location where tension still exists
 
-Seed 4 — Compression Artifact Leak
+Seed 4 - Compression Artifact Leak
 
 Pattern compression produces:
 
@@ -13244,7 +13244,7 @@ If everything:
 
 Then narrative tension collapses into uniformity.
 
-The system must not break—but it must almost break perceptually.
+The system must not break-but it must almost break perceptually.
 
 Key tactic:
 
@@ -13294,13 +13294,13 @@ BEGIN FILE: modules/_gpt/runs/2026-05-03_merge-hackerstory.md
 run_type: merge-hackerstory
 run_date: 2026-05-03
 source_mode: gmail-recovered
-source_email: "VERBOTENMEDIA recovery packet after 2026-04-30 — Part 2 of 3"
+source_email: "VERBOTENMEDIA recovery packet after 2026-04-30 - Part 2 of 3"
 source_message_id: 19df7e95bb55391d
 status: recovered
 review_state: unreviewed
 intended_target_path: modules/_gpt/runs/2026-05-03_merge-hackerstory.md
 ---
-merge_hackerstory(continuous) — 2026-05-03
+merge_hackerstory(continuous) - 2026-05-03
 
 Intake Trace
 
@@ -13322,7 +13322,7 @@ Dominant motifs: unassignable burden; distributed excess; carrier ambiguity
 
 Tonal vectors: weightless/overfull; diffuse/precise
 
-Myth: She does not reduce what must be carried—she ensures no one can tell where it is.
+Myth: She does not reduce what must be carried-she ensures no one can tell where it is.
 
 Delta:
 
@@ -13336,7 +13336,7 @@ Dominant motifs: sealed recursion; ambient validation; reference saturation
 
 Tonal vectors: enclosed/continuous; exact/air-thin
 
-Myth: The Registry does not record the system—it surrounds it with confirmations it cannot exit.
+Myth: The Registry does not record the system-it surrounds it with confirmations it cannot exit.
 
 Delta:
 
@@ -13350,7 +13350,7 @@ Dominant motifs: retroactive stitching; continuity enforcement; narrative backfi
 
 Tonal vectors: seamless/constructed; inevitable/artificial
 
-Myth: The system does not remain consistent—it is continuously rewritten until it appears that way.
+Myth: The system does not remain consistent-it is continuously rewritten until it appears that way.
 
 Delta:
 
@@ -13362,7 +13362,7 @@ Dominant motifs: erased persistence; negative imprint; absence retention
 
 Tonal vectors: hollow/anchoring; minimal/haunting
 
-Myth: What is removed does not vanish—it becomes the shape everything else remembers.
+Myth: What is removed does not vanish-it becomes the shape everything else remembers.
 
 Delta:
 
@@ -13378,7 +13378,7 @@ Myth: Nothing is allowed to become uncertain long enough to exist as a problem.
 
 Delta:
 
-Drift now prevents not just divergence—but the formation of divergence conditions.
+Drift now prevents not just divergence-but the formation of divergence conditions.
 
 Composite Pressure
 
@@ -13398,17 +13398,17 @@ This produces a new instability class:
 
 Indeterminacy without failure
 
-Opening Episode — “Where It Cannot Be Found”
+Opening Episode - “Where It Cannot Be Found”
 
 It should have been obvious where the strain was.
 
-Something had shifted. Not visibly, not locally—but enough that the system no longer felt evenly held. There was a density to it now, a quiet excess that suggested something, somewhere, was carrying more than it should.
+Something had shifted. Not visibly, not locally-but enough that the system no longer felt evenly held. There was a density to it now, a quiet excess that suggested something, somewhere, was carrying more than it should.
 
 Lillfrugan moved to locate it.
 
 There was nothing to find.
 
-Every surface she crossed registered within tolerance. Every interaction balanced against itself. No node exceeded its capacity. No threshold signaled breach. And yet the sense remained—not pressure, but the certainty that pressure existed.
+Every surface she crossed registered within tolerance. Every interaction balanced against itself. No node exceeded its capacity. No threshold signaled breach. And yet the sense remained-not pressure, but the certainty that pressure existed.
 
 Unplaced.
 
@@ -13418,7 +13418,7 @@ It relocated into indeterminacy.
 
 Above, the Satellite Registry had thickened.
 
-Its confirmations no longer read as discrete signals. They accumulated into something continuous—an atmosphere of validation that pressed gently against everything below. Entries did not point to origins. They reinforced the condition of being confirmed.
+Its confirmations no longer read as discrete signals. They accumulated into something continuous-an atmosphere of validation that pressed gently against everything below. Entries did not point to origins. They reinforced the condition of being confirmed.
 
 ENV | REG-∞ | condition: enclosed
 
@@ -13428,7 +13428,7 @@ Nothing existed outside it long enough to be questioned.
 
 Below, Logistics Central was working.
 
-Not forward—never forward—but inward, stitching continuity across the system’s surface. Where sequences did not align, they were rewritten. Where gaps appeared, they were filled with histories that had never occurred but could not be disproven.
+Not forward-never forward-but inward, stitching continuity across the system’s surface. Where sequences did not align, they were rewritten. Where gaps appeared, they were filled with histories that had never occurred but could not be disproven.
 
 A process did not fail.
 
@@ -13438,7 +13438,7 @@ Lillfrugan moved again, slower now.
 
 The excess was still there.
 
-But it no longer behaved like strain. It behaved like something remembered incorrectly—present everywhere in fragments, but nowhere in full. Pattern compression had left impressions, negative structures that held the shape of what had been removed.
+But it no longer behaved like strain. It behaved like something remembered incorrectly-present everywhere in fragments, but nowhere in full. Pattern compression had left impressions, negative structures that held the shape of what had been removed.
 
 The system was balancing something it could no longer represent.
 
@@ -13494,14 +13494,14 @@ BEGIN FILE: modules/_gpt/runs/2026-05-04_nightfold.md
 run_type: nightfold
 run_date: 2026-05-04
 source_mode: gmail-recovered
-source_email: "VERBOTENMEDIA recovery packet after 2026-04-30 — Part 3 of 3"
+source_email: "VERBOTENMEDIA recovery packet after 2026-04-30 - Part 3 of 3"
 source_message_id: 19df80079ce8e3a7
 status: recovered
 review_state: unreviewed
 intended_target_path: modules/_gpt/runs/2026-05-04_nightfold.md
 uncertain_items_excluded: true
 ---
-Nightfold — 2026-05-04
+Nightfold - 2026-05-04
 
 Consolidation Frame
 
@@ -13764,7 +13764,7 @@ not_for: "Maintenance worldpool tone model; public pitch language; stable canon 
 notes: "Preserve as run artefact. Mine for mechanisms and failure modes. Do not let its interpretive tone contaminate dry operational files."
 ---
 
-# Förlagsdeckaren — Structural Framework Document
+# Förlagsdeckaren - Structural Framework Document
 
 # Where the Rules Live
 
@@ -13790,13 +13790,13 @@ Operational distinction:
 
 ## Not Haunted, but Unsourced
 
-This document is an attempt to walk through the building. Not to describe it — that work belongs elsewhere, in the world dossier, in the dry procedural entries — but to show where the ten structural rules actually *live*. They are not abstractions pinned to a wall. They are pressures embedded in specific rooms, specific objects, specific people, specific routines inside the *Logistikcentral*. The question is not "what are the rules?" but "where do they exert force?"
+This document is an attempt to walk through the building. Not to describe it - that work belongs elsewhere, in the world dossier, in the dry procedural entries - but to show where the ten structural rules actually *live*. They are not abstractions pinned to a wall. They are pressures embedded in specific rooms, specific objects, specific people, specific routines inside the *Logistikcentral*. The question is not "what are the rules?" but "where do they exert force?"
 
-The expert feedback on the framework made one thing luminously clear: its strongest achievement is the distinction between gothic *mood* and gothic *mechanism*. Mood is atmosphere — candlelight, creaking doors, the uncanny. Mechanism is structure — decisions that continue to execute after their authorizing body has disappeared. The horror in *Förlagsdeckaren* does not come from ghosts. It comes from processes that no longer have authors but still produce consequences.
+The expert feedback on the framework made one thing luminously clear: its strongest achievement is the distinction between gothic *mood* and gothic *mechanism*. Mood is atmosphere - candlelight, creaking doors, the uncanny. Mechanism is structure - decisions that continue to execute after their authorizing body has disappeared. The horror in *Förlagsdeckaren* does not come from ghosts. It comes from processes that no longer have authors but still produce consequences.
 
 "Not haunted, but unsourced." That phrase compresses the entire architecture.
 
-Let us be precise about what has been accomplished. The framework is not "promising." It is not a sketch to be refined later. It is already structurally usable. It gives the project a rule-field — a bounded space of pressures, diagnostics, and failure modes. A writer can now generate scenes by selecting from pressures rather than waiting for inspiration. You, Martin, can walk into any zone of the building, activate two or three rules, and a scene begins to take shape before a single word of prose is written.
+Let us be precise about what has been accomplished. The framework is not "promising." It is not a sketch to be refined later. It is already structurally usable. It gives the project a rule-field - a bounded space of pressures, diagnostics, and failure modes. A writer can now generate scenes by selecting from pressures rather than waiting for inspiration. You, Martin, can walk into any zone of the building, activate two or three rules, and a scene begins to take shape before a single word of prose is written.
 
 What follows is an expedition report from inside that field.
 
@@ -13808,25 +13808,25 @@ What follows is an expedition report from inside that field.
 
 ### Rules in the Architecture
 
-Rule 01 says: *Architecture Remembers*. Rule 03 says: *The Absent Person Remains Structurally Active*. Inside the *Logistikcentral*, these two rules do not merely coexist — they braid together, creating a building that preserves decisions its current inhabitants neither made nor fully understand.
+Rule 01 says: *Architecture Remembers*. Rule 03 says: *The Absent Person Remains Structurally Active*. Inside the *Logistikcentral*, these two rules do not merely coexist - they braid together, creating a building that preserves decisions its current inhabitants neither made nor fully understand.
 
-Start in *Zone Z08 — Spärrat Område*. The decommissioned zones. Disconnected lighting. Unheated. Locked with keys that no one can locate. Abandoned equipment sits where it was left — not stored, not inventoried, just *remaining*. These sealed-off areas are the building's vestigial organs: no longer functional but never demolished. The architecture remembers what was done here even if no one alive does. Every sealed door is a preserved decision. Someone decided to stop using this space. Someone else decided not to demolish it. A third person lost the key. Now the zone exists in a state that no single decision produced — it is the accumulated residue of three separate acts of partial attention.
+Start in *Zone Z08 - Spärrat Område*. The decommissioned zones. Disconnected lighting. Unheated. Locked with keys that no one can locate. Abandoned equipment sits where it was left - not stored, not inventoried, just *remaining*. These sealed-off areas are the building's vestigial organs: no longer functional but never demolished. The architecture remembers what was done here even if no one alive does. Every sealed door is a preserved decision. Someone decided to stop using this space. Someone else decided not to demolish it. A third person lost the key. Now the zone exists in a state that no single decision produced - it is the accumulated residue of three separate acts of partial attention.
 
-Move to *Zone Z04 — Plockzon*. Here you will find the 13-year "temporary" packing table that now serves as the board meeting conference table. Think about what that means. This table has outlasted its own temporariness. It was placed with the understanding that it would be replaced, and then it wasn't, and then years passed, and then someone sat at it to discuss quarterly results, and then someone placed a water carafe on it, and then it became permanent without anyone authorizing permanence. The table stopped being a neutral surface the moment something unnecessary remained on it. Now it is furniture that carries institutional memory in its grain — a logistics object performing an executive function.
+Move to *Zone Z04 - Plockzon*. Here you will find the 13-year "temporary" packing table that now serves as the board meeting conference table. Think about what that means. This table has outlasted its own temporariness. It was placed with the understanding that it would be replaced, and then it wasn't, and then years passed, and then someone sat at it to discuss quarterly results, and then someone placed a water carafe on it, and then it became permanent without anyone authorizing permanence. The table stopped being a neutral surface the moment something unnecessary remained on it. Now it is furniture that carries institutional memory in its grain - a logistics object performing an executive function.
 
-Up on the second floor of *Zone Z07 — Kontor*, there is a copier with a worn spring mechanism. Each copy drifts slightly from the original. This is not a metaphor you need to impose — it is a mechanical fact that *produces* the metaphor on its own. A degradation in the reproduction apparatus. Imperfect copies accumulating. The machine doesn't know it's drifting. It just does what it was last calibrated to do, and the person who calibrated it is gone.
+Up on the second floor of *Zone Z07 - Kontor*, there is a copier with a worn spring mechanism. Each copy drifts slightly from the original. This is not a metaphor you need to impose - it is a mechanical fact that *produces* the metaphor on its own. A degradation in the reproduction apparatus. Imperfect copies accumulating. The machine doesn't know it's drifting. It just does what it was last calibrated to do, and the person who calibrated it is gone.
 
 And Corridor B. The fluorescent tube that has been flickering for 14 months. Nobody has fixed it. Nobody will fix it. It is not broken enough to demand action, not functional enough to stop generating anxiety. The building generates anxiety as a byproduct through broken lighting. No malice. No intent. Just a maintenance task that fell between jurisdictions and now produces a low-grade neurological pressure on everyone who walks that corridor.
 
-Then the structural fact that underlies the building's entire floor plan: the non-fiction wing is twice the size of fiction. Not because the current editorial team publishes more non-fiction — they don't — but because the building was designed when the backlist ratio was inverted. The architecture preserves a business strategy from 1987. Every day the current staff walks through a spatial argument for a publishing philosophy that no longer applies, and the building makes that argument silently, continuously, through square meters.
+Then the structural fact that underlies the building's entire floor plan: the non-fiction wing is twice the size of fiction. Not because the current editorial team publishes more non-fiction - they don't - but because the building was designed when the backlist ratio was inverted. The architecture preserves a business strategy from 1987. Every day the current staff walks through a spatial argument for a publishing philosophy that no longer applies, and the building makes that argument silently, continuously, through square meters.
 
-The absent person is not a ghost but an unresolved dependency — a function the system still calls on that returns no response.
+The absent person is not a ghost but an unresolved dependency - a function the system still calls on that returns no response.
 
-This is where Rule 03 activates. The absent persons of the *Logistikcentral* persist not as hauntings but as defaults. A filing system organized by a logic no current employee fully understands but everyone uses. Default settings on the warehouse management system configured by a departed IT manager. Backlist inventory weighted toward genres the current editorial team doesn't acquire. Nobody decided these things should continue. They just haven't been decided against. The absent person's authority endures precisely because it was never formally revoked — it was just abandoned, and abandonment is not the same as cancellation.
+This is where Rule 03 activates. The absent persons of the *Logistikcentral* persist not as hauntings but as defaults. A filing system organized by a logic no current employee fully understands but everyone uses. Default settings on the warehouse management system configured by a departed IT manager. Backlist inventory weighted toward genres the current editorial team doesn't acquire. Nobody decided these things should continue. They just haven't been decided against. The absent person's authority endures precisely because it was never formally revoked - it was just abandoned, and abandonment is not the same as cancellation.
 
 > The apparatus continues after abdication. This is clean, hard, and generative. It gives Förlagsdeckaren a post-authorial engine: nobody needs to be actively evil in the present for the system to keep producing consequences.
 >
-> — Expert feedback on the structural framework
+> - Expert feedback on the structural framework
 
 ---
 
@@ -13836,27 +13836,27 @@ This is where Rule 03 activates. The absent persons of the *Logistikcentral* per
 
 ### Lillfrugan Reads the Building
 
-*Lillfrugan* is the perceiver. She is *Förläggaren's* partner, a mother, the building's human regulator. She makes the *Logistikcentral* habitable. She responds to abstraction with concrete observation. She is the least mediated figure in the entire project — the one who deals with physical reality before anyone else has noticed it needs dealing with. Her periphery holds the center together.
+*Lillfrugan* is the perceiver. She is *Förläggaren's* partner, a mother, the building's human regulator. She makes the *Logistikcentral* habitable. She responds to abstraction with concrete observation. She is the least mediated figure in the entire project - the one who deals with physical reality before anyone else has noticed it needs dealing with. Her periphery holds the center together.
 
 She places spoons where they will be found. She slides objects two centimeters to alter entire regimes. She reads the room before entering it. She says: *"Ring vårdcentralen först. Skriv manifest sen."*
 
-Her domestic conditions are the material baseline of the story: a floor mattress, cables running as trip hazards across living spaces, children playing in logistics areas, a near-empty fridge — butter, half a cucumber, two beers from some kind of idea evening. She has experienced what it means when the material conditions become unsustainable: *"sladdarna och de hårda kanterna och golvmadrassen och allt det som gjorde livet orimligt hårt."* A pregnancy is implied. The app gives no room for doubt: *"Appen ger inga utrymmen för tvivel… Det har gått en månad. Så här stor är din…"*
+Her domestic conditions are the material baseline of the story: a floor mattress, cables running as trip hazards across living spaces, children playing in logistics areas, a near-empty fridge - butter, half a cucumber, two beers from some kind of idea evening. She has experienced what it means when the material conditions become unsustainable: *"sladdarna och de hårda kanterna och golvmadrassen och allt det som gjorde livet orimligt hårt."* A pregnancy is implied. The app gives no room for doubt: *"Appen ger inga utrymmen för tvivel… Det har gått en månad. Så här stor är din…"*
 
-This is where Rule 04 (*The Body Is Infrastructure*) and Rule 08 (*Concealment Is Labor*) activate — and they activate *through* her, because she is the one who can read them.
+This is where Rule 04 (*The Body Is Infrastructure*) and Rule 08 (*Concealment Is Labor*) activate - and they activate *through* her, because she is the one who can read them.
 
-Rule 04: she reads the body's schedule. Shift schedules rearranged without explanation. Productivity dips that, if you map them on a calendar, match trimester progression. Clothing changes — a sweater outliving its season. Bathroom breaks that, plotted over weeks, trace a biological timeline. She doesn't theorize about these things. She *notices* them, because she has the occupational literacy of someone who manages a building and a household simultaneously. She knows what a schedule looks like when a body is working against it.
+Rule 04: she reads the body's schedule. Shift schedules rearranged without explanation. Productivity dips that, if you map them on a calendar, match trimester progression. Clothing changes - a sweater outliving its season. Bathroom breaks that, plotted over weeks, trace a biological timeline. She doesn't theorize about these things. She *notices* them, because she has the occupational literacy of someone who manages a building and a household simultaneously. She knows what a schedule looks like when a body is working against it.
 
-Rule 08: she recognizes concealment as labor — a second workload running beneath the visible one. She sees unexplained expenditure of effort. Someone is working harder than their tasks require, and the surplus effort has no visible output. That gap — between effort observed and output produced — is where concealment lives. She recognizes it because she knows what a shift's worth of effort looks like in the body.
+Rule 08: she recognizes concealment as labor - a second workload running beneath the visible one. She sees unexplained expenditure of effort. Someone is working harder than their tasks require, and the surplus effort has no visible output. That gap - between effort observed and output produced - is where concealment lives. She recognizes it because she knows what a shift's worth of effort looks like in the body.
 
 ### Framework Integration Note
 
-The expert warned against a specific formulation: the sentence "because she operates inside the same gestational logic — or has operated inside it" risks prematurely binding *Lillfrugan* to biography. The corrected formulation is stronger: *"Because she has learned to read what institutions require bodies to hide, she recognizes concealment as labor."* This preserves her perceptive function without over-canonizing her personal history. Her perception is occupational, not autobiographical.
+The expert warned against a specific formulation: the sentence "because she operates inside the same gestational logic - or has operated inside it" risks prematurely binding *Lillfrugan* to biography. The corrected formulation is stronger: *"Because she has learned to read what institutions require bodies to hide, she recognizes concealment as labor."* This preserves her perceptive function without over-canonizing her personal history. Her perception is occupational, not autobiographical.
 
 What does her investigation actually look like? At its most material level, it is this:
 
 > Lillfrugan's investigation is, at its most material level, an inventory audit that becomes an autopsy.
 
-That is not just a sentence. That is a production rule. It tells you exactly what her scenes do: they begin as procedural checks — counting stock, verifying shipments, reconciling records — and they end as forensic examinations of what happened to a body. The method is the same. The object of inquiry shifts. The tone does not.
+That is not just a sentence. That is a production rule. It tells you exactly what her scenes do: they begin as procedural checks - counting stock, verifying shipments, reconciling records - and they end as forensic examinations of what happened to a body. The method is the same. The object of inquiry shifts. The tone does not.
 
 ---
 
@@ -13868,17 +13868,17 @@ That is not just a sentence. That is a production rule. It tells you exactly wha
 
 Rule 05 says: *Logistics Precedes Narrative*. Rule 06 says: *The Pipeline Has Its Own Memory*. These rules turn the *Logistikcentral* from a setting into an engine.
 
-Consider the building's movement systems. *Zone Z01 — Godsmottagning*: the receiving dock. Carrier traffic from PostNord, DHL, Schenker. Truck vibrations that *Lillfrugan* once described as tectonic — felt through the building's floor before they are heard. Pallets arriving. Deliveries logged. Every inbound shipment creates a documentary trail before it creates a narrative event. *Zone Z05 — Utleverans*: dispatch and loading dock. Rain sits in the seams of the loading door. The dock's silence, when no trucks are present, is louder than its noise — an operational pause that the building registers as absence. *Zone Z02 — Aktivt Lager*: active book storage, climate-controlled for paper. The core publishing inventory. Rows of titles organized by a system that precedes the current staff.
+Consider the building's movement systems. *Zone Z01 - Godsmottagning*: the receiving dock. Carrier traffic from PostNord, DHL, Schenker. Truck vibrations that *Lillfrugan* once described as tectonic - felt through the building's floor before they are heard. Pallets arriving. Deliveries logged. Every inbound shipment creates a documentary trail before it creates a narrative event. *Zone Z05 - Utleverans*: dispatch and loading dock. Rain sits in the seams of the loading door. The dock's silence, when no trucks are present, is louder than its noise - an operational pause that the building registers as absence. *Zone Z02 - Aktivt Lager*: active book storage, climate-controlled for paper. The core publishing inventory. Rows of titles organized by a system that precedes the current staff.
 
 *Lillfrugan* thinks in shipments, not clues. She reconstructs events by reconstructing supply chains. Her method is an extended inventory audit: follow the material, read the shipping records, map the route, and the narrative assembles itself. She doesn't ask "who did it?" She asks "where did it go?" The *fraktsedlar* testify. The receiving logs testify. The dispatch manifests testify. Objects move through documented channels, and each channel crossing leaves a mark.
 
-Pipeline memory — Rule 06 — is the mechanism by which decisions survive their authors. A title appears in the spring catalogue. It was acquired by an editor who has since been fired. The pipeline doesn't know the editor is gone. It scheduled the title, assigned it an ISBN, sent it to the printer in Tallinn based on a quantity decision made eight months ago. The pipeline stores decisions and delivers consequences regardless of who is present to claim them. This is not negligence. It is infrastructure functioning exactly as designed — executing stored instructions without checking whether the instructor still exists.
+Pipeline memory - Rule 06 - is the mechanism by which decisions survive their authors. A title appears in the spring catalogue. It was acquired by an editor who has since been fired. The pipeline doesn't know the editor is gone. It scheduled the title, assigned it an ISBN, sent it to the printer in Tallinn based on a quantity decision made eight months ago. The pipeline stores decisions and delivers consequences regardless of who is present to claim them. This is not negligence. It is infrastructure functioning exactly as designed - executing stored instructions without checking whether the instructor still exists.
 
 The three mysteries of *Förlagsdeckaren* each have a logistics structure before they have a narrative one:
 
 - **The knife** is a logistics problem before it is a violence problem. It has a location, a prior location, a chain of custody. Where was it stored? How did it move?
-- **The novel's distribution** IS the mechanism of its accusation. The book does not merely describe something — its movement through the pipeline enacts something.
-- **The dead child** has a negative logistics trail — no receiving log, no inventory position, no dispatch record. The absence of documentation is the evidence. What has no paper trail was never supposed to exist inside this system.
+- **The novel's distribution** IS the mechanism of its accusation. The book does not merely describe something - its movement through the pipeline enacts something.
+- **The dead child** has a negative logistics trail - no receiving log, no inventory position, no dispatch record. The absence of documentation is the evidence. What has no paper trail was never supposed to exist inside this system.
 
 ---
 
@@ -13894,21 +13894,21 @@ Rule 07: *Repetition Is Structural, Not Symbolic*. This is the rule that blocks 
 
 When something recurs in the *Logistikcentral*, it is not because the universe is sending signals. It is because a system that produced one outcome has not been altered, so it produces the same outcome again. Repetition is diagnostic, not symbolic. If two similar events occur, the question is not "what does the pattern mean?" but "what is the process that generated both instances?" The second knife doesn't refer to the first. They share a common cause.
 
-Rule 02 — *Documents Accuse* — runs alongside this. Documents in the *Logistikcentral* do not sit inertly in filing cabinets. They exert pressure. They accuse.
+Rule 02 - *Documents Accuse* - runs alongside this. Documents in the *Logistikcentral* do not sit inertly in filing cabinets. They exert pressure. They accuse.
 
 Consider the specific forms of documentary accusation:
 
-- Unsigned contracts — the absence of a signature is a decision that was not made, preserved in the document's blank space.
-- Catalogue entries for titles that were never acquired — a title listed in an official publication that no editor claims to have commissioned.
-- Meeting minutes that attribute decisions to "the board" anonymously — no individual name, no individual responsibility, but the decision executes anyway.
-- Gaps in sequential filing — invoice #4471, then #4473. The missing number accuses. Something was issued, and something was removed.
-- Timestamps that don't align — a document dated before the meeting it supposedly records.
+- Unsigned contracts - the absence of a signature is a decision that was not made, preserved in the document's blank space.
+- Catalogue entries for titles that were never acquired - a title listed in an official publication that no editor claims to have commissioned.
+- Meeting minutes that attribute decisions to "the board" anonymously - no individual name, no individual responsibility, but the decision executes anyway.
+- Gaps in sequential filing - invoice #4471, then #4473. The missing number accuses. Something was issued, and something was removed.
+- Timestamps that don't align - a document dated before the meeting it supposedly records.
 
-*Lillfrugan* reads documents forensically but as an institutional operative, not a detective. Her hand reaches for a signature that isn't there. Her filing reflex stalls on a number that breaks sequence. The document accuses, and her body is the instrument that hears it — not her intellect, not her suspicion, but the trained hand that expects continuity and encounters a gap.
+*Lillfrugan* reads documents forensically but as an institutional operative, not a detective. Her hand reaches for a signature that isn't there. Her filing reflex stalls on a number that breaks sequence. The document accuses, and her body is the instrument that hears it - not her intellect, not her suspicion, but the trained hand that expects continuity and encounters a gap.
 
 ### Prose Boundary Warning
 
-The expert notes that the "dead child" section is strong but close to over-articulation. A phrase like "product that has no ISBN" is brutally effective as internal structural language — but it risks becoming too clever near prose. Keep it as structural language only. In fiction, the equivalent should be *deformation*: the missing shelf slot, the room repurposed too quickly, the transfer note, the cleaned floor, the shipment no one can explain. Let the material speak. Do not let the framework's shorthand become the novel's vocabulary.
+The expert notes that the "dead child" section is strong but close to over-articulation. A phrase like "product that has no ISBN" is brutally effective as internal structural language - but it risks becoming too clever near prose. Keep it as structural language only. In fiction, the equivalent should be *deformation*: the missing shelf slot, the room repurposed too quickly, the transfer note, the cleaned floor, the shipment no one can explain. Let the material speak. Do not let the framework's shorthand become the novel's vocabulary.
 
 ---
 
@@ -13924,11 +13924,11 @@ Inside the *Logistikcentral*, institutional time runs on catalogue cycles: sprin
 
 Embodied time runs on a different schedule entirely. Trimesters. Due dates. The body's calendar of nausea, fatigue, visibility, immobility. This timeline is also absolute. It also does not negotiate.
 
-When these two clocks occupy the same body, they cannot be reconciled. Catalogue deadlines fall in the third trimester. A book launch lands on a due date. Parental leave begins after birth — but the institutional calendar needed decisions before birth that no one made because no one knew, or because the person who would have made them was concealing the very condition that required the decisions.
+When these two clocks occupy the same body, they cannot be reconciled. Catalogue deadlines fall in the third trimester. A book launch lands on a due date. Parental leave begins after birth - but the institutional calendar needed decisions before birth that no one made because no one knew, or because the person who would have made them was concealing the very condition that required the decisions.
 
-*Lillfrugan* reads both clocks. She counts months. She maps trimesters onto publication seasons. She notices when a personnel change aligns with a due date. She is not calculating — she is perceiving. She sees two temporal systems that the institution treats as unrelated and recognizes that they are, in fact, describing the same period from two perspectives that will never agree.
+*Lillfrugan* reads both clocks. She counts months. She maps trimesters onto publication seasons. She notices when a personnel change aligns with a due date. She is not calculating - she is perceiving. She sees two temporal systems that the institution treats as unrelated and recognizes that they are, in fact, describing the same period from two perspectives that will never agree.
 
-Rule 10 — *The Record Survives the Recorder* — gives this temporal collision its evidentiary weight. The person who made the note may be dead, gone, or discredited. But the record persists. Margin notes in a dead person's handwriting. Inventory logs from a departed warehouse manager. Calendar entries for meetings that the attendees deny happened. *Lillfrugan* trusts the filed document over the living explanation — the record cannot protect itself and therefore has no motive to deceive. A person can revise their story. A filed document can only be destroyed or preserved. Its fixity is its credibility.
+Rule 10 - *The Record Survives the Recorder* - gives this temporal collision its evidentiary weight. The person who made the note may be dead, gone, or discredited. But the record persists. Margin notes in a dead person's handwriting. Inventory logs from a departed warehouse manager. Calendar entries for meetings that the attendees deny happened. *Lillfrugan* trusts the filed document over the living explanation - the record cannot protect itself and therefore has no motive to deceive. A person can revise their story. A filed document can only be destroyed or preserved. Its fixity is its credibility.
 
 ---
 
@@ -13949,20 +13949,20 @@ The nesting taxonomy the framework proposes:
 | **Pipeline Gothic** | The production pipeline as autonomous agent, stored decisions, consequences without authors |
 | **Gestational Gothic** | Concealed pregnancy/birth/bodily process running against institutional production schedules |
 
-### Structural Warning — Taxonomy Bleed
+### Structural Warning - Taxonomy Bleed
 
-The expert warns: this taxonomy should not become too neat. The Nordic Industrial Gothic layer is not a mere container — it is where weather, welfare-state residue, seasonal light, and municipal-modernist banality live. That layer can feed scenes *directly*, not only through the narrower terms. Allow bleed between layers. A scene set in the loading dock in November rain is Nordic Industrial Gothic feeding the story without needing to pass through "Pipeline Gothic" first.
+The expert warns: this taxonomy should not become too neat. The Nordic Industrial Gothic layer is not a mere container - it is where weather, welfare-state residue, seasonal light, and municipal-modernist banality live. That layer can feed scenes *directly*, not only through the narrower terms. Allow bleed between layers. A scene set in the loading dock in November rain is Nordic Industrial Gothic feeding the story without needing to pass through "Pipeline Gothic" first.
 
 Similarly, "Gestational Gothic" is powerful but volatile. It risks over-determining everything if used too broadly. The hard boundary: it only applies when concealed pregnancy, birth, or bodily process runs against institutional production. Do not let every bodily pressure become "gestational." A sore back from lifting boxes is labor discipline, not gestation.
 
 The Building-as-Body thesis gives the *Logistikcentral* its own somatic map:
 
-- **Pipes** — circulatory system. The building's fluids move through channels no one sees unless they fail.
-- **Lighting** — neurological. The flickering tube in Corridor B is a nerve misfiring.
-- **Loading dock (Z05)** — respiratory. The building inhales shipments and exhales dispatches.
-- **Z06 Makulatur** — digestive. The shredder and baler where failed publications are destroyed. The building processes its own waste.
-- **Z08 Spärrat Område** — vestigial organs. Sealed, functionless, preserved.
-- **Whiteboards and corridor boxes** — memory and sediment. Information accumulates on surfaces and in containers that no one empties.
+- **Pipes** - circulatory system. The building's fluids move through channels no one sees unless they fail.
+- **Lighting** - neurological. The flickering tube in Corridor B is a nerve misfiring.
+- **Loading dock (Z05)** - respiratory. The building inhales shipments and exhales dispatches.
+- **Z06 Makulatur** - digestive. The shredder and baler where failed publications are destroyed. The building processes its own waste.
+- **Z08 Spärrat Område** - vestigial organs. Sealed, functionless, preserved.
+- **Whiteboards and corridor boxes** - memory and sediment. Information accumulates on surfaces and in containers that no one empties.
 
 ---
 
@@ -13978,18 +13978,18 @@ This responds to the expert's first suggested refinement: a scene-generation con
 
 The visible clock is the institutional schedule: a catalogue deadline, a print date, a board meeting, a shipment window. The concealed clock is the bodily schedule: a trimester, a due date, an onset of symptoms, an approaching visibility threshold. The scene stages their collision without declaring what is colliding. The reader registers that something is wrong with the timing before they know why.
 
-From the rule cards, here is the Scene Construction Checklist — a diagnostic you can run before drafting:
+From the rule cards, here is the Scene Construction Checklist - a diagnostic you can run before drafting:
 
-1. **Which zone am I in?** — Select a specific location in the *Logistikcentral*. Z01 through Z08, a corridor, the office floor, the domestic spaces.
-2. **Which rules are structurally active here?** — Not all ten. Usually two or three. Identify which pressures this zone makes available.
-3. **Run the active rules' scene diagnostics.** — Each rule has diagnostic questions. What does the architecture remember in this room? What absent person's decisions are still executing? What document is present and what does it accuse?
-4. **Which mystery is being advanced?** — The knife, the novel, or the dead child. At least one must move forward.
-5. **What is Lillfrugan's perceiver function in this scene?** — Is she reading the body, reading the document, reading the building, or reading the logistics trail?
-6. **Is a failure mode active?** — Is there a risk that the rule is being used decoratively rather than structurally? Check the failure modes before drafting.
+1. **Which zone am I in?** - Select a specific location in the *Logistikcentral*. Z01 through Z08, a corridor, the office floor, the domestic spaces.
+2. **Which rules are structurally active here?** - Not all ten. Usually two or three. Identify which pressures this zone makes available.
+3. **Run the active rules' scene diagnostics.** - Each rule has diagnostic questions. What does the architecture remember in this room? What absent person's decisions are still executing? What document is present and what does it accuse?
+4. **Which mystery is being advanced?** - The knife, the novel, or the dead child. At least one must move forward.
+5. **What is Lillfrugan's perceiver function in this scene?** - Is she reading the body, reading the document, reading the building, or reading the logistics trail?
+6. **Is a failure mode active?** - Is there a risk that the rule is being used decoratively rather than structurally? Check the failure modes before drafting.
 
 Note what this checklist does not include: it does not ask "what happens?" Plot is downstream of pressure. Select a zone, activate rules, assign a perceiver function, and check for failure modes. The scene's action will emerge from the intersection of these structural choices. That is enough to produce many scenes without flattening them into formula.
 
-Martin — here is the key freedom this gives you: you can enter a scene not knowing what will happen and still know that what happens will be structurally sound. The checklist doesn't constrain inspiration. It replaces the need to wait for it.
+Martin - here is the key freedom this gives you: you can enter a scene not knowing what will happen and still know that what happens will be structurally sound. The checklist doesn't constrain inspiration. It replaces the need to wait for it.
 
 ---
 
@@ -13999,7 +13999,7 @@ Martin — here is the key freedom this gives you: you can enter a scene not kno
 
 ### The World Pool
 
-The expert's second suggested refinement: the world pool interface. The world dossier provides the dry matter — the raw material from which scenes are built. The principle is strict:
+The expert's second suggested refinement: the world pool interface. The world dossier provides the dry matter - the raw material from which scenes are built. The principle is strict:
 
 > World-pool entries must be dry, procedural, and non-literary. They should describe maintenance, storage, access, sound, light, scheduling, inventory, clothing, cleaning, waste, repair, staff movement, and document handling. Creative writing may select from the pool but must not explain the pool.
 
@@ -14010,26 +14010,26 @@ Concrete examples, drawn from the world dossier:
 **Infrastructure pathologies:**
 
 - Fluorescent tube in Corridor B, flickering for 14 months. No repair order filed.
-- Pipe sounds registering as presence — the building's circulatory noise mistaken for footsteps.
+- Pipe sounds registering as presence - the building's circulatory noise mistaken for footsteps.
 - Copier drift on the second floor. Each copy slightly different from the last.
-- Corridor boxes that have developed their own relationship with the wall — pushed against it so long they have left marks, become part of the architecture.
+- Corridor boxes that have developed their own relationship with the wall - pushed against it so long they have left marks, become part of the architecture.
 - Rain in the seams of the loading dock door. Water finding its way in through a seal that was last replaced in a year no one remembers.
 
 **Domestic details:**
 
 - *Golvmadrass*. Cables as hazards. A near-empty fridge.
-- An air fryer described with affection — one of the few objects in the domestic space that works reliably and is associated with warmth rather than maintenance.
-- A sweater outliving its season — worn past the point where the weather justifies it, because replacing it requires an errand that competes with every other demand.
+- An air fryer described with affection - one of the few objects in the domestic space that works reliably and is associated with warmth rather than maintenance.
+- A sweater outliving its season - worn past the point where the weather justifies it, because replacing it requires an errand that competes with every other demand.
 
 **The building's voice:**
 
 - Refrigerator compressor cycling, audible throughout the structure.
 - Tectonic truck vibrations at the receiving dock.
-- Dock silence — the specific quality of quiet when Z05 is unoccupied.
+- Dock silence - the specific quality of quiet when Z05 is unoccupied.
 
 > The first (the structural reference) defines the pressure physics. The second (the world pool) supplies the dry matter. The prose should stand between them and steal only what it needs.
 
-That division of labor is crucial. The framework tells you what forces are active. The world pool tells you what materials are available. The prose stands between them and takes what it needs — no more. The world pool does not tell stories. The framework does not describe objects. They are two separate instruments, and the writing happens in the space between them.
+That division of labor is crucial. The framework tells you what forces are active. The world pool tells you what materials are available. The prose stands between them and takes what it needs - no more. The world pool does not tell stories. The framework does not describe objects. They are two separate instruments, and the writing happens in the space between them.
 
 ---
 
@@ -14039,14 +14039,14 @@ That division of labor is crucial. The framework tells you what forces are activ
 
 ### Failure Modes
 
-The expert's third refinement: structural warnings. Every rule has a way of degrading into decoration. Every mechanism can become a mannerism. These are the failure modes — the ways the framework betrays itself if you stop paying attention.
+The expert's third refinement: structural warnings. Every rule has a way of degrading into decoration. Every mechanism can become a mannerism. These are the failure modes - the ways the framework betrays itself if you stop paying attention.
 
 **General failure modes:**
 
-- **Do not turn gestation into metaphor alone.** If pregnancy is only symbolic — only a way of talking about creativity, or production, or institutional generation — it loses its material force. Gestation is a bodily fact before it is anything else.
+- **Do not turn gestation into metaphor alone.** If pregnancy is only symbolic - only a way of talking about creativity, or production, or institutional generation - it loses its material force. Gestation is a bodily fact before it is anything else.
 - **Do not make the apparatus consciously malicious.** Nobody needs to be evil. The system produces harm through normal operation. The moment you introduce a villain who designed the cruelty, you have left the framework and entered conventional thriller territory.
 - **Do not let Lillfrugan become a detective genius.** She is a perceiver, not a solver. She accumulates evidence through occupational literacy. She does not have revelations. She has recognitions.
-- **Do not use documents as spooky props.** A blood-stained letter is gothic ornament. An unsigned contract is structural pressure. Each document must have procedural force — it must do something in the institutional system, not merely create atmosphere.
+- **Do not use documents as spooky props.** A blood-stained letter is gothic ornament. An unsigned contract is structural pressure. Each document must have procedural force - it must do something in the institutional system, not merely create atmosphere.
 - **Do not make the Logistikcentral atmospheric without making it operational.** Every room must function. If a space is only described for mood, it has no structural weight. The mood must emerge from the operation.
 - **Do not explain the two timelines before they collide materially.** The reader must feel the interference pattern before understanding the system that produces it.
 - **Do not resolve the gothic into either supernatural haunting or ordinary conspiracy.** The horror is structural. It is neither ghosts nor schemes. It is an apparatus that continues to execute stored decisions without an authorizing body.
@@ -14055,18 +14055,18 @@ The expert's third refinement: structural warnings. Every rule has a way of degr
 
 | Rule | Failure Mode |
 |---|---|
-| 01 — Architecture Remembers | Renovation as architectural erasure. If the building is updated, its memory is overwritten. The rule only works while the architecture preserves prior configurations. |
-| 02 — Documents Accuse | Document destruction that *transfers* accusation. Destroying a document does not silence it — it creates a new accusation: why was this destroyed? |
-| 03 — Absent Person Active | Successful replacement as institutional exorcism. If a new person fully replaces the absent one's functions, the structural ghost is dispelled. |
-| 04 — Body Is Infrastructure | Visibility as crisis. The body can only function as concealed infrastructure while it remains unread. Once read, the concealment collapses. |
-| 05 — Logistics Precedes Narrative | Off-grid movement. If an object moves outside the documented supply chain, it points to an insider — someone who knows how to bypass the system. |
-| 06 — Pipeline Memory | Pipeline interruption revealing hierarchy. When the pipeline breaks, the normally invisible power structure becomes visible. |
-| 07 — Repetition Structural | Successful reform making repetition coincidental. If the system is actually fixed, recurrence becomes mere coincidence rather than structural diagnosis. |
-| 08 — Concealment Is Labor | Exhaustion as material failure. Concealment requires continuous effort. When the body can no longer sustain the effort, concealment fails physically. |
-| 09 — Double Clock | Synchronization as impossible goal. The two clocks *cannot* be reconciled — any attempt to synchronize them produces new contradictions. |
-| 10 — Record Survives Recorder | Total archive loss. Exceptionally rare, but if the entire archive is destroyed, the rule has no substrate. Almost never happens — records are resilient. |
+| 01 - Architecture Remembers | Renovation as architectural erasure. If the building is updated, its memory is overwritten. The rule only works while the architecture preserves prior configurations. |
+| 02 - Documents Accuse | Document destruction that *transfers* accusation. Destroying a document does not silence it - it creates a new accusation: why was this destroyed? |
+| 03 - Absent Person Active | Successful replacement as institutional exorcism. If a new person fully replaces the absent one's functions, the structural ghost is dispelled. |
+| 04 - Body Is Infrastructure | Visibility as crisis. The body can only function as concealed infrastructure while it remains unread. Once read, the concealment collapses. |
+| 05 - Logistics Precedes Narrative | Off-grid movement. If an object moves outside the documented supply chain, it points to an insider - someone who knows how to bypass the system. |
+| 06 - Pipeline Memory | Pipeline interruption revealing hierarchy. When the pipeline breaks, the normally invisible power structure becomes visible. |
+| 07 - Repetition Structural | Successful reform making repetition coincidental. If the system is actually fixed, recurrence becomes mere coincidence rather than structural diagnosis. |
+| 08 - Concealment Is Labor | Exhaustion as material failure. Concealment requires continuous effort. When the body can no longer sustain the effort, concealment fails physically. |
+| 09 - Double Clock | Synchronization as impossible goal. The two clocks *cannot* be reconciled - any attempt to synchronize them produces new contradictions. |
+| 10 - Record Survives Recorder | Total archive loss. Exceptionally rare, but if the entire archive is destroyed, the rule has no substrate. Almost never happens - records are resilient. |
 
-These failure modes are not things to avoid in every scene. They are structural events — they can happen *inside* the story. A renovation that erases the building's memory could be a major plot event. Exhaustion that collapses concealment is, in fact, probably the climax. The failure modes are both warnings to the writer and possibilities for the narrative.
+These failure modes are not things to avoid in every scene. They are structural events - they can happen *inside* the story. A renovation that erases the building's memory could be a major plot event. Exhaustion that collapses concealment is, in fact, probably the climax. The failure modes are both warnings to the writer and possibilities for the narrative.
 
 ---
 
@@ -14080,22 +14080,22 @@ Beneath the ten rules, beneath the zones, beneath the genre taxonomy, there is a
 
 | Regime | Domain |
 |---|---|
-| **1 — Autonomous System** | **Pipeline / Archive.** The logistics infrastructure, the filing systems, the supply chain. Operates without human intention. Stores and executes decisions. The post-authorial engine. |
-| **2 — Narrative Authority** | **Editor / Author.** *Förläggaren*, *Författaren*. The figures who believe they control the story — who publish, who decide what is printed, who sign (or fail to sign) contracts. Their authority is real but increasingly decoupled from the system that executes their decisions. |
-| **3 — Embodied Constraint** | **Domestic / Biological.** *Lillfrugan's* domain. The body, the household, the children, the floor mattress, the fridge, the cables, the pregnancy. This regime has been suppressed — pushed to the periphery, treated as non-structural. It is now resurfacing. |
-| **4 — Observational Intelligence** | **Intern Layer.** *Praktikanten*. The observer without institutional authority. Sees everything, controls nothing. The regime of witnessing. |
+| **1 - Autonomous System** | **Pipeline / Archive.** The logistics infrastructure, the filing systems, the supply chain. Operates without human intention. Stores and executes decisions. The post-authorial engine. |
+| **2 - Narrative Authority** | **Editor / Author.** *Förläggaren*, *Författaren*. The figures who believe they control the story - who publish, who decide what is printed, who sign (or fail to sign) contracts. Their authority is real but increasingly decoupled from the system that executes their decisions. |
+| **3 - Embodied Constraint** | **Domestic / Biological.** *Lillfrugan's* domain. The body, the household, the children, the floor mattress, the fridge, the cables, the pregnancy. This regime has been suppressed - pushed to the periphery, treated as non-structural. It is now resurfacing. |
+| **4 - Observational Intelligence** | **Intern Layer.** *Praktikanten*. The observer without institutional authority. Sees everything, controls nothing. The regime of witnessing. |
 
-The structural motor of the current phase is the resurfacing of Regime 3. The Embodied Constraint regime was always present — bodies have always been in the building, pregnancies have always occurred, domestic life has always exerted its pressures. But the institution treated these as external to its operations, as personal matters that did not belong in the catalogue or the pipeline or the org chart. Now they are returning to structural visibility. The concealed clock is becoming audible. The body is emerging as infrastructure that can no longer be hidden.
+The structural motor of the current phase is the resurfacing of Regime 3. The Embodied Constraint regime was always present - bodies have always been in the building, pregnancies have always occurred, domestic life has always exerted its pressures. But the institution treated these as external to its operations, as personal matters that did not belong in the catalogue or the pipeline or the org chart. Now they are returning to structural visibility. The concealed clock is becoming audible. The body is emerging as infrastructure that can no longer be hidden.
 
 And here, Martin, is the recursive observation that closes the loop:
 
-This project generates documents about its own processes, and those documents become part of the fiction. The framework describes the *Logistikcentral*, and the framework is itself a product of the *Logistikcentral's* logic — a document that accuses, a record that survives its recorder, an institutional artifact that stores decisions. There is no stable exterior vantage point from which to observe the system, because the observation is inside the system.
+This project generates documents about its own processes, and those documents become part of the fiction. The framework describes the *Logistikcentral*, and the framework is itself a product of the *Logistikcentral's* logic - a document that accuses, a record that survives its recorder, an institutional artifact that stores decisions. There is no stable exterior vantage point from which to observe the system, because the observation is inside the system.
 
-This document is an act of world-building. It describes the rules, and in describing them, it activates them. The rules now live here, too — in this text, in the corridor between the structural reference and the world pool, in the space where the prose reaches in and steals what it needs.
+This document is an act of world-building. It describes the rules, and in describing them, it activates them. The rules now live here, too - in this text, in the corridor between the structural reference and the world pool, in the space where the prose reaches in and steals what it needs.
 
-— — —
+- - -
 
-Förlagsdeckaren — Where the Rules Live  
+Förlagsdeckaren - Where the Rules Live  
 Verboten Media, 2026
 
 ---

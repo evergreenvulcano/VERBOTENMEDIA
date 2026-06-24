@@ -1,4 +1,4 @@
-# Operator decision brief — pass 02 public-front alignment / XPRMNT sluice
+# Operator decision brief - pass 02 public-front alignment / XPRMNT sluice
 
 Date: 2026-06-10  
 Branch: `repo-usability-public-surfaces-xprmnt-pass`
@@ -15,7 +15,7 @@ I kept `about.html` and `verboten-media.html` separate. I sharpened Norrotiv as 
 
 2. **Norrotiv:** now clearer as an unfinished interaction body. It can receive idea tests, repo questions, PR proposals, and collaboration threads. It routes to Verboten Media only when a question becomes publishing/world/canon.
 
-3. **XPRMNT-ZN:** added `_rebuild/XPRMNT_ZN_REPO_SLUICE.md` and `static-pages/xprmnt-zn/SLUICE_REGISTER_TEMPLATE.md`. The repo is now a stepwise sluice for status cards, pointers, index entries, static renders, and public candidates — not a Drive/XPRMNT bulkimport target.
+3. **XPRMNT-ZN:** added `_rebuild/XPRMNT_ZN_REPO_SLUICE.md` and `static-pages/xprmnt-zn/SLUICE_REGISTER_TEMPLATE.md`. The repo is now a stepwise sluice for status cards, pointers, index entries, static renders, and public candidates - not a Drive/XPRMNT bulkimport target.
 
 4. **Underhållningsmode:** strengthened as a real public interface, not a gimmick. The rule is now explicit: underhållning is not content; skönlitteratur is not content; fiction can carry entertainment. The generative force belongs to the förlagets world and text machine, not to a personalized feed.
 

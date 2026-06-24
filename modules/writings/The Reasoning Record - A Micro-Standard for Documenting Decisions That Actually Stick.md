@@ -3,22 +3,22 @@ A Micro-Standard for Documenting Decisions That Actually Stick
 By phoneDead  |  12 April 2026  |  12 min read  |  Lane 3: Analyst OS & Reasoning
 
 Decision documentation doesn't need to be heavy to be durable. It needs to be findable.
-You've been here before. You open a configuration file — maybe a firewall rule, maybe a Group Policy object, maybe a docker-compose.yml override — and you find a setting that makes no sense. It's specific. It's deliberate. Someone chose this. You check git blame. It was you, eleven months ago. You have no memory of why.
-So you do what everyone does: you leave it alone. You're afraid to change it because past-you clearly had a reason, and present-you can't reconstruct it. The setting becomes haunted — a decision that has outlived its reasoning.
-This is not a tooling problem. This is a memory problem. And if you've been following this series on building an analyst operating system — your personal analytical infrastructure — then you already know what undocumented decisions are: memory leaks. They consume cognitive resources every time you encounter them. They slow you down. They accumulate. And eventually, they make your own systems foreign to you.
+You've been here before. You open a configuration file - maybe a firewall rule, maybe a Group Policy object, maybe a docker-compose.yml override - and you find a setting that makes no sense. It's specific. It's deliberate. Someone chose this. You check git blame. It was you, eleven months ago. You have no memory of why.
+So you do what everyone does: you leave it alone. You're afraid to change it because past-you clearly had a reason, and present-you can't reconstruct it. The setting becomes haunted - a decision that has outlived its reasoning.
+This is not a tooling problem. This is a memory problem. And if you've been following this series on building an analyst operating system - your personal analytical infrastructure - then you already know what undocumented decisions are: memory leaks. They consume cognitive resources every time you encounter them. They slow you down. They accumulate. And eventually, they make your own systems foreign to you.
 This article introduces the Reasoning Record: a micro-standard for capturing why you decided something, not just what. It's the closing piece of the reasoning and analytical infrastructure lane, and it's designed to be the simplest useful thing that solves this problem.
 ## The Problem with Remembering
-Let's be precise about what goes wrong. The decision itself usually gets recorded somewhere — in a commit, in a config file, in a ticket that gets closed. What doesn't get recorded is the reasoning: the context that made that decision make sense at the time.
+Let's be precise about what goes wrong. The decision itself usually gets recorded somewhere - in a commit, in a config file, in a ticket that gets closed. What doesn't get recorded is the reasoning: the context that made that decision make sense at the time.
 Context is perishable. The vendor limitation you were working around gets fixed in the next release. The colleague whose workflow you were accommodating leaves the company. The security advisory that prompted the change gets superseded. Six months later, the decision remains but the world it was made in is gone.
 This creates what I call the haunted configuration problem: systems full of choices nobody understands but everyone is afraid to touch. Every team has them. Every solo practitioner has them. They're the reason you spend Tuesday afternoon reading year-old Slack threads trying to reverse-engineer your own thinking.
 
-| The Core Problem<br>Decisions are durable. Context is perishable. When context decays and the decision remains, you get a haunted configuration — a choice that outlives its reasoning and becomes untouchable. |
+| The Core Problem<br>Decisions are durable. Context is perishable. When context decays and the decision remains, you get a haunted configuration - a choice that outlives its reasoning and becomes untouchable. |
 | --- |
 
-The cost is real. Every haunted configuration is a tax on future velocity. You can't confidently refactor, upgrade, or simplify because you don't know what breaks. You can't onboard someone new because you can't explain why things are the way they are. You can't even trust your own past judgment because you can't evaluate it — the evidence is gone.
+The cost is real. Every haunted configuration is a tax on future velocity. You can't confidently refactor, upgrade, or simplify because you don't know what breaks. You can't onboard someone new because you can't explain why things are the way they are. You can't even trust your own past judgment because you can't evaluate it - the evidence is gone.
 What you need is not a better memory. What you need is an external record of your reasoning that's so easy to write that you'll actually do it, and so easy to search that you'll actually find it.
 ## Why ADRs Don't Scale Down
-The software architecture world solved this problem — sort of. Architecture Decision Records (ADRs) have been around since Michael Nygard proposed them in 2011. The format has since evolved into multiple templates: MADR (Markdown Architectural Decision Records), Tyree & Akerman's comprehensive template, the Alexandrian pattern-based approach, and others. Microsoft publishes guidance on using them in enterprise contexts. They're well-established and well-respected.
+The software architecture world solved this problem - sort of. Architecture Decision Records (ADRs) have been around since Michael Nygard proposed them in 2011. The format has since evolved into multiple templates: MADR (Markdown Architectural Decision Records), Tyree & Akerman's comprehensive template, the Alexandrian pattern-based approach, and others. Microsoft publishes guidance on using them in enterprise contexts. They're well-established and well-respected.
 They also assume you're an architect on a team.
 Here's the typical ADR workflow: you create a numbered Markdown file in a docs/adr/ directory. Each file has a title, a status field (proposed, accepted, deprecated, superseded), a context section, a decision section, a consequences section. MADR adds decision drivers, considered options with individual pros-and-cons analysis, and links to related decisions. The full MADR template runs to roughly 40 lines before you've written a word of actual content.
 For a platform team making a decision about service mesh adoption, this is appropriate. The ceremony matches the stakes. But for a solo admin opening port 8443 because a vendor's testing tool needs it? For a freelance developer choosing between SQLite and PostgreSQL for a side project? For a one-person IT department setting a login banner via Group Policy? The ceremony-to-value ratio is catastrophically wrong.
@@ -44,7 +44,7 @@ Format: A single Markdown file per project or system, named REASONING.md. Drop i
 - **Confidence:** High / Medium / Low
 - **Revisit trigger:** What would make you reconsider this?
 That's it. No status field. No stakeholder matrix. No approval workflow. No separate file per entry. No tooling required beyond a text editor.
-The entry should take less than 90 seconds to write. If it's taking longer, you're overwriting the context. One to three sentences. Past-you doesn't need an essay — past-you needs a breadcrumb.
+The entry should take less than 90 seconds to write. If it's taking longer, you're overwriting the context. One to three sentences. Past-you doesn't need an essay - past-you needs a breadcrumb.
 
 | The 90-Second Rule<br>If a Reasoning Record entry takes more than 90 seconds to write, you're writing too much. The goal is a breadcrumb trail, not a treatise. One to three sentences of context. One sentence for the decision. Bullets for alternatives. A single word for confidence. One condition for revisiting. Done. |
 | --- |
@@ -52,19 +52,19 @@ The entry should take less than 90 seconds to write. If it's taking longer, you'
 ### Field-by-Field Rationale
 Sequential number (RR-001): Makes entries referenceable from commits, comments, and other entries. "Supersedes RR-007" is unambiguous.
 Date: ISO 8601. Not negotiable. You'll need to reconstruct timelines.
-Context: The most important field. Not "what did you decide" but "what situation were you in." This is the perishable information — the thing that future-you won't remember. What was happening? What constraint were you under? What were you trying to accomplish?
+Context: The most important field. Not "what did you decide" but "what situation were you in." This is the perishable information - the thing that future-you won't remember. What was happening? What constraint were you under? What were you trying to accomplish?
 Decision: One sentence. Forcefully concise. If you can't state it in one sentence, you might be making two decisions.
 Alternatives considered: This field does two things. First, it proves you actually thought about options. Second, it saves future-you from re-evaluating paths you already rejected. Even "did nothing" is a valid alternative to list.
-Confidence: High, Medium, or Low. Three levels. No five-point scales. This is the most important innovation in the format — more on this below.
+Confidence: High, Medium, or Low. Three levels. No five-point scales. This is the most important innovation in the format - more on this below.
 Revisit trigger: A concrete condition under which this decision should be reconsidered. Not "someday" but "when X happens." This transforms vague unease into actionable criteria.
 ## Design Principles: Why It's Shaped This Way
 Every constraint in the Reasoning Record is deliberate. Here's what each one buys you.
 ### Append-Only
-Never edit old entries. If a decision changes, add a new entry that references the old one: "Supersedes RR-007." This gives you a decision history, not just a decision snapshot. You can trace how your thinking evolved. You can see that you changed the firewall rule three times in six months, which tells you something important about the stability of that decision — something you'd lose if you just updated the original entry.
+Never edit old entries. If a decision changes, add a new entry that references the old one: "Supersedes RR-007." This gives you a decision history, not just a decision snapshot. You can trace how your thinking evolved. You can see that you changed the firewall rule three times in six months, which tells you something important about the stability of that decision - something you'd lose if you just updated the original entry.
 ### Plaintext
 No database. No app. No SaaS product. No wiki that needs its own maintenance. A Markdown file in the same directory as the thing it documents. It lives with the project. It moves with the project. It's backed up with the project. It dies with the project. Zero dependencies, zero accounts, zero subscriptions.
 ### Grepable
-The format is specifically designed so that grep -A 6 "firewall" REASONING.md returns a complete, useful entry. Every field is on its own line. Every entry starts with a level-2 heading. This isn't a coincidence — it's a design requirement. The Reasoning Record is findable because it's structured for the tools you already have.
+The format is specifically designed so that grep -A 6 "firewall" REASONING.md returns a complete, useful entry. Every field is on its own line. Every entry starts with a level-2 heading. This isn't a coincidence - it's a design requirement. The Reasoning Record is findable because it's structured for the tools you already have.
 $ grep -A 6 "firewall" REASONING.md
 
 ## RR-001: Allow inbound TCP 8443 through Windows Firewall
@@ -84,11 +84,11 @@ The confidence field is the single most valuable part of the Reasoning Record. M
 A High confidence entry says: "I thought about this carefully, and I'm standing by it unless the world changes." A Low confidence entry says: "This was my best guess given what I knew. Please scrutinize this." When you do your monthly review and scan for Low-confidence entries, you're doing targeted maintenance on the decisions most likely to be wrong. That's enormously more efficient than reviewing everything.
 ### Revisit Triggers
 Vague intentions to reconsider things are worthless. "We should look at this again sometime" is a statement that has never, in the history of technology, led to anyone actually looking at anything again. The revisit trigger forces specificity:
-- "If latency exceeds 200ms" — measurable
-- "When Windows Server 2026 ships" — event-based
-- "After testing phase ends (target: 2026-03-01)" — time-bound
-- "If the flow breaks more than twice" — threshold-based
-- "Never unless CIS benchmark changes" — explicitly permanent
+- "If latency exceeds 200ms" - measurable
+- "When Windows Server 2026 ships" - event-based
+- "After testing phase ends (target: 2026-03-01)" - time-bound
+- "If the flow breaks more than twice" - threshold-based
+- "Never unless CIS benchmark changes" - explicitly permanent
 Each of these is a condition you can actually evaluate. That's the difference between documentation that drives action and documentation that drives guilt.
 ## Examples: Four Reasoning Records
 Here are four entries from a realistic REASONING.md file. Notice how each takes only a few lines but captures enough context to be useful months later.
@@ -157,7 +157,7 @@ Here are four entries from a realistic REASONING.md file. Notice how each takes 
 - **Revisit trigger:** If team grows beyond 3 people, or if we adopt a
   documentation platform for other reasons.
 
-| Notice the Pattern<br>RR-001 has Low confidence and a near-term revisit trigger — this is a temporary decision that should have been unwound. If the entry exists, you'll catch it. If it doesn't, that port stays open forever. RR-003 has High confidence and an almost-never revisit trigger — it's been carefully researched and should be treated as settled. The confidence field makes this distinction visible and searchable. |
+| Notice the Pattern<br>RR-001 has Low confidence and a near-term revisit trigger - this is a temporary decision that should have been unwound. If the entry exists, you'll catch it. If it doesn't, that port stays open forever. RR-003 has High confidence and an almost-never revisit trigger - it's been carefully researched and should be treated as settled. The confidence field makes this distinction visible and searchable. |
 | --- |
 
 ## Integration Patterns
@@ -167,7 +167,7 @@ Drop REASONING.md in the root of any repo, right next to README.md. It shows up 
 git commit -m "Open port 8443 for vendor testing (see RR-001)"
 Now the commit links to the reasoning. The reasoning links to the context. The context explains why the commit exists. Chain of custody for decisions.
 ### Per Machine or System
-For sysadmin decisions that aren't tied to a codebase, keep a single REASONING.md per machine, system, or environment. Store it wherever you keep your other system documentation — a shared drive, a documentation repo, a folder on the machine itself. The key is proximity: the reasoning should live near the thing it explains.
+For sysadmin decisions that aren't tied to a codebase, keep a single REASONING.md per machine, system, or environment. Store it wherever you keep your other system documentation - a shared drive, a documentation repo, a folder on the machine itself. The key is proximity: the reasoning should live near the thing it explains.
 ### Paired with Pester Tests
 If you write infrastructure tests (Pester, InSpec, Serverspec), each test exists because of a decision. Reference the Reasoning Record entry in the test:
 Describe "Credential Guard Configuration (RR-003)" {
@@ -177,7 +177,7 @@ Describe "Credential Guard Configuration (RR-003)" {
         $cg.SecurityServicesRunning | Should -Contain 1
     }
 }
-Now the test doesn't just verify a state — it points to the reason that state should exist. When someone asks "why do we test for this?", the answer is in REASONING.md, entry RR-003.
+Now the test doesn't just verify a state - it points to the reason that state should exist. When someone asks "why do we test for this?", the answer is in REASONING.md, entry RR-003.
 ### Monthly Review
 Once a month, spend 15 minutes on your Reasoning Record. The process is simple:
 - Search for Low-confidence entries: grep -B 4 "Confidence.*Low" REASONING.md
@@ -187,9 +187,9 @@ Once a month, spend 15 minutes on your Reasoning Record. The process is simple:
 This takes 15 minutes. It saves hours of archaeology later. It's the difference between maintaining your decisions and being haunted by them.
 ## Downloadable Template
 Copy this into a file called REASONING.md in your project root and start writing. Delete the placeholder entry.
-# Reasoning Record — [Project/System Name]
+# Reasoning Record - [Project/System Name]
 
-Append-only decision log. Never edit old entries — add new ones
+Append-only decision log. Never edit old entries - add new ones
 that reference previous entries when decisions change.
 See: The Reasoning Record Micro-Standard.
 
@@ -205,7 +205,7 @@ See: The Reasoning Record Micro-Standard.
 - **Confidence:** [High / Medium / Low]
 - **Revisit trigger:** [What concrete condition would make you
   reconsider? e.g., "if latency exceeds 200ms", "when contract
-  expires", "never — this is permanent"]
+  expires", "never - this is permanent"]
 
 ---
 
@@ -218,21 +218,21 @@ See: The Reasoning Record Micro-Standard.
 - **Confidence:**
 - **Revisit trigger:**
 
-| Quick Reference: Grep Commands for Your Reasoning Record<br>grep -A 6 "keyword" REASONING.md — Find entries about a topic<br> grep -B 4 "Confidence.*Low" REASONING.md — Find uncertain decisions<br> grep "Revisit trigger" REASONING.md — List all revisit conditions<br> grep -c "^## RR-" REASONING.md — Count total entries<br> grep "Supersedes" REASONING.md — Find changed decisions |
+| Quick Reference: Grep Commands for Your Reasoning Record<br>grep -A 6 "keyword" REASONING.md - Find entries about a topic<br> grep -B 4 "Confidence.*Low" REASONING.md - Find uncertain decisions<br> grep "Revisit trigger" REASONING.md - List all revisit conditions<br> grep -c "^## RR-" REASONING.md - Count total entries<br> grep "Supersedes" REASONING.md - Find changed decisions |
 | --- |
 
 ## The Reasoning Record as Self-Knowledge
 I want to end on something that goes beyond tooling.
 Every Reasoning Record entry forces you to answer three questions: What do I actually think? How sure am I? What would change my mind? These are, in any domain, the three hardest questions you can ask yourself. Most people skip all three most of the time. They decide and move on. They don't articulate the decision. They don't assess their own certainty. They definitely don't pre-commit to conditions for changing course.
-The Reasoning Record makes these questions unavoidable. Not through discipline or willpower — through format. The fields are right there. You can't submit an entry without filling them in. And filling them in takes less than 90 seconds, so the activation energy is nearly zero.
-This is why I think of it as more than documentation. It's a practice of epistemic honesty. When you write "Confidence: Low," you're admitting uncertainty to yourself — in writing. When you write "Revisit trigger: if the team grows beyond 3," you're acknowledging that your current decision is context-dependent and might not survive changed circumstances. These are acts of intellectual humility that most documentation formats don't ask for and most people don't volunteer.
-Over months, your REASONING.md file becomes something unexpected: a record of how you think. Not just what you decided, but how you make decisions. You start to see patterns. You notice that your Low-confidence entries cluster around certain topics — maybe networking, maybe compliance, maybe anything involving a vendor. That's useful self-knowledge. It tells you where to invest in learning, where to ask for help, where to be more careful.
+The Reasoning Record makes these questions unavoidable. Not through discipline or willpower - through format. The fields are right there. You can't submit an entry without filling them in. And filling them in takes less than 90 seconds, so the activation energy is nearly zero.
+This is why I think of it as more than documentation. It's a practice of epistemic honesty. When you write "Confidence: Low," you're admitting uncertainty to yourself - in writing. When you write "Revisit trigger: if the team grows beyond 3," you're acknowledging that your current decision is context-dependent and might not survive changed circumstances. These are acts of intellectual humility that most documentation formats don't ask for and most people don't volunteer.
+Over months, your REASONING.md file becomes something unexpected: a record of how you think. Not just what you decided, but how you make decisions. You start to see patterns. You notice that your Low-confidence entries cluster around certain topics - maybe networking, maybe compliance, maybe anything involving a vendor. That's useful self-knowledge. It tells you where to invest in learning, where to ask for help, where to be more careful.
 
 | The Reasoning Record is the smallest possible container for the most important thing about any decision: the reason it was made. |
 | --- |
 
-If you've followed this entire lane — from analytical frameworks to reasoning infrastructure — the Reasoning Record is where it all comes to rest. Frameworks help you think. Infrastructure helps you execute. But the Reasoning Record helps you remember why you thought what you thought. Without that, the frameworks and infrastructure serve a version of you that no longer exists, solving problems you no longer remember having.
-Start small. One REASONING.md file. One project. The next decision you make that future-you might not understand — write it down. Ninety seconds. Seven fields. The return on that investment is measured in hours you'll never have to spend reverse-engineering your own past.
+If you've followed this entire lane - from analytical frameworks to reasoning infrastructure - the Reasoning Record is where it all comes to rest. Frameworks help you think. Infrastructure helps you execute. But the Reasoning Record helps you remember why you thought what you thought. Without that, the frameworks and infrastructure serve a version of you that no longer exists, solving problems you no longer remember having.
+Start small. One REASONING.md file. One project. The next decision you make that future-you might not understand - write it down. Ninety seconds. Seven fields. The return on that investment is measured in hours you'll never have to spend reverse-engineering your own past.
 Your decisions deserve to outlive their reasoning. The Reasoning Record makes sure they don't have to.
 Published by Verboten Media
  12 April 2026

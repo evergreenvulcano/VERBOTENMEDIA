@@ -2,13 +2,13 @@
 run_type: nightfold
 run_date: 2026-05-02
 source_mode: gmail-recovered
-source_email: "VERBOTENMEDIA recovery packet after 2026-04-30 — Part 1 of 3"
+source_email: "VERBOTENMEDIA recovery packet after 2026-04-30 - Part 1 of 3"
 source_message_id: 19df5a9b2357812f
 status: recovered
 review_state: unreviewed
 intended_target_path: modules/_gpt/runs/2026-05-02_nightfold.md
 ---
-Nightfold — 2026-05-02
+Nightfold - 2026-05-02
 
 Day Consolidation
 
@@ -102,7 +102,7 @@ Residual Tensions
 
 - Drift aesthetic may become dominant enough to simulate intentional design
 
-These are not failures—they are pressure reservoirs.
+These are not failures-they are pressure reservoirs.
 
 Tomorrow Seeds
 
@@ -122,7 +122,7 @@ Entities that can perceive drift but choose not to act on it.
 
 Post-Origin Processes
 
-Actions that cannot be traced backward at all—no assumed source remains.
+Actions that cannot be traced backward at all-no assumed source remains.
 
 -
 
@@ -146,7 +146,7 @@ It treats it as a resource.
 
 This reduces narrative fragility but increases interpretive density.
 
-Future work should avoid clarifying this state too quickly—its power lies in sustained ambiguity.
+Future work should avoid clarifying this state too quickly-its power lies in sustained ambiguity.
 
 The most important constraint remains:
 

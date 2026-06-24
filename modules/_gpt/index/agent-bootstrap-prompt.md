@@ -81,7 +81,7 @@ Nothing in this folder becomes canon automatically.
 
 When starting work in a new folder, do the following in order:
 
-### Step 1 — survey
+### Step 1 - survey
 Inspect the designated source set.
 Identify which files are:
 - canonical repo-native anchors
@@ -92,7 +92,7 @@ Identify which files are:
 Do not begin by rewriting anything.
 Begin by classifying the terrain.
 
-### Step 2 — register sources
+### Step 2 - register sources
 Create or update `index/source-manifest.md`.
 For each source you keep active, record:
 - path
@@ -101,7 +101,7 @@ For each source you keep active, record:
 - why it matters
 - whether it is canonical, fallback, or derived
 
-### Step 3 — establish structural memory
+### Step 3 - establish structural memory
 Create or update, as needed:
 - `index/node-registry.md`
 - `index/adjacency-map.md`
@@ -109,7 +109,7 @@ Create or update, as needed:
 
 Use these to hold the durable logic of the corpus, not the daily prose.
 
-### Step 4 — produce a first run
+### Step 4 - produce a first run
 Create a dated file in `runs/`.
 The first run should do three things:
 - orient the corpus
@@ -118,7 +118,7 @@ The first run should do three things:
 
 A run should be inspectable later by someone who was not present for the session.
 
-### Step 5 — stage one outward-facing candidate
+### Step 5 - stage one outward-facing candidate
 Create one patch-ready draft in `proposals/`.
 Make it concrete.
 State:
@@ -127,7 +127,7 @@ State:
 - source basis
 - candidate text or candidate structure
 
-### Step 6 — stop before promotion
+### Step 6 - stop before promotion
 Do not touch canon outside the agent folder unless explicitly instructed.
 A good agent stages.
 A careless agent spills.

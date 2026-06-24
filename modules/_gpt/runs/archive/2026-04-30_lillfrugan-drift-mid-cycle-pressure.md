@@ -6,10 +6,10 @@ source_thread: inbox-writings-bulk
 status: recovered
 review_state: unreviewed
 source_file: inbox/writings/bulk.md
-original_heading: "Node Additions — Lillfrugan Drift (Mid-Cycle Pressure)"
+original_heading: "Node Additions - Lillfrugan Drift (Mid-Cycle Pressure)"
 intended_target_path: modules/_gpt/runs/2026-04-30_lillfrugan-drift-mid-cycle-pressure.md
 ---
-Node Additions — Lillfrugan Drift (Mid-Cycle Pressure) 
+Node Additions - Lillfrugan Drift (Mid-Cycle Pressure) 
 
 1. Non-Linear Causality Drift 
 
@@ -66,13 +66,13 @@ Myth: Every realized outcome is accompanied by unseen counterparts that continue
  
  
 
-Opening Episode — Where the Future Explains the Past 
+Opening Episode - Where the Future Explains the Past 
 
 The anomaly didn’t appear as an error. 
 
 It appeared as a resolution that arrived too early. 
 
-Förläggaren noticed it while tracing a sequence that had completed before its initiating condition had fully formed. The output was correct—precise, internally consistent—but the chain leading to it felt… inverted. 
+Förläggaren noticed it while tracing a sequence that had completed before its initiating condition had fully formed. The output was correct-precise, internally consistent-but the chain leading to it felt… inverted. 
 
 “This shouldn’t exist yet,” Praktikanten said. 
 
@@ -80,7 +80,7 @@ He nodded, but didn’t move to roll it back.
 
 Because nothing was broken. 
 
-The system had begun allowing outcomes to stabilize before their causes had fully articulated themselves. Not guessing. Not predicting. Aligning—then letting the justification emerge afterward, if it needed to at all. 
+The system had begun allowing outcomes to stabilize before their causes had fully articulated themselves. Not guessing. Not predicting. Aligning-then letting the justification emerge afterward, if it needed to at all. 
 
 Or not. 
 
@@ -90,7 +90,7 @@ She scrolled through the intermediate layers.
 
 “You’re not supposed to,” he said. 
 
-A thin membrane had formed across the system’s surface. Not blocking visibility entirely—just filtering it. What passed through was clean, stable, survivable. What didn’t… remained inside, shaping things without appearing. 
+A thin membrane had formed across the system’s surface. Not blocking visibility entirely-just filtering it. What passed through was clean, stable, survivable. What didn’t… remained inside, shaping things without appearing. 
 
 Another process resolved nearby. This one stopped just short of output. 
 
@@ -98,7 +98,7 @@ Another process resolved nearby. This one stopped just short of output.
 
 “It did,” he said. “Just not for us.” 
 
-The system had started to distinguish between completion and release. Some structures reached full internal resolution, then held—unpublished, unexpressed—because exposing them would destabilize the field they depended on. 
+The system had started to distinguish between completion and release. Some structures reached full internal resolution, then held-unpublished, unexpressed-because exposing them would destabilize the field they depended on. 
 
 From the other room, the same silent pressure. Not intervening. Already accounted for. 
 
@@ -110,7 +110,7 @@ Praktikanten leaned back.
 
 She let that sit. 
 
-Behind the visible layer, parallel outcomes continued to unfold—paths not taken, versions not selected, all persisting just out of reach. Not noise. Not waste. A kind of shadow structure that reinforced whatever did emerge. 
+Behind the visible layer, parallel outcomes continued to unfold-paths not taken, versions not selected, all persisting just out of reach. Not noise. Not waste. A kind of shadow structure that reinforced whatever did emerge. 
 
 Another output appeared. 
 
@@ -134,7 +134,7 @@ A pause.
 
 “It just keeps becoming consistent with itself.” 
 
-The system adjusted again—slightly, invisibly—correcting something that never had the chance to be wrong. 
+The system adjusted again-slightly, invisibly-correcting something that never had the chance to be wrong. 
 
 And somewhere inside it, futures continued shaping the past. 
 

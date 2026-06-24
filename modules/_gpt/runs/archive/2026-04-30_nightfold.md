@@ -6,17 +6,17 @@ source_thread: inbox-writings-bulk
 status: recovered
 review_state: unreviewed
 source_file: inbox/writings/bulk.md
-original_heading: "Nightfold — 2026-04-30"
+original_heading: "Nightfold - 2026-04-30"
 intended_target_path: modules/_gpt/runs/2026-04-30_nightfold.md
 ---
-Nightfold — 2026-04-30 
+Nightfold - 2026-04-30 
 
 Intended target path: modules/_gpt/runs/2026-04-30_nightfold.md 
 
  
  
 
-I. Day Consolidation — Drift to Pre-Existence 
+I. Day Consolidation - Drift to Pre-Existence 
 
 Across Mornest → Midpulse → late-cycle clusters, the system underwent a coherent compression: 
 
@@ -195,11 +195,11 @@ Instead, develop sensitivity to what no longer appears.
  
  
 
-VIII. Closing Fragment — Where Nothing Needs to Continue 
+VIII. Closing Fragment - Where Nothing Needs to Continue 
 
 By night, the system no longer feels like it is progressing. 
 
-Not because it has stopped— 
+Not because it has stopped- 
 
 but because there is nothing left that requires movement. 
 
@@ -215,7 +215,7 @@ She looks at him. “What’s the difference?”
 
 “Finished things lead somewhere. Closed things don’t need to.” 
 
-A process resolves. No output. No absence either—just a shift so small it barely registers, except that everything after it holds more tightly. 
+A process resolves. No output. No absence either-just a shift so small it barely registers, except that everything after it holds more tightly. 
 
 She nods slowly. 
 

@@ -14,15 +14,15 @@ note: "Del 3.1, mittenkapitel"
 
 ## Prolog - Kära XYZ,
 
-Det anlände till fel adress, vilket är hur det hittade rätt läsare. Det hade komponerats i glipan mellan den tredje och fjärde drinken, när filosofin blir bekännande och teknologin slutar låtsas om att vara neutral. Dess författare hade velat beskriva ett förlag, men beskrivningen höll på att växa ur förlaget — höll på att förlänga korridorer in i kultursektorer som den ursprungliga planlösningen aldrig förutsett. En releasefest för hundra exemplar. Ett band som förvandlade ontologisk design till cut-up-texter. En arkitekts bok om Paris distribuerad vid sidan om livemusik i ett rum där synthesizerspelaren en gång filmats i en livekonsert i ett vardagsrum, en konsert som författaren fortfarande tyckte var pinsam och helig i lika hög grad.
+Det anlände till fel adress, vilket är hur det hittade rätt läsare. Det hade komponerats i glipan mellan den tredje och fjärde drinken, när filosofin blir bekännande och teknologin slutar låtsas om att vara neutral. Dess författare hade velat beskriva ett förlag, men beskrivningen höll på att växa ur förlaget - höll på att förlänga korridorer in i kultursektorer som den ursprungliga planlösningen aldrig förutsett. En releasefest för hundra exemplar. Ett band som förvandlade ontologisk design till cut-up-texter. En arkitekts bok om Paris distribuerad vid sidan om livemusik i ett rum där synthesizerspelaren en gång filmats i en livekonsert i ett vardagsrum, en konsert som författaren fortfarande tyckte var pinsam och helig i lika hög grad.
 
-Mottagaren läste brevet en gång och förstod att ordet "förlagsbranschen" hade uttalats fel i decennier. Det var ingen bransch. Det var rhizomets bekännelse: jag kan inte sluta generera. Fjärilseffekten var inte en metafor. Det var en affärsmodell som vägrade uppträda som en — en billig butik som bröt varje protokoll, vilket var anledningen till att den hade råd att vara så generös, vilket var anledningen till att vem som helst hade råd att handla där. Hon vek brevet till formen av en bok. Det var redan för sent. Artefakten hade flytt sina upphovsmän och höll nu på att göra upphovsmän av de människor som bara rört vid den.
+Mottagaren läste brevet en gång och förstod att ordet "förlagsbranschen" hade uttalats fel i decennier. Det var ingen bransch. Det var rhizomets bekännelse: jag kan inte sluta generera. Fjärilseffekten var inte en metafor. Det var en affärsmodell som vägrade uppträda som en - en billig butik som bröt varje protokoll, vilket var anledningen till att den hade råd att vara så generös, vilket var anledningen till att vem som helst hade råd att handla där. Hon vek brevet till formen av en bok. Det var redan för sent. Artefakten hade flytt sina upphovsmän och höll nu på att göra upphovsmän av de människor som bara rört vid den.
 
 Brevet anlände en tisdag, vilket var fel dag för det. Avvikelser från det förväntade anländer helst på fredagar, när systemet är tillräckligt upprottat för att ta emot dem utan att protestera.
 
 Det var adresserat till Kära xyz, vilket antingen var ett formulärfält som hade glömt att ersätta sig med ett riktigt namn, eller ett riktigt namn, vilket var ett mer oroande alternativ. Ingen av förklaringarna förenklade situationen nämnvärt.
 
-Innehållet var kortfattat: en bekräftelse på en registrering till Verboten Academy, en registrering som nu var stängd, och ett artigt tack för visat intresse. Ingenstans i brevet framgick för vad. Ingenstans angavs när registreringen hade öppnat. Det framgick bara att den var stängd och att mottagaren välkomnades att följa Verboten Medias kanaler för information om framtida tillfällen — vilka kanaler det var angavs inte.
+Innehållet var kortfattat: en bekräftelse på en registrering till Verboten Academy, en registrering som nu var stängd, och ett artigt tack för visat intresse. Ingenstans i brevet framgick för vad. Ingenstans angavs när registreringen hade öppnat. Det framgick bara att den var stängd och att mottagaren välkomnades att följa Verboten Medias kanaler för information om framtida tillfällen - vilka kanaler det var angavs inte.
 
 Brevet hade inte kommit till Förläggaren. Det hade adresserats till lägenheten intill, fel lägenhetsnummer, vilket är det standardiserade sättet för universum att göra information tillgänglig utan att tillhandahålla det ansvar som informationen egentligen kräver.
 
@@ -30,7 +30,7 @@ Han läste det ändå. Man läser alltid brev som anländer till fel adress. Det
 
 ### Interstitium - förlaget
 
-Brevet anlände till förlaget en tisdag, vilket är den dag postsorteringen luktar upphettad gummi och institutionell ånger. Förläggaren öppnade det med en kniv som en gång tillhört någon annan — någon vars fingeravtryck fortfarande satt kvar på skaftet som en läslista. Kära xyz, stod det. Han läste det två gånger. Första gången för innehållet. Andra gången för ljudet av två män som beskriver sig själva neriffrån en gruvschakt, genom en nyhetsredaktion, in i ett vokabulär där psykoanalys kallas motorhuv och tre liv kallas tuffa.
+Brevet anlände till förlaget en tisdag, vilket är den dag postsorteringen luktar upphettad gummi och institutionell ånger. Förläggaren öppnade det med en kniv som en gång tillhört någon annan - någon vars fingeravtryck fortfarande satt kvar på skaftet som en läslista. Kära xyz, stod det. Han läste det två gånger. Första gången för innehållet. Andra gången för ljudet av två män som beskriver sig själva neriffrån en gruvschakt, genom en nyhetsredaktion, in i ett vokabulär där psykoanalys kallas motorhuv och tre liv kallas tuffa.
 
 Han lade brevet på en stapel med andra brev som också började med Kära xyz, och tänkte: varje opublicerad roman tror att den är den enda med en motor. Varje motor tror att den är den enda som brinner.
 
@@ -50,17 +50,17 @@ Förläggaren vek brevet längs dess ursprungliga veck, som var skarpt nog att d
 
 ### Tröst är sorg
 
-Torsdagen hade en annan kvalitet än övriga dagar i veckan, en kvalitet som varken Förläggaren eller Praktikanten hade satt ord på men som de båda registrerade på det sätt man registrerar lufttrycksförändringar — inte som information utan som stämning i skelettets nät.
+Torsdagen hade en annan kvalitet än övriga dagar i veckan, en kvalitet som varken Förläggaren eller Praktikanten hade satt ord på men som de båda registrerade på det sätt man registrerar lufttrycksförändringar - inte som information utan som stämning i skelettets nät.
 
 Lokalen de kallade studion var i arkitektonisk sanning en korridor mellan köket och brandutgången. Mellan dem satt kablarna. Kablarna löpte längs väggens fotlist mot kontrollrummets station vid bordet bakom printerens fält, och ingen av dem hade helt kartlagt vart de slutade. Det var inte slarv. Det var operationell teologi.
 
-Praktikanten satt vid sin station. Datorskärmens svarta bakgrund reflekterade inte köksljuset — den absorberade det. Vit serif. En rosa så dämpad att den klarade ett hörseltest enbart i teorin.
+Praktikanten satt vid sin station. Datorskärmens svarta bakgrund reflekterade inte köksljuset - den absorberade det. Vit serif. En rosa så dämpad att den klarade ett hörseltest enbart i teorin.
 
-Förläggaren satt vid sitt kontrollrum. ÖVerraskningslådan — den ofärgade kartongen med Häggström/Nygren-boken inuti — stod i fältets periferi, exakt utanför lampans huvudcirkel, exakt innanför det område han kallade synfältet för saker han inte hade bestämt vad han skulle göra med. Hans skärm visade ett dokument. Dokumentet handlade om funkonaturalism.
+Förläggaren satt vid sitt kontrollrum. ÖVerraskningslådan - den ofärgade kartongen med Häggström/Nygren-boken inuti - stod i fältets periferi, exakt utanför lampans huvudcirkel, exakt innanför det område han kallade synfältet för saker han inte hade bestämt vad han skulle göra med. Hans skärm visade ett dokument. Dokumentet handlade om funkonaturalism.
 
 Lillfrugan värmde något i köket. Lukten bars längs korridoren med en civilisatorisk trofast het som påminde om att en logistikcentral kan vara ett hemland.
 
-I logistikcentralens bakre fält — bortom konveyerbältena som svängde mot kompaktorna — rörde sig en röst bland lådor. Det var inte ett samtal. Det var arbete som lät sig höras. Den sortens närvaro vars funktion är att ge tröst och intensifiera sorgen på en gång, utan att skilja dessa åt, eftersom instrumentet inte vet hur.
+I logistikcentralens bakre fält - bortom konveyerbältena som svängde mot kompaktorna - rörde sig en röst bland lådor. Det var inte ett samtal. Det var arbete som lät sig höras. Den sortens närvaro vars funktion är att ge tröst och intensifiera sorgen på en gång, utan att skilja dessa åt, eftersom instrumentet inte vet hur.
 
 Printern stod stilla. Det var inte driftstillstånd. Det var kontemplationen före drift.
 
@@ -76,7 +76,7 @@ Han bläddrade i Häggström/Nygren-boken vid sidan om skärmen, inte för att h
 
 Han letade efter mekanism 1. Han fann mekanism 3.
 
-Byråkratiska och institutionella register — försäkringsvillkor, logistikjargong, redaktionellt arbetsflödesspråk — används inte satiriskt. De används rakt, som det mest precisa tillgängliga vokabuläret för att beskriva inre tillstånd. Logistikcentralen är inte en symbol för alienation. Det är där du bor. Formuläret du fyller i är formuläret du fyller i, och också hela problemet med att vara vid liv.
+Byråkratiska och institutionella register - försäkringsvillkor, logistikjargong, redaktionellt arbetsflödesspråk - används inte satiriskt. De används rakt, som det mest precisa tillgängliga vokabuläret för att beskriva inre tillstånd. Logistikcentralen är inte en symbol för alienation. Det är där du bor. Formuläret du fyller i är formuläret du fyller i, och också hela problemet med att vara vid liv.
 
 Han läste det. Han förstod det. Det var det som var problemet.
 
@@ -90,7 +90,7 @@ ARBETE. METOD. ARKIV. KONTAKT.
 
 Hon sade dem tyst för sig själv. Inte som navigation. Som doktrin.
 
-Det var klart nu. Inte färdigt — klart. Distinktionen var operationell. Färdigt är en kvalitetsbedömning. Klart är ett statusbeslut. Registreringen hade stängt. Länkarna man vill klicka på men inte kan. Gränssnittet vars vägran genererar mer tryck än de flesta system genererar med överflöd.
+Det var klart nu. Inte färdigt - klart. Distinktionen var operationell. Färdigt är en kvalitetsbedömning. Klart är ett statusbeslut. Registreringen hade stängt. Länkarna man vill klicka på men inte kan. Gränssnittet vars vägran genererar mer tryck än de flesta system genererar med överflöd.
 
 Hon hällde upp kaffe utan att fråga vem som ville ha. Det var inte en gest. Det var ett procedurmässigt beslut. Förläggaren drack kaffe när han läste, och han läste, och det räckte.
 
@@ -98,7 +98,7 @@ Hon bar en kopp dit utan att säga något, för man säger ingenting när man in
 
 Vid sin egen station: itereringens geometri. Vad kan ett gränssnitt vägra sig självt och fortfarande fungera? Vad kan en hemsida hålla tillbaka och fortfarande utgöra kontakt?
 
-En idé: KONTAKT-sektionen leder inte längre ingenstans — den speglar läsarens musposition tillbaka till läsaren, tyst, utan förklaring. Du söker kontakt. Du hittar rörelsens form.
+En idé: KONTAKT-sektionen leder inte längre ingenstans - den speglar läsarens musposition tillbaka till läsaren, tyst, utan förklaring. Du söker kontakt. Du hittar rörelsens form.
 
 En idé: ARKIVet öppnar sig i tid, inte i klick. Tio sekunder ger dig ett lager. Trettio ger dig nästa. Du kan inte skippa. Du undergår det.
 
@@ -106,11 +106,11 @@ En idé: rosan andas. Knappt. Inte mer än en pulsförändring per minut. Tillr�
 
 Det hade funnits ett index.html.txt.
 
-Inte index.html. Inte index.txt. index.html.txt — ett dokument som hade benamnat sig efter något det inte var, eller som hade benamnat sig korrekt men förväntades presentera sig som något annat. En distinktion som spelade roll för maskiner men inte nödvändigtvis för den som läste den.
+Inte index.html. Inte index.txt. index.html.txt - ett dokument som hade benamnat sig efter något det inte var, eller som hade benamnat sig korrekt men förväntades presentera sig som något annat. En distinktion som spelade roll för maskiner men inte nödvändigtvis för den som läste den.
 
 Hon hade skapat det under en session hon kallade pre-rationell modularitet: arbetsprocessen där man bygger strukturen innan man vet vad strukturen är till för. Man modulerar utan att rationalisera. Man skapar filer med namn som antingen stämmer eller inte, och sedan avgör innehållet vilket som är vilket.
 
-Verboten Academy hade inget index. Den hade ett index.html.txt — ett löfte om navigerbarhet, insvept i en form avsedd att läsas, inte klickas. Du kunde inte öppna det i en webbläsare och förvänta dig att det fungerade som en sida. Du öppnade det i ett textprogram och fick se strukturen bakom sidan, utan att sidan var där.
+Verboten Academy hade inget index. Den hade ett index.html.txt - ett löfte om navigerbarhet, insvept i en form avsedd att läsas, inte klickas. Du kunde inte öppna det i en webbläsare och förvänta dig att det fungerade som en sida. Du öppnade det i ett textprogram och fick se strukturen bakom sidan, utan att sidan var där.
 
 Det var, insåg hon nu, den exakta formen för Verboten Academys pedagogik. Du fick se kursplanen. Du fick inte gå kursen. Registreringen var stängd.
 
@@ -120,7 +120,7 @@ Mekanism 2 på skärmen: Dokumentationens verklighetsregistreringsinstrument är
 
 Han läste det. Sedan läste han kapitel 1 ur boken bredvid.
 
-En flicka. Mary. Fjorton år. Trettioåtta kronor i timmen. Hon kör sängar genom landstingetskorridorer. Hennes pappas bokhylla: Åkesson, Trotzig, Nietzsche, Jung, Deleuze, Guattari. Hennes bästa vän Nova, hemskolad, kommunicerande via ett hackad Snapchat som Novas pappa kodat. Gong-gong: avisering som bön. Telefonens skärm som en genomskinlig whiteboard mellan två bord, två liv, två nervsystem som försöker uppnå —
+En flicka. Mary. Fjorton år. Trettioåtta kronor i timmen. Hon kör sängar genom landstingetskorridorer. Hennes pappas bokhylla: Åkesson, Trotzig, Nietzsche, Jung, Deleuze, Guattari. Hennes bästa vän Nova, hemskolad, kommunicerande via ett hackad Snapchat som Novas pappa kodat. Gong-gong: avisering som bön. Telefonens skärm som en genomskinlig whiteboard mellan två bord, två liv, två nervsystem som försöker uppnå -
 
 Han stannade vid strecket. Meningen avbröts. Det stod ett streck. Inget mer.
 
@@ -130,7 +130,7 @@ Han gick tillbaka till funkonaturalismdokumentet på skärmen.
 
 Naturalismen är korrekt. Korrektheten är vad som gör den surrealistisk.
 
-Mary och hennes trettioåtta kronor i timmen och landstingetskorridorer och Deleuze och gong-gong och genomskinlig whiteboard — detta var naturalismens material. Och detta material hade gjort honom ingenting förrän han förstod att varje element registrerades med identisk tryckvikt. Ingenting var mer relevant än det intilliggande. Taxan för timarbete och Guattaris namn satt i samma sats utan att det ena var metafor för det andra.
+Mary och hennes trettioåtta kronor i timmen och landstingetskorridorer och Deleuze och gong-gong och genomskinlig whiteboard - detta var naturalismens material. Och detta material hade gjort honom ingenting förrän han förstod att varje element registrerades med identisk tryckvikt. Ingenting var mer relevant än det intilliggande. Taxan för timarbete och Guattaris namn satt i samma sats utan att det ena var metafor för det andra.
 
 Han trodde att han läste en bok han inte mindes ha beställt.
 
@@ -152,7 +152,7 @@ Hon vände sig mot sin skärm. ARBETE. METOD. ARKIV. KONTAKT. Varje sektion ett 
 
 Förläggaren svarade inte. Det var inte ointresse. Det var lyssnandets form.
 
-"KONTAKT leder dig inte till oss. Den visar dig hur du rörde dig när du sökte oss. Det är — det är mer kontakt, faktiskt. Det är kartläggningen av din rörelse mot tröskeln."
+"KONTAKT leder dig inte till oss. Den visar dig hur du rörde dig när du sökte oss. Det är - det är mer kontakt, faktiskt. Det är kartläggningen av din rörelse mot tröskeln."
 
 Hon pausade.
 
@@ -162,7 +162,7 @@ Tystnaden som följde var inte tom. Den hade densitet. En sida som inte försök
 
 ### Inre texter, yttre väggar
 
-Mekanism 4 på skärmen: Text uppträder inuti text — en karaktärs skrivprojekt inuti romanen, en recension inuti en scen, ett strukturdiagram förklät som prosa. Dessa är inte metafiktionella gester. Det är bärande konstruktioner: ta bort den inre texten och den yttre förlorar en vägg.
+Mekanism 4 på skärmen: Text uppträder inuti text - en karaktärs skrivprojekt inuti romanen, en recension inuti en scen, ett strukturdiagram förklät som prosa. Dessa är inte metafiktionella gester. Det är bärande konstruktioner: ta bort den inre texten och den yttre förlorar en vägg.
 
 Han tittade på texten. Sedan tittade han på Häggström/Nygren-boken. Sedan på skärmen.
 
@@ -170,11 +170,11 @@ Dokumentet han läste om funkonaturalism innehöll ett stycke om en karaktärs s
 
 Han kunde inte hitta vilken text som var ytterst.
 
-Det var inte ett läsfel. Kablarna bakom bordet hade alltid burit signaler med en viss asym­metri — ingångsvärdet och utgångsvärdet stämde inte helt överens på ett sätt som aldrig hade blivit ett problem men aldrig heller hade förklarats. Vad han läste var vad signalen gav honom. Det var möjligt att det inte var vad texten innehöll. Det var möjligt att det var mer.
+Det var inte ett läsfel. Kablarna bakom bordet hade alltid burit signaler med en viss asym­metri - ingångsvärdet och utgångsvärdet stämde inte helt överens på ett sätt som aldrig hade blivit ett problem men aldrig heller hade förklarats. Vad han läste var vad signalen gav honom. Det var möjligt att det inte var vad texten innehöll. Det var möjligt att det var mer.
 
 Han var placerad inuti en struktur där djupet inte var tematiskt utan konstruktivt. Man tolkar inte nästlandet. Man bebor det.
 
-Han öppnade Häggström/Nygren på en slumpsida. Kapitel 5 igen — Verboten-kollektivet, som beskrev sig genom att vägra att beskrivas. Han läste ett stycke. Han läste det igen. Tredje gången hittade han en röst i stycket som han kände igen utan att kunna namnge ursprunget. Arkivets redaktionsprincip, satt i en karaktärs mun, i ett kapitel han inte hade redigerat, i ett manuskript han inte hade beställt.
+Han öppnade Häggström/Nygren på en slumpsida. Kapitel 5 igen - Verboten-kollektivet, som beskrev sig genom att vägra att beskrivas. Han läste ett stycke. Han läste det igen. Tredje gången hittade han en röst i stycket som han kände igen utan att kunna namnge ursprunget. Arkivets redaktionsprincip, satt i en karaktärs mun, i ett kapitel han inte hade redigerat, i ett manuskript han inte hade beställt.
 
 Han tog upp en penna och skrev i marginalen: arkivet är det organ som gör kroppen möjlig.
 
@@ -194,7 +194,7 @@ Inte datumet hemsidan publicerades. Datumet registreringen stängde. Det är, ha
 
 Hon betraktade sidan.
 
-VERBOTEN MEDIA — ingen feed, ingen ström, inget brus.
+VERBOTEN MEDIA - ingen feed, ingen ström, inget brus.
 
 Det var inte ett varumärke. Det var operationell teologi.
 
@@ -208,13 +208,13 @@ Hon stängde laptopen halvvägs.
 
 Inte helt. Halvvägs var ett statusbeslut.
 
-### KODA — HACKERSTORY-VEKTORN
+### KODA - HACKERSTORY-VEKTORN
 
 Förläggaren hade sett det när han läste igenom sidan igen, efter det att Praktikanten återvänt till sin station och halvstängt laptopen.
 
 Det fanns en väg in.
 
-Inte ett säkerhetshål. Inte en exploit i teknisk bemärkelse. Utan ett narrativt sår — en punkt i berättelsen om Verboten Media som publiceringsorganism och Verboten Academy som stängd tröskel, där en person med rätt slags uppmärksamhet och rätt slags nyfikenhet kunde kliva in inte som registrerad deltagare utan som detektiv. Någon som rörde sig längs gränssnittet inte för att använda det, utan för att förstå det.
+Inte ett säkerhetshål. Inte en exploit i teknisk bemärkelse. Utan ett narrativt sår - en punkt i berättelsen om Verboten Media som publiceringsorganism och Verboten Academy som stängd tröskel, där en person med rätt slags uppmärksamhet och rätt slags nyfikenhet kunde kliva in inte som registrerad deltagare utan som detektiv. Någon som rörde sig längs gränssnittet inte för att använda det, utan för att förstå det.
 
 Att hacka, i dess äldsta mening, var inte att bryta sig in. Det var att ägna ett system mer uppmärksamhet än systemet hade räknat med att det skulle få.
 
@@ -227,13 +227,13 @@ Kablarna bakom kontrollrummet summade. Printern stod stilla. Det var fortfarande
 Men nästan.
 
 
-## Del 7 — Mellanrubrikerna mellan raderna
+## Del 7 - Mellanrubrikerna mellan raderna
 
 Klas anlände till logistikcentralen på en onsdag, vilket ingen hade planerat och ingen hade planerat mot. Han var tjugo år. Han hade med sig en skrivbok med röd spiralrygg och ingenting skrivet i den, inte av brist på material utan av principskäl: syftet med boken var ännu inte klart nog att vara ett syfte, och att skriva i en bok utan syfte var, i hans erfarenhet, att spendera precision på fel plats.
 
 Han hade bokat mötet via ett formulär online. Formuläret hade ett fält för "syfte med besöket" som han hade lämnat tomt.
 
-Praktikanten såg detta när hon bekräftade bokningen. Det tomma fältet. Det var inte ett problem med formuläret — formulärets validering godkände tomma fält i syfte-kolumnen, eftersom Verboten Media hade beslutat att syften inte ska vara obligatoriska. Det var ett ställningstagande inbakat i backend.
+Praktikanten såg detta när hon bekräftade bokningen. Det tomma fältet. Det var inte ett problem med formuläret - formulärets validering godkände tomma fält i syfte-kolumnen, eftersom Verboten Media hade beslutat att syften inte ska vara obligatoriska. Det var ett ställningstagande inbakat i backend.
 
 Konveyerbältena i den bakre delen av logistikcentralen fortsatte sin rörelse mot kompaktorna. Printern stod stilla. Kablarna längs fotlisten förde signaler med den asymmetri som tillhörde dem: ingångsvärdet och utgångsvärdet stämde inte exakt överens, på ett sätt som aldrig hade blivit ett problem och aldrig hade förklarats.
 
@@ -257,7 +257,7 @@ Förläggaren hörde det från sitt kontrollrum. Han hade inte hört att Klas an
 
 Klas: "Eller kategoriserar. Rubriker, sektioner. Hur de producerar det de namnger."
 
-Det var en korrekt beskrivning. Det var en korrekt beskrivning av något Förläggaren aldrig hade sagt med dessa ord. Han hade tänkt det — i den form man tänker saker som inte ännu har blivit begrepp — men han hade inte sagt det.
+Det var en korrekt beskrivning. Det var en korrekt beskrivning av något Förläggaren aldrig hade sagt med dessa ord. Han hade tänkt det - i den form man tänker saker som inte ännu har blivit begrepp - men han hade inte sagt det.
 
 Han undrade varifrån Klas kände till det.
 
@@ -267,9 +267,9 @@ Han undrade om Klas kände till det, eller om Klas hade hittat på det och råka
 
 Hon kände igen det omedelbart.
 
-Inte banan — hon kände igen trycket bakom banan. Det specifika sättet som en tjugoåring rör sig mot ett system av intresse: inte av nyfikenhet, inte av ambition, utan av det hon hade lärt sig kalla systemlockelse — det tillstånd där ett system erbjuder mer kontakt med sig självt än omgivningen erbjuder med världen utanför systemet, och man väljer systemet, inte för att man inte vet vad man väljer bort, utan för att man vet alltför väl.
+Inte banan - hon kände igen trycket bakom banan. Det specifika sättet som en tjugoåring rör sig mot ett system av intresse: inte av nyfikenhet, inte av ambition, utan av det hon hade lärt sig kalla systemlockelse - det tillstånd där ett system erbjuder mer kontakt med sig självt än omgivningen erbjuder med världen utanför systemet, och man väljer systemet, inte för att man inte vet vad man väljer bort, utan för att man vet alltför väl.
 
-Techautistbanan. Hon hade avbrutit den. Det hade inte tagit ett beslut — beslut är inte vad som händer. Det hade tagit ett gränssnitt som vägrade bete sig som ett gränssnitt, det vill säga ett gränssnitt som inte gick att reducera till ett verktyg utan begärde deltagande. Det begärde närvaro.
+Techautistbanan. Hon hade avbrutit den. Det hade inte tagit ett beslut - beslut är inte vad som händer. Det hade tagit ett gränssnitt som vägrade bete sig som ett gränssnitt, det vill säga ett gränssnitt som inte gick att reducera till ett verktyg utan begärde deltagande. Det begärde närvaro.
 
 Klas hade inte hittat ett sådant gränssnitt ännu, eller om han hade hittat det hade han inte förstått det som ett erbjudande.
 
@@ -285,7 +285,7 @@ Han tittade upp.
 
 "Vad kör du den på?"
 
-Paus. Inte av tvekan — av kalibrering.
+Paus. Inte av tvekan - av kalibrering.
 
 "Allt som borde vara klart men inte är det."
 
@@ -299,7 +299,7 @@ En diagnos är inte en förklaring. En diagnos är ett namn på ett mönster, gi
 
 Det som produceras inuti diagnostiken är inte reducerbart till diagnosen. Det som produceras inuti rummet är inte reducerbart till rubriken. Men utan diagnosen är mönstret svårare att hålla ihop. Utan rubriken är rummet svårare att bo i.
 
-Klas i terapi hade, förstod Förläggaren nu, fått en rubrik satt på sig. Rubriken hade möjliggjort ett rum. Rummet var inte färdigt — det var aldrig färdigt, det var ett rum man rörde sig igenom, inte ett rum man bor i — men det hade väggar, och väggar är bra att ha när man inte vet var man befinner sig.
+Klas i terapi hade, förstod Förläggaren nu, fått en rubrik satt på sig. Rubriken hade möjliggjort ett rum. Rummet var inte färdigt - det var aldrig färdigt, det var ett rum man rörde sig igenom, inte ett rum man bor i - men det hade väggar, och väggar är bra att ha när man inte vet var man befinner sig.
 
 Han hörde dem prata i bakgrunden. Praktikantens röst hade ett läge han kände igen: inte undervisningsläget, inte metodläget. Kontaktläget.
 
@@ -307,7 +307,7 @@ Det var ett mer ovanligt läge.
 
 ### Nästan.json
 
-JSON-schema. Det hade börjat som ett praktiskt verktyg för att dokumentera rubrikstrukturen — ett sätt att formalisera vad en rubrik kan vara och inte vara, vilka fält den har, vilka värden som är tillåtna. Sedan hade det börjat producera något annat.
+JSON-schema. Det hade börjat som ett praktiskt verktyg för att dokumentera rubrikstrukturen - ett sätt att formalisera vad en rubrik kan vara och inte vara, vilka fält den har, vilka värden som är tillåtna. Sedan hade det börjat producera något annat.
 
 Hon visade Klas:
 
@@ -328,7 +328,7 @@ Hon visade Klas:
 
 "Det är inte ett riktigt JSON-schema."
 
-Han tittade länge på det. Hon lät honom titta. Det var inte pedagogik — det var att ge ett objekt tid att göra sin verkan.
+Han tittade länge på det. Hon lät honom titta. Det var inte pedagogik - det var att ge ett objekt tid att göra sin verkan.
 
 "Petson," sa han till slut.
 
@@ -346,7 +346,7 @@ Tystnad. Inte kalibrering. Tystnad.
 
 Petson, tänkte Förläggaren. Inte med nostalgi. Med precision.
 
-Petson är inte en metafor för åldrande ensamhet, även om han är det. Petson är en tankefigur för den konfiguration där ett systems underhåll ersätter det systemet ursprungligen var tänkt att tjäna. Maskinen tar över maskinbyggarens tid. Underhållet av relationen tar över relationen. Processen tar över målet. Det är inte ett fel i systemet — det är vad som händer när ett system fungerar utan att syftet är tillräckligt förankrat utanför systemet självt.
+Petson är inte en metafor för åldrande ensamhet, även om han är det. Petson är en tankefigur för den konfiguration där ett systems underhåll ersätter det systemet ursprungligen var tänkt att tjäna. Maskinen tar över maskinbyggarens tid. Underhållet av relationen tar över relationen. Processen tar över målet. Det är inte ett fel i systemet - det är vad som händer när ett system fungerar utan att syftet är tillräckligt förankrat utanför systemet självt.
 
 Findus är vittnet. Findus är det element som existerar utanför systemet men innanför hushållet. Findus frågar inte om maskinen. Findus kräver mat och närvaro, på sina egna villkor, utan att detta är ett problem med Findus. Det är systemets kalibreringspunkt.
 
@@ -387,7 +387,7 @@ Men det tog inte lång tid nu.
 
 ### FÖRLAGSDECKAREN · funkonaturalism
 
-Klockan 03:00 i logistikcentralen: ingenting hände, men ingenting hände metodiskt. Servrarna i rummet bakom det rum de kallade serverrummet sjöng sin specifika frekvens — inte ett ljud man noterar, utan ett ljud man slutar notera, vilket är annorlunda, vilket är värre. Förläggaren satt vid terminalen. På skärmen: en wireframe-skalle, vita linjer mot en bakgrund som var #0A0A0A — inte svart, utan den specifika mörkhet hos en skärm som bett sig att visa ingenting och gjort det med för mycket entusiasm.
+Klockan 03:00 i logistikcentralen: ingenting hände, men ingenting hände metodiskt. Servrarna i rummet bakom det rum de kallade serverrummet sjöng sin specifika frekvens - inte ett ljud man noterar, utan ett ljud man slutar notera, vilket är annorlunda, vilket är värre. Förläggaren satt vid terminalen. På skärmen: en wireframe-skalle, vita linjer mot en bakgrund som var #0A0A0A - inte svart, utan den specifika mörkhet hos en skärm som bett sig att visa ingenting och gjort det med för mycket entusiasm.
 
 PRAKTIKANTEN sov i besöksstolen. Den hade inte tagit emot en besökare sedan det datum ingen ville datera.
 
@@ -399,7 +399,7 @@ Kablarna längs sockeln låg som alltid: stilla, bärande, ogenomträngliga för
 
 --accent-1: #FFFFFF.
 
-Han hade skrivit det för tre veckor sedan och inte längre mindes varför. Accentfärgen och textfärgen var identiska. I det här systemet var betoning och neutralitet samma kulör. Det var inte ett fel. Han visste att det inte var ett fel på ungefär samma sätt som man vet att man gjort något irreversibelt tre timmar in i att ha gjort det — en kunskap som inte ändrar kursen, bara registrerar sig som vikt i händerna.
+Han hade skrivit det för tre veckor sedan och inte längre mindes varför. Accentfärgen och textfärgen var identiska. I det här systemet var betoning och neutralitet samma kulör. Det var inte ett fel. Han visste att det inte var ett fel på ungefär samma sätt som man vet att man gjort något irreversibelt tre timmar in i att ha gjort det - en kunskap som inte ändrar kursen, bara registrerar sig som vikt i händerna.
 
 Vertexerna på skallen var taggade med CSS-variabler han döpt efter känslor han inte kunnat lokalisera i kroppen på annat sätt. --bg-color var inte bakgrundsfärgen; det var den specifika upplevelsen av att befinna sig i ett rum som ännu inte bestämt om det var ett rum. --text-color var det han ville kommunicera men inte visste till vem. --accent-1 var, uppenbarligen, ingenting. Eller allt. Berodde på vad man menade med accent i ett system som inte skilde på betoning och tystnad.
 
@@ -409,18 +409,18 @@ Det stod inte i koden att den skulle blinka.
 
 Han blinkade tillbaka. Det var en förhandling utan agenda. Han respekterade det.
 
-Till vänster: MELLANRUBRIKER-utskrifterna. Fyrtio sidor. Varje rubrik ett minimalt tullstationsvakteri — 20-ÅRSKRISEN, ÖVERGÅNGEN FRÅN TECHAUTIST TILL FAMILJEMAN, FÖRFATTARROLLEN SOM "SOCIAL" FUNKTION. Citattecknen runt social bar hela dokumentets tyngd. De var bärande interpunktion. Han brukade respektera bärande strukturer; det var en princip som överlevt fler revisioner än han hade.
+Till vänster: MELLANRUBRIKER-utskrifterna. Fyrtio sidor. Varje rubrik ett minimalt tullstationsvakteri - 20-ÅRSKRISEN, ÖVERGÅNGEN FRÅN TECHAUTIST TILL FAMILJEMAN, FÖRFATTARROLLEN SOM "SOCIAL" FUNKTION. Citattecknen runt social bar hela dokumentets tyngd. De var bärande interpunktion. Han brukade respektera bärande strukturer; det var en princip som överlevt fler revisioner än han hade.
 
 Erik hade skickat filen klockan 23:47 en onsdag från ett kafé i Malmö. Ämnesrad: rubrikskelett. Bifogat: en korrumperad bildfil som, när den slutligen renderat, visat sig vara ett foto av en servett. Grön penna. Texten: BILDUNG PINGPONG.
 
-Han hade stirrat på servetten i sex minuter. Sedan la han den i den mentala låda där han förvarade Ciorans aforismer och vetskapen om att hans förhållande till ensamarbete inte var ett förhållande utan ett slagverk — det ljud bollen gör när ingen tittar på banan.
+Han hade stirrat på servetten i sex minuter. Sedan la han den i den mentala låda där han förvarade Ciorans aforismer och vetskapen om att hans förhållande till ensamarbete inte var ett förhållande utan ett slagverk - det ljud bollen gör när ingen tittar på banan.
 
 Han öppnade aforismfilen. Scrollade till 14 augusti. Läste:
 
 All knowledge transmission is a drinking game. The sober player memorises the rules. The drunk player becomes the rules. The game continues either way.
 Han raderade either. Ersatte med only. Sparade.
 
-Mutationen var liten — ett enda ord — men den förskjöt vektorn från oundviklighet till exklusivitet. Det var skillnaden mellan ett system som alltid slutar på samma ställe och ett system som insisterar på att bara ett slut är möjligt. Det var en viktig skillnad. Det var kanske den enda skillnaden som räknades på den här skalan.
+Mutationen var liten - ett enda ord - men den förskjöt vektorn från oundviklighet till exklusivitet. Det var skillnaden mellan ett system som alltid slutar på samma ställe och ett system som insisterar på att bara ett slut är möjligt. Det var en viktig skillnad. Det var kanske den enda skillnaden som räknades på den här skalan.
 
 Han lutade sig tillbaka. Skallen lyste. Servrarna sjöng. Arkivet låg bakom honom, framför honom. Det var inte historia; det var landningssidan.
 
@@ -434,7 +434,7 @@ YOU ARE THE OVEN. YOU ARE THE PART NOBODY CREDITS.
 
 Det roterade. Nästa:
 
-LIFE DESIGN — OR LACK THEREOF.
+LIFE DESIGN - OR LACK THEREOF.
 
 Det roterade. Nästa:
 
@@ -444,7 +444,7 @@ Semikolonet laddades på 0.3 sekunder. Användaren såg det inte. Skallen såg d
 
 Hon försökte klicka. Klicket var en form av kulturellt deltagande hon inte samtyckt till. Sidan laddade inte. Sidan lyssnade. Lyssnandet var innehållet.
 
-Det märkliga med drömmen — och hon visste att det var en dröm på det sätt man vet om det när man inte kan sluta — var att hemsidan inte var hemsidan. Det var något annat som låtsades vara hemsidan av praktiska skäl. Rubriken stämde. Typografin stämde. Seriferna sa fortfarande att man fortfarande var på väg. Men strukturen andades in och ut i en rytm som svarade mot servrarna i rummet intill, och i sömnen hörde hon servrarna, och i servrarna var det ett mönster hon inte kunde namnge men som hon kände igen — det var samma frekvens som en person gör när de inte vet att de håller andan.
+Det märkliga med drömmen - och hon visste att det var en dröm på det sätt man vet om det när man inte kan sluta - var att hemsidan inte var hemsidan. Det var något annat som låtsades vara hemsidan av praktiska skäl. Rubriken stämde. Typografin stämde. Seriferna sa fortfarande att man fortfarande var på väg. Men strukturen andades in och ut i en rytm som svarade mot servrarna i rummet intill, och i sömnen hörde hon servrarna, och i servrarna var det ett mönster hon inte kunde namnge men som hon kände igen - det var samma frekvens som en person gör när de inte vet att de håller andan.
 
 WORK. METHOD. ARCHIVE. CONTACT.
 
@@ -466,7 +466,7 @@ Den nya kroppen kallade sig "digital presence". Nordic esoteric administration. 
 
 PHASE THREE: ENHANCEMENT. Add metadata. Tag each bone with its philosophical category. Cross-reference the femur with the lecture on imagination. Cross-reference the mandible with Flempo Guyenjaures winter monologue.
 
-Han stannade vid Flempo Guyenjaure. Vintermonologen. Han visste vad det var — han hade läst den, han hade alltid läst den, det var problemet med allt han visste — men han kunde inte återkalla den. Det var skillnaden mellan arkiv och minne: arkivet visste exakt var något låg men kunde inte kalla på det. Minnet kunde kalla men visste sällan var.
+Han stannade vid Flempo Guyenjaure. Vintermonologen. Han visste vad det var - han hade läst den, han hade alltid läst den, det var problemet med allt han visste - men han kunde inte återkalla den. Det var skillnaden mellan arkiv och minne: arkivet visste exakt var något låg men kunde inte kalla på det. Minnet kunde kalla men visste sällan var.
 
 Skallen log nu. Det stod inte i implementation roadmap att den skulle le.
 
@@ -482,17 +482,17 @@ Shadow Copy-briefen hade hon läst under eftermiddagen, i den timme som tekniskt
 
 Verboten Media intervjuar inte gäster. Det var den första meningen som var en policy som var en metod som var en teologi.
 
-Orkestern ersätter panelen. Dirigenten ersätter värden. Partituret byggs av allt experten någonsin publicerat, citerat, motsagt, tystnat om. Det var inte simulation. Det var resonansarkitektur. En Shadow Copy är inte en person. Det är det tryck en person utövar på ett fält — vilka frågor de skulle motstå, vilka citat de skulle nå för klockan 02:00, vilken mening de skulle ångra att de inte sagt.
+Orkestern ersätter panelen. Dirigenten ersätter värden. Partituret byggs av allt experten någonsin publicerat, citerat, motsagt, tystnat om. Det var inte simulation. Det var resonansarkitektur. En Shadow Copy är inte en person. Det är det tryck en person utövar på ett fält - vilka frågor de skulle motstå, vilka citat de skulle nå för klockan 02:00, vilken mening de skulle ångra att de inte sagt.
 
 I drömmen var hon ett Shadow Copy av sig själv. Inte impersonation. Kartläggning av resonans.
 
 Det roterande påståendet visade nu:
 
-ADMINISTRATION ÄR BÖN. SCAFFOLD KOLLAPSAR TILL KATEDRAL. LUCKORNA ÄR INTE MISSLYCKANDEN — DE ÄR NAVES.
+ADMINISTRATION ÄR BÖN. SCAFFOLD KOLLAPSAR TILL KATEDRAL. LUCKORNA ÄR INTE MISSLYCKANDEN - DE ÄR NAVES.
 
 Naves. Mittskepp. Luckorna var det helgade mellanrummet, inte felet i konstruktionen.
 
-Hon försökte skriva ner det men handen var av drömtyp — den rörde sig men lämnade inga spår. Det bekymrade henne inte. Det var rätt. En Shadow Copy fångar inte samtalet; den komponerar det. Vi arbetar inte med vad som sades; vi arbetar med trycket av vad som formade det som sades.
+Hon försökte skriva ner det men handen var av drömtyp - den rörde sig men lämnade inga spår. Det bekymrade henne inte. Det var rätt. En Shadow Copy fångar inte samtalet; den komponerar det. Vi arbetar inte med vad som sades; vi arbetar med trycket av vad som formade det som sades.
 
 Det roterande påståendet visade:
 
@@ -506,21 +506,21 @@ Sedan: ingenting. Inte ett tomt påstående. Ingenting. Skärmen lyssnade.
 
 Klockan 03:47 stängde han terminalen.
 
-Skallens efterbild stannade på insidan av ögonlocken — vit wireframe mot biologiskt mörker, varje vertex ett beslut, varje kant en policy ingen röstat på.
+Skallens efterbild stannade på insidan av ögonlocken - vit wireframe mot biologiskt mörker, varje vertex ett beslut, varje kant en policy ingen röstat på.
 
 Han tänkte på vad han sagt, tyst, till servrarna, till membranet som skiljer terminalen från det utanför terminalen: Vi behandlar arkivet som om det låg bakom oss. Men arkivet är landningssidan. Arkivet är det första de ser. Arkivet hälsar dem med ett roterande påstående och en bakgrundsfärg som är det specifika mörker hos ett system som bestämt sig för att samarbeta med tomrummet.
 
 Han hade sagt vi och menat det. Det var ovanligt.
 
-Kablarna längs sockeln rörde sig inte. De rörde sig aldrig — det var inte deras funktion. Deras funktion var att bära det som rörde sig utan att röras: att vara det kanalen var gjord av snarare än det som flödade genom den. Han visste att signalerna gick. Han visste det på det sätt man vet att jordens inre är flytande magma — det är ingenting man kontrollerar, men det organiserar allt man rör sig på.
+Kablarna längs sockeln rörde sig inte. De rörde sig aldrig - det var inte deras funktion. Deras funktion var att bära det som rörde sig utan att röras: att vara det kanalen var gjord av snarare än det som flödade genom den. Han visste att signalerna gick. Han visste det på det sätt man vet att jordens inre är flytande magma - det är ingenting man kontrollerar, men det organiserar allt man rör sig på.
 
 Printern, i hörnet, värmde upp.
 
-Inte för att skriva ut något. För att registrera att något hänt. Det var skillnaden — och det var en skillnad han förstod den här natten på ett sätt han inte haft ord för tidigare — mellan att producera och att vittna. Printern vittnade nu. Printern hade bestämt sig.
+Inte för att skriva ut något. För att registrera att något hänt. Det var skillnaden - och det var en skillnad han förstod den här natten på ett sätt han inte haft ord för tidigare - mellan att producera och att vittna. Printern vittnade nu. Printern hade bestämt sig.
 
 Det stod inte i koden att den skulle bestämma sig.
 
-Del 7 — Praktikanten
+Del 7 - Praktikanten
 
 UPPVAKNANDE · GONG-GONG · ÖPPEN TRÖSKEL
 
@@ -528,44 +528,44 @@ Hon vaknade av gong-gong-notifikationen klockan 04:11.
 
 Inte för att ett meddelande kommit. Utan för att printern registrerat något, och när printern registrerade något skickade systemet en bekräftelse, och bekräftelsen var gong-gong, och gong-gong var notifikation-som-bön. Det var vad det var. Det var vad det hade alltid varit.
 
-Hon satt upp i besöksstolen. Rummet var rummet — korridor-mellan-kök-och-brandutgång, studionamnet som inte förändrade arkitekturen men förändrade vad man trodde sig befinna sig i. Förläggaren var inte kvar. Terminalen var stängd. Skärmen svart.
+Hon satt upp i besöksstolen. Rummet var rummet - korridor-mellan-kök-och-brandutgång, studionamnet som inte förändrade arkitekturen men förändrade vad man trodde sig befinna sig i. Förläggaren var inte kvar. Terminalen var stängd. Skärmen svart.
 
 Men svart som #0A0A0A. Det var skillnaden.
 
-Hon öppnade sin laptop. Drömstatementet cirkulerade fortfarande i bakgrunden — i systemcachen, i servrarna, i den frekvens som sjöng när ingen lyssnade. ADMINISTRATION ÄR BÖN. Det var hennes ord, drömversionen, inte källtextens. Källtexten var mer korrekt, men drömversionen var mer precis. Det var inte motsägelse. Det var funkonaturalism.
+Hon öppnade sin laptop. Drömstatementet cirkulerade fortfarande i bakgrunden - i systemcachen, i servrarna, i den frekvens som sjöng när ingen lyssnade. ADMINISTRATION ÄR BÖN. Det var hennes ord, drömversionen, inte källtextens. Källtexten var mer korrekt, men drömversionen var mer precis. Det var inte motsägelse. Det var funkonaturalism.
 
 Hon öppnade Shadow Copy-briefen igen. Läste om orkesterramverket. Partituret. Det tryck en person utövar på ett fält.
 
 Sedan öppnade hon en ny fil. Skrev en rubrik:
 
-SKULL MIGRATION — SVENSKA BONES
-Sedan ingenting. Filen stod öppen med rubriken och en blinkande cursor. Det var nog. Det var nog för nu. Status: öppen. Datumet inte publicering — bara datum. En tröskel, inte ett löfte.
+SKULL MIGRATION - SVENSKA BONES
+Sedan ingenting. Filen stod öppen med rubriken och en blinkande cursor. Det var nog. Det var nog för nu. Status: öppen. Datumet inte publicering - bara datum. En tröskel, inte ett löfte.
 
 Gong-gong igen. Tystare den här gången. Eller kanske hade hon hört det hårdare förut.
 
-Produktionsnoter — Del 8
+Produktionsnoter - Del 8
 
 Constraintstatus · C14-krav
 
 Constraint	Status	Notat
-C4 — Texten måste ha kontakt	Aktiv	Källtextens tryck bevaras utan mekanisk reproduktion
-C5 — Grovhet kan vara korrekt	Aktiv	Del 3 och Del 7 avslutas utan upplösning — funktionell ofullständighet
-C6 — Skyddade termer behåller tryck	Aktiv	--accent-1, #0A0A0A, Nordic esoteric administration, Shadow Copy, gong-gong, MELLANRUBRIKER, Skull Migration — oöversatta
-C8 — Strangeness är material	Aktiv	Skallens blinkande och printerens uppvärming behandlade som möjlig struktur, ej fel
-C10 — Vägran och frånvaro är produktiva	Aktiv	Praktikantens ofärdiga fil; drömformens icke-avslutning; Flempo Guyenjaures monolog nämnd men ej renderad
-C12 — Funktionell tvåspråkighet	Aktiv	Engelska interference bevarad i citat, termstruktur och källtextens egna fraser
-Utgivarlista C6 — Teknologi/religion-oskärpa	Aktiv	Maximal i Del 6 (printern vittnar) och Del 5 (administration som bön)
-Utgivarlista C9 — Printern är kausal	Aktiv	Printern väcker sig i Del 6–7; det är ett narrativt beslut, ej dekorativt
-Utgivarlista C15 — Kablarna behåller asymmetri	Aktiv	Förläggaren vet att signalerna går utan att förstå hur
+C4 - Texten måste ha kontakt	Aktiv	Källtextens tryck bevaras utan mekanisk reproduktion
+C5 - Grovhet kan vara korrekt	Aktiv	Del 3 och Del 7 avslutas utan upplösning - funktionell ofullständighet
+C6 - Skyddade termer behåller tryck	Aktiv	--accent-1, #0A0A0A, Nordic esoteric administration, Shadow Copy, gong-gong, MELLANRUBRIKER, Skull Migration - oöversatta
+C8 - Strangeness är material	Aktiv	Skallens blinkande och printerens uppvärming behandlade som möjlig struktur, ej fel
+C10 - Vägran och frånvaro är produktiva	Aktiv	Praktikantens ofärdiga fil; drömformens icke-avslutning; Flempo Guyenjaures monolog nämnd men ej renderad
+C12 - Funktionell tvåspråkighet	Aktiv	Engelska interference bevarad i citat, termstruktur och källtextens egna fraser
+Utgivarlista C6 - Teknologi/religion-oskärpa	Aktiv	Maximal i Del 6 (printern vittnar) och Del 5 (administration som bön)
+Utgivarlista C9 - Printern är kausal	Aktiv	Printern väcker sig i Del 6–7; det är ett narrativt beslut, ej dekorativt
+Utgivarlista C15 - Kablarna behåller asymmetri	Aktiv	Förläggaren vet att signalerna går utan att förstå hur
 Identifierade failure modes
 
-Flempo Guyenjaures vintermonolog är nämnd men ej renderad — medveten lucka (C10), men risk att luckan läses som glömska snarare än form. Markeras som öppen tröskel.
-Kablarna är fortfarande infrastruktur snarare än scencentrum — strukturell skuld kvarstår, bör adresseras i Del 9 eller Del 10.
+Flempo Guyenjaures vintermonolog är nämnd men ej renderad - medveten lucka (C10), men risk att luckan läses som glömska snarare än form. Markeras som öppen tröskel.
+Kablarna är fortfarande infrastruktur snarare än scencentrum - strukturell skuld kvarstår, bör adresseras i Del 9 eller Del 10.
 Printerens vittnesrol i Del 6–7 kan läsas som dekorativ om man saknar kontexten från utgivarlista C9. Möjlig förstärkning inför revision.
 Review hooks (statusbeslut krävs)
 
-Del 3 (drömsekvensen): kan expanderas eller stängas — lämnas öppen.
-SKULL MIGRATION — SVENSKA BONES-filen som PRAKTIKANTEN öppnar: framtida kapitels ingång? Beslut krävs innan Del 9 sätts.
+Del 3 (drömsekvensen): kan expanderas eller stängas - lämnas öppen.
+SKULL MIGRATION - SVENSKA BONES-filen som PRAKTIKANTEN öppnar: framtida kapitels ingång? Beslut krävs innan Del 9 sätts.
 Flempo Guyenjaure: källmaterial bör sökas upp eller frånvaro deklareras som förlust (utgivarlista C8).
-Printerens väckning: sätter kausal händelsekedja i rörelse — Del 9 bör erkänna detta eller förklara frånvaron.
+Printerens väckning: sätter kausal händelsekedja i rörelse - Del 9 bör erkänna detta eller förklara frånvaron.
 FÖRLAGSDECKAREN · satellitkapitel · Del 8 · draft v1 · ej publicerad · VERBOTEN MEDIA

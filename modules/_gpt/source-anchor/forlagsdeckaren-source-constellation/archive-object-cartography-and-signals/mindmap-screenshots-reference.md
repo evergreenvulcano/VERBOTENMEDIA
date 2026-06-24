@@ -9,7 +9,7 @@ Status:
 
 Observed screenshot layers:
 
-## Screenshot Set A — character/event lattice
+## Screenshot Set A - character/event lattice
 
 Visible nodes include examples such as:
 
@@ -34,7 +34,7 @@ Visible nodes include examples such as:
 
 This image supports Del 9's social/cartographic layer: characters, substances, institutions, and place-nodes crossing through the same field.
 
-## Screenshot Set B — categorical color legend with narrative clusters
+## Screenshot Set B - categorical color legend with narrative clusters
 
 Top-row legend includes:
 
@@ -53,7 +53,7 @@ Top-row legend includes:
 
 This image supports the idea that the novel was mapped through reusable conceptual tags rather than through conventional plot outline.
 
-## Screenshot Set C — systems/institutions map
+## Screenshot Set C - systems/institutions map
 
 Clearly visible nodes include:
 

@@ -75,5 +75,5 @@ När material läggs till i repositoryt är frågan inte: *är detta en del av p
 
 Frågan är: *har detta material en funktion i repositoryt just nu?*
 
-Om det inte har det — om det hålls för att det kan bli användbart senare, eller för att det representerar omfattande arbete, eller för att det tillhör projektet i någon allmän mening — stannar det i arbetsarkivet tills det har det.
+Om det inte har det - om det hålls för att det kan bli användbart senare, eller för att det representerar omfattande arbete, eller för att det tillhör projektet i någon allmän mening - stannar det i arbetsarkivet tills det har det.
  

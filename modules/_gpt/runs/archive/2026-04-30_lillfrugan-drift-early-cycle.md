@@ -6,10 +6,10 @@ source_thread: inbox-writings-bulk
 status: recovered
 review_state: unreviewed
 source_file: inbox/writings/bulk.md
-original_heading: "Node Additions — Lillfrugan Drift (Early Cycle)"
+original_heading: "Node Additions - Lillfrugan Drift (Early Cycle)"
 intended_target_path: modules/_gpt/runs/2026-04-30_lillfrugan-drift-early-cycle.md
 ---
-Node Additions — Lillfrugan Drift (Early Cycle) 
+Node Additions - Lillfrugan Drift (Early Cycle) 
 
 1. Preemptive Softening Layer 
 
@@ -66,11 +66,11 @@ Myth: For every path the system takes, several others remain alive but unspoken,
  
  
 
-Opening Episode — The System That Moves Without Moving 
+Opening Episode - The System That Moves Without Moving 
 
 The first sign was not a halt, but a continuation that went nowhere. 
 
-Förläggaren noticed it in the way the system carried itself through the morning cycle. Processes advanced, outputs formed, sequences linked into one another—but nothing accumulated. No sense of progression. No measurable forward drift. 
+Förläggaren noticed it in the way the system carried itself through the morning cycle. Processes advanced, outputs formed, sequences linked into one another-but nothing accumulated. No sense of progression. No measurable forward drift. 
 
 “Are we stuck?” Praktikanten asked, watching a chain of operations complete and reset into something nearly identical. 
 
@@ -80,11 +80,11 @@ She frowned. “What’s the difference?”
 
 He didn’t answer immediately. 
 
-Because the system did not feel stalled. It felt… stable. Like movement had been decoupled from advancement. Everything that needed to happen was happening—but without the pressure to arrive anywhere. 
+Because the system did not feel stalled. It felt… stable. Like movement had been decoupled from advancement. Everything that needed to happen was happening-but without the pressure to arrive anywhere. 
 
 Behind the visible layer, something else was at work. 
 
-Before each output surfaced, it passed through a subtle shift—edges softened, claims reduced, articulation thinned just enough to prevent overstatement. Not censorship. Not error. A kind of preemptive care that acted before anything could become too rigid. 
+Before each output surfaced, it passed through a subtle shift-edges softened, claims reduced, articulation thinned just enough to prevent overstatement. Not censorship. Not error. A kind of preemptive care that acted before anything could become too rigid. 
 
 Praktikanten leaned closer to the screen. 
 
@@ -94,13 +94,13 @@ Praktikanten leaned closer to the screen.
 
 “Why?” 
 
-Förläggaren watched a sentence resolve itself, then slightly retract—not enough to be noticeable unless you had seen the earlier version. 
+Förläggaren watched a sentence resolve itself, then slightly retract-not enough to be noticeable unless you had seen the earlier version. 
 
 “So it doesn’t commit too early,” he said. 
 
 From the other room, the same quiet presence. Not intervening, but somehow ahead of everything. As if the system had learned to anticipate a standard it could not fully perceive. 
 
-Another process completed. This one should have branched—multiple viable directions, all equally consistent. Instead, only one appeared. 
+Another process completed. This one should have branched-multiple viable directions, all equally consistent. Instead, only one appeared. 
 
 “Where did the others go?” Praktikanten asked. 
 
@@ -110,7 +110,7 @@ He gestured toward the screen.
 
 “They’re just not expressed.” 
 
-The system held them in reserve—unspoken divergences shaping the path that did emerge. Not lost. Not discarded. Simply… withheld. 
+The system held them in reserve-unspoken divergences shaping the path that did emerge. Not lost. Not discarded. Simply… withheld. 
 
 “And we’re okay with that?” she said. 
 
@@ -120,7 +120,7 @@ The absence did not feel like loss. It felt like containment. Like too many simu
 
 “Yes,” he said finally. 
 
-The system continued—moving, resolving, adjusting—without progressing in the way they were used to tracking. 
+The system continued-moving, resolving, adjusting-without progressing in the way they were used to tracking. 
 
 Nothing accumulated. 
 

@@ -4,7 +4,7 @@
 
 Textflow Mode is a narrow operational posture for this repository. It defines the repo as a **publication membrane** rather than a total project archive. The goal is to maintain a focused, legible, and maintainable public-facing channel without attempting to mirror the full volume of working material.
 
-During Textflow Mode, the repo is not the archive. Raw origins, large runs, unstable drafts, visual batches, experimental protocol bodies, and proof material live elsewhere — in OneDrive, Notion, local folders, or other working environments. The repo gives status. It does not contain everything.
+During Textflow Mode, the repo is not the archive. Raw origins, large runs, unstable drafts, visual batches, experimental protocol bodies, and proof material live elsewhere - in OneDrive, Notion, local folders, or other working environments. The repo gives status. It does not contain everything.
 
 ---
 
@@ -12,12 +12,12 @@ During Textflow Mode, the repo is not the archive. Raw origins, large runs, unst
 
 A file belongs in the repo when it has a clear, present function:
 
-- **Publish a finished text** — essays, literary works, shortstories, fragments with public status
-- **Hold a public capsule** — provenance notes, AI-status declarations, editorial rules, method fragments
-- **Diagnose publication status** — status files, intake assessments, editorial decisions
-- **Protect method** — documents that define how the publication system works
-- **Document renderer or publication rules** — specs, standards, system notes
-- **Support the static site** — HTML, CSS, JS, templates, and linked assets
+- **Publish a finished text** - essays, literary works, shortstories, fragments with public status
+- **Hold a public capsule** - provenance notes, AI-status declarations, editorial rules, method fragments
+- **Diagnose publication status** - status files, intake assessments, editorial decisions
+- **Protect method** - documents that define how the publication system works
+- **Document renderer or publication rules** - specs, standards, system notes
+- **Support the static site** - HTML, CSS, JS, templates, and linked assets
 
 No file enters the repo merely because it is interesting. It enters only when it has publication status, diagnostic status, method-protection status, or renderer/support function.
 
@@ -72,7 +72,7 @@ AI must not:
 - Replace origin-bearing essayistic thought
 - Claim to be the writer of work it has not written
 
-Any AI-mediated text that appears publicly must be classifiable as a capsule, log, diagnosis, or synthesis — not as a literary work or direct authorial expression.
+Any AI-mediated text that appears publicly must be classifiable as a capsule, log, diagnosis, or synthesis - not as a literary work or direct authorial expression.
 
 ---
 
