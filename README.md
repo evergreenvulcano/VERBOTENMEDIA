@@ -11,6 +11,7 @@ Public entrances:
 - [`index.html`](index.html) - landing page and primary routes.
 - [`martin.html`](martin.html) - Martin Nygren as authorial person.
 - [`verboten-media.html`](verboten-media.html) - Verboten Media as publishing body / literary machine / entertainment apparatus.
+- [`praktikanten.html`](praktikanten.html) - Praktikanten as literary figure, runtime, working body, book, and evidence chain.
 - [`norrotiv.html`](norrotiv.html) - living and revisable public interaction body for ideas, bounded proposals, PRs, and collaborator traffic.
 - [`xprmnt-zn.html`](xprmnt-zn.html) - public experimental passage for specimens, method figures, ceremonies, utilities, and boundary work.
 - [`underhallningsmode.html`](underhallningsmode.html) - static external text-as-interface for Förlagsdeckaren; entertainment, not content.

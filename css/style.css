@@ -1767,6 +1767,587 @@ em     { font-style: italic; }
   color: var(--border-mid);
 }
 
+/* ============================================================
+   PRAKTIKANTEN - public figure dossier
+   ============================================================ */
+
+.praktikanten-page {
+  background-color: #090b0d;
+}
+
+.praktikanten-page .site-nav {
+  background: rgba(9, 11, 13, 0.9);
+  backdrop-filter: blur(18px);
+}
+
+.praktikanten-hero {
+  min-height: min(920px, 100vh);
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+  position: relative;
+  overflow: hidden;
+  border-bottom: 1px solid var(--border-mid);
+  background: #101317;
+}
+
+.praktikanten-hero__image,
+.praktikanten-hero__veil {
+  position: absolute;
+  inset: 0;
+}
+
+.praktikanten-hero__image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center 42%;
+  filter: saturate(0.68) contrast(1.08) brightness(0.72);
+}
+
+.praktikanten-hero__veil {
+  background:
+    linear-gradient(90deg, rgba(4, 6, 8, 0.92) 0%, rgba(4, 6, 8, 0.68) 34%, rgba(4, 6, 8, 0.1) 72%),
+    linear-gradient(0deg, rgba(4, 6, 8, 0.88) 0%, transparent 38%),
+    repeating-linear-gradient(90deg, transparent 0, transparent calc(25% - 1px), rgba(255, 255, 255, 0.045) 25%);
+  pointer-events: none;
+}
+
+.praktikanten-hero__register {
+  z-index: 1;
+  display: flex;
+  justify-content: space-between;
+  gap: var(--space-md);
+  padding: 1rem clamp(1.25rem, 5vw, 5rem);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.14);
+  font-family: var(--font-mono);
+  font-size: 0.62rem;
+  letter-spacing: 0.17em;
+  text-transform: uppercase;
+  color: rgba(255, 255, 255, 0.62);
+}
+
+.praktikanten-hero__content {
+  z-index: 1;
+  align-self: end;
+  padding: clamp(5rem, 12vh, 10rem) clamp(1.25rem, 7vw, 8rem);
+}
+
+.praktikanten-eyebrow {
+  margin: 0 0 1rem;
+  font-family: var(--font-mono);
+  font-size: var(--size-xs);
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: #d6b7a8;
+}
+
+.praktikanten-hero h1 {
+  margin: 0;
+  font-family: var(--font-display);
+  font-size: clamp(5rem, 17vw, 15rem);
+  font-weight: 300;
+  line-height: 0.72;
+  letter-spacing: -0.065em;
+  color: #f0ece6;
+  text-shadow: 0 4px 48px rgba(0, 0, 0, 0.45);
+}
+
+.praktikanten-hero__declaration {
+  margin: clamp(2rem, 7vh, 5rem) 0 0;
+  font-family: var(--font-display);
+  font-size: clamp(1.65rem, 4vw, 3.8rem);
+  font-style: italic;
+  font-weight: 300;
+  line-height: 1.04;
+  color: rgba(240, 236, 230, 0.9);
+}
+
+.praktikanten-hero__downlink {
+  z-index: 1;
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem clamp(1.25rem, 5vw, 5rem);
+  border-top: 1px solid rgba(255, 255, 255, 0.14);
+  font-family: var(--font-mono);
+  font-size: var(--size-xs);
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: rgba(255, 255, 255, 0.72);
+}
+
+.praktikanten-signal-bar {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  border-bottom: 1px solid var(--border-mid);
+  background: #c7b19f;
+  color: #111315;
+}
+
+.praktikanten-signal-bar span {
+  padding: 0.9rem 0.6rem;
+  border-right: 1px solid rgba(17, 19, 21, 0.22);
+  font-family: var(--font-mono);
+  font-size: 0.62rem;
+  letter-spacing: 0.11em;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.praktikanten-status,
+.praktikanten-origin,
+.praktikanten-refusal {
+  display: grid;
+  grid-template-columns: minmax(170px, 0.65fr) minmax(0, 2.35fr);
+  max-width: 1500px;
+  margin: 0 auto;
+  border-left: 1px solid var(--border);
+  border-right: 1px solid var(--border);
+}
+
+.praktikanten-status__index {
+  display: flex;
+  min-height: 680px;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: clamp(2rem, 5vw, 4.5rem);
+  border-right: 1px solid var(--border);
+}
+
+.praktikanten-folio {
+  font-family: var(--font-display);
+  font-size: clamp(8rem, 20vw, 17rem);
+  font-style: italic;
+  font-weight: 300;
+  line-height: 0.65;
+  color: rgba(185, 154, 142, 0.28);
+}
+
+.praktikanten-status__body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: clamp(3rem, 8vw, 9rem);
+}
+
+.praktikanten-lead {
+  max-width: 1000px;
+  margin: 0 0 clamp(3rem, 7vw, 7rem);
+  font-family: var(--font-display);
+  font-size: clamp(2.25rem, 5.4vw, 5.5rem);
+  font-weight: 300;
+  line-height: 1.02;
+  letter-spacing: -0.025em;
+}
+
+.praktikanten-status h2,
+.praktikanten-section-head h2,
+.praktikanten-origin h2,
+.praktikanten-refusal h2 {
+  font-size: clamp(2rem, 4vw, 4.2rem);
+  font-weight: 300;
+  line-height: 1.04;
+}
+
+.praktikanten-columns {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: clamp(2rem, 5vw, 5rem);
+  max-width: 1000px;
+  margin-top: var(--space-lg);
+}
+
+.praktikanten-columns p {
+  color: var(--fg-muted);
+  font-size: clamp(1rem, 1.45vw, 1.22rem);
+  line-height: 1.8;
+}
+
+.praktikanten-testimony {
+  min-height: 85vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: clamp(2rem, 6vw, 6rem);
+  border-top: 1px solid var(--border-mid);
+  border-bottom: 1px solid var(--border-mid);
+  background:
+    radial-gradient(circle at 72% 42%, rgba(185, 154, 142, 0.18), transparent 32%),
+    #e5e0d7;
+  color: #111315;
+}
+
+.praktikanten-testimony__meta {
+  display: flex;
+  justify-content: space-between;
+  font-family: var(--font-mono);
+  font-size: var(--size-xs);
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+}
+
+.praktikanten-testimony blockquote {
+  max-width: 1250px;
+  margin: 8vh auto;
+  border: 0;
+  padding: 0;
+}
+
+.praktikanten-testimony blockquote p {
+  margin: 0;
+  font-family: var(--font-display);
+  font-size: clamp(4rem, 11vw, 10.5rem);
+  font-style: italic;
+  font-weight: 300;
+  line-height: 0.83;
+  letter-spacing: -0.05em;
+}
+
+.praktikanten-testimony blockquote footer {
+  margin-top: var(--space-xl);
+  font-family: var(--font-mono);
+  font-size: var(--size-lg);
+  text-align: right;
+}
+
+.praktikanten-layers,
+.praktikanten-chronology,
+.praktikanten-reading {
+  max-width: 1500px;
+  margin: 0 auto;
+  padding: clamp(4rem, 10vw, 10rem) clamp(1.25rem, 5vw, 5rem);
+  border-left: 1px solid var(--border);
+  border-right: 1px solid var(--border);
+}
+
+.praktikanten-section-head {
+  display: grid;
+  grid-template-columns: 0.65fr 1.8fr 1fr;
+  gap: var(--space-lg);
+  align-items: end;
+  margin-bottom: clamp(3rem, 7vw, 7rem);
+}
+
+.praktikanten-section-head h2,
+.praktikanten-section-head p {
+  margin: 0;
+}
+
+.praktikanten-section-head p {
+  color: var(--fg-muted);
+  line-height: 1.6;
+}
+
+.praktikanten-layer-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  border-top: 1px solid var(--border-mid);
+  border-left: 1px solid var(--border-mid);
+}
+
+.praktikanten-layer-grid article {
+  min-height: 330px;
+  display: flex;
+  flex-direction: column;
+  padding: clamp(1.5rem, 3vw, 3rem);
+  border-right: 1px solid var(--border-mid);
+  border-bottom: 1px solid var(--border-mid);
+  background: rgba(255, 255, 255, 0.012);
+}
+
+.praktikanten-layer-grid article > span {
+  font-family: var(--font-mono);
+  font-size: var(--size-xs);
+  color: var(--accent);
+}
+
+.praktikanten-layer-grid h3 {
+  margin: auto 0 var(--space-md);
+  font-size: clamp(2rem, 3vw, 3.1rem);
+  font-weight: 300;
+}
+
+.praktikanten-layer-grid p {
+  min-height: 6.8em;
+  margin: 0;
+  color: var(--fg-muted);
+  line-height: 1.7;
+}
+
+.praktikanten-origin {
+  min-height: 86vh;
+  background:
+    linear-gradient(135deg, rgba(185, 154, 142, 0.12), transparent 42%),
+    #101316;
+}
+
+.praktikanten-origin__spine {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: clamp(2rem, 5vw, 4.5rem);
+  border-right: 1px solid var(--border);
+  font-family: var(--font-mono);
+  font-size: var(--size-xs);
+  letter-spacing: 0.16em;
+  writing-mode: vertical-rl;
+  text-orientation: mixed;
+}
+
+.praktikanten-origin__body {
+  align-self: center;
+  max-width: 1000px;
+  padding: clamp(3rem, 9vw, 10rem);
+}
+
+.praktikanten-origin h2 {
+  max-width: 980px;
+  margin: var(--space-md) 0 var(--space-xl);
+  font-size: clamp(3rem, 7vw, 7rem);
+  letter-spacing: -0.035em;
+}
+
+.praktikanten-origin__body > p {
+  max-width: 760px;
+  color: var(--fg-muted);
+  font-size: var(--size-lg);
+  line-height: 1.8;
+}
+
+.praktikanten-origin blockquote {
+  max-width: 760px;
+  margin: var(--space-xl) 0;
+  padding: var(--space-md) 0 var(--space-md) var(--space-lg);
+  border-left: 1px solid var(--accent);
+  font-family: var(--font-display);
+  font-size: clamp(1.7rem, 3vw, 3rem);
+  font-style: italic;
+  color: var(--fg);
+}
+
+.praktikanten-major-link {
+  display: flex;
+  justify-content: space-between;
+  max-width: 760px;
+  padding: 1rem 0;
+  border-top: 1px solid var(--border-mid);
+  border-bottom: 1px solid var(--border-mid);
+  font-family: var(--font-mono);
+  font-size: var(--size-xs);
+  letter-spacing: 0.13em;
+  text-transform: uppercase;
+}
+
+.praktikanten-timeline {
+  margin: 0;
+  padding: 0;
+  border-top: 1px solid var(--border-mid);
+  list-style: none;
+}
+
+.praktikanten-timeline li {
+  display: grid;
+  grid-template-columns: minmax(110px, 0.5fr) 2.5fr;
+  gap: var(--space-lg);
+  padding: clamp(2rem, 5vw, 4rem) 0;
+  border-bottom: 1px solid var(--border-mid);
+}
+
+.praktikanten-timeline__mark {
+  font-family: var(--font-display);
+  font-size: clamp(3rem, 6vw, 6rem);
+  font-style: italic;
+  color: rgba(185, 154, 142, 0.48);
+}
+
+.praktikanten-timeline h3 {
+  margin: var(--space-xs) 0 var(--space-sm);
+  font-size: clamp(1.7rem, 3vw, 3rem);
+  font-weight: 300;
+}
+
+.praktikanten-timeline p:last-child {
+  max-width: 760px;
+  color: var(--fg-muted);
+  line-height: 1.7;
+}
+
+.praktikanten-refusal {
+  padding: clamp(4rem, 9vw, 9rem);
+  grid-template-columns: 1.35fr 1fr;
+  gap: clamp(3rem, 8vw, 8rem);
+  background: #161111;
+}
+
+.praktikanten-refusal h2 {
+  margin-top: var(--space-md);
+  font-size: clamp(3rem, 6vw, 6rem);
+}
+
+.praktikanten-refusal__ledger {
+  align-self: center;
+  border-top: 1px solid rgba(226, 221, 214, 0.22);
+}
+
+.praktikanten-refusal__ledger p {
+  display: flex;
+  justify-content: space-between;
+  margin: 0;
+  padding: 0.85rem 0;
+  border-bottom: 1px solid rgba(226, 221, 214, 0.22);
+  font-family: var(--font-mono);
+  font-size: var(--size-sm);
+  text-transform: uppercase;
+}
+
+.praktikanten-refusal__ledger span {
+  color: #c7887e;
+}
+
+.praktikanten-refusal__note {
+  grid-column: 1 / -1;
+  max-width: 900px;
+  margin: var(--space-xl) 0 0;
+  font-family: var(--font-display);
+  font-size: clamp(1.5rem, 3vw, 2.6rem);
+  font-style: italic;
+  line-height: 1.25;
+  color: rgba(226, 221, 214, 0.78);
+}
+
+.praktikanten-reading__grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  border-top: 1px solid var(--border-mid);
+  border-left: 1px solid var(--border-mid);
+}
+
+.praktikanten-reading__grid a {
+  min-height: 320px;
+  display: flex;
+  flex-direction: column;
+  padding: clamp(1.5rem, 4vw, 4rem);
+  border-right: 1px solid var(--border-mid);
+  border-bottom: 1px solid var(--border-mid);
+  transition: background-color var(--transition), color var(--transition);
+}
+
+.praktikanten-reading__grid a:hover {
+  background: rgba(185, 154, 142, 0.08);
+}
+
+.praktikanten-reading__grid strong {
+  max-width: 520px;
+  margin: auto 0 var(--space-sm);
+  font-family: var(--font-display);
+  font-size: clamp(1.8rem, 3vw, 3rem);
+  font-weight: 300;
+  line-height: 1.06;
+}
+
+.praktikanten-reading__grid small {
+  max-width: 500px;
+  margin-bottom: var(--space-lg);
+  color: var(--fg-muted);
+  font-size: var(--size-sm);
+  line-height: 1.6;
+}
+
+.praktikanten-reading__grid a > span:last-child {
+  font-family: var(--font-mono);
+  font-size: var(--size-xs);
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.praktikanten-coda {
+  min-height: 90vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: clamp(3rem, 9vw, 9rem);
+  border-top: 1px solid var(--border-mid);
+  background:
+    radial-gradient(circle at 50% 30%, rgba(185, 154, 142, 0.13), transparent 32%),
+    #07090a;
+  text-align: center;
+}
+
+.praktikanten-coda p {
+  margin: 0;
+  font-family: var(--font-display);
+  font-size: clamp(3.5rem, 9vw, 9rem);
+  font-weight: 300;
+  line-height: 0.9;
+  letter-spacing: -0.04em;
+}
+
+.praktikanten-coda p:nth-child(2) {
+  margin-top: var(--space-xl);
+  font-size: clamp(1.5rem, 4vw, 4rem);
+  font-style: italic;
+  color: var(--accent);
+}
+
+.praktikanten-coda span {
+  margin-top: clamp(4rem, 10vh, 8rem);
+  font-family: var(--font-mono);
+  font-size: var(--size-xs);
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--fg-muted);
+}
+
+@media (max-width: 900px) {
+  .praktikanten-signal-bar {
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  .praktikanten-status,
+  .praktikanten-origin {
+    grid-template-columns: 1fr;
+    border-left: 0;
+    border-right: 0;
+  }
+
+  .praktikanten-status__index {
+    min-height: 0;
+    flex-direction: row;
+    align-items: end;
+    border-right: 0;
+    border-bottom: 1px solid var(--border);
+  }
+
+  .praktikanten-folio {
+    font-size: 8rem;
+  }
+
+  .praktikanten-columns,
+  .praktikanten-section-head {
+    grid-template-columns: 1fr;
+  }
+
+  .praktikanten-layer-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .praktikanten-origin__spine {
+    flex-direction: row;
+    border-right: 0;
+    border-bottom: 1px solid var(--border);
+    writing-mode: horizontal-tb;
+  }
+
+  .praktikanten-refusal {
+    grid-template-columns: 1fr;
+    border-left: 0;
+    border-right: 0;
+  }
+
+  .praktikanten-refusal__note {
+    grid-column: auto;
+  }
+}
+
 @media (max-width: 640px) {
   .roman-uplink__status {
     align-items: flex-start;
@@ -1779,6 +2360,69 @@ em     { font-style: italic; }
 
   .roman-uplink__threshold {
     padding-left: var(--space-sm);
+  }
+
+  .praktikanten-hero {
+    min-height: 760px;
+  }
+
+  .praktikanten-hero__image img {
+    object-position: 58% center;
+  }
+
+  .praktikanten-hero__veil {
+    background:
+      linear-gradient(0deg, rgba(4, 6, 8, 0.95) 0%, rgba(4, 6, 8, 0.4) 72%),
+      linear-gradient(90deg, rgba(4, 6, 8, 0.7), transparent);
+  }
+
+  .praktikanten-hero__register span:nth-child(2) {
+    display: none;
+  }
+
+  .praktikanten-hero h1 {
+    font-size: clamp(4rem, 22vw, 7rem);
+    line-height: 0.82;
+  }
+
+  .praktikanten-signal-bar {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .praktikanten-status__body,
+  .praktikanten-origin__body,
+  .praktikanten-refusal {
+    padding: 3rem 1.25rem;
+  }
+
+  .praktikanten-lead {
+    font-size: 2.3rem;
+  }
+
+  .praktikanten-testimony {
+    min-height: 680px;
+  }
+
+  .praktikanten-testimony blockquote p {
+    font-size: 4rem;
+  }
+
+  .praktikanten-layer-grid,
+  .praktikanten-reading__grid {
+    grid-template-columns: 1fr;
+  }
+
+  .praktikanten-layer-grid article,
+  .praktikanten-reading__grid a {
+    min-height: 280px;
+  }
+
+  .praktikanten-timeline li {
+    grid-template-columns: 70px 1fr;
+  }
+
+  .praktikanten-coda {
+    min-height: 720px;
   }
 }
 
