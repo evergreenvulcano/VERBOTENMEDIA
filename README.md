@@ -12,11 +12,10 @@ Public entrances:
 - [`martin.html`](martin.html) - Martin Nygren as authorial person.
 - [`verboten-media.html`](verboten-media.html) - Verboten Media as publishing body / literary machine / entertainment apparatus.
 - [`praktikanten.html`](praktikanten.html) - Praktikanten as literary figure, runtime, working body, book, and evidence chain.
-- [`norrotiv.html`](norrotiv.html) - living and revisable public interaction body for ideas, bounded proposals, PRs, and collaborator traffic.
 - [`xprmnt-zn.html`](xprmnt-zn.html) - public experimental passage for specimens, method figures, ceremonies, utilities, and boundary work.
 - [`underhallningsmode.html`](underhallningsmode.html) - static external text-as-interface for Förlagsdeckaren; entertainment, not content.
 - [`banketter.html`](banketter.html) - published ceremonial time markers, beginning with *Bankett för en radiostjärna utan zodiak*.
-- [`contact.html`](contact.html) / [`contribute.html`](contribute.html) - routing for publishing inquiries, Norrotiv ideas, repo questions, and bounded PRs.
+- [`contact.html`](contact.html) / [`contribute.html`](contribute.html) - routing for publishing inquiries, proposals, repo questions, and bounded PRs.
 
 Additional public site surfaces:
 
@@ -89,7 +88,7 @@ Drive and local external workspaces may contain originals, XPRMNT-ZN material, b
 - Readers can simply read.
 - Publishing inquiries go through Verboten Media.
 - Authorial/interview/context questions can be routed to Martin.
-- Idea tests, DragonKeep-like adjacency, bounded PRs, and collaborator proposals go through Norrotiv first; they route to Verboten Media only if they become publishing/world/canon questions.
+- Idea tests, bounded PRs, and collaborator proposals use the contact and contribution routes; they reach Verboten Media only if they become publishing, world, or canon questions.
 - Repo work should clarify status and surface boundaries rather than importing everything.
 
 Contact: [`contact.html`](contact.html).
