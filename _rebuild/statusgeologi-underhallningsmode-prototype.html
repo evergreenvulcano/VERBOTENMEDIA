@@ -1,0 +1,440 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="noindex, nofollow">
+  <title>Statusgeologi - isolerad prototyp</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant:ital,wght@0,300;0,400;0,600;1,400&family=IBM+Plex+Mono:wght@300;400&family=Inter:wght@300;400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../css/style.css">
+  <style>
+    :root {
+      --status-line: rgba(226, 221, 214, 0.45);
+      --status-dim: rgba(226, 221, 214, 0.62);
+      --status-earth: #7d665d;
+      --status-hot: #c68c73;
+    }
+
+    body {
+      background:
+        radial-gradient(circle at 50% 3%, rgba(198, 140, 115, 0.09), transparent 22rem),
+        linear-gradient(to bottom, #111 0%, #0b0b0b 48%, #050505 100%);
+    }
+
+    .prototype-bar {
+      align-items: center;
+      border-bottom: 1px solid var(--border);
+      display: flex;
+      font-family: var(--font-mono);
+      font-size: 0.67rem;
+      justify-content: space-between;
+      letter-spacing: 0.12em;
+      padding: 0.8rem clamp(1rem, 4vw, 3rem);
+      text-transform: uppercase;
+    }
+
+    .prototype-bar strong {
+      color: var(--status-hot);
+      font-weight: 400;
+    }
+
+    .status-hero {
+      margin: 0 auto;
+      max-width: 760px;
+      min-height: 78vh;
+      padding: clamp(5rem, 13vh, 10rem) 1.5rem 5rem;
+      text-align: center;
+    }
+
+    .status-hero .label {
+      color: var(--status-hot);
+      display: block;
+      margin-bottom: 1.5rem;
+    }
+
+    .status-hero h1 {
+      font-family: var(--font-display);
+      font-size: clamp(3.4rem, 10vw, 7.8rem);
+      font-weight: 300;
+      letter-spacing: -0.04em;
+      line-height: 0.87;
+      margin: 0 auto;
+      max-width: 9ch;
+    }
+
+    .status-hero .thesis {
+      color: var(--status-dim);
+      font-family: var(--font-display);
+      font-size: clamp(1.45rem, 3vw, 2.1rem);
+      font-style: italic;
+      line-height: 1.25;
+      margin: 3rem auto 0;
+      max-width: 23ch;
+    }
+
+    .descent-instruction {
+      color: var(--fg-muted);
+      font-family: var(--font-mono);
+      font-size: 0.68rem;
+      letter-spacing: 0.15em;
+      margin-top: 4.5rem;
+      text-transform: uppercase;
+    }
+
+    .status-descent {
+      margin: 0 auto;
+      max-width: 1060px;
+      padding: 0 1.25rem 10rem;
+      position: relative;
+    }
+
+    .status-descent::before {
+      background: linear-gradient(
+        to bottom,
+        transparent,
+        var(--status-line) 4%,
+        var(--status-line) 96%,
+        transparent
+      );
+      content: "";
+      left: 50%;
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      width: 1px;
+    }
+
+    .stratum {
+      display: grid;
+      grid-template-columns: 1fr 4rem 1fr;
+      min-height: 29rem;
+      position: relative;
+    }
+
+    .stratum::before {
+      background: #111;
+      border: 1px solid var(--status-line);
+      border-radius: 999px;
+      content: "";
+      grid-column: 2;
+      height: 0.72rem;
+      justify-self: center;
+      margin-top: 4rem;
+      position: relative;
+      width: 0.72rem;
+      z-index: 2;
+    }
+
+    .stratum-card {
+      align-self: start;
+      background:
+        linear-gradient(145deg, rgba(198, 140, 115, 0.06), transparent 45%),
+        rgba(18, 18, 18, 0.92);
+      border: 1px solid var(--border-mid);
+      margin-top: 2rem;
+      padding: clamp(1.35rem, 3vw, 2.25rem);
+      position: relative;
+    }
+
+    .stratum:nth-child(odd) .stratum-card {
+      grid-column: 1;
+      grid-row: 1;
+    }
+
+    .stratum:nth-child(even) .stratum-card {
+      grid-column: 3;
+      grid-row: 1;
+    }
+
+    .stratum-card::after {
+      border-top: 1px solid var(--status-line);
+      content: "";
+      position: absolute;
+      top: 2.35rem;
+      width: 2rem;
+    }
+
+    .stratum:nth-child(odd) .stratum-card::after {
+      right: -2rem;
+    }
+
+    .stratum:nth-child(even) .stratum-card::after {
+      left: -2rem;
+    }
+
+    .stratum-number,
+    .stratum-status {
+      font-family: var(--font-mono);
+      font-size: 0.66rem;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+    }
+
+    .stratum-number {
+      color: var(--status-hot);
+    }
+
+    .stratum-status {
+      color: var(--fg-muted);
+      display: block;
+      margin-top: 0.35rem;
+    }
+
+    .stratum-card h2 {
+      font-family: var(--font-display);
+      font-size: clamp(2rem, 4vw, 3.1rem);
+      font-weight: 300;
+      line-height: 1;
+      margin: 2rem 0 1.25rem;
+    }
+
+    .stratum-card h2 em {
+      color: var(--status-hot);
+      display: block;
+      font-size: 0.68em;
+      font-weight: 400;
+      margin-top: 0.45rem;
+    }
+
+    .stratum-card p {
+      color: var(--status-dim);
+      font-size: 1rem;
+      line-height: 1.65;
+      margin: 0;
+    }
+
+    .stratum-card .movement {
+      border-top: 1px solid var(--border);
+      color: var(--fg-muted);
+      font-family: var(--font-mono);
+      font-size: 0.72rem;
+      letter-spacing: 0.06em;
+      margin-top: 1.5rem;
+      padding-top: 1rem;
+      text-transform: uppercase;
+    }
+
+    .deep-question {
+      margin: 2rem auto 0;
+      max-width: 760px;
+      padding: 8rem 1.5rem 10rem;
+      text-align: center;
+    }
+
+    .deep-question p {
+      color: var(--status-hot);
+      font-family: var(--font-mono);
+      font-size: 0.7rem;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+    }
+
+    .deep-question h2 {
+      font-family: var(--font-display);
+      font-size: clamp(3rem, 7vw, 6rem);
+      font-weight: 300;
+      letter-spacing: -0.035em;
+      line-height: 0.98;
+      margin: 2rem auto;
+      max-width: 11ch;
+    }
+
+    .deep-question .answer {
+      color: var(--status-dim);
+      font-size: 1.1rem;
+      margin: 0 auto;
+      max-width: 38rem;
+    }
+
+    .prototype-decision {
+      background: rgba(125, 102, 93, 0.09);
+      border-top: 1px solid var(--border-mid);
+      padding: 4rem 1.5rem;
+    }
+
+    .prototype-decision-inner {
+      display: grid;
+      gap: 2rem;
+      grid-template-columns: minmax(0, 1.2fr) minmax(260px, 0.8fr);
+      margin: 0 auto;
+      max-width: 980px;
+    }
+
+    .prototype-decision h2 {
+      font-size: clamp(2.2rem, 5vw, 4rem);
+      font-weight: 300;
+      margin: 0;
+    }
+
+    .prototype-decision p,
+    .prototype-decision li {
+      color: var(--status-dim);
+      line-height: 1.6;
+    }
+
+    .prototype-decision ul {
+      margin: 0;
+      padding-left: 1.2rem;
+    }
+
+    @media (max-width: 720px) {
+      .status-hero {
+        min-height: 70vh;
+      }
+
+      .status-descent {
+        padding-left: 1rem;
+        padding-right: 1rem;
+      }
+
+      .status-descent::before {
+        left: 1.35rem;
+      }
+
+      .stratum {
+        display: block;
+        min-height: 0;
+        padding: 0 0 7rem 2.4rem;
+      }
+
+      .stratum::before {
+        display: block;
+        height: 0.62rem;
+        left: -1.32rem;
+        margin: 0;
+        position: absolute;
+        top: 2.7rem;
+        width: 0.62rem;
+      }
+
+      .stratum-card {
+        margin-top: 0;
+      }
+
+      .stratum-card::after {
+        left: -2.4rem !important;
+        right: auto !important;
+        top: 2.7rem;
+        width: 2.4rem;
+      }
+
+      .prototype-decision-inner {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="prototype-bar">
+    <span>VERBOTEN MEDIA / UNDERHÅLLNINGSMODE</span>
+    <strong>Isolerad prototyp / ej publicerad</strong>
+  </div>
+
+  <main>
+    <header class="status-hero">
+      <span class="label">Jag vill inte lära mig ett statussystem</span>
+      <h1>Bra. Gå nedåt.</h1>
+      <p class="thesis">Status är negativ formgivning av passage.</p>
+      <p class="descent-instruction">En läsarposition blir en geologisk nedstigning</p>
+    </header>
+
+    <section class="status-descent" aria-label="Statusgeologisk nedstigning">
+      <article class="stratum">
+        <div class="stratum-card">
+          <span class="stratum-number">Lager 01</span>
+          <span class="stratum-status">Intake / ankomst</span>
+          <h2>Det får inte vara <em>redan förstått</em></h2>
+          <p>Materialet har anlänt, men ankomsten ger det ingen permanent roll. Det får inte kanoniseras, sammanfattas bort eller behandlas som om situationen redan hade lämnat kroppen.</p>
+          <p class="movement">Rörelseord: spill / råtryck / ofördelad last</p>
+        </div>
+      </article>
+
+      <article class="stratum">
+        <div class="stratum-card">
+          <span class="stratum-number">Lager 02</span>
+          <span class="stratum-status">Review / prövobord</span>
+          <h2>Det får inte agera som <em>sanning</em></h2>
+          <p>Review betyder inte bara att någon ska titta senare. Det betyder att materialet ännu inte får representera projektet, bära stabil grund eller försvinna innan själva statusfrågan har prövats.</p>
+          <p class="movement">Rörelseord: mellanljus / klinik / testkammare</p>
+        </div>
+      </article>
+
+      <article class="stratum">
+        <div class="stratum-card">
+          <span class="stratum-number">Lager 03</span>
+          <span class="stratum-status">Kandidat / nästan-kropp</span>
+          <h2>Det får inte bli <em>nästan beslutat</em></h2>
+          <p>En kandidat får övervägas under rätt review. Den får inte citeras som kanon, men inte heller falla tillbaka till skräp, dödförklaras eller hållas i evig osäkerhet.</p>
+          <p class="movement">Rörelseord: knopp / laddning / möjlig offentlighet</p>
+        </div>
+      </article>
+
+      <article class="stratum">
+        <div class="stratum-card">
+          <span class="stratum-number">Lager 04</span>
+          <span class="stratum-status">Källa / främmande kropp</span>
+          <h2>Det får inte sugas upp <em>som vår röst</em></h2>
+          <p>Källan får bära härkomst och tryck. Den får inte absorberas, stilimiteras, normaliseras eller ersättas av en sammanfattning som gör läsningen överflödig.</p>
+          <p class="movement">Rörelseord: vittne / rot / membranets utsida</p>
+        </div>
+      </article>
+
+      <article class="stratum">
+        <div class="stratum-card">
+          <span class="stratum-number">Lager 05</span>
+          <span class="stratum-status">Arkiv / sediment</span>
+          <h2>Det får inte kallas <em>dött</em></h2>
+          <p>Arkiv betyder inte bort. Det betyder inte aktivt utan passage. Materialet får inte styra ny produktion som färsk intake, men det får behålla provenance, återkomsträtt och framtida grodd.</p>
+          <p class="movement">Rörelseord: fröbank / jordmån / vilande motor</p>
+        </div>
+      </article>
+
+      <article class="stratum">
+        <div class="stratum-card">
+          <span class="stratum-number">Lager 06</span>
+          <span class="stratum-status">Klenod / skyddad tyngd</span>
+          <h2>Det får inte <em>nyttomaximeras</em></h2>
+          <p>En klenod får väga mer än den används. Den får inte behandlas som vanligt arbetsmaterial, redigeras sönder för aktuell produktion eller göras till en generell stilresurs.</p>
+          <p class="movement">Rörelseord: laddat föremål / bevarad första eld</p>
+        </div>
+      </article>
+
+      <article class="stratum">
+        <div class="stratum-card">
+          <span class="stratum-number">Lager 07</span>
+          <span class="stratum-status">Kanon / bärande balk</span>
+          <h2>Det får inte lösas upp <em>igen</em></h2>
+          <p>Kanon betyder inte bara viktigt. Det betyder att materialet inte längre får behandlas som lös processmassa, förhandlas om i varje körning eller användas vårdslöst som inspirationsbank.</p>
+          <p class="movement">Rörelseord: grundlag / citerbar tyngd / ansvar</p>
+        </div>
+      </article>
+    </section>
+
+    <section class="deep-question">
+      <p>På botten finns ingen komplett definition</p>
+      <h2>Vad får detta inte bli?</h2>
+      <p class="answer">När den frågan kan besvaras behöver människan inte bära hela statusarkitekturen i huvudet. En liten exakt spärr kan göra stor rörelse möjlig.</p>
+    </section>
+  </main>
+
+  <aside class="prototype-decision">
+    <div class="prototype-decision-inner">
+      <div>
+        <span class="label">Human in the loop</span>
+        <h2>Ska denna nedstigning bli en publik dörr?</h2>
+      </div>
+      <div>
+        <p>Prototypen prövar rekommenderad väg 1: en ny statisk läsarposition inom Underhållningsmode som öppnar statusfilosofin genom vägran och geologi.</p>
+        <ul>
+          <li>Ingen JavaScript-logik.</li>
+          <li>Ingen personalisering eller quiz.</li>
+          <li>Ingen import av PDF-filen som publik originalkropp.</li>
+          <li>Copy är kondenserad ur <em>Status som negativ formgivning</em>.</li>
+        </ul>
+      </div>
+    </div>
+  </aside>
+</body>
+</html>

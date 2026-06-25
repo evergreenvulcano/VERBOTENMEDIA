@@ -1,0 +1,382 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="noindex, nofollow">
+  <title>Statusgeologi - publikationsbeslut</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant:ital,wght@0,300;0,400;0,600;1,400&family=IBM+Plex+Mono:wght@300;400&family=Inter:wght@300;400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../css/style.css">
+  <style>
+    :root {
+      --decision-hot: #c68c73;
+      --decision-cold: #849da3;
+      --decision-dim: rgba(226, 221, 214, 0.68);
+    }
+
+    body {
+      background:
+        radial-gradient(circle at 22% 8%, rgba(198, 140, 115, 0.08), transparent 25rem),
+        radial-gradient(circle at 78% 8%, rgba(132, 157, 163, 0.07), transparent 25rem),
+        #0b0b0b;
+    }
+
+    .decision-shell {
+      margin: 0 auto;
+      max-width: 1220px;
+      padding: 1rem clamp(1rem, 4vw, 3rem) 6rem;
+    }
+
+    .decision-status {
+      align-items: center;
+      border-bottom: 1px solid var(--border);
+      display: flex;
+      font-family: var(--font-mono);
+      font-size: 0.67rem;
+      justify-content: space-between;
+      letter-spacing: 0.12em;
+      padding: 0.8rem 0;
+      text-transform: uppercase;
+    }
+
+    .decision-status strong {
+      color: var(--decision-hot);
+      font-weight: 400;
+    }
+
+    .decision-header {
+      padding: clamp(5rem, 12vh, 9rem) 0 clamp(4rem, 9vh, 7rem);
+      text-align: center;
+    }
+
+    .decision-header .label {
+      color: var(--decision-hot);
+      display: block;
+      margin-bottom: 1.5rem;
+    }
+
+    .decision-header h1 {
+      font-family: var(--font-display);
+      font-size: clamp(3rem, 7vw, 6.4rem);
+      font-weight: 300;
+      letter-spacing: -0.035em;
+      line-height: 0.95;
+      margin: 0 auto;
+      max-width: 12ch;
+    }
+
+    .decision-header p {
+      color: var(--decision-dim);
+      font-size: 1.05rem;
+      line-height: 1.65;
+      margin: 2rem auto 0;
+      max-width: 43rem;
+    }
+
+    .shared-object {
+      align-items: center;
+      border: 1px solid var(--border-mid);
+      display: grid;
+      gap: 2rem;
+      grid-template-columns: minmax(0, 1.15fr) minmax(250px, 0.85fr);
+      margin-bottom: 2rem;
+      padding: clamp(1.5rem, 4vw, 3rem);
+      position: relative;
+    }
+
+    .shared-object::before {
+      background: linear-gradient(90deg, var(--decision-hot), var(--decision-cold));
+      content: "";
+      height: 1px;
+      left: 0;
+      position: absolute;
+      right: 0;
+      top: -1px;
+    }
+
+    .shared-object h2 {
+      font-family: var(--font-display);
+      font-size: clamp(2.2rem, 5vw, 4.4rem);
+      font-weight: 300;
+      line-height: 0.98;
+      margin: 0;
+    }
+
+    .shared-object p {
+      color: var(--decision-dim);
+      line-height: 1.65;
+      margin: 0 0 1.5rem;
+    }
+
+    .shared-object a {
+      border: 1px solid var(--border-mid);
+      color: var(--fg);
+      display: inline-block;
+      font-family: var(--font-mono);
+      font-size: 0.7rem;
+      letter-spacing: 0.12em;
+      padding: 0.8rem 1rem;
+      text-transform: uppercase;
+    }
+
+    .shared-object a:hover {
+      border-color: var(--decision-hot);
+      color: var(--decision-hot);
+    }
+
+    .frame-grid {
+      display: grid;
+      gap: 1px;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      background: var(--border);
+    }
+
+    .publication-frame {
+      background: #0b0b0b;
+      display: flex;
+      flex-direction: column;
+      min-height: 50rem;
+      padding: clamp(1.5rem, 4vw, 3rem);
+      position: relative;
+    }
+
+    .publication-frame--underhallning {
+      background:
+        linear-gradient(155deg, rgba(198, 140, 115, 0.09), transparent 48%),
+        #0b0b0b;
+    }
+
+    .publication-frame--xprmnt {
+      background:
+        linear-gradient(205deg, rgba(132, 157, 163, 0.08), transparent 48%),
+        #0b0b0b;
+    }
+
+    .frame-index,
+    .frame-status,
+    .frame-verdict {
+      font-family: var(--font-mono);
+      font-size: 0.67rem;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+    }
+
+    .publication-frame--underhallning .frame-index {
+      color: var(--decision-hot);
+    }
+
+    .publication-frame--xprmnt .frame-index {
+      color: var(--decision-cold);
+    }
+
+    .frame-status {
+      color: var(--fg-muted);
+      margin-top: 0.4rem;
+    }
+
+    .publication-frame h2 {
+      font-family: var(--font-display);
+      font-size: clamp(2.6rem, 5vw, 4.8rem);
+      font-weight: 300;
+      line-height: 0.93;
+      margin: clamp(4rem, 9vh, 7rem) 0 1.5rem;
+      max-width: 8ch;
+    }
+
+    .frame-entry {
+      color: var(--fg);
+      font-family: var(--font-display);
+      font-size: clamp(1.4rem, 2.7vw, 2rem);
+      font-style: italic;
+      line-height: 1.25;
+      margin: 0 0 2rem;
+      max-width: 20ch;
+    }
+
+    .frame-description {
+      color: var(--decision-dim);
+      line-height: 1.7;
+      max-width: 34rem;
+    }
+
+    .frame-properties {
+      border-top: 1px solid var(--border);
+      list-style: none;
+      margin: auto 0 0;
+      padding: 1.5rem 0 0;
+    }
+
+    .frame-properties li {
+      color: var(--fg-muted);
+      font-size: 0.9rem;
+      line-height: 1.5;
+      margin-bottom: 0.8rem;
+      padding-left: 1.25rem;
+      position: relative;
+    }
+
+    .frame-properties li::before {
+      content: "↓";
+      left: 0;
+      position: absolute;
+    }
+
+    .frame-verdict {
+      border-top: 1px solid var(--border);
+      margin-top: 2rem;
+      padding-top: 1rem;
+    }
+
+    .publication-frame--underhallning .frame-verdict {
+      color: var(--decision-hot);
+    }
+
+    .publication-frame--xprmnt .frame-verdict {
+      color: var(--decision-cold);
+    }
+
+    .decision-rule {
+      border: 1px solid var(--border-mid);
+      border-top: 0;
+      display: grid;
+      gap: 2rem;
+      grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+      padding: clamp(1.5rem, 4vw, 3rem);
+    }
+
+    .decision-rule h2 {
+      font-family: var(--font-display);
+      font-size: clamp(2rem, 4vw, 3.5rem);
+      font-weight: 300;
+      line-height: 1;
+      margin: 0;
+    }
+
+    .decision-rule p {
+      color: var(--decision-dim);
+      line-height: 1.7;
+      margin: 0;
+    }
+
+    .recommendation {
+      border-top: 1px solid var(--border);
+      margin-top: 4rem;
+      padding-top: 3rem;
+      text-align: center;
+    }
+
+    .recommendation .label {
+      color: var(--decision-hot);
+      display: block;
+      margin-bottom: 1rem;
+    }
+
+    .recommendation h2 {
+      font-family: var(--font-display);
+      font-size: clamp(2.5rem, 6vw, 5rem);
+      font-weight: 300;
+      line-height: 0.98;
+      margin: 0 auto;
+      max-width: 13ch;
+    }
+
+    .recommendation p {
+      color: var(--decision-dim);
+      line-height: 1.7;
+      margin: 2rem auto 0;
+      max-width: 44rem;
+    }
+
+    @media (max-width: 760px) {
+      .decision-status {
+        align-items: flex-start;
+        flex-direction: column;
+        gap: 0.45rem;
+      }
+
+      .shared-object,
+      .decision-rule {
+        grid-template-columns: 1fr;
+      }
+
+      .frame-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .publication-frame {
+        min-height: 42rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <main class="decision-shell">
+    <div class="decision-status">
+      <span>VERBOTEN MEDIA / STATUSGEOLOGI</span>
+      <strong>Human-in-the-loop / publikationsram</strong>
+    </div>
+
+    <header class="decision-header">
+      <span class="label">Samma kropp. Två offentliga konsekvenser.</span>
+      <h1>Var ska nedstigningen börja?</h1>
+      <p>Den geologiska textkroppen behöver inte göras om för att byta hem. Det verkliga beslutet gäller vilken relation publiken ska få till den: personlig läsarvägran eller offentligt experimentobjekt.</p>
+    </header>
+
+    <section class="shared-object">
+      <div>
+        <span class="label">Gemensam kropp</span>
+        <h2>Status är negativ formgivning av passage.</h2>
+      </div>
+      <div>
+        <p>Sju lager kondenserade ur PDF-filen <em>Status som negativ formgivning - före / efter / nu</em>. Formen är statisk, vertikal och inspirerad av vulkanmodellens sedimentering.</p>
+        <a href="statusgeologi-underhallningsmode-prototype.html">Öppna hela nedstigningen</a>
+      </div>
+    </section>
+
+    <section class="frame-grid" aria-label="Jämförelse av publikationsramar">
+      <article class="publication-frame publication-frame--underhallning">
+        <span class="frame-index">Ram A</span>
+        <span class="frame-status">Underhållningsmode / reader position</span>
+        <h2>Jag vill inte lära mig ett statussystem</h2>
+        <p class="frame-entry">Bra. Gå nedåt.</p>
+        <p class="frame-description">Läsarens motstånd är själva entrén. Statusläran uppträder inte som metodmaterial utan som en märklig service från Förläggaren till den som inte ville bli undervisad.</p>
+        <ul class="frame-properties">
+          <li>Vidareutvecklar sajtens mest originella publika vektor.</li>
+          <li>Gör en torr systemfråga till litterär underhållning.</li>
+          <li>Kräver en ny statisk reader-position eller tydlig länk från Underhållningsmode.</li>
+          <li>Risk: Underhållningsmode kan börja bära för många fulla kroppar.</li>
+        </ul>
+        <p class="frame-verdict">Välj denna om mötet med läsaren är verket.</p>
+      </article>
+
+      <article class="publication-frame publication-frame--xprmnt">
+        <span class="frame-index">Ram B</span>
+        <span class="frame-status">XPRMNT-ZN / public specimen</span>
+        <h2>Statusgeologi 001</h2>
+        <p class="frame-entry">Ett publikt experiment i förbjudna kollapser.</p>
+        <p class="frame-description">Nedstigningen blir en namngiven experimentkropp som har passerat membranet. Läsaren möter ett objekt med status, härkomst och avgränsad användning snarare än en position som talar direkt i dess motstånd.</p>
+        <ul class="frame-properties">
+          <li>Passar XPRMNT-ZN:s specimen- och membranlogik rent.</li>
+          <li>Kan bära explicit provenance och publiceringsstatus.</li>
+          <li>Gör experimentet lättare att hänvisa till som separat kropp.</li>
+          <li>Risk: formen kan kännas som ännu ett kort i experimentkatalogen.</li>
+        </ul>
+        <p class="frame-verdict">Välj denna om objektets status är verket.</p>
+      </article>
+    </section>
+
+    <section class="decision-rule">
+      <h2>Skillnaden är inte design. Skillnaden är vem som gör första rörelsen.</h2>
+      <p>I Underhållningsmode börjar läsaren: ”jag vill inte”. Apparaten svarar. I XPRMNT-ZN börjar apparaten: ”detta specimen finns”. Läsaren bevittnar. Båda kan använda samma vertikala kropp, men de producerar olika offentlighet.</p>
+    </section>
+
+    <section class="recommendation">
+      <span class="label">Min rekommendation står kvar</span>
+      <h2>Underhållningsmode först. XPRMNT-status i kroppen.</h2>
+      <p>Det mest särpräglade utfallet är Ram A, men med Ram B:s disciplin: publikationen öppnas som reader-position och bär samtidigt en liten provenance- och statusnot längst ned. Då blir vägran entré utan att materialets härkomst blir osynlig.</p>
+    </section>
+  </main>
+</body>
+</html>
