@@ -2492,3 +2492,594 @@ em     { font-style: italic; }
     letter-spacing: 0.09em;
   }
 }
+
+/* ============================================================
+   STATUSGEOLOGI - Underhållningsmode passage
+   ============================================================ */
+
+.statusgeologi-page {
+  --statusgeologi-line: rgba(226, 221, 214, 0.45);
+  --statusgeologi-dim: rgba(226, 221, 214, 0.62);
+  --statusgeologi-hot: #c68c73;
+  background:
+    radial-gradient(circle at 50% 4%, rgba(198, 140, 115, 0.09), transparent 24rem),
+    linear-gradient(to bottom, #111 0%, #0b0b0b 48%, #050505 100%);
+}
+
+.statusgeologi-hero {
+  margin: 0 auto;
+  max-width: 760px;
+  min-height: calc(82vh - var(--nav-height));
+  padding: clamp(5rem, 13vh, 10rem) 1.5rem 5rem;
+  text-align: center;
+}
+
+.statusgeologi-hero .label {
+  color: var(--statusgeologi-hot);
+  display: block;
+  margin-bottom: 1.5rem;
+}
+
+.statusgeologi-hero h1 {
+  font-size: clamp(3.4rem, 10vw, 7.8rem);
+  font-weight: 300;
+  letter-spacing: -0.04em;
+  line-height: 0.87;
+  margin: 0 auto;
+  max-width: 9ch;
+}
+
+.statusgeologi-thesis {
+  color: var(--statusgeologi-dim);
+  font-family: var(--font-display);
+  font-size: clamp(1.45rem, 3vw, 2.1rem);
+  font-style: italic;
+  line-height: 1.25;
+  margin: 3rem auto 0;
+  max-width: 23ch;
+}
+
+.statusgeologi-instruction {
+  color: var(--fg-muted);
+  font-family: var(--font-mono);
+  font-size: 0.68rem;
+  letter-spacing: 0.15em;
+  margin-top: 4.5rem;
+  text-transform: uppercase;
+}
+
+.statusgeologi-descent {
+  margin: 0 auto;
+  max-width: 1060px;
+  padding: 0 1.25rem 10rem;
+  position: relative;
+}
+
+.statusgeologi-descent::before {
+  background: linear-gradient(
+    to bottom,
+    transparent,
+    var(--statusgeologi-line) 4%,
+    var(--statusgeologi-line) 96%,
+    transparent
+  );
+  bottom: 0;
+  content: "";
+  left: 50%;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.statusgeologi-stratum {
+  display: grid;
+  grid-template-columns: 1fr 4rem 1fr;
+  min-height: 29rem;
+  position: relative;
+}
+
+.statusgeologi-stratum::before {
+  background: #111;
+  border: 1px solid var(--statusgeologi-line);
+  border-radius: 999px;
+  content: "";
+  grid-column: 2;
+  height: 0.72rem;
+  justify-self: center;
+  margin-top: 4rem;
+  position: relative;
+  width: 0.72rem;
+  z-index: 2;
+}
+
+.statusgeologi-card {
+  align-self: start;
+  background:
+    linear-gradient(145deg, rgba(198, 140, 115, 0.06), transparent 45%),
+    rgba(18, 18, 18, 0.92);
+  border: 1px solid var(--border-mid);
+  margin-top: 2rem;
+  padding: clamp(1.35rem, 3vw, 2.25rem);
+  position: relative;
+}
+
+.statusgeologi-stratum:nth-child(odd) .statusgeologi-card {
+  grid-column: 1;
+  grid-row: 1;
+}
+
+.statusgeologi-stratum:nth-child(even) .statusgeologi-card {
+  grid-column: 3;
+  grid-row: 1;
+}
+
+.statusgeologi-card::after {
+  border-top: 1px solid var(--statusgeologi-line);
+  content: "";
+  position: absolute;
+  top: 2.35rem;
+  width: 2rem;
+}
+
+.statusgeologi-stratum:nth-child(odd) .statusgeologi-card::after {
+  right: -2rem;
+}
+
+.statusgeologi-stratum:nth-child(even) .statusgeologi-card::after {
+  left: -2rem;
+}
+
+.statusgeologi-number,
+.statusgeologi-status {
+  font-family: var(--font-mono);
+  font-size: 0.66rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+
+.statusgeologi-number {
+  color: var(--statusgeologi-hot);
+}
+
+.statusgeologi-status {
+  color: var(--fg-muted);
+  display: block;
+  margin-top: 0.35rem;
+}
+
+.statusgeologi-card h2 {
+  font-size: clamp(2rem, 4vw, 3.1rem);
+  font-weight: 300;
+  line-height: 1;
+  margin: 2rem 0 1.25rem;
+}
+
+.statusgeologi-card h2 em {
+  color: var(--statusgeologi-hot);
+  display: block;
+  font-size: 0.68em;
+  font-weight: 400;
+  margin-top: 0.45rem;
+}
+
+.statusgeologi-card p {
+  color: var(--statusgeologi-dim);
+  font-size: 1rem;
+  line-height: 1.65;
+}
+
+.statusgeologi-movement {
+  border-top: 1px solid var(--border);
+  color: var(--fg-muted) !important;
+  font-family: var(--font-mono);
+  font-size: 0.72rem !important;
+  letter-spacing: 0.06em;
+  margin-top: 1.5rem;
+  padding-top: 1rem;
+  text-transform: uppercase;
+}
+
+.statusgeologi-bottom {
+  margin: 2rem auto 0;
+  max-width: 760px;
+  padding: 8rem 1.5rem 10rem;
+  text-align: center;
+}
+
+.statusgeologi-bottom > p:first-child {
+  color: var(--statusgeologi-hot);
+  font-family: var(--font-mono);
+  font-size: 0.7rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+
+.statusgeologi-bottom h2 {
+  font-size: clamp(3rem, 7vw, 6rem);
+  font-weight: 300;
+  letter-spacing: -0.035em;
+  line-height: 0.98;
+  margin: 2rem auto;
+  max-width: 11ch;
+}
+
+.statusgeologi-answer {
+  color: var(--statusgeologi-dim);
+  font-size: 1.1rem;
+  margin: 0 auto;
+  max-width: 38rem;
+}
+
+.statusgeologi-provenance {
+  background: rgba(125, 102, 93, 0.09);
+  border-top: 1px solid var(--border-mid);
+  padding: clamp(3rem, 7vw, 6rem) max(1.5rem, calc((100vw - 1080px) / 2));
+}
+
+.statusgeologi-provenance__heading {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: minmax(0, 0.7fr) minmax(0, 1.3fr);
+  margin-bottom: 3rem;
+}
+
+.statusgeologi-provenance__heading .label {
+  color: var(--statusgeologi-hot);
+}
+
+.statusgeologi-provenance__heading h2 {
+  font-size: clamp(2.5rem, 6vw, 5rem);
+  line-height: 0.95;
+}
+
+.statusgeologi-provenance__grid {
+  border-left: 1px solid var(--border-mid);
+  border-top: 1px solid var(--border-mid);
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.statusgeologi-provenance__grid > div {
+  border-bottom: 1px solid var(--border-mid);
+  border-right: 1px solid var(--border-mid);
+  min-height: 10rem;
+  padding: 1.5rem;
+}
+
+.statusgeologi-provenance dt {
+  color: var(--statusgeologi-hot);
+  font-family: var(--font-mono);
+  font-size: 0.68rem;
+  letter-spacing: 0.12em;
+  margin-bottom: 0.8rem;
+  text-transform: uppercase;
+}
+
+.statusgeologi-provenance dd {
+  color: var(--statusgeologi-dim);
+  line-height: 1.6;
+}
+
+.statusgeologi-return {
+  border: 1px solid var(--border-mid);
+  display: inline-block;
+  font-family: var(--font-mono);
+  font-size: 0.7rem;
+  letter-spacing: 0.12em;
+  margin-top: 2rem;
+  padding: 0.8rem 1rem;
+  text-transform: uppercase;
+}
+
+@media (max-width: 720px) {
+  .statusgeologi-hero {
+    min-height: 70vh;
+  }
+
+  .statusgeologi-descent {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+
+  .statusgeologi-descent::before {
+    left: 1.35rem;
+  }
+
+  .statusgeologi-stratum {
+    display: block;
+    min-height: 0;
+    padding: 0 0 7rem 2.4rem;
+  }
+
+  .statusgeologi-stratum::before {
+    display: block;
+    height: 0.62rem;
+    left: -1.32rem;
+    margin: 0;
+    position: absolute;
+    top: 2.7rem;
+    width: 0.62rem;
+  }
+
+  .statusgeologi-card {
+    margin-top: 0;
+  }
+
+  .statusgeologi-card::after {
+    left: -2.4rem !important;
+    right: auto !important;
+    top: 2.7rem;
+    width: 2.4rem;
+  }
+
+  .statusgeologi-provenance__heading,
+  .statusgeologi-provenance__grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* ============================================================
+   KRETSLEXIKON - Verboten Media chamber
+   ============================================================ */
+
+.kretslexikon-page {
+  --krets-warm: #c68c73;
+  --krets-cool: #849da3;
+  --krets-paper: rgba(226, 221, 214, 0.74);
+  background:
+    radial-gradient(circle at 50% 15rem, rgba(198, 140, 115, 0.08), transparent 28rem),
+    radial-gradient(circle at 50% 15rem, transparent 0 12rem, rgba(132, 157, 163, 0.05) 12.1rem 12.2rem, transparent 12.3rem),
+    var(--bg);
+}
+
+.kretslexikon-hero {
+  margin: 0 auto;
+  max-width: 900px;
+  min-height: calc(82vh - var(--nav-height));
+  padding: clamp(6rem, 14vh, 11rem) 1.5rem 6rem;
+  position: relative;
+  text-align: center;
+}
+
+.kretslexikon-hero > *:not(.kretslexikon-orbit) {
+  position: relative;
+  z-index: 2;
+}
+
+.kretslexikon-hero .label {
+  color: var(--krets-warm);
+  display: block;
+  margin-bottom: 1.5rem;
+}
+
+.kretslexikon-hero h1 {
+  font-size: clamp(4.2rem, 11vw, 9rem);
+  letter-spacing: -0.045em;
+  line-height: 0.86;
+}
+
+.kretslexikon-hero > p {
+  color: var(--krets-paper);
+  font-family: var(--font-display);
+  font-size: clamp(1.3rem, 2.8vw, 2rem);
+  font-style: italic;
+  line-height: 1.3;
+  margin: 2.5rem auto 0;
+  max-width: 32ch;
+}
+
+.kretslexikon-orbit {
+  border: 1px solid rgba(226, 221, 214, 0.12);
+  border-radius: 50%;
+  height: clamp(19rem, 42vw, 32rem);
+  left: 50%;
+  position: absolute;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: clamp(19rem, 42vw, 32rem);
+}
+
+.kretslexikon-orbit::before,
+.kretslexikon-orbit::after {
+  border: 1px solid rgba(226, 221, 214, 0.08);
+  border-radius: 50%;
+  content: "";
+  inset: 13%;
+  position: absolute;
+  transform: rotate(24deg) scaleX(1.2);
+}
+
+.kretslexikon-orbit::after {
+  inset: 28%;
+  transform: rotate(-18deg) scaleY(1.3);
+}
+
+.kretslexikon-orbit span {
+  color: var(--fg-muted);
+  font-family: var(--font-mono);
+  font-size: 0.62rem;
+  letter-spacing: 0.14em;
+  position: absolute;
+  text-transform: uppercase;
+}
+
+.kretslexikon-orbit span:nth-child(1) { left: 46%; top: -0.8rem; }
+.kretslexikon-orbit span:nth-child(2) { right: -1.2rem; top: 48%; }
+.kretslexikon-orbit span:nth-child(3) { bottom: -0.8rem; left: 47%; }
+.kretslexikon-orbit span:nth-child(4) { left: -1.4rem; top: 48%; }
+
+.kretslexikon-register {
+  border-left: 1px solid var(--border-mid);
+  border-top: 1px solid var(--border-mid);
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  margin: 0 auto;
+  max-width: 1120px;
+}
+
+.kretslexikon-entry {
+  background:
+    linear-gradient(145deg, rgba(198, 140, 115, 0.035), transparent 44%),
+    rgba(13, 13, 13, 0.88);
+  border-bottom: 1px solid var(--border-mid);
+  border-right: 1px solid var(--border-mid);
+  min-height: 25rem;
+  padding: clamp(1.5rem, 4vw, 3rem);
+  position: relative;
+}
+
+.kretslexikon-entry:nth-child(4n + 2),
+.kretslexikon-entry:nth-child(4n + 3) {
+  background:
+    linear-gradient(215deg, rgba(132, 157, 163, 0.04), transparent 44%),
+    rgba(13, 13, 13, 0.88);
+}
+
+.kretslexikon-entry__meta {
+  align-items: center;
+  color: var(--fg-muted);
+  display: flex;
+  font-family: var(--font-mono);
+  font-size: 0.65rem;
+  justify-content: space-between;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.kretslexikon-entry__meta span:first-child {
+  color: var(--krets-warm);
+}
+
+.kretslexikon-entry h2 {
+  font-size: clamp(2.6rem, 5vw, 4.7rem);
+  line-height: 0.94;
+  margin: clamp(4rem, 8vw, 7rem) 0 1.5rem;
+}
+
+.kretslexikon-entry p {
+  color: var(--krets-paper);
+  line-height: 1.7;
+  max-width: 36rem;
+}
+
+.kretslexikon-status {
+  border: 1px solid var(--border-mid);
+  border-top: 0;
+  display: grid;
+  gap: 3rem;
+  grid-template-columns: minmax(0, 0.8fr) minmax(0, 1.2fr);
+  margin: 0 auto 8rem;
+  max-width: 1120px;
+  padding: clamp(2rem, 5vw, 4rem);
+}
+
+.kretslexikon-status .label {
+  color: var(--krets-warm);
+}
+
+.kretslexikon-status h2 {
+  font-size: clamp(2.3rem, 5vw, 4rem);
+  line-height: 0.98;
+  margin-top: 1rem;
+}
+
+.kretslexikon-status p {
+  color: var(--krets-paper);
+  line-height: 1.7;
+}
+
+.kretslexikon-status p + p {
+  margin-top: 1rem;
+}
+
+.kretslexikon-status a,
+.kretslexikon-chamber-link__body a {
+  border: 1px solid var(--border-mid);
+  display: inline-block;
+  font-family: var(--font-mono);
+  font-size: 0.7rem;
+  letter-spacing: 0.12em;
+  margin-top: 2rem;
+  padding: 0.8rem 1rem;
+  text-transform: uppercase;
+}
+
+.kretslexikon-chamber-link {
+  border: 1px solid var(--border-mid);
+  display: grid;
+  grid-template-columns: minmax(150px, 0.3fr) minmax(0, 1.7fr);
+}
+
+.kretslexikon-chamber-link__index {
+  align-items: flex-start;
+  border-right: 1px solid var(--border-mid);
+  color: var(--fg-muted);
+  display: flex;
+  flex-direction: column;
+  font-family: var(--font-mono);
+  font-size: 0.65rem;
+  justify-content: space-between;
+  letter-spacing: 0.12em;
+  min-height: 24rem;
+  padding: 1.5rem;
+  text-transform: uppercase;
+}
+
+.kretslexikon-chamber-link__index .label {
+  color: var(--krets-warm, #c68c73);
+}
+
+.kretslexikon-chamber-link__body {
+  background:
+    radial-gradient(circle at 86% 20%, transparent 0 5.5rem, rgba(226, 221, 214, 0.1) 5.55rem 5.6rem, transparent 5.65rem),
+    linear-gradient(145deg, rgba(198, 140, 115, 0.07), transparent 45%);
+  padding: clamp(2rem, 6vw, 5rem);
+}
+
+.kretslexikon-chamber-link__body > p:first-child {
+  color: var(--fg-muted);
+  font-family: var(--font-mono);
+  font-size: 0.68rem;
+  letter-spacing: 0.13em;
+  text-transform: uppercase;
+}
+
+.kretslexikon-chamber-link__body h2 {
+  font-size: clamp(3.5rem, 8vw, 7rem);
+  letter-spacing: -0.04em;
+  line-height: 0.88;
+  margin: 2.5rem 0 1.5rem;
+}
+
+.kretslexikon-chamber-link__body p {
+  color: rgba(226, 221, 214, 0.74);
+  line-height: 1.7;
+  max-width: 42rem;
+}
+
+@media (max-width: 720px) {
+  .kretslexikon-hero {
+    min-height: 70vh;
+  }
+
+  .kretslexikon-orbit span {
+    display: none;
+  }
+
+  .kretslexikon-register,
+  .kretslexikon-status,
+  .kretslexikon-chamber-link {
+    grid-template-columns: 1fr;
+  }
+
+  .kretslexikon-entry {
+    min-height: 22rem;
+  }
+
+  .kretslexikon-chamber-link__index {
+    border-bottom: 1px solid var(--border-mid);
+    border-right: 0;
+    flex-direction: row;
+    min-height: 0;
+  }
+}
