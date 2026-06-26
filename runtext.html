@@ -132,7 +132,7 @@
       var seconds = numberParam('seconds', 22.3, 2, 300);
       var chunkLimit = Math.round(numberParam('chunk', 1100, 320, 5000));
       var partLimit = Math.max(260, Math.round(chunkLimit * 0.9));
-      var shuffle = flagParam('shuffle');
+      var shuffle = params.has('shuffle') ? flagParam('shuffle') : true;
       var transitionMs = 900;
       var current = 0;
       var timer = null;
@@ -165,7 +165,9 @@
       var items = fallback;
 
       function numberParam(name, fallbackValue, min, max) {
-        var value = Number(params.get(name));
+        var raw = params.get(name);
+        if (raw === null || raw.trim() === '') return fallbackValue;
+        var value = Number(raw);
         return Number.isFinite(value) ? Math.min(max, Math.max(min, value)) : fallbackValue;
       }
 
@@ -229,6 +231,7 @@
       }
 
       function parseFrontmatter(markdown) {
+        markdown = markdown.replace(/\r\n/g, '\n');
         var result = { meta: {}, body: markdown };
         if (markdown.slice(0, 4) !== '---\n') return result;
         var end = markdown.indexOf('\n---', 4);
@@ -404,7 +407,7 @@
       if (manifest) loadManifest(manifest);
       else if (manyPaths.length) loadPaths(manyPaths);
       else if (singlePath) loadPaths([singlePath]);
-      else start(fallback);
+      else loadManifest('static-pages/writings/runtext-manifest.json');
     })();
   </script>
 </body>
