@@ -110,7 +110,7 @@
   <main class="site" aria-label="Textrotor">
     <header class="top">
       <a href="index.html">VERBOTEN MEDIA</a>
-      <p class="source">RUNTIME FIELD / 22.3S</p>
+      <p class="source">RUNTIME FIELD / 6.66S</p>
     </header>
 
     <section class="main" aria-live="polite" aria-atomic="true">
@@ -129,7 +129,7 @@
       'use strict';
 
       var params = new URLSearchParams(window.location.search);
-      var seconds = numberParam('seconds', 22.3, 2, 300);
+      var seconds = numberParam('seconds', 6.66, 2, 300);
       var chunkLimit = Math.round(numberParam('chunk', 1100, 320, 5000));
       var partLimit = Math.max(260, Math.round(chunkLimit * 0.9));
       var shuffle = params.has('shuffle') ? flagParam('shuffle') : true;
