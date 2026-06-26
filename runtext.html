@@ -85,6 +85,84 @@
       letter-spacing: 0;
     }
 
+    .controls {
+      width: 100%;
+      min-width: 0;
+      max-width: 58rem;
+      color: var(--muted);
+      font-family: "Courier New", Courier, monospace;
+      font-size: 0.68rem;
+      letter-spacing: 0.12em;
+      line-height: 1.55;
+      text-transform: uppercase;
+    }
+
+    .controls summary {
+      width: max-content;
+      cursor: pointer;
+      color: var(--accent);
+    }
+
+    .control-panel {
+      display: grid;
+      gap: 0.8rem;
+      min-width: 0;
+      margin-top: 0.8rem;
+      padding-top: 0.8rem;
+      border-top: 1px solid var(--line);
+    }
+
+    .quick-controls {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.55rem;
+    }
+
+    .quick-controls a,
+    .control-panel button {
+      border: 1px solid var(--line);
+      padding: 0.45rem 0.62rem;
+      color: var(--fg);
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+    }
+
+    .control-grid {
+      display: grid;
+      grid-template-columns: repeat(5, minmax(0, 1fr));
+      gap: 0.7rem;
+      min-width: 0;
+    }
+
+    .control-grid label {
+      display: grid;
+      gap: 0.35rem;
+      min-width: 0;
+    }
+
+    .control-grid input,
+    .control-grid select {
+      width: 100%;
+      min-width: 0;
+      border: 1px solid var(--line);
+      border-radius: 0;
+      background: transparent;
+      color: var(--fg);
+      padding: 0.42rem 0.5rem;
+      font: inherit;
+      letter-spacing: 0.06em;
+    }
+
+    .control-grid input[type="range"] {
+      padding: 0.42rem 0;
+      accent-color: var(--accent);
+    }
+
+    .control-grid select option {
+      background: var(--bg);
+      color: var(--fg);
+    }
+
     .site.source-mode .body {
       max-width: 36ch;
       font-size: clamp(1.55rem, 4.4vw, 4.9rem);
@@ -99,6 +177,7 @@
       .source, .index { text-align: left; }
       .body { max-width: 22ch; font-size: clamp(2rem, 13.2vw, 4.7rem); }
       .site.source-mode .body { max-width: 24ch; font-size: clamp(1.42rem, 9.2vw, 3.8rem); }
+      .control-grid { grid-template-columns: 1fr; }
     }
 
     @media (prefers-reduced-motion: reduce) {
@@ -117,6 +196,48 @@
       <p class="title"></p>
       <div class="body"></div>
     </section>
+
+    <details class="controls">
+      <summary>Field controls</summary>
+      <form class="control-panel" action="runtext.html" method="get">
+        <div class="quick-controls" aria-label="Quick speed controls">
+          <a class="quick-speed" href="runtext.html?seconds=7.3" data-seconds="7.3">7.3S</a>
+          <a class="quick-speed" href="runtext.html?seconds=22.3" data-seconds="22.3">22.3S</a>
+          <a class="quick-speed" href="runtext.html?seconds=58" data-seconds="58">58S</a>
+        </div>
+        <div class="control-grid">
+          <label>
+            Seconds
+            <input class="seconds-control" type="range" name="seconds" min="2" max="300" step="0.01" value="6.66">
+            <span class="seconds-readout">6.66S</span>
+          </label>
+          <label>
+            Chunk
+            <select name="chunk">
+              <option value="650">smaller</option>
+              <option value="1100" selected>field</option>
+              <option value="2200">larger</option>
+            </select>
+          </label>
+          <label>
+            Shuffle
+            <select name="shuffle">
+              <option value="1" selected>on</option>
+              <option value="0">off</option>
+            </select>
+          </label>
+          <label>
+            Manifest
+            <input type="text" name="manifest" inputmode="url" placeholder="static-pages/.../manifest.json">
+          </label>
+          <label>
+            Path
+            <input type="text" name="path" inputmode="url" placeholder="static-pages/.../file.md">
+          </label>
+        </div>
+        <button type="submit">Apply field</button>
+      </form>
+    </details>
 
     <footer class="bottom">
       <p>NO FEED / NO STREAM / NO IMAGE</p>
@@ -162,6 +283,9 @@
       var body = document.querySelector('.body');
       var index = document.querySelector('.index');
       var source = document.querySelector('.source');
+      var controlsForm = document.querySelector('.control-panel');
+      var secondsControl = document.querySelector('.seconds-control');
+      var secondsReadout = document.querySelector('.seconds-readout');
       var items = fallback;
 
       function numberParam(name, fallbackValue, min, max) {
@@ -355,6 +479,40 @@
         start([{ title: statusTitle, body: statusBody }]);
       }
 
+      function buildUrl(next) {
+        var nextParams = new URLSearchParams(params.toString());
+        Object.keys(next).forEach(function (key) {
+          if (next[key] === null || next[key] === '') nextParams.delete(key);
+          else nextParams.set(key, next[key]);
+        });
+        var query = nextParams.toString();
+        return 'runtext.html' + (query ? '?' + query : '');
+      }
+
+      function setupControls() {
+        if (!controlsForm) return;
+        controlsForm.seconds.value = String(seconds);
+        controlsForm.chunk.value = String(chunkLimit);
+        controlsForm.shuffle.value = shuffle ? '1' : '0';
+        controlsForm.manifest.value = params.get('manifest') || '';
+        controlsForm.path.value = params.get('path') || '';
+        secondsReadout.textContent = seconds + 'S';
+
+        document.querySelectorAll('.quick-speed').forEach(function (link) {
+          link.href = buildUrl({ seconds: link.getAttribute('data-seconds') });
+        });
+
+        secondsControl.addEventListener('input', function () {
+          secondsReadout.textContent = secondsControl.value + 'S';
+        });
+
+        controlsForm.addEventListener('submit', function () {
+          ['manifest', 'path'].forEach(function (name) {
+            if (!controlsForm[name].value.trim()) controlsForm[name].disabled = true;
+          });
+        });
+      }
+
       function fetchMarkdown(path) {
         return window.fetch(path, { cache: 'no-store' }).then(function (response) {
           if (!response.ok) throw new Error('HTTP ' + response.status);
@@ -403,6 +561,8 @@
       var manifest = params.get('manifest');
       var singlePath = params.get('path');
       var manyPaths = String(params.get('paths') || '').split(',').filter(Boolean);
+
+      setupControls();
 
       if (manifest) loadManifest(manifest);
       else if (manyPaths.length) loadPaths(manyPaths);

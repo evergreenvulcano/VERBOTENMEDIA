@@ -1,0 +1,18 @@
+{
+  "title": "Praktikanten som experimentell runstream",
+  "status": "public-bound excerpt / experimental runstream",
+  "items": [
+    {
+      "path": "static-pages/runtext/praktikanten/00-offentlig-passagefigur.md"
+    },
+    {
+      "path": "static-pages/runtext/praktikanten/01-okat-mandat.md"
+    },
+    {
+      "path": "static-pages/runtext/praktikanten/02-boken-biter-tillbaka.md"
+    },
+    {
+      "path": "static-pages/runtext/praktikanten/03-den-andra-praktikanten.md"
+    }
+  ]
+}
