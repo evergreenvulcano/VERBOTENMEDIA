@@ -7,6 +7,8 @@ This folder contains starter markdown pages for cards currently defined in:
 
 Canonical published writing assets belong here.
 
+`praktikanten-book/` contains the published chapter files for the public book body surfaced through `/praktikanten-boken.html`.
+
 If a markdown file was created by conversion from another source, conversion alone does not authorize creative-text editing and does not make the file canonical automatically.
 
 Stage converted candidates in:
@@ -43,6 +45,10 @@ Review them for title, summary, type, date, naming, and Markdown Publishing Stan
 - `writings/the-wound-the-attractor-and-the-controlled-abandonment.md`
 - `writings/tystnad-som-publiceringsform.md`
 - `writings/vmaptb-mail-flempo-jens.md`
+
+## Praktikanten Book
+
+- `praktikanten-book/` - 21 published chapter and apparatus markdown files for `praktikanten-boken.html`.
 
 ## Experimental Sandbox
 
