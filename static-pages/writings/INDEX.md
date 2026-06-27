@@ -13,9 +13,14 @@ Detta är en läsarkarta över texter som redan är publicerade i Writings. En t
 har ett synligt registerkort; den kan därefter ingå i flera läsvägar utan att
 dubbleras i registret.
 
+Alla grupper nedan är inte samma sorts väg. Den första är en ordnad
+lässekvens. Praktikanten-rörelsen blandar litterär väg med källstatus. De
+övriga grupperna är kuraterade listor eller orienterande sviter.
+
 ## First Reading Path: Förlagsdeckaren Surface
 
 Read these first if you are entering the literary body through the public site.
+This is the only full first-reading sequence in this index.
 
 1. [Förlagsdeckaren](forlagsdeckaren.md)  
    Back-cover / project map for the series and its satellites.
@@ -35,7 +40,10 @@ Read these first if you are entering the literary body through the public site.
 6. [Förlagsdeckaren - Praktikanten (Outro)](forlagsdeckaren-praktikanten-outro.md)  
    The return movement: webhook, grounding, and the second Praktikanten.
 
-## Praktikanten
+## Praktikanten - rörelse och status
+
+De tre första stegen fungerar som litterär rörelse. Det fjärde är ett
+offentligt käll- och statuspek, inte ett fjärde kapitel.
 
 1. [Förlagsdeckaren - Praktikanten (intro)](forlagsdeckaren-praktikanten-intro.md)
 2. [Förlagsdeckaren: Registreringen har stängt](forlagsdeckaren-del-6-registreringen-har-stangt.md)
@@ -43,6 +51,9 @@ Read these first if you are entering the literary body through the public site.
 4. [Praktikanten som offentlig passagefigur](../xprmnt-zn/praktikanten.md)
 
 ## Essäer, analyser och lexikon
+
+Kuraterad metod- och analyslista. Texterna hör ihop som fördjupning, inte som
+en obligatorisk läsordning.
 
 - [Rundanläggningen - J.S / Wise Consultant](rundanlaggningen-js-wise-consultant.md)
 - [Ställ ut processen som verk](stall-ut-processen-som-verk.md)
@@ -53,12 +64,18 @@ Read these first if you are entering the literary body through the public site.
 
 ## Satelliter och noveller
 
+Kuraterad sidolista. Texterna kan läsas som satelliter utan att bilda en ny
+huvudsekvens.
+
 - [Abdikering under bordet](abdikering-under-bordet.md)
 - [Dawkin Danielson - Burning Man, Black Rock City](dawkin-danielson-burning-man-black-rock-city.md)
 - [VMAPTB Mail Flempo Jens](vmaptb-mail-flempo-jens.md)
 - [Verboten Media Workshop Dispatches - dag 1–3](forlagsdeckaren-lectures-and-workshops.md)
 
-## Offentliga nervtexter
+## Offentliga nervtexter - orienteringssvit
+
+En kort orienteringssvit om härkomst, röstgräns och publik passage. Den stödjer
+läsningen men ersätter inte den första Förlagsdeckaren-sekvensen.
 
 - [Källsvansen: en rad längst bak](public-nerve/kallsvansen-en-rad-langst-bak.md)
 - [AI får läsa, men inte ärva rösten](public-nerve/ai-far-lasa-men-inte-arva-rosten.md)
