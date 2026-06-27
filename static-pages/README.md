@@ -9,6 +9,8 @@ Canonical published writing assets belong here.
 
 `praktikanten-book/` contains the published chapter files for the public book body surfaced through `/praktikanten-boken.html`.
 
+`knackt-av-sprack/` contains the published chapter files for the public book body surfaced through `/knackt-av-sprack.html`.
+
 If a markdown file was created by conversion from another source, conversion alone does not authorize creative-text editing and does not make the file canonical automatically.
 
 Stage converted candidates in:
@@ -49,6 +51,10 @@ Review them for title, summary, type, date, naming, and Markdown Publishing Stan
 ## Praktikanten Book
 
 - `praktikanten-book/` - 21 published chapter and apparatus markdown files for `praktikanten-boken.html`.
+
+## Knäckt av Spräck
+
+- `knackt-av-sprack/` - 17 published book-body markdown files for `knackt-av-sprack.html`.
 
 ## Experimental Sandbox
 

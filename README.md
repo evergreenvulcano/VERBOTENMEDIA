@@ -13,6 +13,7 @@ Public entrances:
 - [`verboten-media.html`](verboten-media.html) - Verboten Media as publishing body / literary machine / entertainment apparatus.
 - [`praktikanten.html`](praktikanten.html) - Praktikanten as literary figure, runtime, working body, book, and evidence chain.
 - [`praktikanten-boken.html`](praktikanten-boken.html) - Praktikanten as public book body with chapter order and reading entrance.
+- [`knackt-av-sprack.html`](knackt-av-sprack.html) - Knäckt av Spräck as a public book body with 17 parts and scene imagery.
 - [`xprmnt-zn.html`](xprmnt-zn.html) - public experimental passage for specimens, method figures, ceremonies, utilities, and boundary work.
 - [`underhallningsmode.html`](underhallningsmode.html) - static external text-as-interface for Förlagsdeckaren; entertainment, not content.
 - [`banketter.html`](banketter.html) - published ceremonial time markers, beginning with *Bankett för en radiostjärna utan zodiak*.
@@ -40,6 +41,7 @@ js/main.js                  Minimal static rendering/navigation behavior
 utility_prompts/            Public utility/quest layer for routing external material through editorial operations
 static-pages/writings/      Public-ready or published writings surfaced by writings.html
 static-pages/praktikanten-book/ Published Praktikanten book chapters surfaced by praktikanten-boken.html
+static-pages/knackt-av-sprack/ Published Knäckt av Spräck book body surfaced by knackt-av-sprack.html
 static-pages/experimental-sandbox/  Public-readable experimental markdown surfaces
 static-pages/xprmnt-zn/     Public figures, ceremonies, passage notes, and sluice templates for XPRMNT-ZN
 research-specimens/         Public artifacts whose fragmentary/process status is part of their form
